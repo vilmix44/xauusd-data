@@ -1,204 +1,35 @@
-"""
-Script ini dijalankan oleh GitHub Actions (bukan oleh PythonAnywhere).
-Tugasnya: ambil berita XAUUSD dari RSS feed + kalender ekonomi dari
-ForexFactory, lalu simpan sebagai file JSON (news.json, calendar.json)
-di dalam repository GitHub ini.
+name: Update XAUUSD Data
 
-Kenapa lewat GitHub dulu? Karena GitHub Actions punya akses internet
-penuh (tidak ada batasan whitelist seperti PythonAnywhere free tier).
-Nanti bot di PythonAnywhere tinggal baca file JSON ini dari
-raw.githubusercontent.com, yang sudah otomatis diizinkan di
-PythonAnywhere free tier.
-"""
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
-import json
-import feedparser
-import requests
-from datetime import datetime, timezone
+permissions:
+  contents: write
 
-RSS_FEEDS = {
-    "Kitco News": "https://www.kitco.com/rss/KitcoNews.xml",
-    "Investing.com - Commodities": "https://www.investing.com/rss/commodities.rss",
-    "FXStreet - News": "https://www.fxstreet.com/rss/news",
-    "Reuters - Business": "https://feeds.reuters.com/reuters/businessNews",
-}
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-KEYWORDS = [
-    "gold", "xau", "bullion", "fed", "fomc", "interest rate",
-    "inflation", "cpi", "nonfarm", "nfp", "dollar", "dxy",
-    "treasury yield", "safe haven", "powell", "warsh", "rate cut", "rate hike"
-]
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-# ============================================================
-# SISTEM TAG ARAH (bullish/bearish) - HEURISTIK SEDERHANA
-# ============================================================
-# PENTING: ini cuma aturan kata kunci sederhana, BUKAN analisis AI atau
-# sinyal trading yang bisa diandalkan penuh. Tujuannya cuma bantu cepat
-# menangkap arah dari judul berita. Selalu cek konteks kalimat aslinya
-# sebelum ambil keputusan trading - bukan pengganti riset sendiri.
-#
-# Format: kata_kunci -> (arah, alasan singkat)
-BULLISH_SIGNALS = {
-    "rate cut": "Isu pemangkasan suku bunga biasanya melemahkan USD & yield obligasi, membuat emas (aset non-yield) lebih menarik",
-    "dovish": "Sikap dovish Fed mengindikasikan kebijakan moneter longgar, USD & yield cenderung turun, menguntungkan emas",
-    "weak jobs": "Data tenaga kerja lemah menambah peluang Fed pangkas suku bunga, USD melemah, emas cenderung naik",
-    "recession fears": "Kekhawatiran resesi mendorong permintaan aset aman (safe haven) seperti emas",
-    "safe haven demand": "Permintaan aset aman meningkat biasanya langsung mendorong harga emas naik",
-    "geopolitical tension": "Ketegangan geopolitik mendorong investor mencari perlindungan di aset aman seperti emas",
-    "inflation rises": "Inflasi naik membuat emas menarik sebagai lindung nilai (hedge) terhadap pelemahan daya beli uang",
-    "inflation surge": "Lonjakan inflasi membuat emas menarik sebagai lindung nilai terhadap pelemahan daya beli uang",
-    "weaker dollar": "Dolar AS yang melemah membuat emas (dihargakan dalam USD) menjadi lebih murah bagi pembeli mata uang lain, mendorong permintaan",
-}
+      - name: Install dependencies
+        run: pip install feedparser requests
 
-BEARISH_SIGNALS = {
-    "rate hike": "Kenaikan suku bunga membuat USD & yield obligasi naik, emas jadi kurang menarik dibanding aset berbunga",
-    "hawkish": "Sikap hawkish Fed mengindikasikan kebijakan moneter ketat, USD & yield cenderung naik, menekan harga emas",
-    "strong dollar": "Dolar AS yang menguat membuat emas (dihargakan dalam USD) lebih mahal bagi pembeli mata uang lain, menekan permintaan",
-    "strong jobs": "Data tenaga kerja kuat mengurangi peluang Fed pangkas suku bunga, USD menguat, menekan harga emas",
-    "beats expectations": "Data ekonomi yang melampaui ekspektasi biasanya memperkuat USD dan menekan harga emas",
-    "risk-on": "Sentimen risk-on membuat investor beralih ke aset berisiko (saham dll), mengurangi minat pada emas",
-    "rally in stocks": "Reli di pasar saham biasanya mengurangi minat investor pada aset aman seperti emas",
-}
+      - name: Fetch data
+        run: python fetch_data.py
 
-
-def is_relevant(text):
-    return any(kw in text.lower() for kw in KEYWORDS)
-
-
-def detect_direction(text):
-    """Cek kata kunci bullish/bearish di teks, kembalikan (arah, daftar_alasan)."""
-    text_lower = text.lower()
-    reasons = []
-    bullish_count = 0
-    bearish_count = 0
-
-    for kw, reason in BULLISH_SIGNALS.items():
-        if kw in text_lower:
-            bullish_count += 1
-            reasons.append(f"🟢 '{kw}': {reason}")
-
-    for kw, reason in BEARISH_SIGNALS.items():
-        if kw in text_lower:
-            bearish_count += 1
-            reasons.append(f"🔴 '{kw}': {reason}")
-
-    if bullish_count > bearish_count:
-        direction = "BULLISH"
-    elif bearish_count > bullish_count:
-        direction = "BEARISH"
-    elif bullish_count == 0 and bearish_count == 0:
-        direction = "NETRAL"
-    else:
-        direction = "CAMPURAN"  # ada sinyal bullish & bearish sama kuat
-
-    return direction, reasons
-
-
-def fetch_news():
-    found = []
-    for source_name, url in RSS_FEEDS.items():
-        try:
-            feed = feedparser.parse(url)
-        except Exception as e:
-            print(f"Gagal ambil feed {source_name}: {e}")
-            continue
-
-        for entry in feed.entries:
-            title = entry.get("title", "")
-            summary = entry.get("summary", "")
-            link = entry.get("link", "")
-            combined_text = f"{title} {summary}"
-            if is_relevant(combined_text):
-                direction, reasons = detect_direction(combined_text)
-                found.append({
-                    "source": source_name,
-                    "title": title,
-                    "link": link,
-                    "direction": direction,
-                    "reasons": reasons,
-                })
-
-    return found[:MAX_NEWS_ITEMS]
-
-
-# Untuk event yang datanya "makin tinggi = makin hawkish" (inflasi, tenaga
-# kerja kuat) - actual lebih tinggi dari forecast = BEARISH gold, dan
-# sebaliknya. Ini heuristik umum, tidak berlaku 100% untuk semua jenis data.
-HIGHER_IS_BEARISH_KEYWORDS = ["cpi", "inflation", "nonfarm", "payrolls", "gdp", "retail sales", "ppi"]
-
-
-def detect_calendar_direction(event):
-    """Bandingkan actual vs forecast untuk event yang SUDAH rilis.
-    Kalau belum rilis (actual kosong), kembalikan None."""
-    title = event.get("title", "").lower()
-    actual = event.get("actual", "")
-    forecast = event.get("forecast", "")
-
-    if not actual or not forecast:
-        return None, None  # belum rilis, tidak bisa dibandingkan
-
-    try:
-        actual_num = float(str(actual).replace("%", "").replace(",", ""))
-        forecast_num = float(str(forecast).replace("%", "").replace(",", ""))
-    except ValueError:
-        return None, None  # format angka tidak bisa dibaca
-
-    is_higher_bearish = any(kw in title for kw in HIGHER_IS_BEARISH_KEYWORDS)
-
-    if actual_num == forecast_num:
-        return "NETRAL", "Actual sama persis dengan forecast, dampak minim ke pasar"
-
-    if actual_num > forecast_num:
-        if is_higher_bearish:
-            return "BEARISH", f"Actual ({actual}) lebih tinggi dari forecast ({forecast}) - data lebih 'panas' dari perkiraan, memperkuat USD dan menekan emas"
-        else:
-            return "BULLISH", f"Actual ({actual}) lebih tinggi dari forecast ({forecast}) - biasanya melemahkan USD, menguntungkan emas"
-    else:
-        if is_higher_bearish:
-            return "BULLISH", f"Actual ({actual}) lebih rendah dari forecast ({forecast}) - data lebih 'dingin' dari perkiraan, melemahkan USD dan menguntungkan emas"
-        else:
-            return "BEARISH", f"Actual ({actual}) lebih rendah dari forecast ({forecast}) - biasanya memperkuat USD, menekan emas"
-
-
-def fetch_calendar():
-    try:
-        resp = requests.get(FF_CALENDAR_URL, timeout=15)
-        resp.raise_for_status()
-        events = resp.json()
-    except Exception as e:
-        print(f"Gagal ambil kalender: {e}")
-        return []
-
-    usd_events = [e for e in events if e.get("country", "") in CALENDAR_CURRENCY_FILTER]
-
-    for event in usd_events:
-        direction, reason = detect_calendar_direction(event)
-        event["direction"] = direction  # None kalau belum rilis
-        event["direction_reason"] = reason
-
-    return usd_events
-
-
-def main():
-    news = fetch_news()
-    calendar = fetch_calendar()
-
-    output = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "news": news,
-    }
-    with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    output_cal = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "events": calendar,
-    }
-    with open("calendar.json", "w", encoding="utf-8") as f:
-        json.dump(output_cal, f, ensure_ascii=False, indent=2)
-
-    print(f"Selesai: {len(news)} berita, {len(calendar)} event kalender.")
-
-
-if __name__ == "__main__":
-    main()
+      - name: Commit & push hasil data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json calendar.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update data XAUUSD [auto]"
+          git push
