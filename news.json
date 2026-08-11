@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-08-11T08:32:18.379210+00:00",
+  "updated_at": "2026-08-11T11:13:07.796299+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Seems to Be Asking a Different Question, At Least for Now",
-      "link": "https://www.investing.com/analysis/gold-seems-to-be-asking-a-different-question-at-least-for-now-200685568"
+      "title": "Gold and Silver Enter Rare Territory as Breakouts Accelerate",
+      "link": "https://www.investing.com/analysis/gold-and-silver-enter-rare-territory-as-breakouts-accelerate-200685592"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Continues Higher After Recent Buy Signals",
+      "link": "https://www.investing.com/analysis/gold-continues-higher-after-recent-buy-signals-200685583"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Fresh Pressure as Iran Talks Test Safe Haven Demand",
+      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-iran-talks-test-safe-haven-demand-200685576"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold and Silver at Extreme Highs: Profit Booking or Fresh Rally?",
+      "link": "https://www.investing.com/analysis/gold-and-silver-at-extreme-highs-profit-booking-or-fresh-rally-200685570"
     },
     {
       "source": "Investing.com - Commodities",
@@ -12,69 +27,54 @@
       "link": "https://www.investing.com/analysis/gold-targets-45004648-as-bullish-momentum-holds-200685564"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Needs This 1 Thing to Hit $5,000",
-      "link": "https://www.investing.com/analysis/gold-needs-this-1-thing-to-hit-5000-200685559"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "3 Key Reasons Behind the Recent Rebound in Gold prices",
-      "link": "https://www.investing.com/analysis/3-key-reasons-behind-the-recent-rebound-in-gold-prices-200685556"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Can Gold Turn Last Week’s Surge Into a Sustained Rally?",
-      "link": "https://www.investing.com/analysis/can-gold-turn-last-weeks-surge-into-a-sustained-rally-200685511"
+      "source": "FXStreet - News",
+      "title": "US Dollar Index Price Forecast: A break above 100.00 would confirm a double bottom",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-a-break-above-10000-would-confirm-a-double-bottom-202608111106"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar : Hawkish hold keeps risks alive – TD Securities",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hawkish-hold-keeps-risks-alive-td-securities-202608110829"
+      "title": "Euro treads water against US Dollar as traders await US CPI",
+      "link": "https://www.fxstreet.com/news/euro-treads-water-against-us-dollar-as-traders-await-us-cpi-202608111053"
     },
     {
       "source": "FXStreet - News",
-      "title": "Dow Jones futures slip as US-Iran tensions, rate hike fears weigh on sentiment",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-us-iran-tensions-rate-hike-fears-weigh-on-sentiment-202608110819"
+      "title": "Gold Price Forecast: Rally hits pause near $4,440 with US CPI in focus",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-rally-hits-pause-near-4-440-with-us-cpi-in-focus-202608111049"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: Supported by rising Oil prices",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-supported-by-rising-oil-prices-202608110814"
+      "title": "NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-focus-shifts-to-05850-support-area-as-risk-appetite-fades-202608111022"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee falls Trump hits back with was compensation demand",
+      "title": "Australian Dollar: RBA keeps door open – Rabobank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-door-open-rabobank-202608110957"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar edges up, RBA hawkish hold does little to revive rate hike expectations",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-up-rba-hawkish-hold-does-little-to-revive-rate-hike-expectations-202608110951"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar remains near two-month highs against US Dollar as Oil prices rise",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-near-two-month-highs-against-us-dollar-as-oil-prices-rise-202608110947"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Dovish repricing on data and inflation focus – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-dovish-repricing-on-data-and-inflation-focus-bny-202608110936"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Brent: Inflation risks rise with Hormuz standoff – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-inflation-risks-rise-with-hormuz-standoff-deutsche-bank-202608110923"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee falls as oil prices extend rally, India-US CPI data awaited",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD",
-      "link": "https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar declines as US Dollar rebounds on safe-haven demand",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-rebounds-on-safe-haven-demand-202608110802"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-tests-but-capped-near-13555-against-us-dollar-uob-202608110738"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc weakens as market caution lifts US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-market-caution-lifts-us-dollar-202608110729"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ tightening key to recovery against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-key-to-recovery-against-us-dollar-ocbc-202608110725"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound consolidates around 1.3500 vs USD; looks to US CPI, UK GDP for fresh impetus",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-around-13500-vs-usd-looks-to-us-cpi-uk-gdp-for-fresh-impetus-202608110703"
     }
   ]
 }
