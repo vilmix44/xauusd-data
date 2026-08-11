@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-08-11T08:08:23.201367+00:00",
+  "updated_at": "2026-08-11T08:32:18.379210+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Seems to Be Asking a Different Question, At Least for Now",
       "link": "https://www.investing.com/analysis/gold-seems-to-be-asking-a-different-question-at-least-for-now-200685568"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Targets $4,500–$4,648 as Bullish Momentum Holds",
+      "link": "https://www.investing.com/analysis/gold-targets-45004648-as-bullish-momentum-holds-200685564"
     },
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Can Gold Turn Last Week’s Surge Into a Sustained Rally?",
       "link": "https://www.investing.com/analysis/can-gold-turn-last-weeks-surge-into-a-sustained-rally-200685511"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar : Hawkish hold keeps risks alive – TD Securities",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hawkish-hold-keeps-risks-alive-td-securities-202608110829"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones futures slip as US-Iran tensions, rate hike fears weigh on sentiment",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-us-iran-tensions-rate-hike-fears-weigh-on-sentiment-202608110819"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index Price Forecast: Supported by rising Oil prices",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-supported-by-rising-oil-prices-202608110814"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound consolidates around 1.3500 vs USD; looks to US CPI, UK GDP for fresh impetus",
       "link": "https://www.fxstreet.com/news/british-pound-consolidates-around-13500-vs-usd-looks-to-us-cpi-uk-gdp-for-fresh-impetus-202608110703"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro drifts below 1.1550 as hopes of a swift US-Iran peace deal wane",
-      "link": "https://www.fxstreet.com/news/euro-drifts-below-11550-as-hopes-of-a-swift-us-iran-peace-deal-wane-202608110658"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA holds rates but downside bias persists – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-holds-rates-but-downside-bias-persists-commerzbank-202608110656"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Gains capped below key resistance against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-gains-capped-below-key-resistance-against-us-dollar-uob-202608110638"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "RBA Governor discusses policy path after keeping interest rates steady",
-      "link": "https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030"
     }
   ]
 }
