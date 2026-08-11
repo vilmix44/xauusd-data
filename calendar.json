@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:07:46.546605+00:00",
+  "updated_at": "2026-08-11T21:13:05.967329+00:00",
   "events": [
     {
       "title": "Cleveland Fed Inflation Expectations",
@@ -94,7 +94,7 @@
       "country": "USD",
       "date": "2026-08-12T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-1.5M",
+      "forecast": "-1.7M",
       "previous": "2.5M"
     },
     {
@@ -110,7 +110,7 @@
       "country": "USD",
       "date": "2026-08-12T14:00:00-04:00",
       "impact": "Low",
-      "forecast": "-361.2B",
+      "forecast": "-348.3B",
       "previous": "-120.3B"
     },
     {
