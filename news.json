@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-12T16:12:25.422428+00:00",
+  "updated_at": "2026-08-12T20:03:02.730648+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Pressure as Sticky Inflation and Iran Tensions Keep Markets on Edge",
+      "link": "https://www.investing.com/analysis/gold-faces-pressure-as-sticky-inflation-and-iran-tensions-keep-markets-on-edge-200685714"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Outlook Hinges on Hormuz Tensions and US Inflation Data",
@@ -18,6 +23,51 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Chinese Yuan: Range trade and upside risk against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-and-upside-risk-against-us-dollar-uob-202608121937"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar firms ahead of a packed session",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-a-packed-session-202608121928"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG turns bullish, eyes 200-day SMA",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-bullish-with-eyes-on-200-day-sma-202608121915"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold price shines above $4,400 as inflation dip fuels Fed relief",
+      "link": "https://www.fxstreet.com/news/gold-price-shines-above-4-400-as-inflation-dip-fuels-fed-relief-202608121905"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen stumbles as US Dollar strengthens",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stumbles-as-us-dollar-strengthens-202608121858"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound holds near 1.3500 as CPI relief meets Hormuz risk",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-13500-as-cpi-relief-meets-hormuz-risk-202608121657"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar slips as US Dollar steadies post CPI",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-steadies-post-cpi-202608121641"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Strong Singapore growth supports SGD against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-singapore-growth-supports-sgd-against-us-dollar-commerzbank-202608121617"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "New Zealand Dollar struggles as political uncertainty overshadows US inflation",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-political-uncertainty-overshadows-us-inflation-202608121600"
     },
@@ -25,56 +75,6 @@
       "source": "FXStreet - News",
       "title": "Cooler inflation buys the Dow Jones Industrial Average nothing",
       "link": "https://www.fxstreet.com/news/cooler-inflation-buys-the-dow-jones-industrial-average-nothing-202608121600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen pares gains against US Dollar as markets digest US CPI",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-as-markets-digest-us-cpi-202608121519"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver jumps more than 2% after US inflation meets expectations",
-      "link": "https://www.fxstreet.com/news/silver-jumps-more-than-2-after-us-inflation-meets-expectations-202608121505"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Bearish momentum extends after CPI – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-bearish-momentum-extends-after-cpi-td-securities-202608121504"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Emerging Markets: Steepening Treasuries curb appeal – BNY",
-      "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold holds gains above $4,400 after US CPI meets expectations",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Improving sentiment supports gains against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-improving-sentiment-supports-gains-against-us-dollar-scotiabank-202608121407"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar steadies as US inflation meets expectations, Oil limits downside",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Pound Sterling retains gains as US CPI trims September Fed hike odds",
-      "link": "https://www.fxstreet.com/news/pound-sterling-retains-gains-as-us-cpi-trims-september-fed-hike-odds-202608121341"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains little changed as US CPI fails to surprise the markets",
-      "link": "https://www.fxstreet.com/news/euro-remains-little-changed-as-us-cpi-fails-to-surprise-the-markets-202608121246"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Breaking: US CPI inflation softens to 3.4% in July as expected",
-      "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830"
     }
   ]
 }
