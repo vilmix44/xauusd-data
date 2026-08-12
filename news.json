@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:03:02.730648+00:00",
+  "updated_at": "2026-08-12T22:26:15.803610+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Holds VC PMI Support as Logarithmic Cycle Targets $4,524–$4,648",
       "link": "https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-targets-45244648-200685656"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro reverses from two-day high, fade US soft CPI move",
+      "link": "https://www.fxstreet.com/news/euro-reverses-from-two-day-high-fade-us-soft-cpi-move-202608122158"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso rallies to two-year high as soft CPI hits Fed bets",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-202608122134"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar slips as Middle East uncertainty weighs on Kiwi",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-middle-east-uncertainty-weighs-on-kiwi-202608122123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Upside risk builds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-builds-against-us-dollar-uob-202608122112"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Commodity FX: Growth constraints cap carry – BNY",
+      "link": "https://www.fxstreet.com/news/commodity-fx-growth-constraints-cap-carry-bny-202608122006"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Fading bullish momentum puts focus on 1.1500 support",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fading-bullish-momentum-puts-focus-on-11500-support-202608121811"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound holds near 1.3500 as CPI relief meets Hormuz risk",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-13500-as-cpi-relief-meets-hormuz-risk-202608121657"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar slips as US Dollar steadies post CPI",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-steadies-post-cpi-202608121641"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Strong Singapore growth supports SGD against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-singapore-growth-supports-sgd-against-us-dollar-commerzbank-202608121617"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar struggles as political uncertainty overshadows US inflation",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-political-uncertainty-overshadows-us-inflation-202608121600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Cooler inflation buys the Dow Jones Industrial Average nothing",
-      "link": "https://www.fxstreet.com/news/cooler-inflation-buys-the-dow-jones-industrial-average-nothing-202608121600"
     }
   ]
 }
