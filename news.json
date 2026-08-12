@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:25:11.796993+00:00",
+  "updated_at": "2026-08-12T05:19:24.754993+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,58 +23,58 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608120435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold retakes $4,400, eyes two-month high as traders look to US CPI for Fed hike cues",
+      "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index rises to near 100.00 ahead of US inflation data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6540-with-us-inflation-in-focus-202608120322"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-two-month-high-as-usd-preserves-weekly-gains-ahead-of-us-cpi-202608120317"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar struggles as US Dollar gains on Middle East uncertainty",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar slips as US Dollar strengthens amid uncertainty over Fed outlook",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-strengthens-amid-uncertainty-over-fed-outlook-202608120233"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slides-to-two-week-low-seems-vulnerable-as-usd-stands-firm-ahead-of-us-cpi-202608120228"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Singapore Dollar: Decline risks assessed against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/singapore-dollar-decline-risks-assessed-against-us-dollar-ocbc-202608112307"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Australian Dollar goes seven weeks without a central bank",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US yields ease as CPI caution offsets Oil rally",
-      "link": "https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Range trade persists, upside risk against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-upside-risk-against-us-dollar-uob-202608112226"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso hits 25-month high as US CPI lurks",
-      "link": "https://www.fxstreet.com/news/mexican-peso-hits-25-month-high-as-peso-eyes-1700-as-us-cpi-lurks-202608112119"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Thai Baht: Benign inflation keeps BoT on hold – Commerzbank",
-      "link": "https://www.fxstreet.com/news/thai-baht-benign-inflation-keeps-bot-on-hold-commerzbank-202608112028"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro stalls below 100-day SMA as investors brace for US CPI",
-      "link": "https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Range bias with upside risk against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-with-upside-risk-against-us-dollar-uob-202608111913"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/australian-dollar-policy-risks-balanced-as-inflation-lingers-standard-chartered-202608111846"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Sterling recovery eyes 1.36 caps against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-recovery-eyes-136-caps-against-us-dollar-scotiabank-202608111828"
     }
   ]
 }
