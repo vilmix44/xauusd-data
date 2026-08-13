@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:43:53.452633+00:00",
+  "updated_at": "2026-08-13T12:36:23.830901+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -18,63 +18,63 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Range tests with upside bias against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-range-tests-with-upside-bias-against-us-dollar-ing-202608130929"
+      "title": "Euro steadies against Japanese Yen as ECB rate hike expectations strengthen",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-ecb-rate-hike-expectations-strengthen-202608131229"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Inflation outlook and Fed path – UOB",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-outlook-and-fed-path-uob-202608130919"
+      "title": "Indian Rupee: Benign inflation reinforces RBI pause – DBS",
+      "link": "https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229"
     },
     {
       "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608130910"
+      "title": "New Zealand Dollar: Anchored expectations back RBNZ hikes – BBH",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-anchored-expectations-back-rbnz-hikes-bbh-202608131200"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee falls as US Dollar holds gains",
+      "title": "Gold Price Forecast: XAU/USD stands tall at two-month highs above $4,380",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stands-tall-at-two-month-highs-above-4-380-202608131152"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Gradual easing path – UOB",
+      "link": "https://www.fxstreet.com/news/federal-reserve-gradual-easing-path-uob-202608131152"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver slips below $65, but cooling US inflation keeps downside in check",
+      "link": "https://www.fxstreet.com/news/silver-slips-below-65-but-cooling-us-inflation-keeps-downside-in-check-202608131141"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Riksbank: Rate hike risks rise – Nomura",
+      "link": "https://www.fxstreet.com/news/riksbank-rate-hike-risks-rise-nomura-202608131132"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee drops despite lower US Dollar, oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar: Recovery not just about Oil – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-recovery-not-just-about-oil-commerzbank-202608130848"
+      "title": "British Pound recovers early losses against US Dollar, US PPI data eyed",
+      "link": "https://www.fxstreet.com/news/british-pound-recovers-early-losses-against-us-dollar-us-ppi-data-eyed-202608131111"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro advances against Canadian Dollar amid ECB hawkish stance, lower oil prices",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-ecb-hawkish-stance-lower-oil-prices-202608130843"
+      "title": "USD/JPY Price Forecast: Capped below the 50% retracement of July’s plunge, at 159.50",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-capped-below-the-50-retracement-of-julys-plunge-at-15950-202608131057"
     },
     {
       "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: Cooling NZ inflation expectations push Kiwi under pressure",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-cooling-nz-inflation-expectations-push-kiwi-under-pressure-202608130841"
+      "title": "Gold retreats from two-month high as traders await US PPI",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Markets remain hawkish after CPI – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-markets-remain-hawkish-after-cpi-ing-202608130837"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: RBI seen delaying rate hikes – MUFG",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-delaying-rate-hikes-mufg-202608130828"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Upside risk intact above 0.7025 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-07025-against-us-dollar-uob-202608130811"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones futures rise as cooling inflation reduces Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-cooling-inflation-reduces-fed-rate-hike-bets-202608130805"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold languishes near daily low; eyes $4,350 amid Fed hike bets, USD strength",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344"
+      "title": "Economists agree: ECB to hike interest rates by 25 bps to 2.5% in September - Reuters",
+      "link": "https://www.fxstreet.com/news/economists-agree-ecb-to-hike-interest-rates-by-25-bps-to-25-in-september-202608131024"
     }
   ]
 }
