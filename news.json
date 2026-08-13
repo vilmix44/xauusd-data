@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-13T16:12:39.543323+00:00",
+  "updated_at": "2026-08-13T19:47:47.538034+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Silver Rally Shows Why Real Yields Matter More Than Inflation",
+      "link": "https://www.investing.com/analysis/silver-rally-shows-why-real-yields-matter-more-than-inflation-200685796"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Key Thursday as Fading Peace Hopes Fuel the Sell-Off",
+      "link": "https://www.investing.com/analysis/gold-faces-a-key-thursday-as-fading-peace-hopes-fuel-the-selloff-200685789"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Rally Loses Momentum as Hormuz Uncertainty Keeps Markets on Edge",
@@ -12,9 +22,34 @@
       "link": "https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-analysis-targets-45244648-200685736"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Pressure as Sticky Inflation and Iran Tensions Keep Markets on Edge",
-      "link": "https://www.investing.com/analysis/gold-faces-pressure-as-sticky-inflation-and-iran-tensions-keep-markets-on-edge-200685714"
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-202608131921"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-holds-as-upside-risk-watched-against-us-dollar-uob-202608131838"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen little changed amid cooling US inflation",
+      "link": "https://www.fxstreet.com/news/japanese-yen-little-changed-amid-cooling-us-inflation-202608131817"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold slips as US Dollar recovers despite softer US factory inflation",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-202608131813"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar stumbles near recent highs",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644"
     },
     {
       "source": "FXStreet - News",
@@ -40,41 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold struggles below two-month high despite softer US PPI",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Poland: Fuel-driven inflation rise contained – ING",
-      "link": "https://www.fxstreet.com/news/poland-fuel-driven-inflation-rise-contained-ing-202608131503"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India: Inflation path higher into FY27 – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/india-inflation-path-higher-into-fy27-standard-chartered-202608131456"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar steadies as falling Oil offsets US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-falling-oil-offsets-us-dollar-weakness-202608131447"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro edges higher against US Dollar after soft US PPI data",
-      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-us-dollar-after-soft-us-ppi-data-202608131430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Safe haven support versus Fed repricing – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-safe-haven-support-versus-fed-repricing-rabobank-202608131412"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Food inflation jumped to 5.52% and the Reserve Bank of India held at 5.25%: Why rate hikes are still on the table",
-      "link": "https://www.fxstreet.com/news/food-inflation-jumped-to-552-and-the-reserve-bank-of-india-held-at-525-why-rate-hikes-are-still-on-the-table-202608131355"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Norges Bank: Disinflation slows rate path – Nomura",
-      "link": "https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343"
     }
   ]
 }
