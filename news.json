@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:47:47.538034+00:00",
+  "updated_at": "2026-08-13T22:24:21.423689+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Holds VC PMI Support as Logarithmic Cycle Analysis Targets $4,524–$4,648",
       "link": "https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-analysis-targets-45244648-200685736"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds above 1.1500 as US inflation curbs Fed bets",
+      "link": "https://www.fxstreet.com/news/euro-holds-above-11500-as-us-inflation-curbs-fed-bets-202608132122"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar steadies off two-week lows following dovish RBNZ survey",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-off-two-week-lows-following-dovish-rbnz-survey-202608132032"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar holds steady ahead of US Retail Sales",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-us-retail-sales-202608132001"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets",
       "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Carry Trade: Supportive backdrop holds – OCBC",
-      "link": "https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold struggles below two-month high despite softer US PPI",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057"
     }
   ]
 }

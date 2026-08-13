@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:47:47.538532+00:00",
+  "updated_at": "2026-08-13T22:24:21.424275+00:00",
   "events": [
     {
       "title": "Cleveland Fed Inflation Expectations",
@@ -176,6 +176,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "5.06|2.4"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-08-13T18:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Core Retail Sales m/m",
