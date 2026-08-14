@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T12:29:38.988741+00:00",
+  "updated_at": "2026-08-14T15:26:54.949196+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold and Silver Crash Over $144 and $3.30: Sell Targets Achieved - What’s Next?",
+      "link": "https://www.investing.com/analysis/gold-and-silver-crash-over-144-and-330-sell-targets-achieved--whats-next-200685845"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Never Changed - Everything Around It Did",
@@ -18,63 +23,58 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve: Communication reset at Jackson Hole – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-communication-reset-at-jackson-hole-td-securities-202608141225"
+      "title": "US Dollar: Data-driven outlook in focus – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-data-driven-outlook-in-focus-mufg-202608141511"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar regains momentum as hawkish RBA meets softer US inflation",
-      "link": "https://www.fxstreet.com/news/australian-dollar-regains-momentum-as-hawkish-rba-meets-softer-us-inflation-202608141217"
+      "title": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-202608141507"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Mixed data and higher yields shape outlook – Danske Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-mixed-data-and-higher-yields-shape-outlook-danske-bank-202608141204"
+      "title": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-202608141505"
     },
     {
       "source": "FXStreet - News",
-      "title": "Norwegian Krone: Restrictive Norges Bank stance and downside risks - Commerzbank",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-restrictive-norges-bank-stance-and-downside-risks-commerzbank-202608141149"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc edges up from lows against the US Dollar with US Retail Sales on tap",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-from-lows-against-the-us-dollar-with-us-retail-sales-on-tap-202608141148"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound strengthens against US Dollar as traders price out hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-against-us-dollar-as-traders-price-out-hawkish-fed-bets-202608141138"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South African Rand: ZAR outperforms on carry and Gold – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-african-rand-zar-outperforms-on-carry-and-gold-societe-generale-202608141136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Manufacturing sales drag from energy – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-manufacturing-sales-drag-from-energy-td-securities-202608141122"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
+      "title": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
       "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar Index: Range-bound Dollar as Fed odds ease – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-range-bound-dollar-as-fed-odds-ease-bbh-202608141110"
+      "title": "Euro climbs as fading Fed hike expectations pressure US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee flattens, awaiting fresh remarks on Hormuz future",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525"
+      "title": "Gold: Upside seen as Fed hike bets fade – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-upside-seen-as-fed-hike-bets-fade-commerzbank-202608141445"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Posts fresh two-month low below 1.3900",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-posts-fresh-two-month-low-below-13900-202608141105"
+      "title": "Federal Reserve: Labour strength supports further hikes – Nordea",
+      "link": "https://www.fxstreet.com/news/federal-reserve-labour-strength-supports-further-hikes-nordea-202608141437"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United Kingdom: Inflation risks tilt higher – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar surges as sharp US Retail Sales miss hits the Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-surges-as-sharp-us-retail-sales-miss-hits-the-dollar-202608141426"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japan: GDP steady, inflation near BoJ target – ING",
+      "link": "https://www.fxstreet.com/news/japan-gdp-steady-inflation-near-boj-target-ing-202608141420"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Medium-term depreciation risks build – Nordea",
+      "link": "https://www.fxstreet.com/news/us-dollar-medium-term-depreciation-risks-build-nordea-202608141403"
     }
   ]
 }
