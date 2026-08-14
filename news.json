@@ -1,80 +1,80 @@
 {
-  "updated_at": "2026-08-14T05:13:39.158743+00:00",
+  "updated_at": "2026-08-14T09:35:01.905672+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Risks Deeper Selloff as Hormuz Crisis Keeps Markets Uneasy",
+      "link": "https://www.investing.com/analysis/gold-risks-deeper-selloff-as-hormuz-crisis-keeps-markets-uneasy-200685820"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Momentum Turns Positive: Can Bulls Reclaim $4,443 and Target $4,552?",
+      "link": "https://www.investing.com/analysis/gold-momentum-turns-positive-can-bulls-reclaim-4443-and-target-4552-200685811"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Silver Rally Shows Why Real Yields Matter More Than Inflation",
       "link": "https://www.investing.com/analysis/silver-rally-shows-why-real-yields-matter-more-than-inflation-200685796"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces a Key Thursday as Fading Peace Hopes Fuel the Sell-Off",
-      "link": "https://www.investing.com/analysis/gold-faces-a-key-thursday-as-fading-peace-hopes-fuel-the-selloff-200685789"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Rally Loses Momentum as Hormuz Uncertainty Keeps Markets on Edge",
-      "link": "https://www.investing.com/analysis/gold-rally-loses-momentum-as-hormuz-uncertainty-keeps-markets-on-edge-200685752"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Holds VC PMI Support as Logarithmic Cycle Analysis Targets $4,524–$4,648",
-      "link": "https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-analysis-targets-45244648-200685736"
+      "source": "FXStreet - News",
+      "title": "Silver regains ground above $64 as Fed rate hike bets fade",
+      "link": "https://www.fxstreet.com/news/silver-regains-ground-above-64-as-fed-rate-hike-bets-fade-202608140931"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound strengthens to near 1.3500 as Fed rate hike bets ease",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-to-near-13500-as-fed-rate-hike-bets-ease-202608140452"
+      "title": "Australian Dollar: RBA keeps hike option open – Rabobank",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-open-rabobank-202608140918"
     },
     {
       "source": "FXStreet - News",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608140435"
+      "title": "Federal Reserve: RMP pause and QT timing – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-rmp-pause-and-qt-timing-td-securities-202608140908"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside",
-      "link": "https://www.fxstreet.com/news/euro-gains-as-receding-fed-hike-bets-weigh-on-usd-geopolitical-risks-cap-upside-202608140404"
+      "title": "US Dollar Index Price Forecast: DXY declines to 99.75-99.70 amid receding Fed hike bets",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-declines-to-9975-9970-amid-receding-fed-hike-bets-202608140858"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold extends pullback from two-month high as Iran risks counter receding Fed hike bets",
+      "title": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-picks-up-above-13500-amid-generalised-us-dollar-weakness-202608140855"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Growth resilience supports gains against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/british-pound-growth-resilience-supports-gains-against-us-dollar-mufg-202608140854"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee flattens while approaching weekend",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Carry trades supported as Fed seen on hold – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-carry-trades-supported-as-fed-seen-on-hold-ocbc-202608140846"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Shifting rate expectations and currency support – Commerzbank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-shifting-rate-expectations-and-currency-support-commerzbank-202608140838"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: RBI support offsets wider trade gap – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-offsets-wider-trade-gap-societe-generale-202608140819"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608140810"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
       "link": "https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens as softer US inflation pressures US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-softer-us-inflation-pressures-us-dollar-202608140305"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index softens below 100.00 as softer PPI dampens Fed hike odds",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-softens-below-10000-as-softer-ppi-dampens-fed-hike-odds-202608140247"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar strengthens despite subdued oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-subdued-oil-prices-202608140246"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen strengthens as soft US PPI tempers Fed outlook",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-soft-us-ppi-tempers-fed-outlook-202608140139"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar declines despite RBA rate hike warning",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-despite-rba-rate-hike-warning-202608140123"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-from-two-week-low-as-fading-fed-hike-bets-undermine-usd-202608140119"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro gathers strength above 1.1500 as cooling inflation data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11500-as-cooling-inflation-data-weighs-on-us-dollar-202608140043"
     }
   ]
 }
