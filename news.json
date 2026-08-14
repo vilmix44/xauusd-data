@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:44:10.913490+00:00",
+  "updated_at": "2026-08-14T22:54:03.945894+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Never Changed - Everything Around It Did",
       "link": "https://www.investing.com/analysis/gold-never-changed--everything-around-it-did-200685837"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound hits three-month high as weak US sales deepen USD slide",
       "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Dow Jones Industrial Average learns who paid for disinflation",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635"
     }
   ]
 }
