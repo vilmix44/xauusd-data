@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T09:35:01.906220+00:00",
+  "updated_at": "2026-08-14T12:29:38.989358+00:00",
   "events": [
     {
       "title": "Cleveland Fed Inflation Expectations",
@@ -224,6 +224,14 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.3%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-14T15:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     }
   ]
 }
