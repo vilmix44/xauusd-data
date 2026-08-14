@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-14T18:31:08.470685+00:00",
+  "updated_at": "2026-08-14T20:18:11.712577+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests a Major Resistance as Sell-Off Risk Builds — Watch This Week’s Close",
+      "link": "https://www.investing.com/analysis/gold-tests-a-major-resistance-as-selloff-risk-builds--watch-this-weeks-close-200685866"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Miners Just Posted Their Second-Best Quarter Ever — And Nobody Cares",
@@ -15,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Never Changed - Everything Around It Did",
       "link": "https://www.investing.com/analysis/gold-never-changed--everything-around-it-did-200685837"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forecasting the upcoming week: FOMC Minutes take center stage next week",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-202608141942"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen holds as soft US data meets a weak Yen",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-soft-us-data-meets-a-weak-yen-202608141853"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ASEAN FX: Regional data and growth concerns – MUFG",
-      "link": "https://www.fxstreet.com/news/asean-fx-regional-data-and-growth-concerns-mufg-202608141601"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canada: Core softness guides BoC path – TD Securities",
-      "link": "https://www.fxstreet.com/news/canada-core-softness-guides-boc-path-td-securities-202608141553"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Policy risks support gains against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-risks-support-gains-against-us-dollar-scotiabank-202608141537"
     }
   ]
 }
