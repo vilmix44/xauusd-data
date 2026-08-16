@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:49:05.649409+00:00",
+  "updated_at": "2026-08-16T23:40:22.171846+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Never Changed - Everything Around It Did",
       "link": "https://www.investing.com/analysis/gold-never-changed--everything-around-it-did-200685837"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar gains traction to near 0.7100 on fading Fed hike bets",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
       "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound hits three-month high as weak US sales deepen USD slide",
-      "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543"
     }
   ]
 }
