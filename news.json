@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T20:48:37.938780+00:00",
+  "updated_at": "2026-08-17T21:54:18.090385+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
       "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar stalls as China slows down",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "The US Dollar Index cannot rally with Washington on the offer",
       "link": "https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound edges higher as traders await UK jobs and CPI data",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604"
     }
   ]
 }
