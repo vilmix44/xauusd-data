@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:16:21.956797+00:00",
+  "updated_at": "2026-08-17T05:22:37.031522+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+      "link": "https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Edges higher above 113.00, bullish bias prevails above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-edges-higher-above-11300-bullish-bias-prevails-above-100-day-sma-202608170447"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee holds ground despite RBI ending FCNR forex swap window early",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold remains close to June 5 high as receding Fed hike bets undermine USD",
+      "link": "https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-9950-as-traders-push-back-fed-rate-hike-bets-202608170254"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen gains against weaker US Dollar following softer Q2 GDP data",
       "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-weaker-us-dollar-following-softer-q2-gdp-data-202608170112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-near-three-month-top-as-fading-fed-hike-bets-undermine-usd-202608170111"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold gains momentum to near $4,400 as Fed hike expectations drop despite Us-Iran tensions",
-      "link": "https://www.fxstreet.com/news/gold-gains-momentum-to-near-4-400-as-fed-hike-expectations-drop-despite-us-iran-tensions-202608170058"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro strengthens above 1.1550 as Fed rate hike bets fade",
-      "link": "https://www.fxstreet.com/news/euro-strengthens-above-11550-as-fed-rate-hike-bets-fade-202608170020"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar gains traction to near 0.7100 on fading Fed hike bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230"
     }
   ]
 }
