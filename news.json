@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-17T14:58:18.285922+00:00",
+  "updated_at": "2026-08-17T15:54:30.693686+00:00",
   "news": [
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Breaks Key Support as Selling Pressure Builds Below $4,444",
-      "link": "https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950"
-    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Rebound Faces a Double Headwind: Yields and Oil",
       "link": "https://www.investing.com/analysis/golds-rebound-faces-a-double-headwind-yields-and-oil-200685942"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Breaks Key Support as Selling Pressure Builds Below $4,444",
+      "link": "https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950"
     },
     {
       "source": "Investing.com - Commodities",
@@ -28,13 +28,33 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold’s Bullish Structure and the Potential for a Deeper Pullback",
-      "link": "https://www.investing.com/analysis/golds-bullish-structure-and-the-potential-for-a-deeper-pullback-200685900"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
       "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold strengthens above $4,400 as Fed rate-hike expectations fade",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen struggles despite rising bond yields and BoJ hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-rising-bond-yields-and-boj-hike-bets-202608171526"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver accelerates above $66 as Fed expectations shift",
+      "link": "https://www.fxstreet.com/news/silver-accelerates-above-66-as-fed-expectations-shift-202608171521"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar climbs to two-month highs amid a soft US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-to-two-month-highs-amid-a-soft-us-dollar-202608171520"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Bullish bias with data risk ahead against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508"
     },
     {
       "source": "FXStreet - News",
@@ -53,28 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Canadian Dollar: Inflation steady near target – RBC",
       "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-steady-near-target-rbc-202608171400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar firms after hotter-than-expected inflation data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar struggles against Euro as inflation accelerates to 3%",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-against-euro-as-inflation-accelerates-to-3-202608171331"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301"
     }
   ]
 }
