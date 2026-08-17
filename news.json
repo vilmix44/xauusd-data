@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:00:15.016705+00:00",
+  "updated_at": "2026-08-17T19:16:04.804094+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
       "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "A crushed US Dollar sends Gold into a rally above $4,400",
+      "link": "https://www.fxstreet.com/news/a-crushed-us-dollar-sends-gold-into-a-rally-above-4-400-202608171826"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Bulls need a break above 0.8200 to regain momentum",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-need-a-break-above-08200-to-regain-momentum-202608171822"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro returns below 1.1600 as US Dollar selling pressure eases",
+      "link": "https://www.fxstreet.com/news/euro-returns-below-11600-as-us-dollar-selling-pressure-eases-202608171755"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound: Bullish bias with data risk ahead against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Faces renewed downside risk – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-faces-renewed-downside-risk-commerzbank-202608171435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Investors extend longs but hedge risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-eyes-mid-117s-against-us-dollar-scotiabank-202608171411"
     }
   ]
 }
