@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T11:45:02.656048+00:00",
+  "updated_at": "2026-08-17T13:56:38.856404+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Rebound Faces a Double Headwind: Yields and Oil",
+      "link": "https://www.investing.com/analysis/golds-rebound-faces-a-double-headwind-yields-and-oil-200685942"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Outlook: 3 Pullback Scenarios Before a Test of $4,496",
@@ -33,48 +38,43 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Keeps Failing at $4,500 — But the Structural Bull Case Is Getting Stronger",
-      "link": "https://www.investing.com/analysis/gold-keeps-failing-at-4500--but-the-structural-bull-case-is-getting-stronger-200685878"
+      "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
+      "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
+      "title": "Canadian Dollar firms after hotter-than-expected inflation data",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar gains ground with inflation data set to test BoC outlook",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127"
+      "title": "Canadian Dollar struggles against Euro as inflation accelerates to 3%",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-against-euro-as-inflation-accelerates-to-3-202608171331"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC",
+      "title": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breaking: Canada headline CPI rose by 3% YoY in July",
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730"
     },
     {
       "source": "FXStreet - News",
-      "title": "Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints",
-      "link": "https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040"
+      "title": "United States: Sideways growth and sticky inflation – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-bullish-bias-near-4-400-202608171008"
+      "title": "GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-press-toward-13600-as-uptrend-strengthens-202608171229"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: Bears push against two-month lows at 99.40",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-push-against-two-month-lows-at-9940-202608170956"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swedish Krona: Riksbank seen on cautious hawkish hold – BBH",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-seen-on-cautious-hawkish-hold-bbh-202608170950"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones futures decline despite softening Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-despite-softening-fed-rate-hike-expectations-202608170948"
+      "title": "Norwegian Krone: Further gains seen versus Euro - Rabobank",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-further-gains-seen-versus-euro-rabobank-202608171217"
     }
   ]
 }
