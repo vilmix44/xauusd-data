@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T19:16:04.804094+00:00",
+  "updated_at": "2026-08-17T20:48:37.938780+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Outlook Balances Falling Fed Hike Odds Against Elevated Real Yields",
+      "link": "https://www.investing.com/analysis/gold-outlook-balances-falling-fed-hike-odds-against-elevated-real-yields-200685974"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Rebound Faces a Double Headwind: Yields and Oil",
@@ -18,13 +23,33 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "The Gold Update: Still Higher Ahead",
-      "link": "https://www.investing.com/analysis/the-gold-update-still-higher-ahead-200685915"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
       "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Treasury yields surge as 30-year hits 2007 high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen muted on a soft US Dollar note",
+      "link": "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso softens as Middle East risks boost US Dollar",
+      "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound edges higher as traders await UK jobs and CPI data",
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold strengthens above $4,400 as Fed rate-hike expectations fade",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen struggles despite rising bond yields and BoJ hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-rising-bond-yields-and-boj-hike-bets-202608171526"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver accelerates above $66 as Fed expectations shift",
-      "link": "https://www.fxstreet.com/news/silver-accelerates-above-66-as-fed-expectations-shift-202608171521"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar climbs to two-month highs amid a soft US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-to-two-month-highs-amid-a-soft-us-dollar-202608171520"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Bullish bias with data risk ahead against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508"
     }
   ]
 }
