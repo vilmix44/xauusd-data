@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-17T13:56:38.856404+00:00",
+  "updated_at": "2026-08-17T14:58:18.285922+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Breaks Key Support as Selling Pressure Builds Below $4,444",
+      "link": "https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Rebound Faces a Double Headwind: Yields and Oil",
@@ -23,23 +28,38 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold’s Sovereign Put: The Structural Bid Is Shifting Up a Gear",
-      "link": "https://www.investing.com/analysis/golds-sovereign-put-the-structural-bid-is-shifting-up-a-gear-200685909"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold’s Bullish Structure and the Potential for a Deeper Pullback",
       "link": "https://www.investing.com/analysis/golds-bullish-structure-and-the-potential-for-a-deeper-pullback-200685900"
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Cycle Turning Point: Square of 9 Signals Breakout Potential Toward $4,581",
-      "link": "https://www.investing.com/analysis/gold-cycle-turning-point-square-of-9-signals-breakout-potential-toward-4581-200685898"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Spot Gold Steady Ahead of This Week’s Fed Minutes",
       "link": "https://www.investing.com/analysis/spot-gold-steady-ahead-of-this-weeks-fed-minutes-200685892"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Faces renewed downside risk – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-faces-renewed-downside-risk-commerzbank-202608171435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold: Investors extend longs but hedge risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-eyes-mid-117s-against-us-dollar-scotiabank-202608171411"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Inflation steady near target – RBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-steady-near-target-rbc-202608171400"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Breaking: Canada headline CPI rose by 3% YoY in July",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States: Sideways growth and sticky inflation – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Bulls press toward 1.3600 as uptrend strengthens",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-press-toward-13600-as-uptrend-strengthens-202608171229"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Norwegian Krone: Further gains seen versus Euro - Rabobank",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-further-gains-seen-versus-euro-rabobank-202608171217"
     }
   ]
 }
