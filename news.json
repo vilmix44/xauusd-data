@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:08:16.105210+00:00",
+  "updated_at": "2026-08-17T11:45:02.656048+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar gains ground with inflation data set to test BoC outlook",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC",
+      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints",
+      "link": "https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-bullish-bias-near-4-400-202608171008"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones futures decline despite softening Fed rate hike expectations",
       "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-despite-softening-fed-rate-hike-expectations-202608170948"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Turkish Lira: Market doubts disinflation and Lira stability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/turkish-lira-market-doubts-disinflation-and-lira-stability-commerzbank-202608170942"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar-mufg-202608170930"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Losing momentum as fiscal risks rise – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-losing-momentum-as-fiscal-risks-rise-dbs-202608170920"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Changing communications and higher volatility – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-changing-communications-and-higher-volatility-td-securities-202608170911"
     }
   ]
 }
