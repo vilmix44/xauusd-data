@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:40:22.171846+00:00",
+  "updated_at": "2026-08-17T03:16:21.956797+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,46 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-9950-as-traders-push-back-fed-rate-hike-bets-202608170254"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar rises on hawkish RBA outlook",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-on-hawkish-rba-outlook-202608170237"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar advances due to softer US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-advances-due-to-softer-us-dollar-higher-oil-prices-202608170201"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar advances beyond 0.5900, highest since June 3 as USD stays weak",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-beyond-05900-highest-since-june-3-as-usd-stays-weak-202608170159"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen gains against weaker US Dollar following softer Q2 GDP data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-weaker-us-dollar-following-softer-q2-gdp-data-202608170112"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound trades near three-month top as fading Fed hike bets undermine USD",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-near-three-month-top-as-fading-fed-hike-bets-undermine-usd-202608170111"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold gains momentum to near $4,400 as Fed hike expectations drop despite Us-Iran tensions",
+      "link": "https://www.fxstreet.com/news/gold-gains-momentum-to-near-4-400-as-fed-hike-expectations-drop-despite-us-iran-tensions-202608170058"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro strengthens above 1.1550 as Fed rate hike bets fade",
+      "link": "https://www.fxstreet.com/news/euro-strengthens-above-11550-as-fed-rate-hike-bets-fade-202608170020"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar gains traction to near 0.7100 on fading Fed hike bets",
       "link": "https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329"
     },
@@ -35,46 +75,6 @@
       "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-202608142022"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forecasting the upcoming week: FOMC Minutes take center stage next week",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-202608141942"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen holds as soft US data meets a weak Yen",
-      "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-soft-us-data-meets-a-weak-yen-202608141853"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Dollar Index breaks on the fourth consecutive soft print",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-breaks-on-the-fourth-consecutive-soft-print-202608141823"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rallies as weak US data dents Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739"
     }
   ]
 }
