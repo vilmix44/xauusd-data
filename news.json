@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:54:18.090385+00:00",
+  "updated_at": "2026-08-17T22:55:06.765524+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,13 +28,23 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar stalls as China slows down",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134"
+      "title": "The Japanese Yen is losing to its own import bill",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-struggles-at-11600-dives-below-100-day-sma-202608172221"
     },
     {
       "source": "FXStreet - News",
       "title": "US Treasury yields surge as 30-year hits 2007 high",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar stalls as China slows down",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CHF Price Forecast: Bulls need a break above 0.8200 to regain momentum",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-need-a-break-above-08200-to-regain-momentum-202608171822"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro returns below 1.1600 as US Dollar selling pressure eases",
-      "link": "https://www.fxstreet.com/news/euro-returns-below-11600-as-us-dollar-selling-pressure-eases-202608171755"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The US Dollar Index cannot rally with Washington on the offer",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-cannot-rally-with-washington-on-the-offer-202608171624"
     }
   ]
 }
