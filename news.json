@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:41:56.903618+00:00",
+  "updated_at": "2026-08-18T22:56:14.010570+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
       "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound Sterling's three-month high was made in America",
+      "link": "https://www.fxstreet.com/news/british-pound-sterlings-three-month-high-was-made-in-america-202608182233"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar holds steady amid a firm US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-amid-a-firm-us-dollar-202608182230"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso dips on Middle East tensions, eyes on FOMC minutes",
+      "link": "https://www.fxstreet.com/news/mexican-peso-dips-on-middle-east-tensions-eyes-on-fomc-minutes-202608182158"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "A two-decade yield high buys the Dollar Index nothing",
       "link": "https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Dow Jones Industrial Average has a term premium problem",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro fails to hold gains over the Pound ahead of UK inflation",
-      "link": "https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610"
     }
   ]
 }
