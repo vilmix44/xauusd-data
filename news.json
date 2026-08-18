@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T22:56:14.010570+00:00",
+  "updated_at": "2026-08-18T23:50:35.508022+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
       "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets",
+      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Japanese Yen gives back half a record intervention",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-a-record-intervention-202608182303"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Economists agree: BoE will hold rates through year-end – Reuters poll",
       "link": "https://www.fxstreet.com/news/economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-202608181809"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold price falls as US yields surge, pressuring bullion",
-      "link": "https://www.fxstreet.com/news/gold-price-falls-as-us-yields-surge-pressuring-bullion-202608181748"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "A two-decade yield high buys the Dollar Index nothing",
-      "link": "https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728"
     }
   ]
 }
