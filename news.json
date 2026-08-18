@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T09:06:26.448886+00:00",
+  "updated_at": "2026-08-18T10:55:49.063051+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
+      "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Pulls Back Amid Middle East Tensions and Fed Rate Uncertainty",
@@ -17,9 +22,34 @@
       "link": "https://www.investing.com/analysis/golds-4365-cycle-low-ignites-rally-toward-4581-weekly-target-200685990"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Outlook Balances Falling Fed Hike Odds Against Elevated Real Yields",
-      "link": "https://www.investing.com/analysis/gold-outlook-balances-falling-fed-hike-odds-against-elevated-real-yields-200685974"
+      "source": "FXStreet - News",
+      "title": "Gold falls as rising US Treasury yields strengthen the US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Bearish bias within tight range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-tight-range-against-us-dollar-uob-202608180947"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee remains weak due to higher oil prices, RBI closes FCNR (B) window",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound trades lower against US Dollar after soft UK employment data",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-lower-against-us-dollar-after-soft-uk-employment-data-202608180916"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States: August inflation profile – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-august-inflation-profile-td-securities-202608180909"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-breakout-near-07100-202608180825"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold sticks to losses below $4,400 as USD recovers further from two-month low",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Fragile recovery tied to US – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-fragile-recovery-tied-to-us-commerzbank-202608180808"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar declines due to increased risk aversion",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-202608180743"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee edges up, higher oil prices to remain key drag",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534"
     }
   ]
 }
