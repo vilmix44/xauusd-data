@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T03:10:40.109902+00:00",
+  "updated_at": "2026-08-18T05:05:33.651422+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,36 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
+      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index holds ground on safe-haven demand",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226"
     },
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
       "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold gains momentum above $4,400 as softer US data dampens Fed hike odds",
-      "link": "https://www.fxstreet.com/news/gold-gains-momentum-above-4-400-as-softer-us-data-dampens-fed-hike-odds-202608172327"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar climbs as the Greenback falls on soft US data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-the-greenback-falls-on-soft-us-data-202608172304"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Japanese Yen is losing to its own import bill",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-struggles-at-11600-dives-below-100-day-sma-202608172221"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Treasury yields surge as 30-year hits 2007 high",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045"
     }
   ]
 }
