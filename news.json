@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-18T20:00:33.272665+00:00",
+  "updated_at": "2026-08-18T21:41:56.903618+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s $4,435 Ceiling Tests the Strength of the August Recovery",
+      "link": "https://www.investing.com/analysis/golds-4435-ceiling-tests-the-strength-of-the-august-recovery-200686063"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold May Reach $8,000 if the Long-Term Bull Flag Holds",
@@ -20,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
       "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Sideways range holds against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-sideways-range-holds-against-us-dollar-uob-202608182102"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro fails to hold gains over the Pound ahead of UK inflation",
       "link": "https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar edges lower on US-Iran tensions as RBNZ hike expectations curb losses",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-on-us-iran-tensions-as-rbnz-hike-expectations-curb-losses-202608181605"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen stays on the back foot despite hawkish BoJ expectations",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540"
     }
   ]
 }

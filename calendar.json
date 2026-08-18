@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:00:33.273194+00:00",
+  "updated_at": "2026-08-18T21:41:56.904134+00:00",
   "events": [
     {
       "title": "Empire State Manufacturing Index",
@@ -94,7 +94,7 @@
       "country": "USD",
       "date": "2026-08-19T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.2M",
       "previous": "17.4M"
     },
     {
@@ -134,7 +134,7 @@
       "country": "USD",
       "date": "2026-08-20T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "15B",
       "previous": "36B"
     },
     {
