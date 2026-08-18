@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T19:16:33.059205+00:00",
+  "updated_at": "2026-08-18T20:00:33.272665+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -22,9 +22,14 @@
       "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Pulls Back Amid Middle East Tensions and Fed Rate Uncertainty",
-      "link": "https://www.investing.com/analysis/gold-pulls-back-amid-middle-east-tensions-and-fed-rate-uncertainty-200686012"
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-hormuz-jitters-ahead-of-uk-cpi-and-fomc-minutes-202608181954"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608181935"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen stays on the back foot despite hawkish BoJ expectations",
       "link": "https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold struggles below recent highs as yields and the US Dollar stay firm",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051"
     }
   ]
 }
