@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T23:48:55.997462+00:00",
+  "updated_at": "2026-08-18T03:10:40.109902+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
+      "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold gains momentum above $4,400 as softer US data dampens Fed hike odds",
       "link": "https://www.fxstreet.com/news/gold-gains-momentum-above-4-400-as-softer-us-data-dampens-fed-hike-odds-202608172327"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Treasury yields surge as 30-year hits 2007 high",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar stalls as China slows down",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen muted on a soft US Dollar note",
-      "link": "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso softens as Middle East risks boost US Dollar",
-      "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952"
     }
   ]
 }
