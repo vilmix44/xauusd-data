@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:58:08.750963+00:00",
+  "updated_at": "2026-08-18T17:03:26.660743+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebound Faces Test as Iran Talks Stall and Yields Rise",
       "link": "https://www.investing.com/analysis/gold-rebound-faces-test-as-iran-talks-stall-and-yields-rise-200686001"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro fails to hold gains over the Pound ahead of UK inflation",
+      "link": "https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar edges lower on US-Iran tensions as RBNZ hike expectations curb losses",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-on-us-iran-tensions-as-rbnz-hike-expectations-curb-losses-202608181605"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar: Market overpricing RBNZ hikes – BNY",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-market-overpricing-rbnz-hikes-bny-202608181256"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Fiscal risks point to weakness against US Dollar - Rabobank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-fiscal-risks-point-to-weakness-against-us-dollar-rabobank-202608181240"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Range-bound before FOMC against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar remains resilient as Oil strength counters firmer US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-resilient-as-oil-strength-counters-firmer-us-dollar-202608181216"
     }
   ]
 }
