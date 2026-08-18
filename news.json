@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-18T07:26:21.466337+00:00",
+  "updated_at": "2026-08-18T09:06:26.448886+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Pulls Back Amid Middle East Tensions and Fed Rate Uncertainty",
+      "link": "https://www.investing.com/analysis/gold-pulls-back-amid-middle-east-tensions-and-fed-rate-uncertainty-200686012"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rebound Faces Test as Iran Talks Stall and Yields Rise",
+      "link": "https://www.investing.com/analysis/gold-rebound-faces-test-as-iran-talks-stall-and-yields-rise-200686001"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s $4,365 Cycle Low Ignites Rally Toward $4,581 Weekly Target",
@@ -12,69 +22,59 @@
       "link": "https://www.investing.com/analysis/gold-outlook-balances-falling-fed-hike-odds-against-elevated-real-yields-200685974"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Rebound Faces a Double Headwind: Yields and Oil",
-      "link": "https://www.investing.com/analysis/golds-rebound-faces-a-double-headwind-yields-and-oil-200685942"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Breaks Key Support as Selling Pressure Builds Below $4,444",
-      "link": "https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950"
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar receives support from firm oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-receives-support-from-firm-oil-prices-202608180903"
     },
     {
       "source": "FXStreet - News",
-      "title": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715"
+      "title": "US Dollar: Dovish Fed repricing versus strong flows – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-dovish-fed-repricing-versus-strong-flows-bbh-202608180858"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Carry-supported but rangebound near term – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708"
+      "title": "Fiscal concerns and doubts on Fed independence send US yields to long-term highs",
+      "link": "https://www.fxstreet.com/news/fiscal-concerns-and-doubts-on-fed-independence-send-us-yields-to-long-term-highs-202608180853"
     },
     {
       "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707"
+      "title": "Euro: Overvaluation and energy risks weigh against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/euro-overvaluation-and-energy-risks-weigh-against-us-dollar-mufg-202608180836"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound dips to fresh lows near 1.3520 after mixed UK employment data",
-      "link": "https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629"
+      "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-breakout-near-07100-202608180825"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
+      "title": "Gold sticks to losses below $4,400 as USD recovers further from two-month low",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-needs-confirmation-above-11615-against-us-dollar-uob-202608180610"
+      "title": "Canadian Dollar: Fragile recovery tied to US – Commerzbank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-fragile-recovery-tied-to-us-commerzbank-202608180808"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc edges lower as US Dollar rebounds, FOMC minutes in focus",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-lower-as-us-dollar-rebounds-fomc-minutes-in-focus-202608180554"
+      "title": "New Zealand Dollar declines due to increased risk aversion",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee ticks up on possible RBI’s intervention",
+      "title": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-202608180743"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee edges up, higher oil prices to remain key drag",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro declines below 1.1600 on US-Iran war worries",
-      "link": "https://www.fxstreet.com/news/euro-declines-below-11600-on-us-iran-war-worries-202608180520"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437"
     }
   ]
 }
