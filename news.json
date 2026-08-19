@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-19T05:05:53.250924+00:00",
+  "updated_at": "2026-08-19T07:26:45.043327+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Outlook: Cycle Window Targets $4,482–$4,542 or Breakdown Toward $4,322",
+      "link": "https://www.investing.com/analysis/gold-outlook-cycle-window-targets-44824542-or-breakdown-toward-4322-200686069"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold, Silver Stall as US Dollar Refuses to Buckle",
+      "link": "https://www.investing.com/analysis/gold-silver-stall-as-us-dollar-refuses-to-buckle-200686080"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s $4,435 Ceiling Tests the Strength of the August Recovery",
@@ -17,64 +27,54 @@
       "link": "https://www.investing.com/analysis/gold-tests-key-support-as-hormuz-risks-cloud-the-market-outlook-200686049"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Silver at 10 Session Highs: Time for Profit Booking Before US Session?",
-      "link": "https://www.investing.com/analysis/gold-and-silver-at-10-session-highs-time-for-profit-booking-before-us-session-200686026"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
-      "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014"
+      "source": "FXStreet - News",
+      "title": "ECB's Rehn: Keeping inflation expectations anchored is essential",
+      "link": "https://www.fxstreet.com/news/ecbs-rehn-keeping-inflation-expectations-anchored-is-essential-202608190718"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold struggles to capitalize on recovery from weekly low as traders await FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336"
+      "title": "Indian Rupee stays under pressure amid higher oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens as US Dollar falls on fading Fed rate hike expectations",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-falls-on-fading-fed-rate-hike-expectations-202608190451"
+      "title": "NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-weakens-below-05900-but-staying-supported-above-100-day-sma-202608190711"
     },
     {
       "source": "FXStreet - News",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608190435"
+      "title": "AUD/USD Price Forecast: Rising 20-day EMA supports near-term bullish bias",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-rising-20-day-ema-supports-near-term-bullish-bias-202608190653"
     },
     {
       "source": "FXStreet - News",
-      "title": "UK CPI set to show inflation accelerated in July, bolstering case for BoE rate hike",
+      "title": "Asia FX: Lower US yields offset Oil risk – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-lower-us-yields-offset-oil-risk-mufg-202608190637"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro trims gains against British Pound after UK CPI inflation rises to 2.9%",
+      "link": "https://www.fxstreet.com/news/euro-trims-gains-against-british-pound-after-uk-cpi-inflation-rises-to-29-202608190635"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound edges up within range following hotter UK inflation data",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-up-within-range-following-hotter-uk-inflation-data-202608190631"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United Kingdom CPI inflation jumps to 2.9% YoY in July, as expected",
       "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-inflation-rebounding-to-four-month-high-due-to-higher-energy-bill-202608190200"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs and USD slides before FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-and-usd-slides-before-fomc-minutes-202608190403"
+      "title": "Japanese Yen: JGB spillover supports firmer JPY against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jgb-spillover-supports-firmer-jpy-against-us-dollar-ocbc-202608190625"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar weakens despite RBA’s Hauser hawkish remarks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-despite-rbas-hauser-hawkish-remarks-202608190335"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD extends decline to near $63 amid continued energy supply risks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-decline-to-near-63-amid-continued-energy-supply-risks-202608190333"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "RBA’s Hauser: Will have to raise rates again if inflation doesn’t come down",
-      "link": "https://www.fxstreet.com/news/rbas-hauser-will-have-to-raise-rates-again-if-inflation-doesnt-come-down-202608190252"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen gains ground as BoJ rate hike bets rise",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-ground-as-boj-rate-hike-bets-rise-202608190229"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index hovers above 99.50 due to safe-haven support",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hovers-above-9950-due-to-safe-haven-support-202608190207"
+      "title": "Gold surrenders modest intraday gains; trades below $4,450 as FOMC Minutes loom",
+      "link": "https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336"
     }
   ]
 }
