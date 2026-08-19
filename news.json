@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-19T17:02:09.838099+00:00",
+  "updated_at": "2026-08-19T18:03:11.851082+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rally Faces Fresh Risks Even as Treasury Buybacks Offer Support",
+      "link": "https://www.investing.com/analysis/gold-rally-faces-fresh-risks-even-as-treasury-buybacks-offer-support-200686133"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Strait of Hormuz Blockade Lends Support to Yellow Metal",
@@ -23,6 +28,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Mexican Peso rallies to two-year high on US Treasury buyback",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed Minutes set to provide clues about the degree of support for interest-rate hikes",
+      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold soars toward $4,500 as Treasury buyback sinks US yields",
       "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655"
     },
@@ -35,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
       "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed Minutes set to show the extent of the hawkish bias after divisive meeting",
-      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "United Kingdom: Energy-driven upside risks – Societe Generale",
       "link": "https://www.fxstreet.com/news/united-kingdom-energy-driven-upside-risks-societe-generale-202608191505"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus",
-      "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-202608191440"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438"
     }
   ]
 }
