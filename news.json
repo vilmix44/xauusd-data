@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:59:12.414488+00:00",
+  "updated_at": "2026-08-19T17:02:09.838099+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold: Bulls Still in the Game",
       "link": "https://www.investing.com/analysis/gold-bulls-are-still-in-the-game-200686098"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold soars toward $4,500 as Treasury buyback sinks US yields",
+      "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average rallies on a bid nobody made",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
+      "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed Minutes set to show the extent of the hawkish bias after divisive meeting",
+      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
-      "link": "https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index falls as US Treasury doubles long-dated debt buybacks",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-as-us-treasury-doubles-long-dated-debt-buybacks-202608191418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed Minutes expected to shed light on the depth of FOMC hawkish split",
-      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro rises to June highs as falling US Treasury yields weigh on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-rises-to-june-highs-as-falling-us-treasury-yields-weigh-on-us-dollar-202608191341"
     }
   ]
 }
