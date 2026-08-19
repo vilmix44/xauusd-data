@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:07:06.248183+00:00",
+  "updated_at": "2026-08-19T15:59:12.414488+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,51 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound jumps as Treasury buyback weakens the US Dollar",
+      "link": "https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US 10-year Treasury yield tumbles as Treasury steps in to calm bond market",
+      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-tumbles-as-treasury-steps-in-to-calm-bond-market-202608191517"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen advances as falling Treasury yields pressure US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-falling-treasury-yields-pressure-us-dollar-202608191512"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United Kingdom: Energy-driven upside risks – Societe Generale",
+      "link": "https://www.fxstreet.com/news/united-kingdom-energy-driven-upside-risks-societe-generale-202608191505"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus",
+      "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-202608191440"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
+      "link": "https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index falls as US Treasury doubles long-dated debt buybacks",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-as-us-treasury-doubles-long-dated-debt-buybacks-202608191418"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Fed Minutes expected to shed light on the depth of FOMC hawkish split",
       "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
     },
@@ -30,51 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro rises to June highs as falling US Treasury yields weigh on US Dollar",
       "link": "https://www.fxstreet.com/news/euro-rises-to-june-highs-as-falling-us-treasury-yields-weigh-on-us-dollar-202608191341"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Shallow uptrend risk into next year – Rabobank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-shallow-uptrend-risk-into-next-year-rabobank-202608191339"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold climbs over 2% as US Treasury buyback plan pressures long-term yields",
-      "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-as-us-dollar-retreats-ahead-of-fomc-minutes-202608191216"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed minutes watched as rate doubts grow – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-minutes-watched-as-rate-doubts-grow-commerzbank-202608191205"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: Policy continuity supports currency – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-supports-currency-societe-generale-202608191152"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD bounces to $4,370, but upside momentum is fading",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-to-4-370-but-upside-momentum-is-fading-202608191141"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver has rebounded to $63, but inflationary risks hold buyers back",
-      "link": "https://www.fxstreet.com/news/silver-has-rebounded-to-63-but-inflationary-risks-hold-buyers-back-202608191131"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING",
-      "link": "https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Exposure normalizes as real rates fall – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107"
     }
   ]
 }
