@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T19:44:17.502019+00:00",
+  "updated_at": "2026-08-19T20:58:44.796239+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Short-Term Sell Signals for Gold and Silver",
       "link": "https://www.investing.com/analysis/shortterm-sell-signals-for-gold-and-silver-200686097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD eyes $67 as US yields slide",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-67-as-us-yields-slide-202608192054"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro surges as traders ignore Fed’s hawkish minutes",
+      "link": "https://www.fxstreet.com/news/euro-surges-as-traders-ignore-feds-hawkish-minutes-202608192007"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones Industrial Average rallies on a bid nobody made",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
-      "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound jumps as Treasury buyback weakens the US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523"
     }
   ]
 }
