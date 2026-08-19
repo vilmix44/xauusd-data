@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:50:35.508468+00:00",
+  "updated_at": "2026-08-19T03:14:03.032637+00:00",
   "events": [
     {
       "title": "Empire State Manufacturing Index",
@@ -102,6 +102,14 @@
       "country": "USD",
       "date": "2026-08-19T14:00:00-04:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-19T14:30:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
