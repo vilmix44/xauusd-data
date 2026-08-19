@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:56:18.428956+00:00",
+  "updated_at": "2026-08-19T23:51:09.813716+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Has More to Offer",
       "link": "https://www.investing.com/analysis/gold-has-more-to-offer-200686108"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold climbs above $4,500 as US Dollar, yields fall",
+      "link": "https://www.fxstreet.com/news/gold-climbs-above-4-500-as-us-dollar-yields-fall-202608192326"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar gains as Treasury buyback offsets hawkish Fed",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-202608192321"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Breaking: FOMC officials acknowledged inflation remained elevated",
       "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: Positive momentum points to further upside",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso rallies to two-year high on US Treasury buyback",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749"
     }
   ]
 }
