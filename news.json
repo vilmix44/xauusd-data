@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T20:58:44.796239+00:00",
+  "updated_at": "2026-08-19T21:56:32.402127+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Short-Term Sell Signals for Gold and Silver",
       "link": "https://www.investing.com/analysis/shortterm-sell-signals-for-gold-and-silver-200686097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar rallies as Treasury buyback drags US yields",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rallies-as-treasury-buyback-drags-us-yields-202608192133"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Dollar Index answers to the Treasury, not the Fed",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-answers-to-the-treasury-not-the-fed-202608192119"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Mexican Peso rallies to two-year high on US Treasury buyback",
       "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average rallies on a bid nobody made",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641"
     }
   ]
 }
