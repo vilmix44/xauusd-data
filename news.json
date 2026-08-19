@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-19T10:54:13.565690+00:00",
+  "updated_at": "2026-08-19T11:55:17.154590+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Strait of Hormuz Blockade Lends Support to Yellow Metal",
+      "link": "https://www.investing.com/analysis/gold-strait-of-hormuz-blockade-lends-support-to-yellow-metal-200686109"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Has More to Offer",
@@ -23,13 +28,38 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Outlook: Cycle Window Targets $4,482–$4,542 or Breakdown Toward $4,322",
-      "link": "https://www.investing.com/analysis/gold-outlook-cycle-window-targets-44824542-or-breakdown-toward-4322-200686069"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Technical Outlook: Pullback Potential Before Bullish Continuation",
       "link": "https://www.investing.com/analysis/gold-technical-outlook-pullback-potential-before-bullish-continuation-200686090"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah: Policy continuity supports currency – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-policy-continuity-supports-currency-societe-generale-202608191152"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD bounces to $4,370, but upside momentum is fading",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-to-4-370-but-upside-momentum-is-fading-202608191141"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver has rebounded to $63, but inflationary risks hold buyers back",
+      "link": "https://www.fxstreet.com/news/silver-has-rebounded-to-63-but-inflationary-risks-hold-buyers-back-202608191131"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING",
+      "link": "https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold finds support as US Dollar retreats ahead of Fed Minutes",
+      "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Exposure normalizes as real rates fall – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "GBP/USD Price Forecast: More upside expected above 1.3570",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-more-upside-expected-above-13570-202608191025"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA seen sidelined on softer wages – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-seen-sidelined-on-softer-wages-bbh-202608190949"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Election risks then renewed gains – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-then-renewed-gains-commerzbank-202608190939"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro extends gains against British Pound as Eurozone inflation accelerates",
-      "link": "https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Higher yields threaten housing and risk sentiment – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ’s hawkish pivot reshapes outlook against US Dollar - Standard Chartered",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bojs-hawkish-pivot-reshapes-outlook-against-us-dollar-standard-chartered-202608190849"
     }
   ]
 }
