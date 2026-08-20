@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-20T19:46:14.345827+00:00",
+  "updated_at": "2026-08-20T21:02:28.155487+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Renewed Pressure as Long-Term Treasury Yields Rebound",
+      "link": "https://www.investing.com/analysis/gold-faces-renewed-pressure-as-longterm-treasury-yields-rebound-200686232"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Heats Up as Trump Pivots from Military to Monetary Warfare",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Fed's Musalem: Hiking rates now could save more aggressive action later",
       "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552"
     }
   ]
 }
