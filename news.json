@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:02:28.155487+00:00",
+  "updated_at": "2026-08-20T22:53:31.398841+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars, US Dollar Collapsed",
       "link": "https://www.investing.com/analysis/gold-soars-us-dollar-collapsed-200686191"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The British Pound is buying an energy bill, not inflation",
+      "link": "https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro fades below 1.1700 as US Dollar rebounds on yields",
+      "link": "https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar holds early June high",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-early-june-high-202608202139"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso holds firm as Banxico minutes support the Peso",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Banxico minutes signal long rate pause as inflation eases",
       "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound climbs as UK inflation keeps BoE hike bets alive",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed's Musalem: Hiking rates now could save more aggressive action later",
-      "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552"
     }
   ]
 }
