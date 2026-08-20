@@ -1,20 +1,40 @@
 {
-  "updated_at": "2026-08-20T17:56:31.808449+00:00",
+  "updated_at": "2026-08-20T19:46:14.345827+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Heats Up as Trump Pivots from Military to Monetary Warfare",
+      "link": "https://www.investing.com/analysis/gold-heats-up-as-trump-pivots-from-military-to-monetary-warfare-200686222"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Soars, US Dollar Collapsed",
       "link": "https://www.investing.com/analysis/gold-soars-us-dollar-collapsed-200686191"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Key Test as Fed Minutes Shift Rate Outlook",
-      "link": "https://www.investing.com/analysis/gold-faces-key-test-as-fed-minutes-shift-rate-outlook-200686178"
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar firms ahead of global flash PMIs",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Bullish Momentum Supported by Lower Treasury Yields and a Weaker US Dollar",
-      "link": "https://www.investing.com/analysis/gold-bullish-momentum-supported-by-lower-treasury-yields-and-a-weaker-us-dollar-200686173"
+      "source": "FXStreet - News",
+      "title": "The Dollar Index takes its floor from a Fed non-voter",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756"
     },
     {
       "source": "FXStreet - News",
@@ -23,7 +43,7 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Banxico minutes signals long rate pause as inflation eases",
+      "title": "Banxico minutes signal long rate pause as inflation eases",
       "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736"
     },
     {
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
       "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bessent wants bigger bond buybacks, but markets barely blink",
-      "link": "https://www.fxstreet.com/news/bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-202608201527"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar remains supported by rising Oil prices and US tariff pause",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459"
     }
   ]
 }
