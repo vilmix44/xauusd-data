@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:51:09.813716+00:00",
+  "updated_at": "2026-08-20T03:13:05.306467+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Has More to Offer",
       "link": "https://www.investing.com/analysis/gold-has-more-to-offer-200686108"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar gathers strength to near 0.5950 after China holds loan rates steady in August",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-to-near-05950-after-china-holds-loan-rates-steady-in-august-202608200238"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar declines following weak labor data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
+      "link": "https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro edges lower below 1.1700 despite fading Fed hike odds",
+      "link": "https://www.fxstreet.com/news/euro-edges-lower-below-11700-despite-fading-fed-hike-odds-202608200103"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver surges as Treasury buyback plan sinks the US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-202608191908"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-100-day-sma-tested-as-us-dollar-tanks-202608191854"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rallies as buyback sinks yields despite Fed hawkish minutes",
-      "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Breaking: FOMC officials acknowledged inflation remained elevated",
-      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400"
     }
   ]
 }
