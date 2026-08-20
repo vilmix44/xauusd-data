@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T14:03:19.169013+00:00",
+  "updated_at": "2026-08-20T16:01:52.069184+00:00",
   "events": [
     {
       "title": "Empire State Manufacturing Index",
@@ -144,6 +144,14 @@
       "impact": "Low",
       "forecast": "15B",
       "previous": "36B"
+    },
+    {
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-08-20T11:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Flash Manufacturing PMI",
