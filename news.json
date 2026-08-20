@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:53:31.398841+00:00",
+  "updated_at": "2026-08-20T23:54:08.874952+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars, US Dollar Collapsed",
       "link": "https://www.investing.com/analysis/gold-soars-us-dollar-collapsed-200686191"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold drifts higher above $4,500 on US Treasury buyback",
+      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected",
+      "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar weakens as US yields rebound, PMIs fail to impress",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-us-yields-rebound-pmis-fail-to-impress-202608202315"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold pulls back as US yields recover after Treasury buyback",
-      "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Banxico minutes signal long rate pause as inflation eases",
-      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736"
     }
   ]
 }
