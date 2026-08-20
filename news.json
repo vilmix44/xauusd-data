@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:01:52.068621+00:00",
+  "updated_at": "2026-08-20T17:56:31.808449+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Momentum Supported by Lower Treasury Yields and a Weaker US Dollar",
       "link": "https://www.investing.com/analysis/gold-bullish-momentum-supported-by-lower-treasury-yields-and-a-weaker-us-dollar-200686173"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold pulls back as US yields recover after Treasury buyback",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Banxico minutes signals long rate pause as inflation eases",
+      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: Leads Asia FX on tech support – MUFG",
-      "link": "https://www.fxstreet.com/news/south-korean-won-leads-asia-fx-on-tech-support-mufg-202608201446"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swedish Krona: Riksbank keeps hikes on table – BNY",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400"
     }
   ]
 }
