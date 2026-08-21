@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:31:05.257994+00:00",
+  "updated_at": "2026-08-21T05:49:39.151701+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars, US Dollar Collapsed",
       "link": "https://www.investing.com/analysis/gold-soars-us-dollar-collapsed-200686191"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-100-day-sma-202608210446"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608210435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen flatlines after CPI inflation report",
       "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-after-cpi-inflation-report-202608210058"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold drifts higher above $4,500 on US Treasury buyback",
-      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected",
-      "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar weakens as US yields rebound, PMIs fail to impress",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-us-yields-rebound-pmis-fail-to-impress-202608202315"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The British Pound is buying an energy bill, not inflation",
-      "link": "https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245"
     }
   ]
 }
