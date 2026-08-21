@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-08-21T14:06:57.350390+00:00",
+  "updated_at": "2026-08-21T16:00:46.178964+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Can Treasury Intervention Keep the Gold Rally Alive?",
       "link": "https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Nears Double Top Formation, Raising Risk of a Sell-Off",
+      "link": "https://www.investing.com/analysis/gold-nears-double-top-formation-raising-risk-of-a-selloff-200686292"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Bulls Regain Control as Price Attacks $4,600",
+      "link": "https://www.investing.com/analysis/gold-bulls-regain-control-as-price-attacks-4600-200686291"
     },
     {
       "source": "Investing.com - Commodities",
@@ -22,14 +32,39 @@
       "link": "https://www.investing.com/analysis/what-to-watch-as-capital-rotates-back-to-gold-200686274"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold vs. Silver Spreads: Analyzing Market Friction for Commodity Day Traders",
-      "link": "https://www.investing.com/analysis/gold-vs-silver-spreads-analyzing-market-friction-for-commodity-day-traders-200686259"
+      "source": "FXStreet - News",
+      "title": "British Pound eases as UK sales drop, US services beat",
+      "link": "https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Enters Critical Cycle Window: Buy Corrections as Breakout Targets $4,649",
-      "link": "https://www.investing.com/analysis/gold-enters-critical-cycle-window-buy-corrections-as-breakout-targets-4649-200686243"
+      "source": "FXStreet - News",
+      "title": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
+      "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Jackson Hole volatility over credibility – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: PMI strength supports against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/euro-pmi-strength-supports-against-us-dollar-bbh-202608211428"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro pares gains against US Dollar but eyes fourth weekly advance",
+      "link": "https://www.fxstreet.com/news/euro-pares-gains-against-us-dollar-but-eyes-fourth-weekly-advance-202608211409"
     },
     {
       "source": "FXStreet - News",
@@ -40,41 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold: Upside asymmetry into next week – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Mixed data but Sterling supported – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
-      "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Bearish regime reinforced by bull flattener – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-bearish-regime-reinforced-by-bull-flattener-td-securities-202608211243"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Safe-haven bid on US debt worries – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Binary tariff risks shape near-term path – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-binary-tariff-risks-shape-near-term-path-td-securities-202608211151"
     }
   ]
 }
