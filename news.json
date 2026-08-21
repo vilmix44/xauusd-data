@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:55:18.263198+00:00",
+  "updated_at": "2026-08-21T23:52:05.393126+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "US Treasury yields extend rebound as Services PMI beats estimates",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore: inflation and production outlook – DBS",
-      "link": "https://www.fxstreet.com/news/singapore-inflation-and-production-outlook-dbs-202608211824"
     }
   ]
 }
