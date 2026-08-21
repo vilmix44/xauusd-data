@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T19:16:09.775595+00:00",
+  "updated_at": "2026-08-21T20:00:52.898580+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
+      "link": "https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Miners’ Spectacular Q2 Makes GDXJ a Screaming Buy",
@@ -38,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Japanese Yen neutral as it meets resilient US data",
+      "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
       "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638"
     }
   ]
 }
