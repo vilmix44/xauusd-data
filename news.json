@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T20:00:52.898580+00:00",
+  "updated_at": "2026-08-21T21:42:44.015295+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "South Korean Won: Cautious tightening path expected from BoK – DBS",
+      "link": "https://www.fxstreet.com/news/south-korean-won-cautious-tightening-path-expected-from-bok-dbs-202608212058"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Japanese Yen neutral as it meets resilient US data",
       "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
       "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Higher yields stop paying the Dollar Index",
-      "link": "https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726"
     }
   ]
 }
