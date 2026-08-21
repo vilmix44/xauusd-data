@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-21T16:00:46.178964+00:00",
+  "updated_at": "2026-08-21T17:57:03.798139+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Miners’ Spectacular Q2 Makes GDXJ a Screaming Buy",
+      "link": "https://www.investing.com/analysis/gold-miners-spectacular-q2-makes-gdxj-a-screaming-buy-200686301"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Can Treasury Intervention Keep the Gold Rally Alive?",
@@ -33,48 +38,43 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound eases as UK sales drop, US services beat",
+      "title": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
+      "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Higher yields stop paying the Dollar Index",
+      "link": "https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-tariff-deal-unlikely-to-accelerate-hikes-td-securities-202608211638"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro treads water vs Yen as Japanese inflation, European PMIs offset each other",
+      "link": "https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound eases as UK sales drop, US services beat forecasts",
       "link": "https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548"
     },
     {
       "source": "FXStreet - News",
       "title": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Jackson Hole volatility over credibility – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: PMI strength supports against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/euro-pmi-strength-supports-against-us-dollar-bbh-202608211428"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro pares gains against US Dollar but eyes fourth weekly advance",
-      "link": "https://www.fxstreet.com/news/euro-pares-gains-against-us-dollar-but-eyes-fourth-weekly-advance-202608211409"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Upside asymmetry into next week – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350"
     }
   ]
 }
