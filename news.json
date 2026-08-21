@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-21T11:47:11.595953+00:00",
+  "updated_at": "2026-08-21T14:06:57.350390+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Can Treasury Intervention Keep the Gold Rally Alive?",
+      "link": "https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold and Silver at Historic Highs: Intraday Traders Face the Biggest Test",
+      "link": "https://www.investing.com/analysis/gold-and-silver-at-historic-highs-intraday-traders-face-the-biggest-test-200686281"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "US Dollar’s Long Goodbye",
@@ -23,33 +33,23 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Silver climbs toward $70 as US Dollar remains under pressure",
-      "link": "https://www.fxstreet.com/news/silver-climbs-toward-70-as-us-dollar-remains-under-pressure-202608211141"
+      "title": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Set to outperform Pound, US Dollar and Yen - Nomura",
-      "link": "https://www.fxstreet.com/news/euro-set-to-outperform-pound-us-dollar-and-yen-nomura-202608211136"
+      "title": "Gold: Upside asymmetry into next week – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee remains under pressure amid elevated Oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551"
+      "title": "British Pound: Mixed data but Sterling supported – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar rallies above 0.7150 as the US Dollar bleeds amid bond buybacks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rallies-above-07150-as-the-us-dollar-bleeds-amid-bond-buybacks-202608211124"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Experts agree: Weak Dollar backs near-term upside in EUR/USD",
-      "link": "https://www.fxstreet.com/news/experts-agree-weak-dollar-backs-near-term-upside-in-eur-usd-202608211118"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Yield management weighs on currency – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-yield-management-weighs-on-currency-bbh-202608211115"
+      "title": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325"
     },
     {
       "source": "FXStreet - News",
@@ -58,23 +58,23 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback",
-      "link": "https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043"
+      "title": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar climbs to highest since June as US Dollar weakens",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-highest-since-june-as-us-dollar-weakens-202608211020"
+      "title": "US Dollar: Bearish regime reinforced by bull flattener – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-bearish-regime-reinforced-by-bull-flattener-td-securities-202608211243"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD testing three-month highs near $4,600 as the US Dollar dives",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-testing-three-month-highs-near-4-600-as-the-us-dollar-dives-202608211014"
+      "title": "Gold: Safe-haven bid on US debt worries – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Limited upside as fiscal plans questioned – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-limited-upside-as-fiscal-plans-questioned-mufg-202608211004"
+      "title": "Canadian Dollar: Binary tariff risks shape near-term path – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-binary-tariff-risks-shape-near-term-path-td-securities-202608211151"
     }
   ]
 }
