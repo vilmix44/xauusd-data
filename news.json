@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:52:08.277402+00:00",
+  "updated_at": "2026-08-23T23:45:08.581464+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-06000-after-weaker-retail-sales-data-202608232339"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen neutral as it meets resilient US data",
       "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853"
     }
   ]
 }
