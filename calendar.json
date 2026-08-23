@@ -1,181 +1,205 @@
 {
-  "updated_at": "2026-08-23T03:30:42.883922+00:00",
+  "updated_at": "2026-08-23T05:16:03.528914+00:00",
   "events": [
     {
-      "title": "Empire State Manufacturing Index",
+      "title": "Treasury Sec Bessent Speaks",
       "country": "USD",
-      "date": "2026-08-17T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "10.6",
-      "previous": "15.6"
-    },
-    {
-      "title": "NAHB Housing Market Index",
-      "country": "USD",
-      "date": "2026-08-17T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "33",
-      "previous": "34"
-    },
-    {
-      "title": "TIC Long-Term Purchases",
-      "country": "USD",
-      "date": "2026-08-17T16:00:00-04:00",
-      "impact": "Low",
-      "forecast": "151.4B",
-      "previous": "232.7B"
+      "date": "2026-08-24T14:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-08-18T08:15:00-04:00",
+      "date": "2026-08-25T08:15:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "8.3K"
+      "previous": "9.5K"
     },
     {
-      "title": "Building Permits",
+      "title": "HPI m/m",
       "country": "USD",
-      "date": "2026-08-18T08:30:00-04:00",
+      "date": "2026-08-25T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "1.37M",
-      "previous": "1.37M"
+      "forecast": "0.2%",
+      "previous": "0.3%"
     },
     {
-      "title": "Housing Starts",
+      "title": "S&P/CS Composite-20 HPI y/y",
       "country": "USD",
-      "date": "2026-08-18T08:30:00-04:00",
+      "date": "2026-08-25T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "1.34M",
-      "previous": "1.43M"
+      "forecast": "1.9%",
+      "previous": "1.6%"
     },
     {
-      "title": "Import Prices m/m",
+      "title": "CB Consumer Confidence",
       "country": "USD",
-      "date": "2026-08-18T08:30:00-04:00",
+      "date": "2026-08-25T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "90.3",
+      "previous": "90.8"
+    },
+    {
+      "title": "New Home Sales",
+      "country": "USD",
+      "date": "2026-08-25T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "620K",
+      "previous": "628K"
+    },
+    {
+      "title": "Richmond Manufacturing Index",
+      "country": "USD",
+      "date": "2026-08-25T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "7",
+      "previous": "5"
+    },
+    {
+      "title": "API Weekly Statistical Bulletin",
+      "country": "USD",
+      "date": "2026-08-25T16:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Core PCE Price Index m/m",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "0.1%"
+    },
+    {
+      "title": "Prelim GDP q/q",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "1.5%",
+      "previous": "1.5%"
+    },
+    {
+      "title": "Prelim GDP Price Index q/q",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "6.2%",
+      "previous": "6.2%"
+    },
+    {
+      "title": "Core Durable Goods Orders m/m",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.5%",
+      "previous": "0.6%"
+    },
+    {
+      "title": "Durable Goods Orders m/m",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.5%",
+      "previous": "0.3%"
+    },
+    {
+      "title": "Personal Income m/m",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.2%",
+      "previous": "0.2%"
+    },
+    {
+      "title": "Personal Spending m/m",
+      "country": "USD",
+      "date": "2026-08-26T08:30:00-04:00",
       "impact": "Low",
       "forecast": "0.1%",
       "previous": "0.3%"
     },
     {
-      "title": "Capacity Utilization Rate",
-      "country": "USD",
-      "date": "2026-08-18T09:15:00-04:00",
-      "impact": "Low",
-      "forecast": "76.3%",
-      "previous": "76.1%"
-    },
-    {
-      "title": "Industrial Production m/m",
-      "country": "USD",
-      "date": "2026-08-18T09:15:00-04:00",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.1%"
-    },
-    {
-      "title": "Pending Home Sales m/m",
-      "country": "USD",
-      "date": "2026-08-18T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "-5.4%"
-    },
-    {
-      "title": "API Weekly Statistical Bulletin",
-      "country": "USD",
-      "date": "2026-08-18T16:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "title": "Crude Oil Inventories",
       "country": "USD",
-      "date": "2026-08-19T10:30:00-04:00",
+      "date": "2026-08-26T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.2M",
-      "previous": "17.4M"
+      "forecast": "",
+      "previous": "4.4M"
     },
     {
-      "title": "FOMC Meeting Minutes",
+      "title": "Unemployment Claims",
       "country": "USD",
-      "date": "2026-08-19T14:00:00-04:00",
+      "date": "2026-08-27T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "208K",
+      "previous": "206K"
+    },
+    {
+      "title": "Goods Trade Balance",
+      "country": "USD",
+      "date": "2026-08-27T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-99.9B",
+      "previous": "-101.5B"
+    },
+    {
+      "title": "Prelim Wholesale Inventories m/m",
+      "country": "USD",
+      "date": "2026-08-27T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.2%",
+      "previous": "0.2%"
+    },
+    {
+      "title": "Natural Gas Storage",
+      "country": "USD",
+      "date": "2026-08-27T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "16B"
+    },
+    {
+      "title": "Chicago PMI",
+      "country": "USD",
+      "date": "2026-08-28T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "57.8",
+      "previous": "57.6"
+    },
+    {
+      "title": "Fed Chairman Warsh Speaks",
+      "country": "USD",
+      "date": "2026-08-28T10:00:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
     },
     {
-      "title": "President Trump Speaks",
+      "title": "Prelim Benchmark Payrolls Revision",
       "country": "USD",
-      "date": "2026-08-19T14:30:00-04:00",
+      "date": "2026-08-28T10:00:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": "-911K"
+    },
+    {
+      "title": "Revised UoM Consumer Sentiment",
+      "country": "USD",
+      "date": "2026-08-28T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "51.0",
+      "previous": "51.0"
+    },
+    {
+      "title": "Revised UoM Inflation Expectations",
+      "country": "USD",
+      "date": "2026-08-28T10:00:00-04:00",
       "impact": "Medium",
       "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Philly Fed Manufacturing Index",
-      "country": "USD",
-      "date": "2026-08-20T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "24.1",
-      "previous": "41.4"
-    },
-    {
-      "title": "Unemployment Claims",
-      "country": "USD",
-      "date": "2026-08-20T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "210K",
-      "previous": "209K"
-    },
-    {
-      "title": "CB Leading Index m/m",
-      "country": "USD",
-      "date": "2026-08-20T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "-0.2%"
-    },
-    {
-      "title": "Natural Gas Storage",
-      "country": "USD",
-      "date": "2026-08-20T10:30:00-04:00",
-      "impact": "Low",
-      "forecast": "15B",
-      "previous": "36B"
-    },
-    {
-      "title": "FOMC Member Musalem Speaks",
-      "country": "USD",
-      "date": "2026-08-20T11:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Flash Manufacturing PMI",
-      "country": "USD",
-      "date": "2026-08-21T09:45:00-04:00",
-      "impact": "Low",
-      "forecast": "53.9",
-      "previous": "53.8"
-    },
-    {
-      "title": "Flash Services PMI",
-      "country": "USD",
-      "date": "2026-08-21T09:45:00-04:00",
-      "impact": "Low",
-      "forecast": "54.0",
-      "previous": "53.6"
-    },
-    {
-      "title": "President Trump Speaks",
-      "country": "USD",
-      "date": "2026-08-21T19:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
+      "previous": "4.3%"
     }
   ]
 }
