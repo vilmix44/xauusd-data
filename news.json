@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T05:58:42.188243+00:00",
+  "updated_at": "2026-08-24T08:29:45.766766+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Targets Fresh Highs After 200-Day SMA Breakout",
+      "link": "https://www.investing.com/analysis/gold-targets-fresh-highs-after-200day-sma-breakout-200686379"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
@@ -32,49 +37,44 @@
       "link": "https://www.investing.com/analysis/gold-and-silver-at-historic-highs-intraday-traders-face-the-biggest-test-200686281"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "US Dollar’s Long Goodbye",
-      "link": "https://www.investing.com/analysis/us-dollars-long-goodbye-200686278"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "What to Watch as Capital Rotates Back to Gold?",
-      "link": "https://www.investing.com/analysis/what-to-watch-as-capital-rotates-back-to-gold-200686274"
+      "source": "FXStreet - News",
+      "title": "US Dollar: Momentum fades as yields stay high – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-momentum-fades-as-yields-stay-high-mufg-202608240756"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee remains steady amid strong capital inflows",
-      "link": "https://www.fxstreet.com/news/indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-202608240412"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah declines despite prevailing high interest rates, weaker US Dollar",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-despite-prevailing-high-interest-rates-weaker-us-dollar-202608240532"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc advances as Dollar slides on US bond buyback surge",
-      "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "title": "Gold eases from mid-May highs as bulls await details of Iran sanctions",
       "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444"
     },
     {
       "source": "FXStreet - News",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608240436"
+      "title": "Euro: ECB patience with inflation and growth tension – BNY",
+      "link": "https://www.fxstreet.com/news/euro-ecb-patience-with-inflation-and-growth-tension-bny-202608240746"
     },
     {
       "source": "FXStreet - News",
-      "title": "United States Dollar Index softens below 99.00 on US fiscal concerns",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-softens-below-9900-on-us-fiscal-concerns-202608240248"
+      "title": "British Pound holds near six-month highs as debt woes keep US Dollar rallies shallow",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-highs-as-debt-woes-keep-us-dollar-rallies-shallow-202608240737"
     },
     {
       "source": "FXStreet - News",
-      "title": "Japanese Yen advances on BoJ rate hike bets, subdued US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-on-boj-rate-hike-bets-subdued-us-dollar-202608240228"
+      "title": "British Pound: Range-trade now, 1.3700 in sight against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trade-now-13700-in-sight-against-us-dollar-uob-202608240733"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Trade conflict weighs on Loonie – Commerzbank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-conflict-weighs-on-loonie-commerzbank-202608240721"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar holds near June highs, above 0.7150 ahead of expected Iran sanctions",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-june-highs-above-07150-ahead-of-expected-iran-sanctions-202608240720"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "ECB's Cipollone: Risk of economic stagnation and sharp inflation rise is rather remote",
+      "link": "https://www.fxstreet.com/news/ecbs-cipollone-risk-of-economic-stagnation-and-sharp-inflation-rise-is-rather-remote-202608240709"
     }
   ]
 }
