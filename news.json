@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T18:00:39.470247+00:00",
+  "updated_at": "2026-08-24T19:51:47.148800+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rally Shows How Treasury Buybacks Are Repricing Monetary Risk",
+      "link": "https://www.investing.com/analysis/gold-rally-shows-how-treasury-buybacks-are-repricing-monetary-risk-200686433"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests a Double Top as Bearish Momentum Builds Amid Ongoing Conflict",
@@ -32,9 +37,34 @@
       "link": "https://www.investing.com/analysis/gold-bulls-beware-if-us-dollar-starts-to-turn-200686397"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Other Bits Get the Contra-Buck Bid",
-      "link": "https://www.investing.com/analysis/gold-and-other-bits-get-the-contrabuck-bid-200686339"
+      "source": "FXStreet - News",
+      "title": "South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-consolidation-zone-eyed-against-us-dollar-commerzbank-202608241951"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index: Cautious rebound capped near 100 – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-cautious-rebound-capped-near-100-scotiabank-202608241936"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Gradual appreciation bias with key levels against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-bias-with-key-levels-against-us-dollar-ocbc-202608241917"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Upside risk stays intact against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-intact-against-us-dollar-uob-202608241841"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rallies as Iran sanctions stoke haven demand",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc eases as US Dollar stabilizes after last week’s sell-off",
+      "link": "https://www.fxstreet.com/news/swiss-franc-eases-as-us-dollar-stabilizes-after-last-weeks-sell-off-202608241814"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "The Dollar Index takes its orders from the Treasury",
       "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Treasury bids and offers the Dow Jones Industrial Average",
-      "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound holds firm as US sanctions on Iran loom",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar retreats from recent highs on weak Retail Sales",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-from-recent-highs-on-weak-retail-sales-202608241552"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
-      "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar pulls back near multi-month highs as traders await RBA Minutes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pulls-back-near-multi-month-highs-as-traders-await-rba-minutes-202608241543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Sentiment supports further gains against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-sentiment-supports-further-gains-against-us-dollar-scotiabank-202608241529"
     }
   ]
 }
