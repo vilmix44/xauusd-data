@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:51:47.148800+00:00",
+  "updated_at": "2026-08-24T21:04:49.507430+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH",
+      "link": "https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso weakens as Iran sanctions offset Mexico’s inflation data",
+      "link": "https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar firms on safe-haven demand ahead of data-heavy Tuesday",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-safe-haven-demand-ahead-of-data-heavy-tuesday-202608242013"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank",
       "link": "https://www.fxstreet.com/news/south-korean-won-consolidation-zone-eyed-against-us-dollar-commerzbank-202608241951"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold rallies as Iran sanctions stoke haven demand",
       "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc eases as US Dollar stabilizes after last week’s sell-off",
-      "link": "https://www.fxstreet.com/news/swiss-franc-eases-as-us-dollar-stabilizes-after-last-weeks-sell-off-202608241814"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Focus shifts to BoJ path – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-focus-shifts-to-boj-path-scotiabank-202608241747"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Dollar Index takes its orders from the Treasury",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-orders-from-the-treasury-202608241647"
     }
   ]
 }
