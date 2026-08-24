@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-24T08:29:45.766766+00:00",
+  "updated_at": "2026-08-24T10:23:50.126468+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Key Test as US Sanctions on Iran Approach",
+      "link": "https://www.investing.com/analysis/gold-faces-a-key-test-as-us-sanctions-on-iran-approach-200686326"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Targets Fresh Highs After 200-Day SMA Breakout",
@@ -8,73 +13,68 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
-      "link": "https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311"
+      "title": "Hot Take: The Next Wave in Gold Could Come From the Options Market",
+      "link": "https://www.investing.com/analysis/hot-take-the-next-wave-in-gold-could-come-from-the-options-market-200686374"
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Miners’ Spectacular Q2 Makes GDXJ a Screaming Buy",
-      "link": "https://www.investing.com/analysis/gold-miners-spectacular-q2-makes-gdxj-a-screaming-buy-200686301"
+      "title": "Gold Breaks Into Escape Velocity: VC PMI Targets $4,788–$4,895",
+      "link": "https://www.investing.com/analysis/gold-breaks-into-escape-velocity-vc-pmi-targets-47884895-200686333"
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Can Treasury Intervention Keep the Gold Rally Alive?",
-      "link": "https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Nears Double Top Formation, Raising Risk of a Sell-Off",
-      "link": "https://www.investing.com/analysis/gold-nears-double-top-formation-raising-risk-of-a-selloff-200686292"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Bulls Regain Control as Price Attacks $4,600",
-      "link": "https://www.investing.com/analysis/gold-bulls-regain-control-as-price-attacks-4600-200686291"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Silver at Historic Highs: Intraday Traders Face the Biggest Test",
-      "link": "https://www.investing.com/analysis/gold-and-silver-at-historic-highs-intraday-traders-face-the-biggest-test-200686281"
+      "title": "Gold Nears Double Top as Iran Sanctions Put Monday’s Move in Focus",
+      "link": "https://www.investing.com/analysis/gold-nears-double-top-as-iran-sanctions-put-mondays-move-in-focus-200686323"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Momentum fades as yields stay high – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-momentum-fades-as-yields-stay-high-mufg-202608240756"
+      "title": "New Zealand Dollar edges down from highs amid soft retail consumption data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-down-from-highs-amid-soft-retail-consumption-data-202608241002"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold eases from mid-May highs as bulls await details of Iran sanctions",
+      "title": "Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-japanese-yen-as-markets-weigh-ecb-boj-rate-hikes-202608240958"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Event-driven risks shape debasement narrative – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-event-driven-risks-shape-debasement-narrative-mufg-202608240958"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-builds-toward-07200-against-us-dollar-uob-202608240948"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Trade tensions threaten recovery against US Dollar - OCBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-threaten-recovery-against-us-dollar-ocbc-202608240939"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds near three-month highs as investors await US sanctions to Iran",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-investors-await-us-sanctions-to-iran-202608240915"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Warsh speech shapes Dollar and Treasuries – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-shapes-dollar-and-treasuries-bny-202608240907"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Slightly bullish within broad range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slightly-bullish-within-broad-range-against-us-dollar-uob-202608240856"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold sticks to gains near mid-May highs; bulls turn cautious amid notable USD strength",
       "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: ECB patience with inflation and growth tension – BNY",
-      "link": "https://www.fxstreet.com/news/euro-ecb-patience-with-inflation-and-growth-tension-bny-202608240746"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound holds near six-month highs as debt woes keep US Dollar rallies shallow",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-highs-as-debt-woes-keep-us-dollar-rallies-shallow-202608240737"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Range-trade now, 1.3700 in sight against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-range-trade-now-13700-in-sight-against-us-dollar-uob-202608240733"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Trade conflict weighs on Loonie – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-conflict-weighs-on-loonie-commerzbank-202608240721"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds near June highs, above 0.7150 ahead of expected Iran sanctions",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-june-highs-above-07150-ahead-of-expected-iran-sanctions-202608240720"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ECB's Cipollone: Risk of economic stagnation and sharp inflation rise is rather remote",
-      "link": "https://www.fxstreet.com/news/ecbs-cipollone-risk-of-economic-stagnation-and-sharp-inflation-rise-is-rather-remote-202608240709"
+      "title": "Gold: Debasement narrative lifts prices – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-debasement-narrative-lifts-prices-td-securities-202608240842"
     }
   ]
 }
