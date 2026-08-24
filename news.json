@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:48:54.847923+00:00",
+  "updated_at": "2026-08-24T23:49:01.495792+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-iran-sanctions-sour-risk-appetite-rba-minutes-eyed-202608242258"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Chinese Yuan: Targeting 6.7200 against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-targeting-67200-against-us-dollar-uob-202608242233"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen lower as US Dollar firms on heavier Iran sanctions",
       "link": "https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH",
-      "link": "https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033"
     }
   ]
 }
