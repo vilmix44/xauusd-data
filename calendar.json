@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:19:30.037928+00:00",
+  "updated_at": "2026-08-25T17:56:20.783623+00:00",
   "events": [
     {
       "title": "Treasury Sec Bessent Speaks",
@@ -142,7 +142,7 @@
       "country": "USD",
       "date": "2026-08-26T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.9M",
+      "forecast": "1.6M",
       "previous": "4.4M"
     },
     {
@@ -182,7 +182,7 @@
       "country": "USD",
       "date": "2026-08-27T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "19B",
       "previous": "16B"
     },
     {

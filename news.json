@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:19:30.037488+00:00",
+  "updated_at": "2026-08-25T17:56:20.783214+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -12,9 +12,14 @@
       "link": "https://www.investing.com/analysis/gold-enters-escapevelocity-zone-square-of-9-and-vc-pmi-align-toward-4800-200686453"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Climbs Toward $4,700 Ahead of Jackson Hole Symposium",
-      "link": "https://www.investing.com/analysis/gold-climbs-toward-4700-ahead-of-jackson-hole-symposium-200686445"
+      "source": "FXStreet - News",
+      "title": "Japanese Yen remains vulnerable despite softer Greenback",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Bond market supports cautious consolidation – ING",
       "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250"
     }
   ]
 }
