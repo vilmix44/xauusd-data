@@ -1,15 +1,45 @@
 {
-  "updated_at": "2026-08-25T17:56:20.783214+00:00",
+  "updated_at": "2026-08-25T19:46:01.279081+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Eyes $5,000 as Rising Rates Signal a Bigger Debt and Confidence Crisis",
+      "link": "https://www.investing.com/analysis/gold-eyes-5000-as-rising-rates-signal-a-bigger-debt-and-confidence-crisis-200686515"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Double Top Leaves $4,649 as the Key Level to Watch",
       "link": "https://www.investing.com/analysis/gold-double-top-leaves-4649-as-the-key-level-to-watch-200686471"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Enters Escape-Velocity Zone: Square of 9 and VC PMI Align Toward $4,800+",
-      "link": "https://www.investing.com/analysis/gold-enters-escapevelocity-zone-square-of-9-and-vc-pmi-align-toward-4800-200686453"
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The US Dollar Index stops paying for hawks who cannot vote",
+      "link": "https://www.fxstreet.com/news/the-us-dollar-index-stops-paying-for-hawks-who-cannot-vote-202608251853"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar stays on the back foot ahead of PCE",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Upside momentum eases against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Credibility risks for USD – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-credibility-risks-for-usd-td-securities-202608251418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-202608251408"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Overbought rally eyes key resistance – UOB",
-      "link": "https://www.fxstreet.com/news/gold-overbought-rally-eyes-key-resistance-uob-202608251359"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro stays near three-month high as US Dollar remains subdued",
-      "link": "https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Trading near fair value against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Bond market supports cautious consolidation – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314"
     }
   ]
 }
