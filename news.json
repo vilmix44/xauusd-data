@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T14:28:28.635170+00:00",
+  "updated_at": "2026-08-25T16:19:30.037488+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -18,6 +18,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound holds near six-month high as Hormuz hopes lift sentiment",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar up modestly on RBA, weak USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Range-bound against US Dollar ahead of Budget – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-ahead-of-budget-scotiabank-202608251508"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
+      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428"
     },
@@ -30,11 +50,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-202608251408"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
-      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
       "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA risks and carry support – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-and-carry-support-bbh-202608251234"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fragmentation risks and reserve diversification – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-fragmentation-risks-and-reserve-diversification-mufg-202608251206"
     }
   ]
 }
