@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:49:01.495792+00:00",
+  "updated_at": "2026-08-25T03:16:02.718407+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-high-inflation-fuels-odds-of-rbnz-september-rate-hikes-202608250300"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar remains steady following RBA Meeting Minutes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-meeting-minutes-202608250205"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro gains support amid hawkish ECB expectations, subdued US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-gains-support-amid-hawkish-ecb-expectations-subdued-us-dollar-202608250108"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed",
       "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-iran-sanctions-sour-risk-appetite-rba-minutes-eyed-202608242258"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "South Korean Won: Rally faces consolidation risk on policy week – OCBC",
       "link": "https://www.fxstreet.com/news/south-korean-won-rally-faces-consolidation-risk-on-policy-week-ocbc-202608242151"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Record intervention bought the Japanese Yen three weeks",
-      "link": "https://www.fxstreet.com/news/record-intervention-bought-the-japanese-yen-three-weeks-202608242148"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11700-caps-bulls-as-rsi-overheats-202608242146"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar muted near multi-month highs as it outweighs soft retail sales",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-muted-near-multi-month-highs-as-it-outweighs-soft-retail-sales-202608242141"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen lower as US Dollar firms on heavier Iran sanctions",
-      "link": "https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115"
     }
   ]
 }

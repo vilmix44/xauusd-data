@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T23:49:01.496268+00:00",
+  "updated_at": "2026-08-25T03:16:02.718907+00:00",
   "events": [
     {
       "title": "Treasury Sec Bessent Speaks",
@@ -110,7 +110,7 @@
       "country": "USD",
       "date": "2026-08-26T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "0.6%"
     },
     {
@@ -118,7 +118,7 @@
       "country": "USD",
       "date": "2026-08-26T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "0.4%",
       "previous": "0.3%"
     },
     {
@@ -142,7 +142,7 @@
       "country": "USD",
       "date": "2026-08-26T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "1.9M",
       "previous": "4.4M"
     },
     {
@@ -166,7 +166,7 @@
       "country": "USD",
       "date": "2026-08-27T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-99.9B",
+      "forecast": "-100.8B",
       "previous": "-101.5B"
     },
     {
@@ -190,7 +190,7 @@
       "country": "USD",
       "date": "2026-08-28T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "57.8",
+      "forecast": "57.9",
       "previous": "57.6"
     },
     {
