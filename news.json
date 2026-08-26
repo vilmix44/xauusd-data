@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:35:29.953223+00:00",
+  "updated_at": "2026-08-26T05:53:26.439584+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -13,8 +13,48 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues",
+      "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-202608260548"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "ECB's Schnabel: Inflation likely to top 2% for extended period",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-202608260541"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-202608260536"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-202608260528"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japan’s Kiuchi: CPI expected to gradually rise due to Middle East conditions",
+      "link": "https://www.fxstreet.com/news/japans-kiuchi-cpi-expected-to-gradually-rise-due-to-middle-east-conditions-202608260423"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Remains sideways ahead of key US events",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sideways-ahead-of-key-us-events-202608260404"
     },
     {
       "source": "FXStreet - News",
@@ -35,46 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar strengthens against Japanese Yen following CPI data",
       "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ to raise rate to 1.25% in September — Reuters poll",
-      "link": "https://www.fxstreet.com/news/boj-to-raise-rate-to-125-in-september-reuters-poll-202608260213"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australia’s CPI inflation declines to 3.5% YoY in July vs. 3.2% forecast",
-      "link": "https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-as-usd-holds-steady-ahead-of-us-pce-202608260120"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro steadies above 1.1650 ahead of US PCE data",
-      "link": "https://www.fxstreet.com/news/euro-steadies-above-11650-ahead-of-us-pce-data-202608260103"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs up to 50% against US",
-      "link": "https://www.fxstreet.com/news/canada-announces-dollar-for-dollar-retaliatory-tariffs-up-to-50-against-us-202608260042"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans",
-      "link": "https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar rises after RBA hawkish minutes, inflation data eyed",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-after-rba-hawkish-minutes-inflation-data-eyed-202608252304"
     }
   ]
 }
