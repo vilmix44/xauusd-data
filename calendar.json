@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T14:27:24.684748+00:00",
+  "updated_at": "2026-08-28T00:57:48.520826+00:00",
   "events": [
     {
       "title": "Treasury Sec Bessent Speaks",
@@ -184,6 +184,14 @@
       "impact": "Low",
       "forecast": "19B",
       "previous": "16B"
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-08-28T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Chicago PMI",
