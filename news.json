@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T22:06:06.581910+00:00",
+  "updated_at": "2026-08-28T22:35:55.183434+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-bok-front-loading-hikes-as-krw-consolidates-commerzbank-202608282233"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones Industrial Average round-trips a Fed that promised nothing",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-a-fed-that-promised-nothing-202608281554"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Japanese Yen gives up the big figure intervention won back",
-      "link": "https://www.fxstreet.com/news/tokyo-reaching-2-is-not-enough-for-the-japanese-yen-202608281535"
     }
   ]
 }
