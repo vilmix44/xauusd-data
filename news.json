@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T23:36:01.967495+00:00",
+  "updated_at": "2026-08-29T00:05:59.281102+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar retreats from highs as Warsh’s hawkish message lifts US Dollar",
       "link": "https://www.fxstreet.com/news/australian-dollar-retreats-from-highs-as-warshs-hawkish-message-lifts-us-dollar-202608281603"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average round-trips a Fed that promised nothing",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-a-fed-that-promised-nothing-202608281554"
     }
   ]
 }
