@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T12:06:51.283373+00:00",
+  "updated_at": "2026-08-31T12:36:02.539170+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Why We Favour Gold Heading Into S&P Crash Season",
       "link": "https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Warsh’s hawkish shift reshapes rate outlook – Rabobank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-warshs-hawkish-shift-reshapes-rate-outlook-rabobank-202608311210"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Germany flash HICP growth remains slower than expected at 2.9% in August",
+      "link": "https://www.fxstreet.com/news/germany-flash-hicp-growth-remains-slower-than-expected-at-29-in-august-202608311202"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Jobs data to test hawkish Fed repricing - BNY",
       "link": "https://www.fxstreet.com/news/us-dollar-jobs-data-to-test-hawkish-fed-repricing-bny-202608311115"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD steadies near $4,400 lows amid rising Fed tightening bets",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-steadies-near-4400-lows-amid-rising-fed-tightening-bets-202608311059"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee faces headwinds from Middle East risks, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
     }
   ]
 }
