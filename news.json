@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:36:08.175862+00:00",
+  "updated_at": "2026-08-31T18:06:23.822292+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold and Silver Face Near-Term Pressure After Sharp Technical Reversals",
       "link": "https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar holds firm amid hawkish Fed and RBA expectations",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-amid-hawkish-fed-and-rba-expectations-202608311753"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Limited downside, range defined against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-limited-downside-range-defined-against-us-dollar-scotiabank-202608311751"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: Attention shifts to US ISM, JOLTs and inflation in Europe",
+      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro holds modest gains as US Dollar lacks momentum, Eurozone inflation in focus",
       "link": "https://www.fxstreet.com/news/euro-holds-modest-gains-as-us-dollar-lacks-momentum-eurozone-inflation-in-focus-202608311354"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver rebounds, but Fed rate-hike threat hangs over the metal",
-      "link": "https://www.fxstreet.com/news/silver-rebounds-but-fed-rate-hike-threat-hangs-over-the-metal-202608311311"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Warsh boosts policy credibility – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-boosts-policy-credibility-ocbc-202608311242"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Warsh’s hawkish shift reshapes rate outlook – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-warshs-hawkish-shift-reshapes-rate-outlook-rabobank-202608311210"
     }
   ]
 }
