@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:36:06.936001+00:00",
+  "updated_at": "2026-08-31T21:06:13.121469+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Bulls defend trendline above 0.5900",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-defend-trendline-above-05900-202608312045"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "The Dollar Index falls through a war and a hawkish repricing",
       "link": "https://www.fxstreet.com/news/the-dollar-index-falls-through-a-war-and-a-hawkish-repricing-202608311630"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131"
     }
   ]
 }

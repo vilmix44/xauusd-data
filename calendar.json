@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:36:06.936511+00:00",
+  "updated_at": "2026-08-31T21:06:13.121902+00:00",
   "events": [
     {
       "title": "FOMC Member Barr Speaks",
@@ -150,7 +150,7 @@
       "country": "USD",
       "date": "2026-09-03T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-86.4B",
+      "forecast": "-89.4B",
       "previous": "-73.3B"
     },
     {
@@ -166,7 +166,7 @@
       "country": "USD",
       "date": "2026-09-03T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "54.1",
+      "forecast": "54.2",
       "previous": "54.1"
     },
     {
