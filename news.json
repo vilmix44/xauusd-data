@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:06:11.796951+00:00",
+  "updated_at": "2026-08-31T10:36:03.842690+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Why We Favour Gold Heading Into S&P Crash Season",
       "link": "https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Warsh speech keeps rate hike debate open – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-keeps-rate-hike-debate-open-commerzbank-202608311005"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee drops amid renewed Middle East tensions, hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Downside risk remains in focus against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-risk-remains-in-focus-against-us-dollar-uob-202608310855"
     }
   ]
 }
