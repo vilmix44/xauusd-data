@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T04:06:16.188485+00:00",
+  "updated_at": "2026-08-31T04:36:01.430427+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608310435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc gains as US Dollar weakens despite Fed Chair Warsh’s hawkish remarks",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-despite-fed-chair-warshs-hawkish-remarks-202608310411"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro edges higher to near 1.1600 ahead of German CPI inflation release",
       "link": "https://www.fxstreet.com/news/euro-edges-higher-to-near-11600-ahead-of-german-cpi-inflation-release-202608310051"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar weakens to near 0.7150 as Fed's Warsh signals rate hikes, China's PMI data loom",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-07150-as-feds-warsh-signals-rate-hikes-chinas-pmi-data-loom-202608302332"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341"
     }
   ]
 }
