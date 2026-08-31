@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-31T07:36:07.447772+00:00",
+  "updated_at": "2026-08-31T08:06:38.093089+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Why We Favour Gold Heading Into S&P Crash Season",
+      "link": "https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Brent Reclaims $90 as Bulls Target $95, Gold Awaits Warsh",
@@ -20,6 +25,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Pullback risk toward 0.7120 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-risk-toward-07120-against-us-dollar-uob-202608310800"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD regains ground near $65.70, focus shifts to US NFP",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-regains-ground-near-6570-focus-shifts-to-us-nfp-202608310758"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: Tensions re-escalate in Mideast, USD consolidates Fed-inspired rally",
+      "link": "https://www.fxstreet.com/news/forex-today-tensions-re-escalate-in-mideast-usd-consolidates-fed-inspired-rally-202608310750"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold: Fed hawkishness caps upside – ING",
+      "link": "https://www.fxstreet.com/news/gold-fed-hawkishness-caps-upside-ing-202608310750"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Inflation test for ECB hike odds – BNY",
+      "link": "https://www.fxstreet.com/news/euro-inflation-test-for-ecb-hike-odds-bny-202608310739"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar gathers strength above 0.5900 on stronger China PMI data",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-above-05900-on-stronger-china-pmi-data-202608310658"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee ticks lower as renewed Middle East tensions lift oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asian stock markets face slight pressure from renewed geopolitical risks, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-face-slight-pressure-renewed-geopolitical-risks-hawkish-fed-bets-202608310642"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Downside risks with 1.3480 in sight against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-risks-with-13480-in-sight-against-us-dollar-uob-202608310628"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound holds losses amid geopolitical tensions, Fed tightening hopes",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-losses-amid-geopolitical-tensions-fed-tightening-hopes-202608310624"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Warsh speech weighs on EUR against US Dollar – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-warsh-speech-weighs-on-eur-against-us-dollar-danske-bank-202608310619"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro falls against Japanese Yen ahead of German inflation data",
-      "link": "https://www.fxstreet.com/news/euro-falls-against-japanese-yen-ahead-of-german-inflation-data-202608310603"
     }
   ]
 }
