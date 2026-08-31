@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T23:05:59.737153+00:00",
+  "updated_at": "2026-08-31T23:36:07.109207+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Limited downside, range defined against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-limited-downside-range-defined-against-us-dollar-scotiabank-202608311751"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Attention shifts to US ISM, JOLTS and inflation in Europe",
-      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749"
     }
   ]
 }
