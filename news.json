@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T05:06:01.517973+00:00",
+  "updated_at": "2026-08-31T05:36:08.569306+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee opens lower as renewed US-Iran tensions lift oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar inches higher as China’s Manufacturing PMI ticks up in August",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-chinas-manufacturing-pmi-ticks-up-in-august-202608310159"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold drifts lower below $4,450 as hawkish Warsh remarks lift Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-below-4-450-as-hawkish-warsh-remarks-lift-fed-hike-bets-202608310145"
     }
   ]
 }
