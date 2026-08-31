@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:06:10.067150+00:00",
+  "updated_at": "2026-08-31T13:36:06.131274+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Downside Risk Deepens if the 4,432–4,454 Support Zone Fails",
       "link": "https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver rebounds, but Fed rate-hike threat hangs over the metal",
+      "link": "https://www.fxstreet.com/news/silver-rebounds-but-fed-rate-hike-threat-hangs-over-the-metal-202608311311"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar holds above 0.5900 as traders await RBNZ decision",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-above-05900-as-traders-await-rbnz-decision-202608311117"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Jobs data to test hawkish Fed repricing - BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-data-to-test-hawkish-fed-repricing-bny-202608311115"
     }
   ]
 }
