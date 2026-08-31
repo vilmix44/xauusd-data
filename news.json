@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:06:14.900976+00:00",
+  "updated_at": "2026-08-31T03:35:58.901528+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dollar: rebound needs stronger data – TD Cowen",
+      "link": "https://www.fxstreet.com/news/dollar-rebound-needs-stronger-data-td-cowen-202608310332"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD falls to near $66.00 amid Fed Chair Warsh’s hawkish tone",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6600-amid-fed-chair-warshs-hawkish-tone-202608310309"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank",
       "link": "https://www.fxstreet.com/news/south-korean-won-bok-front-loading-hikes-as-krw-consolidates-commerzbank-202608282233"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Philippine Peso: BSP tightening bias on inflation risks – DBS",
-      "link": "https://www.fxstreet.com/news/philippine-peso-bsp-tightening-bias-on-inflation-risks-dbs-202608282156"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: Higher rates and chip boom support gains – ING",
-      "link": "https://www.fxstreet.com/news/south-korean-won-higher-rates-and-chip-boom-support-gains-ing-202608282118"
     }
   ]
 }
