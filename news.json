@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:06:10.840230+00:00",
+  "updated_at": "2026-08-31T20:36:06.936001+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Supported below 160 against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-supported-below-160-against-us-dollar-scotiabank-202608312012"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
       "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc gains as US Dollar loses post-Jackson Hole momentum",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-loses-post-jackson-hole-momentum-202608311504"
     }
   ]
 }
