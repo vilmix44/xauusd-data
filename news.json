@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T05:36:08.569306+00:00",
+  "updated_at": "2026-08-31T06:07:34.791531+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro falls against Japanese Yen ahead of German inflation data",
+      "link": "https://www.fxstreet.com/news/euro-falls-against-japanese-yen-ahead-of-german-inflation-data-202608310603"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Gains ground to near 1.1600, bullish vibe prevails above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-ground-to-near-11600-bullish-vibe-prevails-above-100-day-sma-202608310556"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold pares intraday losses to sub-$4,400 levels on softer USD; not out of the woods yet",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-nearly-two-week-low-as-hawkish-fed-bets-rise-amid-oil-driven-inflation-fears-202608310440"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indian Rupee opens lower as renewed US-Iran tensions lift oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
     },
@@ -30,11 +45,6 @@
       "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Holds above 0.7150 on soft USD; Fed/Iran risks curb upside",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07150-on-soft-usd-fed-iran-risks-curb-upside-202608310502"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold drops to nearly two-week low as hawkish Fed bets rise amid oil-driven inflation fears",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-nearly-two-week-low-as-hawkish-fed-bets-rise-amid-oil-driven-inflation-fears-202608310440"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar eases from July 9 high vs New Zealand Dollar; awaits Aussie GDP and RBNZ",
       "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-july-9-high-vs-new-zealand-dollar-awaits-aussie-gdp-and-rbnz-202608310247"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar strengthens despite hawkish Fed rhetoric",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-hawkish-fed-rhetoric-202608310235"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar inches higher as China’s Manufacturing PMI ticks up in August",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-chinas-manufacturing-pmi-ticks-up-in-august-202608310159"
     }
   ]
 }
