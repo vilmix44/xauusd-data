@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:36:03.842690+00:00",
+  "updated_at": "2026-08-31T11:06:09.451493+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD steadies near $4.400 lows amid rising Fed tightening bets",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-steadies-near-4400-lows-amid-rising-fed-tightening-bets-202608311059"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee faces headwinds from Middle East risks, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "GBP/USD Price Forecast: Finds ground slightly below 20-day EMA",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-finds-ground-slightly-below-20-day-ema-202608311041"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "US Dollar: Warsh speech keeps rate hike debate open – Commerzbank",
       "link": "https://www.fxstreet.com/news/us-dollar-warsh-speech-keeps-rate-hike-debate-open-commerzbank-202608311005"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Hawkish Fed pricing supports Dollar into payrolls – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-pricing-supports-dollar-into-payrolls-bbh-202608310904"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: DXY fails near 100-SMA/38.2% Fibo. confluence around 99.75",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-fails-near-100-sma-382-fibo-confluence-around-9975-202608310900"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608310857"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee drops amid renewed Middle East tensions, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525"
     }
   ]
 }
