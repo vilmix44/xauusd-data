@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T19:36:01.602943+00:00",
+  "updated_at": "2026-08-31T20:06:10.840230+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
+      "link": "https://www.fxstreet.com/news/mexican-peso-appreciates-as-usd-mxn-dives-on-usd-weakness-202608311948"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc gains as US Dollar loses post-Jackson Hole momentum",
       "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-loses-post-jackson-hole-momentum-202608311504"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar outperforms US Dollar as geopolitical tensions boost Oil",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-outperforms-us-dollar-as-geopolitical-tensions-boost-oil-202608311453"
     }
   ]
 }
