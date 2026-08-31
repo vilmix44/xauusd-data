@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T14:06:15.381926+00:00",
+  "updated_at": "2026-08-31T14:36:07.296493+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Canadian Dollar: Rangebound near fair value against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rangebound-near-fair-value-against-us-dollar-scotiabank-202608311420"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Singapore Dollar: Range consolidation after sharp decline against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-range-consolidation-after-sharp-decline-against-us-dollar-uob-202608311401"
     },
@@ -40,11 +50,6 @@
       "source": "FXStreet - News",
       "title": "Silver rebounds, but Fed rate-hike threat hangs over the metal",
       "link": "https://www.fxstreet.com/news/silver-rebounds-but-fed-rate-hike-threat-hangs-over-the-metal-202608311311"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/JPY Price Forecast: Faces selling pressure above 160.00",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-faces-selling-pressure-above-16000-202608311143"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro languishes around 1.1600 amid Fed hiking hopes, fresh tensions in Iran",
-      "link": "https://www.fxstreet.com/news/euro-languages-around-11600-amid-fed-hiking-hopes-fresh-tensions-in-iran-202608311134"
     }
   ]
 }
