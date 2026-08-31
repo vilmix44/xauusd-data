@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:06:02.781345+00:00",
+  "updated_at": "2026-08-31T22:36:14.489709+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The New Zealand Dollar has nothing left to win",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-has-nothing-left-to-win-202608312235"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound edges higher as USD softens ahead US jobs data",
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-usd-softens-ahead-us-jobs-data-202608311634"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Dollar Index falls through a war and a hawkish repricing",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-falls-through-a-war-and-a-hawkish-repricing-202608311630"
     }
   ]
 }
