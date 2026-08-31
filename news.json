@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:06:18.640495+00:00",
+  "updated_at": "2026-08-31T16:36:02.168119+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold and Silver Face Near-Term Pressure After Sharp Technical Reversals",
       "link": "https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound edges higher as USD softens ahead US jobs data",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-usd-softens-ahead-us-jobs-data-202608311634"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Dollar Index falls through a war and a hawkish repricing",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-falls-through-a-war-and-a-hawkish-repricing-202608311630"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Federal Reserve: Warsh’s hawkish shift reshapes rate outlook – Rabobank",
       "link": "https://www.fxstreet.com/news/federal-reserve-warshs-hawkish-shift-reshapes-rate-outlook-rabobank-202608311210"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Germany flash HICP growth remains slower than expected at 2.9% in August",
-      "link": "https://www.fxstreet.com/news/germany-flash-hicp-growth-remains-slower-than-expected-at-29-in-august-202608311202"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: ECB tightening expectations support pair – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-expectations-support-pair-bbh-202608311147"
     }
   ]
 }
