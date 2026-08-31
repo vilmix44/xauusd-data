@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-31T14:36:07.296493+00:00",
+  "updated_at": "2026-08-31T15:06:17.039410+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Correction Tests Whether the Bullish Trend Can Hold Above $4,250",
+      "link": "https://www.investing.com/analysis/gold-correction-tests-whether-the-bullish-trend-can-hold-above-4250-200686839"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Oil Puts Hormuz Risk Back at the Center of the Inflation Trade",
@@ -22,9 +27,14 @@
       "link": "https://www.investing.com/analysis/gold-bearish-gap-strengthens-fed-ratehike-bets-as-downside-risks-build-200686795"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Downside Risk Deepens if the 4,432–4,454 Support Zone Fails",
-      "link": "https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787"
+      "source": "FXStreet - News",
+      "title": "Swiss Franc gains as US Dollar loses post-Jackson Hole momentum",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-loses-post-jackson-hole-momentum-202608311504"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar outperforms US Dollar as geopolitical tensions boost Oil",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-outperforms-us-dollar-as-geopolitical-tensions-boost-oil-202608311453"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Germany flash HICP growth remains slower than expected at 2.9% in August",
       "link": "https://www.fxstreet.com/news/germany-flash-hicp-growth-remains-slower-than-expected-at-29-in-august-202608311202"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: ECB tightening expectations support pair – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-expectations-support-pair-bbh-202608311147"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/JPY Price Forecast: Faces selling pressure above 160.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-faces-selling-pressure-above-16000-202608311143"
     }
   ]
 }
