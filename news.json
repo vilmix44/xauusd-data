@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T02:06:27.295312+00:00",
+  "updated_at": "2026-08-31T02:36:12.657166+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar strengthens despite hawkish Fed rhetoric",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-hawkish-fed-rhetoric-202608310235"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Mexican Peso tumbles as Warsh embarks on inflation fight",
       "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-warsh-embarks-on-inflation-fight-202608282024"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Undervaluation and export gains questioned – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-undervaluation-and-export-gains-questioned-commerzbank-202608282001"
     }
   ]
 }
