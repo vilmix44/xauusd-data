@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:36:06.131274+00:00",
+  "updated_at": "2026-08-31T14:06:15.381926+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Downside Risk Deepens if the 4,432–4,454 Support Zone Fails",
       "link": "https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Range consolidation after sharp decline against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-consolidation-after-sharp-decline-against-us-dollar-uob-202608311401"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds modest gains as US Dollar lacks momentum, Eurozone inflation in focus",
+      "link": "https://www.fxstreet.com/news/euro-holds-modest-gains-as-us-dollar-lacks-momentum-eurozone-inflation-in-focus-202608311354"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro languishes around 1.1600 amid Fed hiking hopes, fresh tensions in Iran",
       "link": "https://www.fxstreet.com/news/euro-languages-around-11600-amid-fed-hiking-hopes-fresh-tensions-in-iran-202608311134"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: BoC dovish tone and tariff risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-dovish-tone-and-tariff-risks-td-securities-202608311130"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar holds above 0.5900 as traders await RBNZ decision",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-above-05900-as-traders-await-rbnz-decision-202608311117"
     }
   ]
 }
