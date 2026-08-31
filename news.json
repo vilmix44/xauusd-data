@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-31T18:06:23.822292+00:00",
+  "updated_at": "2026-08-31T18:36:07.901544+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Fresh Pressure as Oil Risks Complicate the Fed Outlook",
+      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-oil-risks-complicate-the-fed-outlook-200686842"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Correction Tests Whether the Bullish Trend Can Hold Above $4,250",
@@ -17,9 +22,9 @@
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Silver Face Near-Term Pressure After Sharp Technical Reversals",
-      "link": "https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794"
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821"
     },
     {
       "source": "FXStreet - News",
@@ -33,7 +38,7 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Forex Today: Attention shifts to US ISM, JOLTs and inflation in Europe",
+      "title": "Forex Today: Attention shifts to US ISM, JOLTS and inflation in Europe",
       "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749"
     },
     {
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Singapore Dollar: Range consolidation after sharp decline against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-range-consolidation-after-sharp-decline-against-us-dollar-uob-202608311401"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds modest gains as US Dollar lacks momentum, Eurozone inflation in focus",
-      "link": "https://www.fxstreet.com/news/euro-holds-modest-gains-as-us-dollar-lacks-momentum-eurozone-inflation-in-focus-202608311354"
     }
   ]
 }
