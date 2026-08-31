@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:35:55.608702+00:00",
+  "updated_at": "2026-08-31T00:08:11.957491+00:00",
   "events": [
     {
       "title": "FOMC Member Barr Speaks",
@@ -176,6 +176,22 @@
       "impact": "Low",
       "forecast": "",
       "previous": "15B"
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-09-03T15:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-03T15:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Average Hourly Earnings m/m",
