@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T09:36:17.546512+00:00",
+  "updated_at": "2026-08-31T10:06:11.796951+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Why We Favour Gold Heading Into S&P Crash Season",
       "link": "https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar edges lower as mixed Chinese PMIs fail to impress",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-mixed-chinese-pmis-fail-to-impress-202608310948"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar: RBNZ seen hiking in September – UOB",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-seen-hiking-in-september-uob-202608310940"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Downside risk remains in focus against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/euro-downside-risk-remains-in-focus-against-us-dollar-uob-202608310855"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro recovers against US Dollar, German CPI accelerates",
-      "link": "https://www.fxstreet.com/news/euro-recovers-against-us-dollar-german-cpi-accelerates-202608310850"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA hike risks linger – OCBC",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-risks-linger-ocbc-202608310846"
     }
   ]
 }
