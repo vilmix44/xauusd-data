@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-08-31T09:06:09.866324+00:00",
+  "updated_at": "2026-08-31T09:36:17.546512+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Oil Puts Hormuz Risk Back at the Center of the Inflation Trade",
+      "link": "https://www.investing.com/analysis/oil-puts-hormuz-risk-back-at-the-center-of-the-inflation-trade-200686810"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
@@ -27,14 +32,14 @@
       "link": "https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Brent Reclaims $90 as Bulls Target $95, Gold Awaits Warsh",
-      "link": "https://www.investing.com/analysis/brent-reclaims-90-as-bulls-target-95-gold-awaits-warsh-200686744"
+      "source": "FXStreet - News",
+      "title": "Asia FX: Fed repricing pressures regional currencies – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-fed-repricing-pressures-regional-currencies-mufg-202608310932"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests a Critical Breakout as the Descending Channel Comes Under Pressure",
-      "link": "https://www.investing.com/analysis/gold-tests-a-critical-breakout-as-the-descending-channel-comes-under-pressure-200686728"
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar : Modest downside on trade risks and yields – HSBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-modest-downside-on-trade-risks-and-yields-hsbc-202608310919"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar: RBA hike risks linger – OCBC",
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-risks-linger-ocbc-202608310846"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold steadies below $4,450; seems vulnerable amid rising Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-nearly-two-week-low-as-hawkish-fed-bets-rise-amid-oil-driven-inflation-fears-202608310440"
     }
   ]
 }
