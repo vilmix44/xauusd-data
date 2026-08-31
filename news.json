@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:36:14.489709+00:00",
+  "updated_at": "2026-08-31T23:05:59.737153+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: Attention shifts to US ISM, JOLTS and inflation in Europe",
       "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound edges higher as USD softens ahead US jobs data",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-usd-softens-ahead-us-jobs-data-202608311634"
     }
   ]
 }
