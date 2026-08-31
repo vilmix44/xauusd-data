@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T01:36:08.278766+00:00",
+  "updated_at": "2026-08-31T02:06:27.295312+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar inches higher as China’s Manufacturing PMI ticks up in August",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-inches-higher-as-chinas-manufacturing-pmi-ticks-up-in-august-202608310159"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold drifts lower below $4,450 as hawkish Warsh remarks lift Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-drifts-lower-below-4-450-as-hawkish-warsh-remarks-lift-fed-hike-bets-202608310145"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar moves little following China’s NBS PMI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-moves-little-following-chinas-nbs-pmi-data-202608310143"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Undervaluation and export gains questioned – Commerzbank",
       "link": "https://www.fxstreet.com/news/chinese-yuan-undervaluation-and-export-gains-questioned-commerzbank-202608282001"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoE’s Bailey sees muted inflation effects ahead of policy meeting",
-      "link": "https://www.fxstreet.com/news/boes-bailey-sees-muted-inflation-effects-ahead-of-boes-meeting-202608281848"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Goolsbee says inflation is the main issue right now",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-is-the-main-issue-right-now-202608281823"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold tumbles as Warsh sparks rally on the US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-slides-as-warsh-hawkish-tilt-lifts-us-dollar-and-us-yields-202608281517"
     }
   ]
 }
