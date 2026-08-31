@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T03:35:58.901528+00:00",
+  "updated_at": "2026-08-31T04:06:16.188485+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,7 +23,12 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Dollar: rebound needs stronger data – TD Cowen",
+      "title": "United States Dollar Index trades slightly lower at the start of the US NFP week",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-slightly-lower-at-the-start-of-the-us-nfp-week-202608310351"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar: Rebound needs stronger payrolls data – TD Cowen",
       "link": "https://www.fxstreet.com/news/dollar-rebound-needs-stronger-data-td-cowen-202608310332"
     },
     {
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank",
       "link": "https://www.fxstreet.com/news/south-korean-won-bok-tightening-supports-krw-against-us-dollar-commerzbank-202608282341"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank",
-      "link": "https://www.fxstreet.com/news/south-korean-won-bok-front-loading-hikes-as-krw-consolidates-commerzbank-202608282233"
     }
   ]
 }
