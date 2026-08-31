@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T02:36:12.657166+00:00",
+  "updated_at": "2026-08-31T03:06:14.900976+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bullish Structure Hinges on Holding the $4,577-$4,583 Zone",
       "link": "https://www.investing.com/analysis/gold-bullish-structure-hinges-on-holding-the-45774583-zone-200686717"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar eases from July 9 high vs New Zealand Dollar; awaits Aussie GDP and RBNZ",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-july-9-high-vs-new-zealand-dollar-awaits-aussie-gdp-and-rbnz-202608310247"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "South Korean Won: Higher rates and chip boom support gains – ING",
       "link": "https://www.fxstreet.com/news/south-korean-won-higher-rates-and-chip-boom-support-gains-ing-202608282118"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso tumbles as Warsh embarks on inflation fight",
-      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-warsh-embarks-on-inflation-fight-202608282024"
     }
   ]
 }
