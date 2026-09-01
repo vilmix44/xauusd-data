@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T13:40:53.792321+00:00",
+  "updated_at": "2026-09-01T14:11:41.295583+00:00",
   "events": [
     {
       "title": "FOMC Member Barr Speaks",
@@ -52,7 +52,7 @@
     {
       "title": "RCM/TIPP Economic Optimism",
       "country": "USD",
-      "date": "2026-09-01T10:10:00-04:00",
+      "date": "2026-09-01T10:14:00-04:00",
       "impact": "Low",
       "forecast": "46.2",
       "previous": "45.1"

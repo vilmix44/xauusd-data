@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T13:40:53.791929+00:00",
+  "updated_at": "2026-09-01T14:11:41.295093+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold sellers retain control despite US manufacturing PMI miss",
+      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Yield cap and intervention shape risks – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-yield-cap-and-intervention-shape-risks-bbh-202609011356"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen weakens as Japan’s 10-year yield hits 3% for first time since 1996",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-japans-10-year-yield-hits-3-for-first-time-since-1996-202609011347"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro area: Inflation jump supports ECB hike – Commerzbank",
       "link": "https://www.fxstreet.com/news/euro-area-inflation-jump-supports-ecb-hike-commerzbank-202609011333"
     },
@@ -58,23 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "US JOLTS Job Openings set to reflect stable labor market ahead of NFP",
-      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-set-to-show-a-steady-labor-market-202609011000"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
-      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Australian Dollar retreats as rising US yields overshadow upbeat Chinese PMI",
       "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-rising-us-yields-overshadow-upbeat-chinese-pmi-202609011244"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar retreats as US Dollar benefits from Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-us-dollar-benefits-from-fed-rate-hike-bets-202609011240"
     }
   ]
 }
