@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:41:11.618017+00:00",
+  "updated_at": "2026-09-01T10:11:41.889985+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro: Rebound capped by nearby resistance against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-rebound-capped-by-nearby-resistance-against-us-dollar-uob-202609011002"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Jackson Hole keeps hike risk alive – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-keeps-hike-risk-alive-mufg-202609010953"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Brazilian Real: Fiscal risks weigh on currency – Commerzbank",
       "link": "https://www.fxstreet.com/news/brazilian-real-fiscal-risks-weigh-on-currency-commerzbank-202609010939"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/JPY Price Forecast: 20-day EMA becomes dynamic support now",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-becomes-dynamic-support-now-202609010915"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds losses against Canadian Dollar following Eurozone HICP data",
-      "link": "https://www.fxstreet.com/news/euro-holds-losses-against-canadian-dollar-following-eurozone-hicp-data-202609010913"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Consolidation before potential push to 160.55 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-consolidation-before-potential-push-to-16055-against-us-dollar-uob-202609010908"
     }
   ]
 }
