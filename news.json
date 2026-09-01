@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T02:40:19.420561+00:00",
+  "updated_at": "2026-09-01T03:12:00.460836+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar remains subdued despite stronger Chinese PMI data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-despite-stronger-chinese-pmi-data-202609010245"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
       "link": "https://www.fxstreet.com/news/mexican-peso-appreciates-as-usd-mxn-dives-on-usd-weakness-202608311948"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Near-term pressure against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-near-term-pressure-against-us-dollar-ocbc-202608311849"
     }
   ]
 }
