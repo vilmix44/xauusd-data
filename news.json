@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:08:16.321050+00:00",
+  "updated_at": "2026-09-01T16:49:11.896442+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Crude Oil goes vertical on fresh explosions in southern Iran",
+      "link": "https://www.fxstreet.com/news/crude-oil-goes-vertical-on-fresh-explosions-in-southern-iran-202609011642"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "New Zealand Dollar struggles to rebound despite softer US data",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-rebound-despite-softer-us-data-202609011602"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro struggles as softer-than-expected US econoomic data offer little relief",
       "link": "https://www.fxstreet.com/news/euro-struggles-as-softer-than-expected-us-econoomic-data-offer-little-relief-202609011445"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed risks and election scenarios – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-risks-and-election-scenarios-td-securities-202609011441"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Pricing stays supported as Fed path questioned – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419"
     }
   ]
 }
