@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:11:12.476107+00:00",
+  "updated_at": "2026-09-01T11:40:13.517305+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Dollar: September hike odds stay elevated – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-september-hike-odds-stay-elevated-bbh-202609011131"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee gains on India's upbeat Q2 GDP, narrowed fiscal deficit data",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Trade tensions and extended BoC hold – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-extended-boc-hold-td-securities-202609011111"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
       "link": "https://www.fxstreet.com/news/silver-drops-below-65-as-hawkish-fed-bets-weigh-on-xag-usd-202609011107"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Rebound capped by nearby resistance against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/euro-rebound-capped-by-nearby-resistance-against-us-dollar-uob-202609011002"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Jackson Hole keeps hike risk alive – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-keeps-hike-risk-alive-mufg-202609010953"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Fiscal risks weigh on currency – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-fiscal-risks-weigh-on-currency-commerzbank-202609010939"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: Fiscal risks cap gains against Euro - Societe Generale",
-      "link": "https://www.fxstreet.com/news/polish-zloty-fiscal-risks-cap-gains-against-euro-societe-generale-202609010927"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee gains on India's upbeat Q2 GDP, narrowed fiscal deficit data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543"
     }
   ]
 }
