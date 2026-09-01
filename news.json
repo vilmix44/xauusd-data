@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T23:09:51.049076+00:00",
+  "updated_at": "2026-09-01T23:37:01.636690+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "RBNZ expected to hike interest rate amid sticky inflation",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
       "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239"
     },
@@ -45,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "RBNZ set to raise interest rate to 2.75%",
-      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
       "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold collapses as US-Iran strikes send Oil, US yields higher",
-      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930"
     }
   ]
 }
