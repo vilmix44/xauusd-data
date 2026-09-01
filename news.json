@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:49:11.896442+00:00",
+  "updated_at": "2026-09-01T17:11:04.227482+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Forex Today: Enter the US labour market",
+      "link": "https://www.fxstreet.com/news/forex-today-enter-the-us-labour-market-202609011705"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Crude Oil goes vertical on fresh explosions in southern Iran",
       "link": "https://www.fxstreet.com/news/crude-oil-goes-vertical-on-fresh-explosions-in-southern-iran-202609011642"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "United Kingdom: Growth cools as inflation risks build – Deutsche Bank",
       "link": "https://www.fxstreet.com/news/united-kingdom-growth-cools-as-inflation-risks-build-deutsche-bank-202609011504"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro struggles as softer-than-expected US econoomic data offer little relief",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-softer-than-expected-us-econoomic-data-offer-little-relief-202609011445"
     }
   ]
 }
