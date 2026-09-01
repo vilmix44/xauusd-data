@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:10:26.150368+00:00",
+  "updated_at": "2026-09-01T22:39:09.288324+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Range-bound consolidation outlook against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-consolidation-outlook-against-us-dollar-uob-202609012224"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States Treasury yields read Iran strikes as inflation",
       "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index gains as US-Iran tensions escalate, Treasury yields rise",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-gains-as-us-iran-tensions-escalate-treasury-yields-rise-202609011821"
     }
   ]
 }
