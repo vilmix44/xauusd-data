@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:15:22.721150+00:00",
+  "updated_at": "2026-09-01T06:44:27.825367+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Modest rebound against US Dollar as yields rise – Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-modest-rebound-against-us-dollar-as-yields-rise-danske-bank-202609010629"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CAD Price Forecast: Trade tensions to keep Canadian Dollar under pressure",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-trade-tensions-to-keep-canadian-dollar-under-pressure-202609010628"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro keeps hovering just above 1.1600 despite downbeat German Retail Sales data",
+      "link": "https://www.fxstreet.com/news/euro-keeps-hovering-just-above-11600-despite-downbeat-german-retail-sales-data-202609010626"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11450-as-bullish-technical-setup-holds-202609010358"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar remains subdued despite stronger Chinese PMI data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-despite-stronger-chinese-pmi-data-202609010245"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds gains following stronger Chinese PMI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-on-stronger-chinese-pmi-data-202609010208"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound softens to near 1.3550 on geopolitical tensions, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13550-on-geopolitical-tensions-hawkish-fed-bets-202609010200"
     }
   ]
 }
