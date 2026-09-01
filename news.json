@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:44:10.918930+00:00",
+  "updated_at": "2026-09-01T13:11:52.004561+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indian Rupee: RBI seen hiking as inflation risks build – UOB",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-hiking-as-inflation-risks-build-uob-202609011309"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US JOLTS Job Openings set to reflect stable labor market ahead of NFP",
+      "link": "https://www.fxstreet.com/news/us-jolts-job-openings-set-to-show-a-steady-labor-market-202609011000"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
+      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar retreats as rising US yields overshadow upbeat Chinese PMI",
+      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-rising-us-yields-overshadow-upbeat-chinese-pmi-202609011244"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Canadian Dollar retreats as US Dollar benefits from Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-us-dollar-benefits-from-fed-rate-hike-bets-202609011240"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-extends-reversal-below-4400-amid-fed-hawkish-repricing-202609011150"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Policy pressure and FX path – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-pressure-and-fx-path-rabobank-202609011146"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Upbeat US Dollar stresses on major currency pair",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-upbeat-us-dollar-stresses-on-major-currency-pair-202609011143"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: September hike odds stay elevated – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-september-hike-odds-stay-elevated-bbh-202609011131"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
-      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
     }
   ]
 }
