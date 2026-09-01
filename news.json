@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:14:03.125707+00:00",
+  "updated_at": "2026-09-01T18:41:34.011785+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "United States Treasury yields read Iran strikes as inflation",
+      "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index gains as US-Iran tensions escalate, Treasury yields rise",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-gains-as-us-iran-tensions-escalate-treasury-yields-rise-202609011821"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Forex Today: Enter the US labour market",
       "link": "https://www.fxstreet.com/news/forex-today-enter-the-us-labour-market-202609011705"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
       "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound stalls as mixed US data keeps Fed hawkish bets alive",
-      "link": "https://www.fxstreet.com/news/british-pound-stalls-as-mixed-us-data-keeps-fed-hawkish-bets-alive-202609011533"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United Kingdom: Growth cools as inflation risks build – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/united-kingdom-growth-cools-as-inflation-risks-build-deutsche-bank-202609011504"
     }
   ]
 }
