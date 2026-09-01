@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T04:40:47.070026+00:00",
+  "updated_at": "2026-09-01T05:10:39.544945+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah declines despite higher August inflation",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-despite-higher-august-inflation-202609010506"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
       "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The New Zealand Dollar has nothing left to win",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-has-nothing-left-to-win-202608312235"
     }
   ]
 }
