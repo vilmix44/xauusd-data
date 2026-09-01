@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T05:40:19.761487+00:00",
+  "updated_at": "2026-09-01T06:15:22.721150+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: Growth surprise supports range view against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-growth-surprise-supports-range-view-against-us-dollar-commerzbank-202609010609"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index edges up to near 99.50, supported by higher bond yields",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-edges-up-to-near-9950-supported-by-higher-bond-yields-202609010548"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee hits fresh two-month high against US Dollar",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound softens to near 1.3550 on geopolitical tensions, hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13550-on-geopolitical-tensions-hawkish-fed-bets-202609010200"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar consolidates vs USD as rising oil prices and Fed hike bets clash",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-vs-usd-as-rising-oil-prices-and-fed-hike-bets-clash-202609010113"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds gains above 1.1600 ahead of Eurozone HICP inflation data",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-ahead-of-eurozone-hicp-inflation-data-202609010057"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330"
     }
   ]
 }
