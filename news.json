@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:11:41.295093+00:00",
+  "updated_at": "2026-09-01T14:46:09.697935+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests $4,400 Support: What Would Confirm the Next Move?",
       "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Fed risks and election scenarios – TD Securities",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-risks-and-election-scenarios-td-securities-202609011441"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold: Pricing stays supported as Fed path questioned – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "“Good news” on inflation: ECB’s Nagel sees no second-round effects",
       "link": "https://www.fxstreet.com/news/good-news-on-inflation-ecbs-nagel-sees-no-second-round-effects-202609011316"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: RBI seen hiking as inflation risks build – UOB",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-hiking-as-inflation-risks-build-uob-202609011309"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar retreats as rising US yields overshadow upbeat Chinese PMI",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-rising-us-yields-overshadow-upbeat-chinese-pmi-202609011244"
     }
   ]
 }
