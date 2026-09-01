@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:46:09.697935+00:00",
+  "updated_at": "2026-09-01T15:10:36.249180+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests $4,400 Support: What Would Confirm the Next Move?",
       "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United Kingdom: Growth cools as inflation risks build – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/united-kingdom-growth-cools-as-inflation-risks-build-deutsche-bank-202609011504"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro struggles as softer-than-expected US econoomic data offer little relief",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-softer-than-expected-us-econoomic-data-offer-little-relief-202609011445"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Fed’s Barr keeps rate hike on the table as inflation persists",
       "link": "https://www.fxstreet.com/news/feds-barr-keeps-rate-hike-on-the-table-as-inflation-persists-202609011324"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Pair extends recovery above key moving averages",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-extends-recovery-above-key-moving-averages-202609011321"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "“Good news” on inflation: ECB’s Nagel sees no second-round effects",
-      "link": "https://www.fxstreet.com/news/good-news-on-inflation-ecbs-nagel-sees-no-second-round-effects-202609011316"
     }
   ]
 }
