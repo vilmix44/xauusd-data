@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T00:45:49.591936+00:00",
+  "updated_at": "2026-09-01T01:10:52.170589+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds gains above 1.1600 ahead of Eurozone HICP inflation data",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-ahead-of-eurozone-hicp-inflation-data-202609010057"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar holds firm amid hawkish Fed and RBA expectations",
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-amid-hawkish-fed-and-rba-expectations-202608311753"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Limited downside, range defined against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-limited-downside-range-defined-against-us-dollar-scotiabank-202608311751"
     }
   ]
 }
