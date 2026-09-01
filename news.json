@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-01T20:40:04.083221+00:00",
+  "updated_at": "2026-09-01T21:11:26.087432+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "War Returns, Gold Falls: The Signal Traders Can’t Ignore",
+      "link": "https://www.investing.com/analysis/war-returns-gold-falls-the-signal-traders-cant-ignore-200686929"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Bear Market Deepens as Rate Hike Odds Surge",
@@ -27,9 +32,9 @@
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Price Analysis: XAU/USD Holds $4,400 After Hawkish Warsh",
-      "link": "https://www.investing.com/analysis/gold-price-analysis-xauusd-holds-4400-after-hawkish-warsh-200686880"
+      "source": "FXStreet - News",
+      "title": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
+      "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
       "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar struggles to rebound despite softer US data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-rebound-despite-softer-us-data-202609011602"
     }
   ]
 }
