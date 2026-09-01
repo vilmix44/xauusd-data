@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-01T08:12:51.860251+00:00",
+  "updated_at": "2026-09-01T08:41:47.603200+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold (4H) holds the uptend line; rebound or deeper dip ahead?",
+      "link": "https://www.investing.com/analysis/gold-4h-holds-the-uptend-line-rebound-or-deeper-dip-ahead-200686875"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Will Gold Be Able to Recover?",
@@ -32,9 +37,9 @@
       "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Fresh Pressure as Oil Risks Complicate the Fed Outlook",
-      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-oil-risks-complicate-the-fed-outlook-200686842"
+      "source": "FXStreet - News",
+      "title": "Gold drops to nearly two-week low, below $4,400 on hawkish Fed bets and firm USD",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee gets tailwinds from upbeat Q2 GDP, narrowed fiscal deficit",
       "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Equities: Geopolitics and yields pressure stocks - Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-geopolitics-and-yields-pressure-stocks-deutsche-bank-202609010652"
     }
   ]
 }
