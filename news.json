@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:40:13.517305+00:00",
+  "updated_at": "2026-09-01T12:15:30.062384+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,13 +28,28 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Cycle Low Targets $4,559 Recovery Zone",
-      "link": "https://www.investing.com/analysis/gold-cycle-low-targets-4559-recovery-zone-200686858"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Tests $4,400 Support: What Would Confirm the Next Move?",
       "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "European Central Bank: Inflation risks support another hike - Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-risks-support-another-hike-nordea-202609011207"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-extends-reversal-below-4400-amid-fed-hawkish-repricing-202609011150"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Policy pressure and FX path – Rabobank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-pressure-and-fx-path-rabobank-202609011146"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Upbeat US Dollar stresses on major currency pair",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-upbeat-us-dollar-stresses-on-major-currency-pair-202609011143"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
       "link": "https://www.fxstreet.com/news/silver-drops-below-65-as-hawkish-fed-bets-weigh-on-xag-usd-202609011107"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar slumps against US Dollar amid firm hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slumps-against-us-dollar-amid-firm-hawkish-fed-bets-202609011106"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro extends losses against British Pound as Eurozone inflation fails to impress",
-      "link": "https://www.fxstreet.com/news/euro-extends-losses-against-british-pound-as-eurozone-inflation-fails-to-impress-202609011038"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Rebound capped by nearby resistance against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-rebound-capped-by-nearby-resistance-against-us-dollar-uob-202609011002"
     }
   ]
 }
