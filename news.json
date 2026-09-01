@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T05:10:39.544945+00:00",
+  "updated_at": "2026-09-01T05:40:19.761487+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "GBP/USD Price Forecast: Declines below 1.3550, while maintaining bullish bias above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-declines-below-13550-while-maintaining-bullish-bias-above-100-day-sma-202609010521"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold sticks to modest losses below $4,450 on Fed hike bets, firm USD",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indonesian Rupiah declines despite higher August inflation",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-despite-higher-august-inflation-202609010506"
     },
@@ -35,11 +45,6 @@
       "source": "FXStreet - News",
       "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11450-as-bullish-technical-setup-holds-202609010358"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold declines as rising Fed hike bets and US‑Iran tensions support USD",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
-      "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300"
     }
   ]
 }
