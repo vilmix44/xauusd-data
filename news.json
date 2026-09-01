@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-01T06:44:27.825367+00:00",
+  "updated_at": "2026-09-01T07:11:39.316831+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Forecast: Is the US Dollar Debasement Trade Dead?",
+      "link": "https://www.investing.com/analysis/gold-forecast-is-the-us-dollar-debasement-trade-dead-200686860"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Cycle Low Targets $4,559 Recovery Zone",
+      "link": "https://www.investing.com/analysis/gold-cycle-low-targets-4559-recovery-zone-200686858"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Fresh Pressure as Oil Risks Complicate the Fed Outlook",
@@ -12,14 +22,19 @@
       "link": "https://www.investing.com/analysis/gold-correction-tests-whether-the-bullish-trend-can-hold-above-4250-200686839"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Oil Puts Hormuz Risk Back at the Center of the Inflation Trade",
-      "link": "https://www.investing.com/analysis/oil-puts-hormuz-risk-back-at-the-center-of-the-inflation-trade-200686810"
+      "source": "FXStreet - News",
+      "title": "Equities: Geopolitics and yields pressure stocks - Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/equities-geopolitics-and-yields-pressure-stocks-deutsche-bank-202609010652"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Soars 15% in August—But Isn’t Overbought",
-      "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+      "source": "FXStreet - News",
+      "title": "British Pound: Downside risk focuses on 1.3480 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-risk-focuses-on-13480-against-us-dollar-uob-202609010647"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold seems vulnerable below $4,450 as Fed hike bets and Iran risks favor USD bulls",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350"
     },
     {
       "source": "FXStreet - News",
@@ -58,23 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold sticks to modest losses below $4,450 on Fed hike bets, firm USD",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Indonesian Rupiah declines despite higher August inflation",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-despite-higher-august-inflation-202609010506"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609010435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/JPY Price Forecast: Strengthens above 114.50 as bullish technical setup holds",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-above-11450-as-bullish-technical-setup-holds-202609010358"
     }
   ]
 }
