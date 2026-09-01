@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:40:05.552262+00:00",
+  "updated_at": "2026-09-01T02:10:43.397930+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar remains stronger on stronger Chinese PMI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-on-stronger-chinese-pmi-data-202609010208"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound softens to near 1.3550 on geopolitical tensions, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13550-on-geopolitical-tensions-hawkish-fed-bets-202609010200"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Singapore Dollar: Near-term pressure against US Dollar - OCBC",
       "link": "https://www.fxstreet.com/news/singapore-dollar-near-term-pressure-against-us-dollar-ocbc-202608311849"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821"
     }
   ]
 }
