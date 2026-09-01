@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T19:10:34.365419+00:00",
+  "updated_at": "2026-09-01T19:37:18.450405+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold collapses as US-Iran strikes send Oil, US yields higher",
+      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "United States Treasury yields read Iran strikes as inflation",
       "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold struggles below $4,400 as Fed rate hike bets dominate",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544"
     }
   ]
 }
