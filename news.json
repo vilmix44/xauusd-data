@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:10:52.170589+00:00",
+  "updated_at": "2026-09-01T01:40:05.552262+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Soars 15% in August—But Isn’t Overbought",
       "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar consolidates vs USD as rising oil prices and Fed hike bets clash",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-vs-usd-as-rising-oil-prices-and-fed-hike-bets-clash-202609010113"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds firm amid hawkish Fed and RBA expectations",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-amid-hawkish-fed-and-rba-expectations-202608311753"
     }
   ]
 }
