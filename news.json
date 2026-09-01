@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:39:16.980167+00:00",
+  "updated_at": "2026-09-01T22:10:26.150368+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "RBNZ set to raise interest rate to 2.75%",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India: Growth and inflation forecasts revised higher – UOB",
+      "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
       "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar Index gains as US-Iran tensions escalate, Treasury yields rise",
       "link": "https://www.fxstreet.com/news/us-dollar-index-gains-as-us-iran-tensions-escalate-treasury-yields-rise-202609011821"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Enter the US labour market",
-      "link": "https://www.fxstreet.com/news/forex-today-enter-the-us-labour-market-202609011705"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Crude Oil goes vertical on fresh explosions in southern Iran",
-      "link": "https://www.fxstreet.com/news/crude-oil-goes-vertical-on-fresh-explosions-in-southern-iran-202609011642"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Treasury Secretary Bessent backs Yen support, urges BoJ clarity",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-backs-yen-support-urges-boj-clarity-202609011621"
     }
   ]
 }
