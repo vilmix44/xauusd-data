@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T20:11:51.150205+00:00",
+  "updated_at": "2026-09-01T20:40:04.083221+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Price Analysis: XAU/USD Holds $4,400 After Hawkish Warsh",
       "link": "https://www.investing.com/analysis/gold-price-analysis-xauusd-holds-4400-after-hawkish-warsh-200686880"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar struggles to rebound despite softer US data",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-rebound-despite-softer-us-data-202609011602"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold struggles below $4,400 as Fed rate hike bets dominate",
-      "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544"
     }
   ]
 }
