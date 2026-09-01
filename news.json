@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:15:30.062384+00:00",
+  "updated_at": "2026-09-01T12:44:10.918930+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Canadian Dollar retreats as US Dollar benefits from Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-us-dollar-benefits-from-fed-rate-hike-bets-202609011240"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Warsh boost fades as Fed pricing holds – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-boost-fades-as-fed-pricing-holds-ing-202609011227"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: ECB tightening seen limiting downside – BBH",
+      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-seen-limiting-downside-bbh-202609011216"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "European Central Bank: Inflation risks support another hike - Nordea",
       "link": "https://www.fxstreet.com/news/european-central-bank-inflation-risks-support-another-hike-nordea-202609011207"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold weakens below $4,400 as US Treasury yields surge, Fed rate hike bets rise",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee gains on India's upbeat Q2 GDP, narrowed fiscal deficit data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609010543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Trade tensions and extended BoC hold – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-extended-boc-hold-td-securities-202609011111"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver drops below $65 as hawkish Fed bets weigh on XAG/USD",
-      "link": "https://www.fxstreet.com/news/silver-drops-below-65-as-hawkish-fed-bets-weigh-on-xag-usd-202609011107"
     }
   ]
 }
