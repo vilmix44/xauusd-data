@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-01T19:37:18.450405+00:00",
+  "updated_at": "2026-09-01T20:11:51.150205+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Bear Market Deepens as Rate Hike Odds Surge",
       "link": "https://www.investing.com/analysis/gold-bear-market-deepens-as-rate-hike-odds-surge-200686918"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Fresh Pressure as Warsh Revives Rate-Hike Risk",
+      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-warsh-revives-ratehike-risk-200686910"
     },
     {
       "source": "Investing.com - Commodities",
@@ -25,16 +30,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Price Analysis: XAU/USD Holds $4,400 After Hawkish Warsh",
       "link": "https://www.investing.com/analysis/gold-price-analysis-xauusd-holds-4400-after-hawkish-warsh-200686880"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Holds the Uptrend Line: Rebound or Deeper Dip Ahead?",
-      "link": "https://www.investing.com/analysis/gold-4h-holds-the-uptend-line-rebound-or-deeper-dip-ahead-200686875"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests $4,400 Support: What Would Confirm the Next Move?",
-      "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846"
     },
     {
       "source": "FXStreet - News",
@@ -75,6 +70,11 @@
       "source": "FXStreet - News",
       "title": "Gold struggles below $4,400 as Fed rate hike bets dominate",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar trades cautiously as Fed and RBA rate hike bets clash",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trades-cautiously-as-fed-and-rba-rate-hike-bets-clash-202609011544"
     }
   ]
 }
