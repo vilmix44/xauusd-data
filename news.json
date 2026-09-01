@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T13:11:52.004561+00:00",
+  "updated_at": "2026-09-01T13:40:53.791929+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro area: Inflation jump supports ECB hike – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-area-inflation-jump-supports-ecb-hike-commerzbank-202609011333"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Barr keeps rate hike on the table as inflation persists",
+      "link": "https://www.fxstreet.com/news/feds-barr-keeps-rate-hike-on-the-table-as-inflation-persists-202609011324"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Pair extends recovery above key moving averages",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-extends-recovery-above-key-moving-averages-202609011321"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "“Good news” on inflation: ECB’s Nagel sees no second-round effects",
+      "link": "https://www.fxstreet.com/news/good-news-on-inflation-ecbs-nagel-sees-no-second-round-effects-202609011316"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indian Rupee: RBI seen hiking as inflation risks build – UOB",
       "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-hiking-as-inflation-risks-build-uob-202609011309"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar retreats as US Dollar benefits from Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-us-dollar-benefits-from-fed-rate-hike-bets-202609011240"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Warsh boost fades as Fed pricing holds – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-boost-fades-as-fed-pricing-holds-ing-202609011227"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: ECB tightening seen limiting downside – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-seen-limiting-downside-bbh-202609011216"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "European Central Bank: Inflation risks support another hike - Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-risks-support-another-hike-nordea-202609011207"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-extends-reversal-below-4400-amid-fed-hawkish-repricing-202609011150"
     }
   ]
 }
