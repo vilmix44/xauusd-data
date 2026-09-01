@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:39:09.288324+00:00",
+  "updated_at": "2026-09-01T23:09:51.049076+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold collapses as US-Iran strikes send Oil, US yields higher",
       "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Treasury yields read Iran strikes as inflation",
-      "link": "https://www.fxstreet.com/news/united-states-treasury-yields-read-iran-strikes-as-inflation-202609011824"
     }
   ]
 }
