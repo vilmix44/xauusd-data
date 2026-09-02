@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:44:01.130619+00:00",
+  "updated_at": "2026-09-02T01:09:47.321178+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound drops as US Dollar strengthens on rising US yields, higher oil prices",
+      "link": "https://www.fxstreet.com/news/british-pound-drops-as-us-dollar-strengthens-on-rising-us-yields-higher-oil-prices-202609020102"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound softens to near 1.3500 as US, Iran escalate attacks",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13500-as-us-iran-escalate-attacks-202609020059"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "RBNZ set to raise interest rate to 2.75% with consensus expected",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
       "link": "https://www.fxstreet.com/news/bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-september-rate-hike-202609020019"
     },
@@ -40,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "RBNZ expected to hike interest rate amid sticky inflation",
-      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "India: Growth and inflation forecasts revised higher – UOB",
       "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: KRW and MYR lead firmer profile vs USD – OCBC",
-      "link": "https://www.fxstreet.com/news/asia-fx-krw-and-myr-lead-firmer-profile-vs-usd-ocbc-202609012058"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023"
     }
   ]
 }
