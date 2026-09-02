@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T23:10:27.427553+00:00",
+  "updated_at": "2026-09-02T23:38:08.794322+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Australian Dollar's thirteen-year high is a New Zealand story",
+      "link": "https://www.fxstreet.com/news/the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-202609022330"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoC recap: Risks are shifting as Oil prices and US trade actions complicate outlook",
       "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: September gains face structural tests – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-september-gains-face-structural-tests-societe-generale-202609021608"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114"
     }
   ]
 }
