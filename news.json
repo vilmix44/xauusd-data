@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:11:31.276217+00:00",
+  "updated_at": "2026-09-02T22:40:17.962591+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-soft-us-jobs-gdp-beat-lift-aud-pmis-ahead-202609022238"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States Dollar Index loses ground on possible Yen intervention",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-loses-ground-on-possible-yen-intervention-202609021601"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Downside risks build against US Dollar as oil rises – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-build-against-us-dollar-as-oil-rises-scotiabank-202609021539"
     }
   ]
 }
