@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T00:18:01.956291+00:00",
+  "updated_at": "2026-09-02T00:44:01.130619+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
+      "link": "https://www.fxstreet.com/news/bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-september-rate-hike-202609020019"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Singapore Dollar: Volatility widens range-trading band against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/singapore-dollar-volatility-widens-range-trading-band-against-us-dollar-uob-202609012023"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso holds near 17.00 as US-Iran strikes weigh on Peso",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-near-1700-as-us-iran-strikes-hit-peso-202609012012"
     }
   ]
 }
