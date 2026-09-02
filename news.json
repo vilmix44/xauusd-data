@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T13:11:58.066737+00:00",
+  "updated_at": "2026-09-02T13:41:13.099943+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Approaches a Square of 9 Reversal Zone at $4,333–$4,353",
       "link": "https://www.investing.com/analysis/gold-approaches-a-square-of-9-reversal-zone-at-43334353-200686937"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Fed hike risk and yields back in focus – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-risk-and-yields-back-in-focus-mufg-202609021322"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver rebounds above $64 as weak US jobs data challenges hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/silver-rebounds-above-64-as-weak-us-jobs-data-challenges-hawkish-fed-bets-202609021313"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro stays under pressure against US Dollar despite softer ADP data",
+      "link": "https://www.fxstreet.com/news/euro-stays-under-pressure-against-us-dollar-despite-softer-adp-data-202609021313"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Fed hawkishness offsets BoJ talk – ING",
       "link": "https://www.fxstreet.com/news/japanese-yen-fed-hawkishness-offsets-boj-talk-ing-202609021224"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro outperforms Pound Sterling as ECB prepares for another rate hike",
-      "link": "https://www.fxstreet.com/news/euro-outperforms-pound-sterling-as-ecb-prepares-for-another-rate-hike-202609021215"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: US tensions overshadow BoC stance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-us-tensions-overshadow-boc-stance-commerzbank-202609021215"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoC expected to maintain interest rates amid stubborn inflation",
-      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945"
     }
   ]
 }
