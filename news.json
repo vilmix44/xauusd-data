@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T15:43:54.502409+00:00",
+  "updated_at": "2026-09-02T16:12:07.846420+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold May Fall Below $4,000 Again as War Adds Fuel to the Fed Hike Trade",
       "link": "https://www.investing.com/analysis/gold-may-fall-below-4000-again-as-war-adds-fuel-to-the-fed-hike-trade-200686958"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: September gains face structural tests – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-september-gains-face-structural-tests-societe-generale-202609021608"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index loses ground on possible Yen intervention",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-loses-ground-on-possible-yen-intervention-202609021601"
     },
     {
       "source": "FXStreet - News",
@@ -43,11 +58,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "New Zealand Dollar: RBNZ cautious tightening path – UOB",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-cautious-tightening-path-uob-202609021407"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver rebounds above $64 as weak US jobs data challenges hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/silver-rebounds-above-64-as-weak-us-jobs-data-challenges-hawkish-fed-bets-202609021313"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro stays under pressure against US Dollar despite softer ADP data",
-      "link": "https://www.fxstreet.com/news/euro-stays-under-pressure-against-us-dollar-despite-softer-adp-data-202609021313"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "European Central Bank: Dovish hike path as energy drives inflation – ING",
-      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hike-path-as-energy-drives-inflation-ing-202609021310"
     }
   ]
 }
