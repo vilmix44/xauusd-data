@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T19:37:06.229138+00:00",
+  "updated_at": "2026-09-02T20:11:54.261809+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Prices Slide Amid Fed Rate Hike Fears",
       "link": "https://www.investing.com/analysis/gold-prices-slide-amid-fed-rate-hike-fears-200686976"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rises as speculation of Yen intervention weighs on the US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-rises-as-speculation-of-yen-intervention-weighs-on-the-us-dollar-202609021946"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Downside risks build against US Dollar as oil rises – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-downside-risks-build-against-us-dollar-as-oil-rises-scotiabank-202609021539"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Strong GDP and carry support – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strong-gdp-and-carry-support-bbh-202609021520"
     }
   ]
 }
