@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T05:10:23.343992+00:00",
+  "updated_at": "2026-09-02T05:41:22.929853+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc weakens as Fed rate hike fears lift US Dollar",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-fed-rate-hike-fears-lift-us-dollar-202609020516"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar surges to July 8 high vs New Zealand Dollar after Aussie GDP, RBNZ",
       "link": "https://www.fxstreet.com/news/australian-dollar-surges-to-july-8-high-vs-new-zealand-dollar-after-aussie-gdp-rbnz-202609020215"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar plunges after RBNZ raises OCR by 25 bps to 2.75%",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214"
     }
   ]
 }
