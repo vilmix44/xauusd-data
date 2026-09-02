@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:13:38.496144+00:00",
+  "updated_at": "2026-09-02T04:40:52.176571+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman’s remarks",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-moves-little-following-rbnz-bremans-remarks-202609020432"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar rises as quarterly GDP grows in Q2",
       "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-quarterly-gdp-grows-in-q2-202609020147"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ’s Takata says central bank must hike rates mimbly after assessing financial conditions",
-      "link": "https://www.fxstreet.com/news/bojs-takata-says-central-bank-must-hike-rates-mimbly-after-assessing-financial-conditions-202609020146"
     }
   ]
 }
