@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T22:40:17.962591+00:00",
+  "updated_at": "2026-09-02T23:10:27.427553+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The New Zealand Dollar sells the hike it asked for",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-sells-the-hike-it-asked-for-202609022247"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
       "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index loses ground on possible Yen intervention",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-loses-ground-on-possible-yen-intervention-202609021601"
     }
   ]
 }
