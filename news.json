@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-02T07:10:44.422825+00:00",
+  "updated_at": "2026-09-02T07:40:04.394802+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Declines Sharply Amid Escalating Iran Tensions and Fed Rate-Hike Concerns",
+      "link": "https://www.investing.com/analysis/gold-declines-sharply-amid-escalating-iran-tensions-and-fed-ratehike-concerns-200686951"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Crashes Nearly 10% in 6 Sessions: What’s Next for Traders?",
+      "link": "https://www.investing.com/analysis/gold-crashes-nearly-10-in-6-sessions-whats-next-for-traders-200686944"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Approaches a Square of 9 Reversal Zone at $4,333–$4,353",
@@ -22,9 +32,14 @@
       "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-warsh-revives-ratehike-risk-200686910"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Pressure as War Strategy Changes Stoke Inflation Risks",
-      "link": "https://www.investing.com/analysis/gold-faces-pressure-as-war-strategy-changes-stoke-inflation-risks-200686908"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee clings to gains despite hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Pullback toward 0.7120 favoured against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-toward-07120-favoured-against-us-dollar-uob-202609020726"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "WTI declines to near $89.00 despite US-Iran tensions",
       "link": "https://www.fxstreet.com/news/wti-declines-to-near-8900-despite-us-iran-tensions-202609020600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar hits fresh two-week lows amid higher yields, Fed hiking bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-two-week-lows-amid-higher-yields-fed-hiking-bets-202609020558"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ’s Takata says central bank need to consider a broad range of options on monetary policy response",
-      "link": "https://www.fxstreet.com/news/bojs-takata-says-central-bank-need-to-consider-a-broad-range-of-options-on-monetary-policy-response-202609020550"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee holds onto two-month high against US Dollar",
-      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
     }
   ]
 }
