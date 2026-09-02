@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:40:52.176571+00:00",
+  "updated_at": "2026-09-02T05:10:23.343992+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,13 +33,18 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman’s remarks",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-moves-little-following-rbnz-bremans-remarks-202609020432"
+      "title": "Gold bounces off four-week low; remains vulnerable near $4,300 amid Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold drops to four-week low, below $4,300 as USD firms amid Fed hike bets and Iran risks",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
+      "title": "EUR/USD Price Forecast: Weakens below 1.1600, further consolidation cannot be ruled out",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-weakens-below-11600-further-consolidation-cannot-be-ruled-out-202609020449"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman’s remarks",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-moves-little-following-rbnz-bremans-remarks-202609020432"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar plunges after RBNZ raises OCR by 25 bps to 2.75%",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar rises as quarterly GDP grows in Q2",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-quarterly-gdp-grows-in-q2-202609020147"
     }
   ]
 }
