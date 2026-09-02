@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-02T09:40:36.396015+00:00",
+  "updated_at": "2026-09-02T10:12:53.086784+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold May Fall Below $4,000 Again as War Adds Fuel to the Fed Hike Trade",
+      "link": "https://www.investing.com/analysis/gold-may-fall-below-4000-again-as-war-adds-fuel-to-the-fed-hike-trade-200686958"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Declines Sharply Amid Escalating Iran Tensions and Fed Rate-Hike Concerns",
@@ -22,9 +27,29 @@
       "link": "https://www.investing.com/analysis/war-returns-gold-falls-the-signal-traders-cant-ignore-200686929"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Fresh Pressure as Warsh Revives Rate-Hike Risk",
-      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-warsh-revives-ratehike-risk-200686910"
+      "source": "FXStreet - News",
+      "title": "RBNZ raises rates: Why is the New Zealand Dollar plunging?",
+      "link": "https://www.fxstreet.com/news/rbnz-raises-rates-why-is-the-new-zealand-dollar-plunging-202609021007"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Scope to strengthen against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-scope-to-strengthen-against-us-dollar-societe-generale-202609021005"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD tests $4,300 amid Fed tightening hopes, geopolitical tensions",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-tests-4-300-amid-fed-tightening-hopes-geopolitical-tensions-202609021005"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar: Gradual RBNZ path weighs on kiwi – MUFG",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gradual-rbnz-path-weighs-on-kiwi-mufg-202609020951"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoC set to keep interest rates steady despite sticky inflation",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-fall-further-towards-13420-202609020917"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: BoC hold leaves risk of further losses against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hold-leaves-risk-of-further-losses-against-us-dollar-ing-202609020848"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar extends decline on firm Fed interest rate hike bets",
-      "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-on-firm-fed-interest-rate-hike-bets-202609020836"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Yen supported by BoJ hike pricing – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-yen-supported-by-boj-hike-pricing-mufg-202609020835"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: ECB guidance may trigger asymmetric downside risks - Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-ecb-guidance-may-trigger-asymmetric-downside-risks-commerzbank-202609020820"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro advances against Canadian Dollar amid lower oil prices, ECB rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-lower-oil-prices-ecb-rate-hike-bets-202609020815"
     }
   ]
 }
