@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T01:45:26.615993+00:00",
+  "updated_at": "2026-09-02T02:16:26.206003+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,18 +33,28 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar after RBNZ raises OCR by 25 bps to 2.75%",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breaking: RBNZ raises interest rate to 2.75% as expected",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar rises as quarterly GDP grows in Q2",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-quarterly-gdp-grows-in-q2-202609020147"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoJ’s Takata says central bank must hike rates mimbly after assessing financial conditions",
+      "link": "https://www.fxstreet.com/news/bojs-takata-says-central-bank-must-hike-rates-mimbly-after-assessing-financial-conditions-202609020146"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "British Pound drops as US Dollar strengthens on rising US yields, higher oil prices",
       "link": "https://www.fxstreet.com/news/british-pound-drops-as-us-dollar-strengthens-on-rising-us-yields-higher-oil-prices-202609020102"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound softens to near 1.3500 as US, Iran escalate attacks",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13500-as-us-iran-escalate-attacks-202609020059"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "RBNZ set to raise interest rate to 2.75% with consensus expected",
-      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Range-bound consolidation outlook against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-consolidation-outlook-against-us-dollar-uob-202609012224"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: 200-day SMA caps Euro as Dollar firms",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-200-day-sma-caps-euro-as-dollar-firms-202609012204"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India: Growth and inflation forecasts revised higher – UOB",
-      "link": "https://www.fxstreet.com/news/india-growth-and-inflation-forecasts-revised-higher-uob-202609012141"
     }
   ]
 }
