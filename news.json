@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T17:10:52.321807+00:00",
+  "updated_at": "2026-09-02T17:38:53.783523+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Prices Slide Amid Fed Rate Hike Fears",
       "link": "https://www.investing.com/analysis/gold-prices-slide-amid-fed-rate-hike-fears-200686976"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Break below 1.35 shifts focus lower against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-break-below-135-shifts-focus-lower-against-us-dollar-scotiabank-202609021724"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar: RBNZ cautious tightening path – UOB",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-cautious-tightening-path-uob-202609021407"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen hits one-week high against US Dollar on intervention speculation",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hits-one-week-high-against-us-dollar-on-intervention-speculation-202609021351"
     }
   ]
 }
