@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:11:48.639343+00:00",
+  "updated_at": "2026-09-02T09:40:36.396015+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "India's GDP surged to 7.8% and growth forecasts are climbing: Why the Reserve Bank of India now faces 75bp of hikes",
+      "link": "https://www.fxstreet.com/news/indias-gdp-surged-to-78-and-growth-forecasts-are-climbing-why-the-reserve-bank-of-india-now-faces-75bp-of-hikes-202609020939"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Brent: Higher inflation risks support prices – OCBC",
+      "link": "https://www.fxstreet.com/news/brent-higher-inflation-risks-support-prices-ocbc-202609020928"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee clings to two-month gains, ignoring hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro tests two-week lows as risk aversion, Fed tightening bets buoy the US Dollar",
+      "link": "https://www.fxstreet.com/news/euro-tests-two-week-lows-as-risk-aversion-fed-tightening-bets-buoy-the-us-dollar-202609020921"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-fall-further-towards-13420-202609020917"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Canadian Dollar: BoC hold leaves risk of further losses against US Dollar - ING",
       "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hold-leaves-risk-of-further-losses-against-us-dollar-ing-202609020848"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro advances against Canadian Dollar amid lower oil prices, ECB rate hike bets",
       "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-lower-oil-prices-ecb-rate-hike-bets-202609020815"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold steadies above $4,300; not out of the woods yet amid Fed hike bets and bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed story supports renewed strength – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-story-supports-renewed-strength-ing-202609020801"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar surges to two-month highs as the RBNZ sinks the New Zealand Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-surges-to-two-month-highs-as-the-rbnz-sinks-the-new-zealand-dollar-202609020754"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah declines as US Dollar gains on Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-on-fed-rate-hike-bets-202609020747"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: Stronger growth justifies extended RBI tightening – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-stronger-growth-justifies-extended-rbi-tightening-societe-generale-202609020743"
     }
   ]
 }
