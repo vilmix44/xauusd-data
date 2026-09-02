@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-02T06:45:15.998183+00:00",
+  "updated_at": "2026-09-02T07:10:44.422825+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Approaches a Square of 9 Reversal Zone at $4,333–$4,353",
+      "link": "https://www.investing.com/analysis/gold-approaches-a-square-of-9-reversal-zone-at-43334353-200686937"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "War Returns, Gold Falls: The Signal Traders Can’t Ignore",
@@ -20,16 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as War Strategy Changes Stoke Inflation Risks",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-war-strategy-changes-stoke-inflation-risks-200686908"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tumbles as Treasury Yields Rise and Fed Hike Bets Strengthen",
-      "link": "https://www.investing.com/analysis/gold-tumbles-as-treasury-yields-rise-and-fed-hike-bets-strengthen-200686907"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
-      "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
     },
     {
       "source": "FXStreet - News",
@@ -75,6 +70,11 @@
       "source": "FXStreet - News",
       "title": "BoJ’s Takata says central bank need to consider a broad range of options on monetary policy response",
       "link": "https://www.fxstreet.com/news/bojs-takata-says-central-bank-need-to-consider-a-broad-range-of-options-on-monetary-policy-response-202609020550"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee holds onto two-month high against US Dollar",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
     }
   ]
 }
