@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T07:40:04.394802+00:00",
+  "updated_at": "2026-09-02T08:12:44.975335+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold steadies above $4,300; not out of the woods yet amid Fed hike bets and bullish USD",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Fed story supports renewed strength – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-story-supports-renewed-strength-ing-202609020801"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar surges to two-month highs as the RBNZ sinks the New Zealand Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-surges-to-two-month-highs-as-the-rbnz-sinks-the-new-zealand-dollar-202609020754"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah declines as US Dollar gains on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-on-fed-rate-hike-bets-202609020747"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: Stronger growth justifies extended RBI tightening – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-stronger-growth-justifies-extended-rbi-tightening-societe-generale-202609020743"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indian Rupee clings to gains despite hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD rebounds to near $64, US private labor data awaited",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rebounds-to-near-64-us-private-labor-data-awaited-202609020622"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Downside risk toward 1.3480 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-risk-toward-13480-against-us-dollar-uob-202609020619"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold recovers further from four-week low; upside seems capped as Fed bets favor USD bulls",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Pressured as ECB hike looms – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-pressured-as-ecb-hike-looms-danske-bank-202609020612"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ECB's Nagel: Markets see over 95% probability of a September rate hike",
-      "link": "https://www.fxstreet.com/news/ecbs-nagel-markets-see-over-95-probability-of-a-september-rate-hike-202609020608"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "WTI declines to near $89.00 despite US-Iran tensions",
-      "link": "https://www.fxstreet.com/news/wti-declines-to-near-8900-despite-us-iran-tensions-202609020600"
     }
   ]
 }
