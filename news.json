@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T02:16:26.206003+00:00",
+  "updated_at": "2026-09-02T02:45:56.589529+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,13 +33,18 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar after RBNZ raises OCR by 25 bps to 2.75%",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214"
+      "title": "Silver Price Forecast: XAG/USD slips below $64.00 as inflation fears increase",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6400-as-inflation-fears-increase-202609020236"
     },
     {
       "source": "FXStreet - News",
-      "title": "Breaking: RBNZ raises interest rate to 2.75% as expected",
-      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+      "title": "Australian Dollar surges to July 8 high vs New Zealand Dollar after Aussie GDP, RBNZ",
+      "link": "https://www.fxstreet.com/news/australian-dollar-surges-to-july-8-high-vs-new-zealand-dollar-after-aussie-gdp-rbnz-202609020215"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar plunges after RBNZ raises OCR by 25 bps to 2.75%",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
       "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Range-bound consolidation outlook against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-consolidation-outlook-against-us-dollar-uob-202609012224"
     }
   ]
 }
