@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T03:11:33.355001+00:00",
+  "updated_at": "2026-09-02T03:39:55.817539+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Below $4,420, but Oversold Bounce Risk Builds",
       "link": "https://www.investing.com/analysis/gold-faces-further-downside-below-4420-but-oversold-bounce-risk-builds-200686903"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index hold gains above 99.50 as Treasury yields hit multi-year highs",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hold-gains-above-9950-as-treasury-yields-hit-multi-year-highs-202609020323"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breman Speech: RBNZ Governor speaks on policy outlook after interest rate hike",
+      "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
       "link": "https://www.fxstreet.com/news/bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-september-rate-hike-202609020019"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-202609012239"
     }
   ]
 }
