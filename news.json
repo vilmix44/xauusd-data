@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:40:12.141161+00:00",
+  "updated_at": "2026-09-02T11:11:01.294916+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "War Returns, Gold Falls: The Signal Traders Can’t Ignore",
       "link": "https://www.investing.com/analysis/war-returns-gold-falls-the-signal-traders-cant-ignore-200686929"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "1.3990: Why the Canadian Dollar is sliding toward the resistance zone that could decide the next move",
+      "link": "https://www.fxstreet.com/news/13990-why-the-canadian-dollar-is-sliding-toward-the-resistance-zone-that-could-decide-the-next-move-202609021058"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "0.8150: Swiss Franc hits monthly lows as Fed hiking bets, risk aversion buoy US Dollar",
+      "link": "https://www.fxstreet.com/news/08150-swiss-franc-hits-monthly-lows-as-fed-hiking-bets-risk-aversion-buoy-us-dollar-202609021048"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee clings to two-month gains, ignoring hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro tests two-week lows as risk aversion, Fed tightening bets buoy the US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-tests-two-week-lows-as-risk-aversion-fed-tightening-bets-buoy-the-us-dollar-202609020921"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-fall-further-towards-13420-202609020917"
     }
   ]
 }
