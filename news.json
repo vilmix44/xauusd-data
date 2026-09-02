@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T03:39:55.817539+00:00",
+  "updated_at": "2026-09-02T04:13:38.496144+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,13 +33,23 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "United States Dollar Index hold gains above 99.50 as Treasury yields hit multi-year highs",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hold-gains-above-9950-as-treasury-yields-hit-multi-year-highs-202609020323"
+      "title": "Gold drops to four-week low, below $4,300 as USD firms amid Fed hike bets and Iran risks",
+      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400"
     },
     {
       "source": "FXStreet - News",
-      "title": "Breman Speech: RBNZ Governor speaks on policy outlook after interest rate hike",
+      "title": "British Pound declines to near 1.3500 as US-Iran tensions rise",
+      "link": "https://www.fxstreet.com/news/british-pound-declines-to-near-13500-as-us-iran-tensions-rise-202609020347"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breman Speech: RBNZ Governor sheds light on policy outlook after interest rate hike",
       "link": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index hold gains above 99.50 as Treasury yields hit multi-year highs",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hold-gains-above-9950-as-treasury-yields-hit-multi-year-highs-202609020323"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ’s Takata says central bank must hike rates mimbly after assessing financial conditions",
       "link": "https://www.fxstreet.com/news/bojs-takata-says-central-bank-must-hike-rates-mimbly-after-assessing-financial-conditions-202609020146"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound drops as US Dollar strengthens on rising US yields, higher oil prices",
-      "link": "https://www.fxstreet.com/news/british-pound-drops-as-us-dollar-strengthens-on-rising-us-yields-higher-oil-prices-202609020102"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
-      "link": "https://www.fxstreet.com/news/bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-september-rate-hike-202609020019"
     }
   ]
 }
