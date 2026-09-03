@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:12:39.976019+00:00",
+  "updated_at": "2026-09-03T14:40:23.695232+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rallies 2% as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen jumps as BoJ opens door to faster rate hikes",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Support firms with hawkish ECB pricing – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414"
     },
     {
       "source": "FXStreet - News",
@@ -48,11 +63,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold rallies over 2% as US Dollar and Treasury yields retreat",
-      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Swiss Franc strengthens on inflation surprise and broad US Dollar weakness",
       "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar climbs as softer US labor data weighs on US Dollar",
       "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-labor-data-weighs-on-us-dollar-202609031250"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Testing support after BoC hold – BBH",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-testing-support-after-boc-hold-bbh-202609031249"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: 20-day EMA acts as key support level",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-20-day-ema-acts-as-key-support-level-202609031146"
     }
   ]
 }
