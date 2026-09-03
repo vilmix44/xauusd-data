@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T01:10:14.207489+00:00",
+  "updated_at": "2026-09-03T01:41:18.275103+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound consolidates near three-week low as Fed bets and Iran tensions support USD",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-near-three-week-low-as-fed-bets-and-iran-tensions-support-usd-202609030112"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound: Break below 1.35 shifts focus lower against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-break-below-135-shifts-focus-lower-against-us-dollar-scotiabank-202609021724"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound hits three-week low as US yields, Iran risks weigh",
-      "link": "https://www.fxstreet.com/news/british-pound-hits-three-week-low-as-us-yields-iran-risks-weigh-202609021707"
     }
   ]
 }
