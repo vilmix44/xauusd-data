@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:40:51.234107+00:00",
+  "updated_at": "2026-09-03T10:12:19.716161+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Selloff Shows How Rising Yields Are Overpowering Safe-Haven Demand",
       "link": "https://www.investing.com/analysis/gold-selloff-shows-how-rising-yields-are-overpowering-safehaven-demand-200686996"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc: Swiss data supports dip-buying case – Societe Generale",
+      "link": "https://www.fxstreet.com/news/swiss-franc-swiss-data-supports-dip-buying-case-societe-generale-202609031005"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ mulls hiking interest rates to 1.25% in September meeting – Bloomberg",
       "link": "https://www.fxstreet.com/news/boj-mulls-hiking-interest-rates-to-125-in-september-meeting-bloomberg-202609030756"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Downside seen limited near 1.3465 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13465-against-us-dollar-uob-202609030755"
     }
   ]
 }
