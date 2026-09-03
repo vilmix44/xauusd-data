@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:40:52.502268+00:00",
+  "updated_at": "2026-09-03T18:13:58.916735+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Nonfarm Payrolls take centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nonfarm-payrolls-take-centre-stage-202609031741"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc: Hot inflation and SNB path – BBH",
       "link": "https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Longer-term landscape improves – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358"
     }
   ]
 }
