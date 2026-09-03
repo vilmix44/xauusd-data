@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:10:16.331271+00:00",
+  "updated_at": "2026-09-03T23:37:52.885224+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Range trade persists against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847"
     }
   ]
 }
