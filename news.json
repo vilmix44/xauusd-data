@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T20:40:04.131104+00:00",
+  "updated_at": "2026-09-03T21:11:51.216831+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Malaysian Ringgit: Stable policy underpins growth narrative – BNY",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-stable-policy-underpins-growth-narrative-bny-202609032055"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound rises as Fed’s Waller tempers hike bets ahead of NFP",
       "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold tests $4,500 as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
-      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
     }
   ]
 }
