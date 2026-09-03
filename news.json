@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:42:44.933855+00:00",
+  "updated_at": "2026-09-03T19:09:39.038840+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Range trade persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen jumps as BoJ opens door to faster rate hikes",
       "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Support firms with hawkish ECB pricing – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414"
     }
   ]
 }
