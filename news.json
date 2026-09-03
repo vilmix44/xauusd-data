@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:11:27.774659+00:00",
+  "updated_at": "2026-09-03T15:40:29.354374+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,13 +23,18 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501"
+      "title": "Gold tests $4,500 as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold rallies 2% as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
-      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
+      "title": "Canadian Dollar extends gains on hawkish BoC message, softer US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-extends-gains-on-hawkish-boc-message-softer-us-dollar-202609031515"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc strengthens on inflation surprise and broad US Dollar weakness",
       "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed's Waller: Inclined to support policy hold if August inflation data shows progress",
-      "link": "https://www.fxstreet.com/news/feds-waller-inclined-to-support-policy-hold-if-august-inflation-data-shows-progress-202609031253"
     }
   ]
 }
