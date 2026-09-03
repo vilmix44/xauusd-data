@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T22:37:07.119615+00:00",
+  "updated_at": "2026-09-03T23:10:16.331271+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Australian Dollar thanks Waller's comments, which sink the USD",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-thanks-wallers-comments-which-sink-the-usd-202609032243"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar extends decline as NFP takes centre stage",
-      "link": "https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822"
     }
   ]
 }
