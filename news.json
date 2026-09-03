@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:13:08.469124+00:00",
+  "updated_at": "2026-09-03T08:42:09.924462+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive",
       "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Hedging impulse fades as holdings stabilize – BNY",
+      "link": "https://www.fxstreet.com/news/us-dollar-hedging-impulse-fades-as-holdings-stabilize-bny-202609030834"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro remains flat above 1.1600 after softer-than-expected Eurozone services activity",
+      "link": "https://www.fxstreet.com/news/euro-remains-flat-above-11600-after-softer-than-expected-eurozone-services-activity-202609030821"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold stands firm as USD dives to one-week low; Fed hike bets cap gains",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar stalls below 0.7170, halfway through last two weeks’ range",
       "link": "https://www.fxstreet.com/news/australian-dollar-stalls-below-07170-halfway-through-last-two-weeks-range-202609030630"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Downside risk persists toward 1.1550 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-downside-risk-persists-toward-11550-against-us-dollar-uob-202609030620"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold sticks to gains amid weaker USD, soft bond yields; remains below $4,450",
-      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Holds a mildly bullish bias near 1.3500 despite subdued RSI momentum",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-a-mildly-bullish-bias-near-13500-despite-subdued-rsi-momentum-202609030609"
     }
   ]
 }
