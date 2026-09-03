@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:39:46.745231+00:00",
+  "updated_at": "2026-09-03T11:11:04.457741+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee rallies on strong foreign inflows through FCNR deposits",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar gains against US Dollar due to unfavorable US NFP backdrop",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-against-us-dollar-due-to-unfavorable-us-nfp-backdrop-202609031057"
     },
     {
       "source": "FXStreet - News",
@@ -48,11 +58,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee gets supercharged by strong inflows through FCNR deposits",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold stands firm as USD dives to one-week low; Fed hike bets cap gains",
       "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound gains capped as fiscal, geopolitical risks persist",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-capped-as-fiscal-geopolitical-risks-persist-202609030759"
     }
   ]
 }
