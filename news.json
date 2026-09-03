@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:40:30.981775+00:00",
+  "updated_at": "2026-09-03T08:13:08.469124+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive",
       "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound gains capped as fiscal, geopolitical risks persist",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-capped-as-fiscal-geopolitical-risks-persist-202609030759"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoJ mulls hiking interest rates to 1.25% in September meeting – Bloomberg",
+      "link": "https://www.fxstreet.com/news/boj-mulls-hiking-interest-rates-to-125-in-september-meeting-bloomberg-202609030756"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Downside seen limited near 1.3465 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13465-against-us-dollar-uob-202609030755"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Trading near 1.16 against US Dollar as yields rise – Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-trading-near-116-against-us-dollar-as-yields-rise-danske-bank-202609030743"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "GBP/USD Price Forecast: Holds a mildly bullish bias near 1.3500 despite subdued RSI momentum",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-a-mildly-bullish-bias-near-13500-despite-subdued-rsi-momentum-202609030609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Turns sticky to 20-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-turns-sticky-to-20-day-ema-202609030542"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah strengthens as US Dollar declines on potential Yen intervention",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-us-dollar-declines-on-potential-yen-intervention-202609030516"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index weakens below 99.50  as yields ease",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9950-as-yields-ease-202609030510"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435"
     }
   ]
 }
