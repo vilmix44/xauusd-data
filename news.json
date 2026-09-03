@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T01:41:18.275103+00:00",
+  "updated_at": "2026-09-03T02:15:19.913422+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand rebounds above 0.5850 on stronger Chinese services PMI",
+      "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar flat lines above 0.7150 vs USD after Aussie trade data, China PMI",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flat-lines-above-07150-vs-usd-after-aussie-trade-data-china-pmi-202609030159"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: Weekly claims and ISM Services keep the focus on the real economy",
       "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-ism-services-keep-the-focus-on-the-real-economy-202609021800"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Downside risks remain against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-risks-remain-against-us-dollar-ocbc-202609021743"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Break below 1.35 shifts focus lower against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-break-below-135-shifts-focus-lower-against-us-dollar-scotiabank-202609021724"
     }
   ]
 }
