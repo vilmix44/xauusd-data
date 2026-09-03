@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T21:38:36.943919+00:00",
+  "updated_at": "2026-09-03T22:12:22.924953+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Banxico’s Heath says rate cuts can wait as core inflation persists",
+      "link": "https://www.fxstreet.com/news/banxicos-heath-says-rate-cuts-can-wait-as-core-inflation-persists-202609032153"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso rescued by Waller’s dovish tilt, appreciates ahead of NFP",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rescued-by-wallers-dovish-tilt-appreciates-ahead-of-nfp-202609032142"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average rallies into a payrolls print it cannot win",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-into-a-payrolls-print-it-cannot-win-202609032139"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: US Nonfarm Payrolls take centre stage",
       "link": "https://www.fxstreet.com/news/forex-today-us-nonfarm-payrolls-take-centre-stage-202609031741"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average rallies on a coin toss",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-coin-toss-202609031609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoE’s Pill backs rate hike to 4% to limit inflation catch-up effects",
-      "link": "https://www.fxstreet.com/news/boes-pill-backs-rate-hike-to-4-to-limit-inflation-catch-up-effects-202609031544"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound rises as Fed’s Waller tempers hike bets ahead of NFP",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541"
     }
   ]
 }
