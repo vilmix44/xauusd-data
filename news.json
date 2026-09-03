@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T19:37:12.484329+00:00",
+  "updated_at": "2026-09-03T20:11:29.045726+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,8 +23,23 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG eyes 100-day SMA after Waller rally",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-100-day-sma-after-waller-rally-202609031957"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Stronger Singapore growth with contained inflation – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-stronger-singapore-growth-with-contained-inflation-commerzbank-202609031938"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Chinese Yuan: Range trade persists against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-against-us-dollar-uob-202609031852"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Break of 50-day SMA exposes 0.8040",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-50-day-sma-break-exposes-08040-202609031847"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold tests $4,500 as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
       "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar extends gains on hawkish BoC message, softer US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-extends-gains-on-hawkish-boc-message-softer-us-dollar-202609031515"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen jumps as BoJ opens door to faster rate hikes",
-      "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427"
     }
   ]
 }
