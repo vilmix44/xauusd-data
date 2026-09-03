@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-03T09:12:37.574781+00:00",
+  "updated_at": "2026-09-03T09:40:51.234107+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Key Test as Iran War and Hormuz Crisis Keep Markets on Edge",
+      "link": "https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
+      "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
@@ -12,9 +22,14 @@
       "link": "https://www.investing.com/analysis/gold-selloff-shows-how-rising-yields-are-overpowering-safehaven-demand-200686996"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive",
-      "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: BoC inflation focus and valuation divergence – MUFG",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-inflation-focus-and-valuation-divergence-mufg-202609030934"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Polish Zloty: NBP language turns cautious after FX pressure – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-language-turns-cautious-after-fx-pressure-commerzbank-202609030918"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound: Downside seen limited near 1.3465 against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/british-pound-downside-seen-limited-near-13465-against-us-dollar-uob-202609030755"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Trading near 1.16 against US Dollar as yields rise – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-trading-near-116-against-us-dollar-as-yields-rise-danske-bank-202609030743"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Upside risks persist – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-ing-202609030735"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc bounces up from monthly lows as GDP, inflation data beat expectations",
-      "link": "https://www.fxstreet.com/news/swiss-franc-bounces-up-from-monthly-lows-as-gdp-inflation-data-beat-expectations-202609030717"
     }
   ]
 }
