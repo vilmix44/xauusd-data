@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:12:16.892495+00:00",
+  "updated_at": "2026-09-03T13:40:49.193400+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Bullish momentum builds after BoC – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-after-boc-scotiabank-202609031337"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: BoJ repricing supports gains against US Dollar – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-repricing-supports-gains-against-us-dollar-mufg-202609031315"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Near-term stabilization view – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-near-term-stabilization-view-bbh-202609031118"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee rallies on strong foreign inflows through FCNR deposits",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar gains against US Dollar due to unfavorable US NFP backdrop",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-against-us-dollar-due-to-unfavorable-us-nfp-backdrop-202609031057"
     }
   ]
 }
