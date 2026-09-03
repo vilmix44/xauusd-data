@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:39:35.771206+00:00",
+  "updated_at": "2026-09-03T12:16:39.062534+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: 20-day EMA acts as key support level",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-20-day-ema-acts-as-key-support-level-202609031146"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "What is keeping the US Dollar supported as front-end rates and ISM expectations point higher?",
+      "link": "https://www.fxstreet.com/news/what-is-keeping-the-us-dollar-supported-as-front-end-rates-and-ism-expectations-point-higher-202609031142"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Polish Zloty: NBP language turns cautious after FX pressure – Commerzbank",
       "link": "https://www.fxstreet.com/news/polish-zloty-nbp-language-turns-cautious-after-fx-pressure-commerzbank-202609030918"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Pullback eases with upside focus on 0.7200 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-eases-with-upside-focus-on-07200-against-us-dollar-uob-202609030906"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846"
     }
   ]
 }
