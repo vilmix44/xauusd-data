@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T02:15:19.913422+00:00",
+  "updated_at": "2026-09-03T05:17:55.913632+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -18,7 +18,47 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand rebounds above 0.5850 on stronger Chinese services PMI",
+      "title": "Indonesian Rupiah strengthens as US Dollar declines on potential Yen intervention",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-us-dollar-declines-on-potential-yen-intervention-202609030516"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index weakens below 99.50  as yields ease",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9950-as-yields-ease-202609030510"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen strengthens on BoJ rate hike signals",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-boj-rate-hike-signals-202609030314"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar weakens against Japanese Yen following China’s Services PMI data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-against-japanese-yen-following-chinas-services-pmi-data-202609030231"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar rebounds above 0.5850 on stronger Chinese services PMI",
       "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214"
     },
     {
@@ -35,46 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro steadies below 1.1600 as hawkish Fed rhetoric limits gains",
       "link": "https://www.fxstreet.com/news/euro-steadies-below-11600-as-hawkish-fed-rhetoric-limits-gains-202609030051"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Australian Dollar's thirteen-year high is a New Zealand story",
-      "link": "https://www.fxstreet.com/news/the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-202609022330"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The New Zealand Dollar sells the hike it asked for",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-sells-the-hike-it-asked-for-202609022247"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-soft-us-jobs-gdp-beat-lift-aud-pmis-ahead-202609022238"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rises as speculation of Yen intervention weighs on the US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-rises-as-speculation-of-yen-intervention-weighs-on-the-us-dollar-202609021946"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Beige Book shows modest economic growth as prices rise",
-      "link": "https://www.fxstreet.com/news/feds-beige-book-shows-modest-growth-as-prices-rise-202609021821"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: Higher oil prices add to IDR pressure - MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-higher-oil-prices-add-to-idr-pressure-mufg-202609021807"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Weekly claims and ISM Services keep the focus on the real economy",
-      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-ism-services-keep-the-focus-on-the-real-economy-202609021800"
     }
   ]
 }
