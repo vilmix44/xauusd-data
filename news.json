@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-03T16:41:02.584293+00:00",
+  "updated_at": "2026-09-03T17:10:56.278929+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
+      "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: bulls regain control above 4,310",
@@ -17,11 +22,6 @@
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
-      "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
-    },
-    {
       "source": "FXStreet - News",
       "title": "Dow Jones Industrial Average rallies on a coin toss",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-coin-toss-202609031609"
@@ -33,7 +33,7 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound rises as Fed’s Waller tempers Fed hike bets before NFP",
+      "title": "British Pound rises as Fed’s Waller tempers hike bets ahead of NFP",
       "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541"
     },
     {
