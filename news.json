@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:13:58.916735+00:00",
+  "updated_at": "2026-09-03T18:42:44.933855+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar extends decline as NFP takes centre stage",
+      "link": "https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold soars as Waller's dovish tone hurts Fed hike bets ahead of NFP",
+      "link": "https://www.fxstreet.com/news/gold-soars-as-wallers-dovish-tone-hurts-fed-hike-bets-ahead-of-nfp-202609031820"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Support firms with hawkish ECB pricing – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro gains against US Dollar as Waller tempers Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-waller-tempers-fed-rate-hike-bets-202609031410"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc: Hot inflation and SNB path – BBH",
-      "link": "https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407"
     }
   ]
 }
