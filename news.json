@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:52:50.677400+00:00",
+  "updated_at": "2026-09-03T06:16:36.377743+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold sticks to gains amid weaker USD, soft bond yields; remains below $4,450 Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "GBP/USD Price Forecast: Holds a mildly bullish bias near 1.3500 despite subdued RSI momentum",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-a-mildly-bullish-bias-near-13500-despite-subdued-rsi-momentum-202609030609"
     },
     {
       "source": "FXStreet - News",
@@ -35,11 +45,6 @@
       "source": "FXStreet - News",
       "title": "United States Dollar Index weakens below 99.50  as yields ease",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9950-as-yields-ease-202609030510"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
-      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar rebounds above 0.5850 on stronger Chinese services PMI",
       "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar flat lines above 0.7150 vs USD after Aussie trade data, China PMI",
-      "link": "https://www.fxstreet.com/news/australian-dollar-flat-lines-above-07150-vs-usd-after-aussie-trade-data-china-pmi-202609030159"
     }
   ]
 }
