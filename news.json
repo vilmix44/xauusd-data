@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:17:55.913632+00:00",
+  "updated_at": "2026-09-03T05:52:50.677400+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
       "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Turns sticky to 20-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-turns-sticky-to-20-day-ema-202609030542"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee hits fresh two-month high against US Dollar",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar flat lines above 0.7150 vs USD after Aussie trade data, China PMI",
       "link": "https://www.fxstreet.com/news/australian-dollar-flat-lines-above-07150-vs-usd-after-aussie-trade-data-china-pmi-202609030159"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound consolidates near three-week low as Fed bets and Iran tensions support USD",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-near-three-week-low-as-fed-bets-and-iran-tensions-support-usd-202609030112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro steadies below 1.1600 as hawkish Fed rhetoric limits gains",
-      "link": "https://www.fxstreet.com/news/euro-steadies-below-11600-as-hawkish-fed-rhetoric-limits-gains-202609030051"
     }
   ]
 }
