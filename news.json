@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:40:23.695232+00:00",
+  "updated_at": "2026-09-03T15:11:27.774659+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Fed's Waller: Inclined to support policy hold if August inflation data shows progress",
       "link": "https://www.fxstreet.com/news/feds-waller-inclined-to-support-policy-hold-if-august-inflation-data-shows-progress-202609031253"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar climbs as softer US labor data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-labor-data-weighs-on-us-dollar-202609031250"
     }
   ]
 }
