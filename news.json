@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T06:16:36.377743+00:00",
+  "updated_at": "2026-09-03T06:44:24.113278+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -18,7 +18,22 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold sticks to gains amid weaker USD, soft bond yields; remains below $4,450 Fed hike bets",
+      "title": "Asian stock markets reflect mixed trend in countdown to US NFP data",
+      "link": "https://www.fxstreet.com/news/asian-stock-markets-reflect-mixed-trend-in-countdown-to-us-nfp-data-202609030637"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar stalls below 0.7170, halfway through last two weeks’ range",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stalls-below-07170-halfway-through-last-two-weeks-range-202609030630"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Downside risk persists toward 1.1550 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-risk-persists-toward-11550-against-us-dollar-uob-202609030620"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold sticks to gains amid weaker USD, soft bond yields; remains below $4,450",
       "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
     },
     {
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen strengthens on BoJ rate hike signals",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-boj-rate-hike-signals-202609030314"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar weakens against Japanese Yen following China’s Services PMI data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-against-japanese-yen-following-chinas-services-pmi-data-202609030231"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar rebounds above 0.5850 on stronger Chinese services PMI",
-      "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214"
     }
   ]
 }
