@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T12:44:28.948376+00:00",
+  "updated_at": "2026-09-03T13:12:16.892495+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold rallies over 2% as US Dollar and Treasury yields retreat",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc strengthens on inflation surprise and broad US Dollar weakness",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed's Waller: Inclined to support policy hold if August inflation data shows progress",
+      "link": "https://www.fxstreet.com/news/feds-waller-inclined-to-support-policy-hold-if-august-inflation-data-shows-progress-202609031253"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar climbs as softer US labor data weighs on US Dollar",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-labor-data-weighs-on-us-dollar-202609031250"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Testing support after BoC hold – BBH",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-testing-support-after-boc-hold-bbh-202609031249"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: 20-day EMA acts as key support level",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-20-day-ema-acts-as-key-support-level-202609031146"
     },
@@ -43,11 +68,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold climbs as Yen-led US Dollar decline outweighs hawkish Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Indian Rupee rallies on strong foreign inflows through FCNR deposits",
       "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar gains against US Dollar due to unfavorable US NFP backdrop",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-against-us-dollar-due-to-unfavorable-us-nfp-backdrop-202609031057"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-likely-to-be-challenged-around-4-470-202609031020"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc: Swiss data supports dip-buying case – Societe Generale",
-      "link": "https://www.fxstreet.com/news/swiss-franc-swiss-data-supports-dip-buying-case-societe-generale-202609031005"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: BoC inflation focus and valuation divergence – MUFG",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-inflation-focus-and-valuation-divergence-mufg-202609030934"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: NBP language turns cautious after FX pressure – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-language-turns-cautious-after-fx-pressure-commerzbank-202609030918"
     }
   ]
 }
