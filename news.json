@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:11:04.457741+00:00",
+  "updated_at": "2026-09-03T11:39:35.771206+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: September hike bias shifts – ING",
+      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-bias-shifts-ing-202609031129"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Near-term stabilization view – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-near-term-stabilization-view-bbh-202609031118"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold climbs as Yen-led US Dollar decline outweighs hawkish Fed expectations",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Hedging impulse fades as holdings stabilize – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-hedging-impulse-fades-as-holdings-stabilize-bny-202609030834"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains flat above 1.1600 after softer-than-expected Eurozone services activity",
-      "link": "https://www.fxstreet.com/news/euro-remains-flat-above-11600-after-softer-than-expected-eurozone-services-activity-202609030821"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold stands firm as USD dives to one-week low; Fed hike bets cap gains",
-      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351"
     }
   ]
 }
