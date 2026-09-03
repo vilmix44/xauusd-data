@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T07:12:22.079784+00:00",
+  "updated_at": "2026-09-03T07:40:30.981775+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive",
       "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Upside risks persist – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-upside-risks-persist-ing-202609030735"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc bounces up from monthly lows as GDP, inflation data beat expectations",
+      "link": "https://www.fxstreet.com/news/swiss-franc-bounces-up-from-monthly-lows-as-gdp-inflation-data-beat-expectations-202609030717"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "India Gold price today: Gold rises, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321"
     }
   ]
 }
