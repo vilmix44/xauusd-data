@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-03T10:12:19.716161+00:00",
+  "updated_at": "2026-09-03T10:39:46.745231+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: bulls regain control above 4,310",
+      "link": "https://www.investing.com/analysis/gold-bulls-regain-control-above-4310-200687045"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Key Test as Iran War and Hormuz Crisis Keep Markets on Edge",
@@ -17,9 +22,9 @@
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Selloff Shows How Rising Yields Are Overpowering Safe-Haven Demand",
-      "link": "https://www.investing.com/analysis/gold-selloff-shows-how-rising-yields-are-overpowering-safehaven-demand-200686996"
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-likely-to-be-challenged-around-4-470-202609031020"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound gains capped as fiscal, geopolitical risks persist",
       "link": "https://www.fxstreet.com/news/british-pound-gains-capped-as-fiscal-geopolitical-risks-persist-202609030759"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ mulls hiking interest rates to 1.25% in September meeting – Bloomberg",
-      "link": "https://www.fxstreet.com/news/boj-mulls-hiking-interest-rates-to-125-in-september-meeting-bloomberg-202609030756"
     }
   ]
 }
