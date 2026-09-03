@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:42:09.924462+00:00",
+  "updated_at": "2026-09-03T09:12:37.574781+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Psychological Resistance at $4,444 as Last Candles Turn Decisive",
       "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Pullback eases with upside focus on 0.7200 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-eases-with-upside-focus-on-07200-against-us-dollar-uob-202609030906"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee gets supercharged by strong inflows through FCNR deposits",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc bounces up from monthly lows as GDP, inflation data beat expectations",
       "link": "https://www.fxstreet.com/news/swiss-franc-bounces-up-from-monthly-lows-as-gdp-inflation-data-beat-expectations-202609030717"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee surges on strong foreign inflows through FCNR (B) deposits",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asian stock markets reflect mixed trend in countdown to US NFP data",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-reflect-mixed-trend-in-countdown-to-us-nfp-data-202609030637"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar stalls below 0.7170, halfway through last two weeks’ range",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stalls-below-07170-halfway-through-last-two-weeks-range-202609030630"
     }
   ]
 }
