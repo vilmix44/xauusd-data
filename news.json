@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:40:49.193400+00:00",
+  "updated_at": "2026-09-03T14:12:39.976019+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro gains against US Dollar as Waller tempers Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-waller-tempers-fed-rate-hike-bets-202609031410"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc: Hot inflation and SNB path – BBH",
+      "link": "https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold: Longer-term landscape improves – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: 20-day EMA acts as key support level",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-20-day-ema-acts-as-key-support-level-202609031146"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "What is keeping the US Dollar supported as front-end rates and ISM expectations point higher?",
-      "link": "https://www.fxstreet.com/news/what-is-keeping-the-us-dollar-supported-as-front-end-rates-and-ism-expectations-point-higher-202609031142"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: September hike bias shifts – ING",
-      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-bias-shifts-ing-202609031129"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Near-term stabilization view – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-near-term-stabilization-view-bbh-202609031118"
     }
   ]
 }
