@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-03T06:44:24.113278+00:00",
+  "updated_at": "2026-09-03T07:12:22.079784+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
+      "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Selloff Shows How Rising Yields Are Overpowering Safe-Haven Demand",
@@ -12,9 +17,9 @@
       "link": "https://www.investing.com/analysis/gold-tests-psychological-resistance-at-4444-as-last-candles-turn-decisive-200686988"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Sellers Cautious Amidst Weak ADP Numbers, NFP on Radar",
-      "link": "https://www.investing.com/analysis/gold-sellers-cautious-amidst-weak-adp-numbers-nfp-on-radar-200686989"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee surges on strong foreign inflows through FCNR (B) deposits",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
     },
     {
       "source": "FXStreet - News",
@@ -45,11 +50,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Turns sticky to 20-day EMA",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-turns-sticky-to-20-day-ema-202609030542"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee hits fresh two-month high against US Dollar",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522"
     },
     {
       "source": "FXStreet - News",
