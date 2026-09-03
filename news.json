@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T15:40:29.354374+00:00",
+  "updated_at": "2026-09-03T16:12:46.556816+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
       "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average rallies on a coin toss",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-coin-toss-202609031609"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoE’s Pill backs rate hike to 4% to limit inflation catch-up effects",
+      "link": "https://www.fxstreet.com/news/boes-pill-backs-rate-hike-to-4-to-limit-inflation-catch-up-effects-202609031544"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound rises as Fed’s Waller tempers Fed hike bets before NFP",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-as-feds-waller-tempers-fed-hike-bets-before-nfp-202609031541"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold: Longer-term landscape improves – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Bullish momentum builds after BoC – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-after-boc-scotiabank-202609031337"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ repricing supports gains against US Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-repricing-supports-gains-against-us-dollar-mufg-202609031315"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens on inflation surprise and broad US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257"
     }
   ]
 }
