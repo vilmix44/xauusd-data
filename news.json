@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:44:27.867118+00:00",
+  "updated_at": "2026-09-04T13:11:29.036307+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen steadies against US Dollar after strong NFP report",
+      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
+      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee outperforms amid strong foreign inflows in FCNR (B) deposits",
       "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Short-term downside risks – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-short-term-downside-risks-ing-202609041130"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: On track to revisit four-year high near 0.7280",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-on-track-to-revisit-four-year-high-near-07280-202609041105"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold pauses after two-day recovery as US NFP looms",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
     }
   ]
 }
