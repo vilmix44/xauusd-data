@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T06:14:53.002818+00:00",
+  "updated_at": "2026-09-04T06:43:45.066481+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar retreats on easing Fed rate hike bets, focus shifts to NFP",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-on-easing-fed-rate-hike-bets-focus-shifts-to-nfp-202609040640"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Policy signals support JPY against US Dollar - Commerzbank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-signals-support-jpy-against-us-dollar-commerzbank-202609040636"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CAD Price Forecast: 100-day EMA remains key hurdle",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-100-day-ema-remains-key-hurdle-202609040627"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar edges higher above 0.7200 on rising RBA hike bets, eyes on US NFP data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-above-07200-on-rising-rba-hike-bets-eyes-on-us-nfp-data-202609040625"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro stalls  above 1.1600 with Eurozone Retail Sales, US Nonfarm Payrolls on tap",
+      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-rebounds-above-11250-while-staying-constrained-below-100-day-sma-202609040439"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609040435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Strong recovery from 100-day MA ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strong-recovery-from-100-day-ma-ahead-of-us-nfp-data-202609040320"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar gains momentum to near 0.5900, US NFP data looms",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-to-near-05900-us-nfp-data-looms-202609040245"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index weakens as Fed’s Waller signals rate pause",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-feds-waller-signals-rate-pause-202609040225"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223"
     }
   ]
 }
