@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:13:19.666440+00:00",
+  "updated_at": "2026-09-04T18:40:11.806339+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Hammack says policy is not restrictive enough",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold recovers from post-NFP low as US Dollar trims gains",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453"
     }
   ]
 }
