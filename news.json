@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T05:10:46.787938+00:00",
+  "updated_at": "2026-09-04T05:39:57.841101+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen retreats from August highs as USD bears turn cautious ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/japanese-yen-retreats-from-august-highs-as-usd-bears-turn-cautious-ahead-of-us-nfp-202609040529"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound edges higher above 1.3500 ahead of US jobs report",
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-above-13500-ahead-of-us-jobs-report-202609040146"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen sits near August highs as USD remains on the back foot ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sits-near-august-highs-as-usd-remains-on-the-back-foot-ahead-of-us-nfp-202609040104"
     }
   ]
 }
