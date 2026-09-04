@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:11:57.055888+00:00",
+  "updated_at": "2026-09-04T09:40:45.487653+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indian Rupee: Rate hike path supports currency – Societe Generale",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
+      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
       "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852"
     },
@@ -38,7 +48,7 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "US August Nonfarm Payrolls expected to rebound to 58K after July slump",
+      "title": "US August Nonfarm Payrolls expected to rebound to 56K after July slump",
       "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
     },
     {
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones futures steady as traders await US Nonfarm Payrolls",
       "link": "https://www.fxstreet.com/news/dow-jones-futures-steady-as-traders-await-us-nonfarm-payrolls-202609040756"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/JPY Price Forecast: US Dollar recovery is likely to be tested at 156.70 area",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-recovery-is-likely-to-be-tested-at-15670-area-202609040743"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Rebound on softer Fed expectations – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-rebound-on-softer-fed-expectations-ocbc-202609040742"
     }
   ]
 }
