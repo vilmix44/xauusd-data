@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:10:48.028253+00:00",
+  "updated_at": "2026-09-04T21:39:02.175706+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
       "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-traders-increase-fed-hawkish-bets-after-stellar-nfp-202609041808"
     }
   ]
 }
