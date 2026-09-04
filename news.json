@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:37:48.590159+00:00",
+  "updated_at": "2026-09-04T18:13:19.666440+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Turkey: CBRT likely to hold before two Q4 rate cuts - ING",
+      "link": "https://www.fxstreet.com/news/turkey-cbrt-likely-to-hold-before-two-q4-rate-cuts-ing-202609041810"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
+      "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold falls as traders increase Fed hawkish bets after stellar NFP",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-traders-increase-fed-hawkish-bets-after-stellar-nfp-202609041808"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
       "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
-      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
-      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406"
     }
   ]
 }
