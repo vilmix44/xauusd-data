@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T10:40:54.031610+00:00",
+  "updated_at": "2026-09-04T11:11:06.477403+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Hormuz Is Becoming an Inflation Problem Again",
+      "link": "https://www.investing.com/analysis/hormuz-is-becoming-an-inflation-problem-again-200687137"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Becoming More Than a Safe-Haven Asset for Investors",
@@ -17,9 +22,24 @@
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
-      "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+      "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: On track to revisit four-year high near 0.7280",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-on-track-to-revisit-four-year-high-near-07280-202609041105"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold pauses after two-day recovery as US NFP looms",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US August Nonfarm Payrolls set to rebound as markets assess September Fed hike",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound pulls back from session highs as BoE Bailey tames rate hike hopes",
+      "link": "https://www.fxstreet.com/news/british-pound-pulls-back-from-session-highs-as-boe-bailey-tames-rate-hike-hopes-202609041045"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
       "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee outperforms ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Bulls turn cautious as 1.3550 cap gains ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-turn-cautious-as-13550-cap-gains-ahead-of-us-nfp-202609040834"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US August Nonfarm Payrolls expected to rebound to 56K after July slump",
-      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
     }
   ]
 }
