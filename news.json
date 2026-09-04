@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-04T13:11:29.036307+00:00",
+  "updated_at": "2026-09-04T13:40:54.403581+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Diesel Surge Raises Fresh Inflation Risks for the US Economy",
+      "link": "https://www.investing.com/analysis/us-diesel-prices-hit-alltime-high-as-global-fuel-squeeze-deepens-200687150"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Why It Matters Where Central Banks Keep Their Gold",
+      "link": "https://www.investing.com/analysis/why-it-matters-where-central-banks-keep-their-gold-200687146"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Hormuz Is Becoming an Inflation Problem Again",
@@ -20,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold: Central bank buying underpins prices – ING",
+      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
+      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
       "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index edges higher to near 99.00 ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-edges-higher-to-near-9900-ahead-of-us-nfp-data-202609041147"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD trapped below 100-day SMA as US NFP approaches",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trapped-below-100-day-sma-as-us-nfp-approaches-202609041143"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar steadies at 1.3800 awaiting employment data from US and Canada",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bears-look-at-13850-support-after-rejection-at-13900-202609041136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee outperforms amid strong foreign inflows in FCNR (B) deposits",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
     }
   ]
 }
