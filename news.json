@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T04:12:16.166556+00:00",
+  "updated_at": "2026-09-04T04:40:29.710785+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-rebounds-above-11250-while-staying-constrained-below-100-day-sma-202609040439"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609040435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold consolidates below $4,500 as bulls look to US NFP for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen sits near August highs as USD remains on the back foot ahead of US NFP",
       "link": "https://www.fxstreet.com/news/japanese-yen-sits-near-august-highs-as-usd-remains-on-the-back-foot-ahead-of-us-nfp-202609040104"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro steadies above 1.1600 as traders await US NFP data",
-      "link": "https://www.fxstreet.com/news/euro-steadies-above-11600-as-traders-await-us-nfp-data-202609040048"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Australian Dollar thanks Waller's comments, which sink the USD",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-thanks-wallers-comments-which-sink-the-usd-202609032243"
     }
   ]
 }
