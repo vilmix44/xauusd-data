@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:40:41.311963+00:00",
+  "updated_at": "2026-09-04T16:12:05.317651+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver claws back post-NFP losses after briefly crashing below $65",
+      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
       "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Jobs strength lifts hike odds – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
-      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346"
     }
   ]
 }
