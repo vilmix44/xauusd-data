@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T02:11:23.128052+00:00",
+  "updated_at": "2026-09-04T02:39:38.366911+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index weakens as Fed’s Waller signals rate pause",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-feds-waller-signals-rate-pause-202609040225"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Underheld positions unwind with reflation risks – BNY",
       "link": "https://www.fxstreet.com/news/chinese-yuan-underheld-positions-unwind-with-reflation-risks-bny-202609032222"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Banxico’s Heath says rate cuts can wait as core inflation persists",
-      "link": "https://www.fxstreet.com/news/banxicos-heath-says-rate-cuts-can-wait-as-core-inflation-persists-202609032153"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso rescued by Waller’s dovish tilt, appreciates ahead of NFP",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rescued-by-wallers-dovish-tilt-appreciates-ahead-of-nfp-202609032142"
     }
   ]
 }
