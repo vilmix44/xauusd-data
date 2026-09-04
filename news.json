@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T08:42:00.712241+00:00",
+  "updated_at": "2026-09-04T09:11:57.055888+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
       "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee outperforms ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold: Rebound on softer Fed expectations – OCBC",
       "link": "https://www.fxstreet.com/news/gold-rebound-on-softer-fed-expectations-ocbc-202609040742"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD corrects $66.30 amid caution ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-6630-amid-caution-ahead-of-us-nfp-data-202609040732"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro steadies against Canadian Dollar following Germany’s Factory Orders data",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-canadian-dollar-following-germanys-factory-orders-data-202609040732"
     }
   ]
 }
