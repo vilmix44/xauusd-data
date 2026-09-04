@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:10:59.309497+00:00",
+  "updated_at": "2026-09-04T14:40:52.214533+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
+      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
+      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
-      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
-      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
     }
   ]
 }
