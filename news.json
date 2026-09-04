@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T02:39:38.366911+00:00",
+  "updated_at": "2026-09-04T03:11:44.847920+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
       "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar gains momentum to near 0.5900, US NFP data looms",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-to-near-05900-us-nfp-data-looms-202609040245"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand's Kiwi gets most of Wednesday back without earning it",
       "link": "https://www.fxstreet.com/news/new-zealands-kiwi-gets-most-of-wednesday-back-without-earning-it-202609032223"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Underheld positions unwind with reflation risks – BNY",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-underheld-positions-unwind-with-reflation-risks-bny-202609032222"
     }
   ]
 }
