@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T19:09:21.180840+00:00",
+  "updated_at": "2026-09-04T19:37:50.062990+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Fed Coin Flip Was Over in a Day",
+      "link": "https://www.investing.com/analysis/golds-fed-coin-flip-was-over-in-a-day-200687172"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Hormuz Is Becoming an Inflation Problem Again",
@@ -25,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
+      "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index rises as strong NFP revives Fed hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Hungary: Inflation uptick complicates rate-cut path – ING",
-      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514"
     }
   ]
 }
