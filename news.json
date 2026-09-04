@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T14:40:52.214533+00:00",
+  "updated_at": "2026-09-04T15:11:33.878348+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Hormuz Is Becoming an Inflation Problem Again",
+      "link": "https://www.investing.com/analysis/hormuz-is-becoming-an-inflation-problem-again-200687137"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Diesel Surge Raises Fresh Inflation Risks for the US Economy",
@@ -13,11 +18,6 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Hormuz Is Becoming an Inflation Problem Again",
-      "link": "https://www.investing.com/analysis/hormuz-is-becoming-an-inflation-problem-again-200687137"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Is Becoming More Than a Safe-Haven Asset for Investors",
       "link": "https://www.investing.com/analysis/gold-is-becoming-more-than-a-safehaven-asset-for-investors-200687120"
     },
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold recovers from post-NFP low as US Dollar trims gains",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
+      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
       "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen steadies against US Dollar after strong NFP report",
-      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
     }
   ]
 }
