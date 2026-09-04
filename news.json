@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:11:33.878348+00:00",
+  "updated_at": "2026-09-04T15:40:41.311963+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index rises as strong NFP revives Fed hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-strong-nfp-revives-fed-hike-bets-202609041521"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Hungary: Inflation uptick complicates rate-cut path – ING",
+      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
       "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Central bank buying underpins prices – ING",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319"
     }
   ]
 }
