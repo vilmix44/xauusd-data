@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:39:02.175706+00:00",
+  "updated_at": "2026-09-04T22:11:05.498200+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Turkey: CBRT likely to hold before two Q4 rate cuts - ING",
       "link": "https://www.fxstreet.com/news/turkey-cbrt-likely-to-hold-before-two-q4-rate-cuts-ing-202609041810"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar resumes advance as US Dollar loses post-NFP momentum",
-      "link": "https://www.fxstreet.com/news/australian-dollar-resumes-advance-as-us-dollar-loses-post-nfp-momentum-202609041810"
     }
   ]
 }
