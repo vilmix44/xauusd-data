@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T19:37:50.062990+00:00",
+  "updated_at": "2026-09-04T20:11:04.231272+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
+      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones Industrial Average falls on a jobs number the president loves",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-on-a-jobs-number-the-president-loves-202609041736"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver claws back post-NFP losses after briefly crashing below $65",
-      "link": "https://www.fxstreet.com/news/silver-claws-back-post-nfp-losses-after-briefly-crashing-below-65-202609041551"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Euro forms potential higher low above 100-day SMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-euro-forms-potential-higher-low-above-100-day-sma-202609041543"
     }
   ]
 }
