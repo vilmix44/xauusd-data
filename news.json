@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:39:54.975381+00:00",
+  "updated_at": "2026-09-04T12:15:34.681854+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Close call on further tightening – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index edges higher to near 99.00 ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-edges-higher-to-near-9900-ahead-of-us-nfp-data-202609041147"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD trapped below 100-day SMA as US NFP approaches",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trapped-below-100-day-sma-as-us-nfp-approaches-202609041143"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound pulls back from session highs as BoE Bailey tames rate hike hopes",
       "link": "https://www.fxstreet.com/news/british-pound-pulls-back-from-session-highs-as-boe-bailey-tames-rate-hike-hopes-202609041045"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar edges higher vs Yen as RBA tightening bets meet BoJ normalization hopes",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-vs-yen-as-rba-tightening-bets-meets-boj-normalization-hopes-202609041022"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoE's Bailey defends central bank flexibility, warns of bond market pressures",
-      "link": "https://www.fxstreet.com/news/boes-bailey-defends-central-bank-flexibility-warns-of-bond-market-pressures-202609040959"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Data volatility guides Bank of Canada – Commerzbank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-data-volatility-guides-bank-of-canada-commerzbank-202609040957"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949"
     }
   ]
 }
