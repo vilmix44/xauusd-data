@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:12:11.124869+00:00",
+  "updated_at": "2026-09-04T10:40:54.031610+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
       "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar edges higher vs Yen as RBA tightening bets meet BoJ normalization hopes",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-vs-yen-as-rba-tightening-bets-meets-boj-normalization-hopes-202609041022"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US August Nonfarm Payrolls expected to rebound to 56K after July slump",
       "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828"
     }
   ]
 }
