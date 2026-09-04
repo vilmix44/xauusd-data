@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T07:11:42.495362+00:00",
+  "updated_at": "2026-09-04T07:40:44.332374+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
+      "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
@@ -12,14 +17,19 @@
       "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: bulls regain control above 4,310",
-      "link": "https://www.investing.com/analysis/gold-bulls-regain-control-above-4310-200687045"
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD corrects $66.30 amid caution ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-6630-amid-caution-ahead-of-us-nfp-data-202609040732"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Key Test as Iran War and Hormuz Crisis Keep Markets on Edge",
-      "link": "https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038"
+      "source": "FXStreet - News",
+      "title": "Euro steadies against Canadian Dollar following Germany’s Factory Orders data",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-canadian-dollar-following-germanys-factory-orders-data-202609040732"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee: RBI inflows and reduced tail risks – MUFG",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-inflows-and-reduced-tail-risks-mufg-202609040720"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar edges higher above 0.7200 on rising RBA hike bets, eyes on US NFP data",
       "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-above-07200-on-rising-rba-hike-bets-eyes-on-us-nfp-data-202609040625"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro stalls  above 1.1600 with Eurozone Retail Sales, US Nonfarm Payrolls on tap",
-      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah declines as US Dollar gains despite easing Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202609040554"
     }
   ]
 }
