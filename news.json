@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T08:12:39.127213+00:00",
+  "updated_at": "2026-09-04T08:42:00.712241+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Becoming More Than a Safe-Haven Asset for Investors",
+      "link": "https://www.investing.com/analysis/gold-is-becoming-more-than-a-safehaven-asset-for-investors-200687120"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
@@ -15,6 +20,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
       "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "GBP/USD Price Forecast: Bulls turn cautious as 1.3550 cap gains ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-turn-cautious-as-13550-cap-gains-ahead-of-us-nfp-202609040834"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US August Nonfarm Payrolls expected to rebound to 58K after July slump",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold extends the range play above $4,450 as traders look to US NFP for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: 160 seen as credible intervention deterrent against US Dollar – BNY",
+      "link": "https://www.fxstreet.com/news/japanese-yen-160-seen-as-credible-intervention-deterrent-against-us-dollar-bny-202609040814"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro steadies against Canadian Dollar following Germany’s Factory Orders data",
       "link": "https://www.fxstreet.com/news/euro-steadies-against-canadian-dollar-following-germanys-factory-orders-data-202609040732"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: RBI inflows and reduced tail risks – MUFG",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-inflows-and-reduced-tail-risks-mufg-202609040720"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: Holds steady near 99.00 below key averages before US jobs data",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-holds-steady-near-9900-below-key-averages-before-us-jobs-data-202609040705"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed outlook stays data-dependent after Waller – Danske Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-stays-data-dependent-after-waller-danske-bank-202609040705"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold remains on the defensive as USD steadies ahead of key US NFP report",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee outperforms on strong FCNR flows, eased hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar advances as US Dollar struggles on softening hawkish expectations",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-as-us-dollar-struggles-on-softening-hawkish-expectations-202609040647"
     }
   ]
 }
