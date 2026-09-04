@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:40:45.487653+00:00",
+  "updated_at": "2026-09-04T10:12:11.124869+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
       "link": "https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoE's Bailey defends central bank flexibility, warns of bond market pressures",
+      "link": "https://www.fxstreet.com/news/boes-bailey-defends-central-bank-flexibility-warns-of-bond-market-pressures-202609040959"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Data volatility guides Bank of Canada – Commerzbank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-data-volatility-guides-bank-of-canada-commerzbank-202609040957"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index: Two-way risks within bearish channel – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-two-way-risks-within-bearish-channel-ocbc-202609040947"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
       "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold extends the range play above $4,450 as traders look to US NFP for Fed rate cues",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: 160 seen as credible intervention deterrent against US Dollar – BNY",
-      "link": "https://www.fxstreet.com/news/japanese-yen-160-seen-as-credible-intervention-deterrent-against-us-dollar-bny-202609040814"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Equities: Rally on dovish Fed tone – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/equities-rally-on-dovish-fed-tone-deutsche-bank-202609040800"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones futures steady as traders await US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-steady-as-traders-await-us-nonfarm-payrolls-202609040756"
     }
   ]
 }
