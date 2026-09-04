@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:15:34.681854+00:00",
+  "updated_at": "2026-09-04T12:44:27.867118+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "European Central Bank: Inflation-driven hike prospects – DBS",
+      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold pauses after two-day recovery as US NFP looms",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US August Nonfarm Payrolls set to rebound as markets assess September Fed hike",
-      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound pulls back from session highs as BoE Bailey tames rate hike hopes",
-      "link": "https://www.fxstreet.com/news/british-pound-pulls-back-from-session-highs-as-boe-bailey-tames-rate-hike-hopes-202609041045"
     }
   ]
 }
