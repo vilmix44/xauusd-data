@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-04T06:43:45.066481+00:00",
+  "updated_at": "2026-09-04T07:11:42.495362+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
+      "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
@@ -17,9 +22,29 @@
       "link": "https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
-      "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035"
+      "source": "FXStreet - News",
+      "title": "US Dollar Index Price Forecast: Holds steady near 99.00 below key averages before US jobs data",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-holds-steady-near-9900-below-key-averages-before-us-jobs-data-202609040705"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Fed outlook stays data-dependent after Waller – Danske Bank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-outlook-stays-data-dependent-after-waller-danske-bank-202609040705"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold remains on the defensive as USD steadies ahead of key US NFP report",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee outperforms on strong FCNR flows, eased hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar advances as US Dollar struggles on softening hawkish expectations",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-as-us-dollar-struggles-on-softening-hawkish-expectations-202609040647"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indonesian Rupiah declines as US Dollar gains despite easing Fed rate hike odds",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202609040554"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound strengthens above 1.3500 as BoE stays hawkish, traders brace for US NFP data",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13500-as-boe-stays-hawkish-traders-brace-for-us-nfp-data-202609040550"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bulls seem hesitant below $4,500 amid modest USD bounce ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee trades close to two-month low ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen retreats from August highs as USD bears turn cautious ahead of US NFP",
-      "link": "https://www.fxstreet.com/news/japanese-yen-retreats-from-august-highs-as-usd-bears-turn-cautious-ahead-of-us-nfp-202609040529"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/JPY Price Forecast: Rebounds above 112.50, while staying constrained below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-rebounds-above-11250-while-staying-constrained-below-100-day-sma-202609040439"
     }
   ]
 }
