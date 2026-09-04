@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:40:54.404111+00:00",
+  "updated_at": "2026-09-04T14:10:59.309935+00:00",
   "events": [
     {
       "title": "FOMC Member Barr Speaks",
@@ -216,6 +216,22 @@
       "impact": "High",
       "forecast": "4.1%",
       "previous": "4.1%"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T09:40:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T18:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     }
   ]
 }

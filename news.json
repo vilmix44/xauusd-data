@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T13:40:54.403581+00:00",
+  "updated_at": "2026-09-04T14:10:59.309497+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -27,9 +27,24 @@
       "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
-      "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Jobs strength lifts hike odds – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
+      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
       "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "European Central Bank: Inflation-driven hike prospects – DBS",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Close call on further tightening – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152"
     }
   ]
 }
