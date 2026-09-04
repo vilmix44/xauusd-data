@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T05:39:57.841101+00:00",
+  "updated_at": "2026-09-04T06:14:53.002818+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indonesian Rupiah declines as US Dollar gains despite easing Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202609040554"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound strengthens above 1.3500 as BoE stays hawkish, traders brace for US NFP data",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13500-as-boe-stays-hawkish-traders-brace-for-us-nfp-data-202609040550"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold bulls seem hesitant below $4,500 amid modest USD bounce ahead of US NFP",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee trades close to two-month low ahead of US NFP data",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Japanese Yen retreats from August highs as USD bears turn cautious ahead of US NFP",
       "link": "https://www.fxstreet.com/news/japanese-yen-retreats-from-august-highs-as-usd-bears-turn-cautious-ahead-of-us-nfp-202609040529"
     },
@@ -35,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "India Gold price today: Gold falls, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609040435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold consolidates below $4,500 as bulls look to US NFP for Fed rate cues",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar strengthens on RBA hike odds",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-rba-hike-odds-202609040207"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar remains on the front foot vs USD as US and Canada jobs data loom",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-us-and-canada-jobs-data-loom-202609040148"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound edges higher above 1.3500 ahead of US jobs report",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-above-13500-ahead-of-us-jobs-report-202609040146"
     }
   ]
 }
