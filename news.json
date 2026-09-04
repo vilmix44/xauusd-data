@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:11:06.477403+00:00",
+  "updated_at": "2026-09-04T11:39:54.975381+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
       "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar steadies at 1.3800 awaiting employment data from US and Canada",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bears-look-at-13850-support-after-rejection-at-13900-202609041136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee outperforms amid strong foreign inflows in FCNR (B) deposits",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Short-term downside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-short-term-downside-risks-ing-202609041130"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index: Two-way risks within bearish channel – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-two-way-risks-within-bearish-channel-ocbc-202609040947"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: Rate hike path supports currency – Societe Generale",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
-      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621"
     }
   ]
 }
