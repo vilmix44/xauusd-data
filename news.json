@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-05T10:10:31.864162+00:00",
+  "updated_at": "2026-09-05T10:37:30.499780+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
+      "link": "https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Fed Coin Flip Was Over in a Day",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
       "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Eurozone: Inflation above target into 2027 – Nordea",
-      "link": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850"
     }
   ]
 }
