@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:10:22.892062+00:00",
+  "updated_at": "2026-09-06T23:37:51.840972+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Australian Dollar drifts higher above 0.7200 despite as strong US NFP",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-07200-despite-as-strong-us-nfp-202609062335"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
       "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: Dollar inflows support INR but impulse may fade – OCBC",
-      "link": "https://www.fxstreet.com/news/indian-rupee-dollar-inflows-support-inr-but-impulse-may-fade-ocbc-202609041932"
     }
   ]
 }
