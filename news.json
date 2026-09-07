@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-07T07:42:35.241317+00:00",
+  "updated_at": "2026-09-07T08:13:13.295019+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Recent Rally is Weakening, but an Up Week Can Right It",
+      "link": "https://www.investing.com/analysis/golds-recent-rally-is-weakening-but-an-up-week-can-right-it-200687205"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold at $4,400: Is the $5,000 Target Becoming a Realistic Scenario?",
@@ -22,19 +27,24 @@
       "link": "https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
-      "link": "https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145"
+      "source": "FXStreet - News",
+      "title": "British Pound edges higher against US Dollar, UK Chancellor Healey’s speech eyed",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-against-us-dollar-uk-chancellor-healeys-speech-eyed-202609070805"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Fed Coin Flip Was Over in a Day",
-      "link": "https://www.investing.com/analysis/golds-fed-coin-flip-was-over-in-a-day-200687172"
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar struggles due to cautious RBNZ policy outlook",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-due-to-cautious-rbnz-policy-outlook-202609070757"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Fresh Pressure as Payroll Surge Boosts September Hike Odds",
-      "link": "https://www.investing.com/analysis/gold-faces-fresh-pressure-as-payroll-surge-boosts-september-hike-odds-200687171"
+      "source": "FXStreet - News",
+      "title": "US Dollar: Strong payrolls fail to sustain Dollar gains – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-strong-payrolls-fail-to-sustain-dollar-gains-mufg-202609070753"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar consolidates below mid-1.3800s as oil strength offsets USD Fed support",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-below-mid-13800s-as-oil-strength-offsets-usd-fed-support-202609070750"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: Volatility risks around Fed decision – Commerzbank",
       "link": "https://www.fxstreet.com/news/us-dollar-volatility-risks-around-fed-decision-commerzbank-202609070641"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains steady above 1.1610 despite weak German Industrial Production data",
-      "link": "https://www.fxstreet.com/news/euro-remains-steady-above-11610-despite-weak-german-industrial-production-data-202609070634"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Range holds before key data against US Dollar – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-range-holds-before-key-data-against-us-dollar-danske-bank-202609070619"
     }
   ]
 }
