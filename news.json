@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T14:12:28.453086+00:00",
+  "updated_at": "2026-09-07T14:41:47.464225+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
+      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "US Dollar: CPI outcome to steer Fed path – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro area: Inflation overshoot extends ECB hiking path – Societe Generale",
       "link": "https://www.fxstreet.com/news/euro-area-inflation-overshoot-extends-ecb-hiking-path-societe-generale-202609071316"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro benefits from weaker US Dollar as ECB decision looms",
-      "link": "https://www.fxstreet.com/news/euro-benefits-from-weaker-us-dollar-as-ecb-decision-looms-202609071253"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: ECB tightening supports currency – BBH",
-      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-supports-currency-bbh-202609071245"
     }
   ]
 }
