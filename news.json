@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T03:12:14.256143+00:00",
+  "updated_at": "2026-09-07T03:42:28.374411+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Swiss Franc weakens as US Dollar strengthens on Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-strengthens-on-fed-rate-hike-bets-202609070337"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Holds key 100-day SMA at start of the US CPI week",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-key-100-day-sma-at-start-of-the-us-cpi-week-202609070321"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-due-to-fed-rate-hike-bets-202609070244"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold falls below $4,400 as strong US jobs data raise the prospects for Fed rate hike",
       "link": "https://www.fxstreet.com/news/gold-falls-below-4-400-as-strong-us-jobs-data-raise-the-prospects-for-fed-rate-hike-202609070133"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen consolidates near August highs vs USD as hawkish BoJ, Fed bets clash",
-      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-near-august-highs-vs-usd-as-hawkish-boj-fed-bets-clash-202609070104"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound gains as US Dollar weakens despite Fed rate hike odds surge",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-fed-rate-hike-odds-surge-202609070058"
     }
   ]
 }
