@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:10:53.599172+00:00",
+  "updated_at": "2026-09-07T19:39:25.191300+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
+      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "United States Dollar Index trades under pressure as Yen buying accelerates",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-under-pressure-as-yen-buying-accelerates-202609071803"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
     }
   ]
 }
