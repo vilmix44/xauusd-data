@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T05:41:05.185404+00:00",
+  "updated_at": "2026-09-07T06:16:57.489138+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "USD/JPY Price Forecast: Fresh downside leg expected below 155.00",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-fresh-downside-leg-expected-below-15500-202609070555"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold languishes above $4,400 as USD stands firm amid Fed rate hike bets and Iran risks",
+      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indian Rupee opens positively at the start of the week",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
       "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-declines-below-18150-with-emerging-oversold-rsi-202609070420"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc weakens as US Dollar strengthens on Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-strengthens-on-fed-rate-hike-bets-202609070337"
     }
   ]
 }
