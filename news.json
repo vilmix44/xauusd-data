@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:45:21.445205+00:00",
+  "updated_at": "2026-09-07T13:13:16.391614+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro benefits from weaker US Dollar as ECB decision looms",
+      "link": "https://www.fxstreet.com/news/euro-benefits-from-weaker-us-dollar-as-ecb-decision-looms-202609071253"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro: ECB tightening supports currency – BBH",
       "link": "https://www.fxstreet.com/news/euro-ecb-tightening-supports-currency-bbh-202609071245"
     },
@@ -58,11 +68,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "US Dollar: CPI holds key after jobs-driven support – OCBC",
       "link": "https://www.fxstreet.com/news/us-dollar-cpi-holds-key-after-jobs-driven-support-ocbc-202609071112"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056"
     }
   ]
 }
