@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-07T10:41:05.572282+00:00",
+  "updated_at": "2026-09-07T11:11:58.283953+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
+      "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Bears Try to Push Toward $4,275",
@@ -23,13 +28,18 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold at $4,400: Is the $5,000 Target Becoming a Realistic Scenario?",
-      "link": "https://www.investing.com/analysis/gold-at-4400-is-the-5000-target-becoming-a-realistic-scenario-200687199"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Futures Consolidate Above Support with $4,685 as the Breakout Target",
       "link": "https://www.investing.com/analysis/gold-futures-consolidate-above-support-with-4685-as-the-breakout-target-200687193"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound dives to six-month low vs rallying Yen amid bets for faster BoJ rate hikes",
       "link": "https://www.fxstreet.com/news/british-pound-dives-to-six-month-low-vs-rallying-yen-amid-bets-for-faster-boj-rate-hikes-202609070858"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Inflation data guide blackout repricing – BNY",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-data-guide-blackout-repricing-bny-202609070858"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Tight range with downside bias against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-tight-range-with-downside-bias-against-us-dollar-ing-202609070849"
     }
   ]
 }
