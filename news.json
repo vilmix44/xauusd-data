@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:15:58.093091+00:00",
+  "updated_at": "2026-09-07T12:45:21.445205+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro: ECB tightening supports currency – BBH",
+      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-supports-currency-bbh-202609071245"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Range-bound support as Fed priced – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-support-as-fed-priced-ing-202609071229"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Trade tensions and US CPI in focus – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-us-cpi-in-focus-td-securities-202609071215"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes",
-      "link": "https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro tumbles as Japanese Yen benefits from BoJ rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-tumbles-as-japanese-yen-benefits-from-boj-rate-hike-bets-202609070955"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942"
     }
   ]
 }
