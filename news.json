@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-07T14:41:47.464225+00:00",
+  "updated_at": "2026-09-07T15:11:42.415199+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
+      "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Stagflation Risk as Energy Costs Keep Inflation Elevated",
+      "link": "https://www.investing.com/analysis/gold-faces-stagflation-risk-as-energy-costs-keep-inflation-elevated-200687243"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
@@ -10,11 +20,6 @@
       "source": "Investing.com - Commodities",
       "title": "$225M To $256M In 15 Weeks: Inside A Perpetual Gold Royalty",
       "link": "https://www.investing.com/analysis/225m-to-256m-in-15-weeks-inside-a-perpetual-gold-royalty-200687230"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
-      "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
     },
     {
       "source": "Investing.com - Commodities",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro area: Inflation overshoot extends ECB hiking path – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-area-inflation-overshoot-extends-ecb-hiking-path-societe-generale-202609071316"
     }
   ]
 }
