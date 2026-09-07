@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:11:42.415199+00:00",
+  "updated_at": "2026-09-07T15:41:17.651733+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar hits three-month high as RBA rate hike bets intensify",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
       "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441"
     },
@@ -45,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
       "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States: Inflation risks but still contained - TD Securities",
       "link": "https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322"
     }
   ]
 }
