@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T00:47:12.169638+00:00",
+  "updated_at": "2026-09-07T01:10:35.917578+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Japanese Yen consolidates near August highs vs USD as hawkish BoJ, Fed bets clash",
+      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-near-august-highs-vs-usd-as-hawkish-boj-fed-bets-clash-202609070104"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound gains as US Dollar weakens despite Fed rate hike odds surge",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-fed-rate-hike-odds-surge-202609070058"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro holds gains above 1.1600 despite robust US jobs data, traders eye ECB rate decision",
       "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-despite-robust-us-jobs-data-traders-eye-ecb-rate-decision-202609070038"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003"
     }
   ]
 }
