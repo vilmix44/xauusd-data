@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T01:40:28.580055+00:00",
+  "updated_at": "2026-09-07T02:11:47.406810+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-as-fed-rate-hike-bets-and-iran-tensions-underpin-usd-202609070145"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
       "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar drifts higher above 0.7200 despite as strong US NFP",
       "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-07200-despite-as-strong-us-nfp-202609062335"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251"
     }
   ]
 }
