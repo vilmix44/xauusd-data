@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T04:12:07.572273+00:00",
+  "updated_at": "2026-09-07T04:42:02.036618+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
+      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-declines-below-18150-with-emerging-oversold-rsi-202609070420"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
+      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Swiss Franc weakens as US Dollar strengthens on Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-strengthens-on-fed-rate-hike-bets-202609070337"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9900-as-robust-us-jobs-data-boosts-fed-rate-hike-bets-202609070225"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar edges lower as Fed rate hike bets and Iran tensions underpin USD",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-as-fed-rate-hike-bets-and-iran-tensions-underpin-usd-202609070145"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold falls below $4,400 as strong US jobs data raise the prospects for Fed rate hike",
-      "link": "https://www.fxstreet.com/news/gold-falls-below-4-400-as-strong-us-jobs-data-raise-the-prospects-for-fed-rate-hike-202609070133"
     }
   ]
 }
