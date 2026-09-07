@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:41:17.651733+00:00",
+  "updated_at": "2026-09-07T16:11:44.356086+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold: Bull market conviction broadens – Societe Generale",
       "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States: Inflation risks but still contained - TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327"
     }
   ]
 }
