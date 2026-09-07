@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T06:46:35.827220+00:00",
+  "updated_at": "2026-09-07T07:13:32.843586+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -32,14 +32,29 @@
       "link": "https://www.investing.com/analysis/why-it-matters-where-central-banks-keep-their-gold-200687146"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Is Becoming More Than a Safe-Haven Asset for Investors",
-      "link": "https://www.investing.com/analysis/gold-is-becoming-more-than-a-safehaven-asset-for-investors-200687120"
+      "source": "FXStreet - News",
+      "title": "Gold sticks to losses as bears await acceptance below $4,400  amid Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
-      "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee opens higher on lingering strong foreign inflows optimism",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Equities: Labour data weighs on stocks – Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-labour-data-weighs-on-stocks-danske-bank-202609070702"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "CEE FX: Hawkish pricing versus dovish banks – ING",
+      "link": "https://www.fxstreet.com/news/cee-fx-hawkish-pricing-versus-dovish-banks-ing-202609070655"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar posts fresh three-month high amid hawkish RBA prospects",
+      "link": "https://www.fxstreet.com/news/australian-dollar-posts-fresh-three-month-high-amid-hawkish-rba-prospects-202609070647"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "NZD/USD Price Forecast: Softens below 0.5900 while remaining in near-term consolidation",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-softens-below-05900-while-remaining-in-near-term-consolidation-202609070618"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/JPY Price Forecast: Fresh downside leg expected below 155.00",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-fresh-downside-leg-expected-below-15500-202609070555"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold languishes above $4,400 as USD stands firm amid Fed rate hike bets and Iran risks",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee opens positively at the start of the week",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
     }
   ]
 }
