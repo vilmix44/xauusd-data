@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:40:15.660455+00:00",
+  "updated_at": "2026-09-07T18:13:57.915718+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "United States Dollar Index trades under pressure as Yen buying accelerates",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-under-pressure-as-yen-buying-accelerates-202609071803"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Japanese Yen has stopped trading the Federal Reserve",
+      "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: Japanese GDP figures and China’s trade results in the limelight",
+      "link": "https://www.fxstreet.com/news/forex-today-japanese-gdp-figures-and-chinas-trade-results-in-the-limelight-202609071750"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Euro waits for the sentence after the rate hike",
+      "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
       "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar hits three-month high as RBA rate hike bets intensify",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
-      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: CPI outcome to steer Fed path – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357"
     }
   ]
 }
