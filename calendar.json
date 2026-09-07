@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:40:11.925789+00:00",
+  "updated_at": "2026-09-07T22:11:47.127291+00:00",
   "events": [
     {
       "title": "Bank Holiday",
@@ -168,14 +168,6 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%"
-    },
-    {
-      "title": "Fed Monetary Policy Report",
-      "country": "USD",
-      "date": "2026-09-11T11:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "Federal Budget Balance",
