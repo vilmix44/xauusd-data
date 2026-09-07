@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:13:16.391614+00:00",
+  "updated_at": "2026-09-07T13:42:18.301723+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -32,9 +32,24 @@
       "link": "https://www.investing.com/analysis/why-it-matters-where-central-banks-keep-their-gold-200687217"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Recent Rally is Weakening, but an Up Week Can Right It",
-      "link": "https://www.investing.com/analysis/golds-recent-rally-is-weakening-but-an-up-week-can-right-it-200687205"
+      "source": "FXStreet - News",
+      "title": "Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States: Inflation risks but still contained - TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro area: Inflation overshoot extends ECB hiking path – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-area-inflation-overshoot-extends-ecb-hiking-path-societe-generale-202609071316"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar: Trade tensions and US CPI in focus – TD Securities",
       "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-us-cpi-in-focus-td-securities-202609071215"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: CPI holds key after jobs-driven support – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-holds-key-after-jobs-driven-support-ocbc-202609071112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109"
     }
   ]
 }
