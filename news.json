@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-07T09:42:39.650431+00:00",
+  "updated_at": "2026-09-07T10:11:54.704398+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Bears Try to Push Toward $4,275",
+      "link": "https://www.investing.com/analysis/gold-bears-try-to-push-toward-4275-200687220"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Weekly: The Bull Market Has a Bid Beneath It",
@@ -27,14 +32,14 @@
       "link": "https://www.investing.com/analysis/gold-futures-consolidate-above-support-with-4685-as-the-breakout-target-200687193"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Round Trip: What the Post-NFP Reversal Reveals About This Market",
-      "link": "https://www.investing.com/analysis/golds-round-trip-what-the-postnfp-reversal-reveals-about-this-market-200687186"
+      "source": "FXStreet - News",
+      "title": "154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes",
+      "link": "https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Face Key Levels as Iran Conflict Fuels Stagflation Fears",
-      "link": "https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184"
+      "source": "FXStreet - News",
+      "title": "Euro tumbles as Japanese Yen benefits from BoJ rate hike bets",
+      "link": "https://www.fxstreet.com/news/euro-tumbles-as-japanese-yen-benefits-from-boj-rate-hike-bets-202609070955"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Tight range with downside bias against US Dollar – ING",
       "link": "https://www.fxstreet.com/news/euro-tight-range-with-downside-bias-against-us-dollar-ing-202609070849"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains stronger against Canadian Dollar following Eurozone Investor Confidence",
-      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-investor-confidence-202609070833"
     }
   ]
 }
