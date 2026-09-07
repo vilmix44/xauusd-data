@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:41:11.112931+00:00",
+  "updated_at": "2026-09-07T21:11:34.009631+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
       "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: Japanese GDP figures and China’s trade results in the limelight",
       "link": "https://www.fxstreet.com/news/forex-today-japanese-gdp-figures-and-chinas-trade-results-in-the-limelight-202609071750"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651"
     }
   ]
 }
