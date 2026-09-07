@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T02:41:12.775992+00:00",
+  "updated_at": "2026-09-07T03:12:14.256143+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-due-to-fed-rate-hike-bets-202609070244"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9900-as-robust-us-jobs-data-boosts-fed-rate-hike-bets-202609070225"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound gains as US Dollar weakens despite Fed rate hike odds surge",
       "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-weakens-despite-fed-rate-hike-odds-surge-202609070058"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds gains above 1.1600 despite robust US jobs data, traders eye ECB rate decision",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-despite-robust-us-jobs-data-traders-eye-ecb-rate-decision-202609070038"
     }
   ]
 }
