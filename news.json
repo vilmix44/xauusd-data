@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-07T11:11:58.283953+00:00",
+  "updated_at": "2026-09-07T11:41:46.984881+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+      "link": "https://www.investing.com/analysis/goldman-sachs-warns-oil-could-hit-120-as-shipping-risks-rise-200687233"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "$225M To $256M In 15 Weeks: Inside A Perpetual Gold Royalty",
+      "link": "https://www.investing.com/analysis/225m-to-256m-in-15-weeks-inside-a-perpetual-gold-royalty-200687230"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
@@ -27,9 +37,19 @@
       "link": "https://www.investing.com/analysis/golds-recent-rally-is-weakening-but-an-up-week-can-right-it-200687205"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Futures Consolidate Above Support with $4,685 as the Breakout Target",
-      "link": "https://www.investing.com/analysis/gold-futures-consolidate-above-support-with-4685-as-the-breakout-target-200687193"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: CPI holds key after jobs-driven support – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-holds-key-after-jobs-driven-support-ocbc-202609071112"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
       "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Inflation data steer policy path – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee remains higher as FX inflows optimism keeps outweiging oil strain",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones futures fall as inflationary risks rise",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-fall-as-inflationary-risks-rise-202609070903"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound dives to six-month low vs rallying Yen amid bets for faster BoJ rate hikes",
-      "link": "https://www.fxstreet.com/news/british-pound-dives-to-six-month-low-vs-rallying-yen-amid-bets-for-faster-boj-rate-hikes-202609070858"
     }
   ]
 }
