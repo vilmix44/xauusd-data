@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T04:42:02.036618+00:00",
+  "updated_at": "2026-09-07T05:11:17.905830+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indonesian Rupiah weakens as Fed rate hike odds lift US Dollar",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-fed-rate-hike-odds-lift-us-dollar-202609070443"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "India Gold price today: Gold falls, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 due to Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-due-to-fed-rate-hike-bets-202609070244"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-above-9900-as-robust-us-jobs-data-boosts-fed-rate-hike-bets-202609070225"
     }
   ]
 }
