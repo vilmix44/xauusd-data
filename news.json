@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-07T09:13:12.717341+00:00",
+  "updated_at": "2026-09-07T09:42:39.650431+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Weekly: The Bull Market Has a Bid Beneath It",
+      "link": "https://www.investing.com/analysis/gold-weekly-the-bull-market-has-a-bid-beneath-it-200687218"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Why It Matters Where Central Banks Keep Their Gold",
+      "link": "https://www.investing.com/analysis/why-it-matters-where-central-banks-keep-their-gold-200687217"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Recent Rally is Weakening, but an Up Week Can Right It",
@@ -25,6 +35,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Face Key Levels as Iran Conflict Fuels Stagflation Fears",
       "link": "https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
+      "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Inflation data steer policy path – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro remains stronger against Canadian Dollar following Eurozone Investor Confidence",
       "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-investor-confidence-202609070833"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold recovers intraday losses to sub-$4,400 as USD slumps despite Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc ticks up against US Dollar following Swiss employment data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-following-swiss-employment-data-202609070831"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Limited gains from ECB tightening – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-limited-gains-from-ecb-tightening-commerzbank-202609070818"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound edges higher against US Dollar, UK Chancellor Healey’s speech eyed",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-against-us-dollar-uk-chancellor-healeys-speech-eyed-202609070805"
     }
   ]
 }
