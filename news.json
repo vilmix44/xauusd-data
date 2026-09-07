@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:11:34.009631+00:00",
+  "updated_at": "2026-09-07T21:40:11.925185+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "South Korean Won: Authorities signal pause in KRW strength – ING",
+      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "The Japanese Yen has stopped trading the Federal Reserve",
       "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Japanese GDP figures and China’s trade results in the limelight",
-      "link": "https://www.fxstreet.com/news/forex-today-japanese-gdp-figures-and-chinas-trade-results-in-the-limelight-202609071750"
     }
   ]
 }
