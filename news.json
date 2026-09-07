@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T23:11:34.718967+00:00",
+  "updated_at": "2026-09-07T23:38:07.722960+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Thai Baht: Recent THB gains face headwinds – OCBC",
       "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Mexican Peso stumbles as traders brace for US inflation week",
       "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
-      "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941"
     }
   ]
 }
