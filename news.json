@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:12:06.052568+00:00",
+  "updated_at": "2026-09-07T20:41:11.112931+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
+      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso stumbles as traders brace for US inflation week",
+      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
       "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
       "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602"
     }
   ]
 }
