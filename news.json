@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:41:11.820152+00:00",
+  "updated_at": "2026-09-07T17:10:44.532453+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar: CPI outcome to steer Fed path – BBH",
       "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Bull market conviction broadens – Societe Generale",
-      "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344"
     }
   ]
 }
