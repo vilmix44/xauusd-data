@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T06:16:57.489138+00:00",
+  "updated_at": "2026-09-07T06:46:35.827220+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Dollar: Volatility risks around Fed decision – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-volatility-risks-around-fed-decision-commerzbank-202609070641"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro remains steady above 1.1610 despite weak German Industrial Production data",
+      "link": "https://www.fxstreet.com/news/euro-remains-steady-above-11610-despite-weak-german-industrial-production-data-202609070634"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Range holds before key data against US Dollar – Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-range-holds-before-key-data-against-us-dollar-danske-bank-202609070619"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Softens below 0.5900 while remaining in near-term consolidation",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-softens-below-05900-while-remaining-in-near-term-consolidation-202609070618"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "USD/JPY Price Forecast: Fresh downside leg expected below 155.00",
       "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-fresh-downside-leg-expected-below-15500-202609070555"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee opens positively at the start of the week",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar steadies as robust US jobs data counter rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-robust-us-jobs-data-counter-rising-oil-prices-202609070512"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah weakens as Fed rate hike odds lift US Dollar",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-fed-rate-hike-odds-lift-us-dollar-202609070443"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/JPY Price Forecast: Declines below 181.50 with emerging oversold RSI",
-      "link": "https://www.fxstreet.com/news/eur-jpy-price-forecast-declines-below-18150-with-emerging-oversold-rsi-202609070420"
     }
   ]
 }
