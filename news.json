@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:13:13.295019+00:00",
+  "updated_at": "2026-09-07T08:42:36.746486+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro remains stronger against Canadian Dollar following Eurozone Investor Confidence",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-against-canadian-dollar-following-eurozone-investor-confidence-202609070833"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold recovers intraday losses to sub-$4,400 as USD slumps despite Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc ticks up against US Dollar following Swiss employment data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-following-swiss-employment-data-202609070831"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Limited gains from ECB tightening – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-limited-gains-from-ecb-tightening-commerzbank-202609070818"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "British Pound edges higher against US Dollar, UK Chancellor Healey’s speech eyed",
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-against-us-dollar-uk-chancellor-healeys-speech-eyed-202609070805"
     },
@@ -48,11 +68,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold sticks to losses as bears await acceptance below $4,400  amid Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Indian Rupee opens higher on lingering strong foreign inflows optimism",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Equities: Labour data weighs on stocks – Danske Bank",
       "link": "https://www.fxstreet.com/news/equities-labour-data-weighs-on-stocks-danske-bank-202609070702"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "CEE FX: Hawkish pricing versus dovish banks – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-hawkish-pricing-versus-dovish-banks-ing-202609070655"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar posts fresh three-month high amid hawkish RBA prospects",
-      "link": "https://www.fxstreet.com/news/australian-dollar-posts-fresh-three-month-high-amid-hawkish-rba-prospects-202609070647"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Volatility risks around Fed decision – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-volatility-risks-around-fed-decision-commerzbank-202609070641"
     }
   ]
 }
