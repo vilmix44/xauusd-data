@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T01:10:35.917578+00:00",
+  "updated_at": "2026-09-07T01:40:28.580055+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold falls below $4,400 as strong US jobs data raise the prospects for Fed rate hike",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-400-as-strong-us-jobs-data-raise-the-prospects-for-fed-rate-hike-202609070133"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Japanese Yen consolidates near August highs vs USD as hawkish BoJ, Fed bets clash",
       "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-near-august-highs-vs-usd-as-hawkish-boj-fed-bets-clash-202609070104"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Malaysian Ringgit: Range-bound risks and key levels against US Dollar – OCBC",
       "link": "https://www.fxstreet.com/news/malaysian-ringgit-range-bound-risks-and-key-levels-against-us-dollar-ocbc-202609042251"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
-      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127"
     }
   ]
 }
