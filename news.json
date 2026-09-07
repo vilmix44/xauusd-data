@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T00:20:26.500629+00:00",
+  "updated_at": "2026-09-07T00:47:12.169638+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro holds gains above 1.1600 despite robust US jobs data, traders eye ECB rate decision",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-despite-robust-us-jobs-data-traders-eye-ecb-rate-decision-202609070038"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar drifts higher above 0.7200 despite as strong US NFP",
       "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-07200-despite-as-strong-us-nfp-202609062335"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
       "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
-      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952"
     }
   ]
 }
