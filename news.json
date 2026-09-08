@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-08T11:11:48.309938+00:00",
+  "updated_at": "2026-09-08T11:41:09.112902+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Remains Subdued in the Short Term, but Long-Term Demand Stays Strong",
+      "link": "https://www.investing.com/analysis/gold-remains-subdued-in-the-short-term-but-longterm-demand-stays-strong-200687286"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold, Silver Tracking US Dollar Moves at Historical Extremes",
@@ -23,13 +28,28 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
-      "link": "https://www.investing.com/analysis/goldman-sachs-warns-oil-could-hit-120-as-shipping-risks-rise-200687233"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "$225M To $256M In 15 Weeks: Inside A Perpetual Gold Royalty",
       "link": "https://www.investing.com/analysis/225m-to-256m-in-15-weeks-inside-a-perpetual-gold-royalty-200687230"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: RBA inflation focus underpins carry – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-underpins-carry-bbh-202609081136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold reverses early gains as US Dollar rebounds, Oil prices rise",
+      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Carry unwind supports gains against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-supports-gains-against-us-dollar-ing-202609081114"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609081112"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar corrects against US Dollar, US CPI takes centre stage",
       "link": "https://www.fxstreet.com/news/australian-dollar-corrects-against-us-dollar-us-cpi-takes-centre-stage-202609080917"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones futures slide as inflation, trade risks mount",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slide-as-inflation-trade-risks-mount-202609080915"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: Bears test support at 200-day SMA as risk appetite fades",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-test-support-at-200-day-sma-as-risk-appetite-fades-202609080851"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swedish Krona: Inflation surprise shifts Riksbank outlook – Danske Bank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-inflation-surprise-shifts-riksbank-outlook-danske-bank-202609080847"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold slides below $4,400 as Fed rate hike bets and Mideast jitters revive USD demand",
-      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
     }
   ]
 }
