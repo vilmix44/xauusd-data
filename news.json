@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:43:13.613791+00:00",
+  "updated_at": "2026-09-08T15:12:59.256578+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Dollar: Fed hold tempers dollar rebound – NBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-tempers-dollar-rebound-nbc-202609081511"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Uptrend resumes with fair value focus against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-uptrend-resumes-with-fair-value-focus-against-us-dollar-scotiabank-202609081502"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Bullish momentum extends against US Dollar – Societe Generale",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-momentum-extends-against-us-dollar-societe-generale-202609081454"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "\"Risks to inflation are to upside\": BoE's Bailey sounds a cautious note",
+      "link": "https://www.fxstreet.com/news/risks-to-inflation-are-to-upside-boes-bailey-sounds-a-cautious-note-202609081449"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "South African Rand: Gold prices support ZAR against US Dollar – TD Securities",
+      "link": "https://www.fxstreet.com/news/south-african-rand-gold-prices-support-zar-against-us-dollar-td-securities-202609081447"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro: ECB expectations support EUR against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-ecb-expectations-support-eur-against-us-dollar-scotiabank-202609081432"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold trades lower despite weaker US Dollar as Fed hike bets weigh",
       "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Election risks keep pressure on BRL against US Dollar – TD Securities",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-keep-pressure-on-brl-against-us-dollar-td-securities-202609081349"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Strong jobs and CPI risks – BNY",
-      "link": "https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds steady as US Dollar struggles for traction",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-us-dollar-struggles-for-traction-202609081330"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Crude rally and CPI risks shape path – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Tariffs boost role as funding currency – TD Securities",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tariffs-boost-role-as-funding-currency-td-securities-202609081252"
     }
   ]
 }
