@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T00:19:25.081109+00:00",
+  "updated_at": "2026-09-08T00:47:18.837185+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro holds gains above 1.1600 on ECB tightening prospects",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
       "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
       "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso stumbles as traders brace for US inflation week",
-      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012"
     }
   ]
 }
