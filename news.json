@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-08T17:39:30.198768+00:00",
+  "updated_at": "2026-09-08T18:14:24.429312+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "New York Fed Survey: Gasoline Price Expectations Jump Ahead of CPI and PPI Data",
+      "link": "https://www.investing.com/analysis/new-york-fed-survey-gasoline-price-expectations-jump-ahead-of-cpi-and-ppi-data-200687310"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Remains Subdued in the Short Term, but Long-Term Demand Stays Strong",
@@ -22,9 +27,24 @@
       "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Stagflation Risk as Energy Costs Keep Inflation Elevated",
-      "link": "https://www.investing.com/analysis/gold-faces-stagflation-risk-as-energy-costs-keep-inflation-elevated-200687243"
+      "source": "FXStreet - News",
+      "title": "Gold price wilts as Oil shock puts CPI in Fed crosshairs",
+      "link": "https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Upside bias within defined range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-range-against-us-dollar-uob-202609081751"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro rebounds against British Pound on diverging ECB-BoE interest rate paths",
+      "link": "https://www.fxstreet.com/news/euro-rebounds-against-british-pound-on-diverging-ecb-boe-interest-rate-paths-202609081741"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Colombian Peso: Downside risk bias against US Dollar – TD Securities",
       "link": "https://www.fxstreet.com/news/colombian-peso-downside-risk-bias-against-us-dollar-td-securities-202609081558"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds firm on hawkish RBA stance, softer US Dollar",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-on-hawkish-rba-stance-softer-us-dollar-202609081543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed hold tempers dollar rebound – NBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-tempers-dollar-rebound-nbc-202609081511"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Uptrend resumes with fair value focus against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-uptrend-resumes-with-fair-value-focus-against-us-dollar-scotiabank-202609081502"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Bullish momentum extends against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-momentum-extends-against-us-dollar-societe-generale-202609081454"
     }
   ]
 }
