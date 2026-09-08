@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:43:46.689659+00:00",
+  "updated_at": "2026-09-08T19:11:12.371564+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
       "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso flatlines as traders brace for Mexico’s fiscal package",
+      "link": "https://www.fxstreet.com/news/mexican-peso-flatlines-as-traders-brace-for-mexicos-fiscal-package-202609081907"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Intervention risk and key levels in focus against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-key-levels-in-focus-against-us-dollar-scotiabank-202609081907"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc: Sideways consolidation inside tight band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar trims gains as risk aversion supports US Dollar despite higher Oil prices",
       "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-as-risk-aversion-supports-us-dollar-despite-higher-oil-prices-202609081632"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Euro's rate hike does not come with a gas cargo",
-      "link": "https://www.fxstreet.com/news/the-euros-rate-hike-does-not-come-with-a-gas-cargo-202609081627"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average is paying for a sixth day of Crude Oil",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-is-paying-for-a-sixth-day-of-crude-oil-202609081554"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NY Fed Survey of Consumers shows inflation relief, jobs-market unease",
-      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-inflation-relief-jobs-market-unease-202609081558"
     }
   ]
 }
