@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:11:54.191942+00:00",
+  "updated_at": "2026-09-08T20:41:09.585806+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
+      "link": "https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
       "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721"
     }
   ]
 }
