@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:11:17.910127+00:00",
+  "updated_at": "2026-09-08T01:41:10.649238+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges",
+      "link": "https://www.fxstreet.com/news/british-pound-drifts-higher-to-near-13550-on-uk-fiscal-discipline-pledges-202609080138"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro holds gains above 1.1600 on ECB tightening prospects",
       "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
-      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018"
     }
   ]
 }
