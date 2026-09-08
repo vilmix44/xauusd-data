@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:41:09.112902+00:00",
+  "updated_at": "2026-09-08T12:16:24.774050+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Canadian Dollar eases from highs as risk aversion buoys the US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-highs-as-risk-aversion-buoys-the-us-dollar-202609081153"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee corrects sharply from two-month high as Oil price boils",
+      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar: RBA inflation focus underpins carry – BBH",
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-underpins-carry-bbh-202609081136"
     },
@@ -63,18 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee corrects sharply from two-month high as oil price boils",
-      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Mexican Peso: Support from real rates and US talks – Commerzbank",
       "link": "https://www.fxstreet.com/news/mexican-peso-support-from-real-rates-and-us-talks-commerzbank-202609080919"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar corrects against US Dollar, US CPI takes centre stage",
-      "link": "https://www.fxstreet.com/news/australian-dollar-corrects-against-us-dollar-us-cpi-takes-centre-stage-202609080917"
     }
   ]
 }
