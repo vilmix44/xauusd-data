@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:12:02.544290+00:00",
+  "updated_at": "2026-09-08T17:39:30.198768+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Stagflation Risk as Energy Costs Keep Inflation Elevated",
       "link": "https://www.investing.com/analysis/gold-faces-stagflation-risk-as-energy-costs-keep-inflation-elevated-200687243"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Bullish momentum extends against US Dollar – Societe Generale",
       "link": "https://www.fxstreet.com/news/japanese-yen-bullish-momentum-extends-against-us-dollar-societe-generale-202609081454"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "\"Risks to inflation are to upside\": BoE's Bailey sounds a cautious note",
-      "link": "https://www.fxstreet.com/news/risks-to-inflation-are-to-upside-boes-bailey-sounds-a-cautious-note-202609081449"
     }
   ]
 }
