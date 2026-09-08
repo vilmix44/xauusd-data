@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:42:15.715130+00:00",
+  "updated_at": "2026-09-08T10:12:47.897795+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Bears Try to Push Toward $4,275",
       "link": "https://www.investing.com/analysis/gold-bears-try-to-push-toward-4275-200687220"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD dips below $4,400 as Middle East tensions grow",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-dips-below-4-400-as-middle-east-tensions-grow-202609080952"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold slides below $4,400 as Fed rate hike bets and Mideast jitters revive USD demand",
       "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: Stabilizes below 61.8% Fibo retracement at 99.20",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-stabilizes-below-618-fibo-retracement-at-9920-202609080826"
     }
   ]
 }
