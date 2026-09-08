@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:46:06.104461+00:00",
+  "updated_at": "2026-09-08T13:13:38.718999+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "$225M To $256M In 15 Weeks: Inside A Perpetual Gold Royalty",
       "link": "https://www.investing.com/analysis/225m-to-256m-in-15-weeks-inside-a-perpetual-gold-royalty-200687230"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Crude rally and CPI risks shape path – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: Tariffs boost role as funding currency – TD Securities",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-tariffs-boost-role-as-funding-currency-td-securities-202609081252"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Carry unwind supports gains against US Dollar - ING",
       "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-supports-gains-against-us-dollar-ing-202609081114"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609081112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD dips below $4,400 as Middle East tensions grow",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-dips-below-4-400-as-middle-east-tensions-grow-202609080952"
     }
   ]
 }
