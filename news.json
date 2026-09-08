@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:13:38.718999+00:00",
+  "updated_at": "2026-09-08T13:43:48.139275+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -27,9 +27,14 @@
       "link": "https://www.investing.com/analysis/gold-faces-stagflation-risk-as-energy-costs-keep-inflation-elevated-200687243"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "$225M To $256M In 15 Weeks: Inside A Perpetual Gold Royalty",
-      "link": "https://www.investing.com/analysis/225m-to-256m-in-15-weeks-inside-a-perpetual-gold-royalty-200687230"
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Strong jobs and CPI risks – BNY",
+      "link": "https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds steady as US Dollar struggles for traction",
+      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-us-dollar-struggles-for-traction-202609081330"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar: RBA inflation focus underpins carry – BBH",
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-underpins-carry-bbh-202609081136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Carry unwind supports gains against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-supports-gains-against-us-dollar-ing-202609081114"
     }
   ]
 }
