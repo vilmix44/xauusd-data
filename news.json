@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T14:13:35.703246+00:00",
+  "updated_at": "2026-09-08T14:43:13.613791+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,12 +28,27 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro: ECB expectations support EUR against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-ecb-expectations-support-eur-against-us-dollar-scotiabank-202609081432"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar retreats as Chinese imports fall short of expectations",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-as-chinese-imports-fall-short-of-expectations-202609081419"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Carry unwind boosts gains against US Dollar - DBS",
+      "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-boosts-gains-against-us-dollar-dbs-202609081417"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Canadian Dollar: Loonie rally pauses before fresh gains - NBC",
       "link": "https://www.fxstreet.com/news/canadian-dollar-loonie-rally-pauses-before-fresh-gains-nbc-202609081406"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold trader lower despite weaker US Dollar as Fed hike bets weigh",
+      "title": "Gold trades lower despite weaker US Dollar as Fed hike bets weigh",
       "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
     },
     {
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar: Tariffs boost role as funding currency – TD Securities",
       "link": "https://www.fxstreet.com/news/canadian-dollar-tariffs-boost-role-as-funding-currency-td-securities-202609081252"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Fed inflation focus and volatility risk – Commerzbank",
-      "link": "https://www.fxstreet.com/news/gold-fed-inflation-focus-and-volatility-risk-commerzbank-202609081235"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Downside risks against US Dollar into ECB and Fed – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-against-us-dollar-into-ecb-and-fed-ing-202609081216"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar eases from highs as risk aversion buoys the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-highs-as-risk-aversion-buoys-the-us-dollar-202609081153"
     }
   ]
 }
