@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T19:11:12.371564+00:00",
+  "updated_at": "2026-09-08T19:39:18.315812+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
       "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Short term bias tilts higher against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-short-term-bias-tilts-higher-against-us-dollar-uob-202609081930"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States: Core inflation stays contained as goods soften – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-core-inflation-stays-contained-as-goods-soften-td-securities-202609081917"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
       "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar trims gains as risk aversion supports US Dollar despite higher Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-as-risk-aversion-supports-us-dollar-despite-higher-oil-prices-202609081632"
     }
   ]
 }
