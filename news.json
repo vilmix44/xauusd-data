@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-08T08:43:03.645201+00:00",
+  "updated_at": "2026-09-08T09:12:33.577925+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
+      "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
@@ -27,9 +32,19 @@
       "link": "https://www.investing.com/analysis/gold-bears-try-to-push-toward-4275-200687220"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Weekly: The Bull Market Has a Bid Beneath It",
-      "link": "https://www.investing.com/analysis/gold-weekly-the-bull-market-has-a-bid-beneath-it-200687218"
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Bears test support at 200-day SMA as risk appetite fades",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-test-support-at-200-day-sma-as-risk-appetite-fades-202609080851"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swedish Krona: Inflation surprise shifts Riksbank outlook – Danske Bank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-inflation-surprise-shifts-riksbank-outlook-danske-bank-202609080847"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold slides below $4,400 as Fed rate hike bets and Mideast jitters revive USD demand",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Hungarian Forint: Inflation surprise and HUF dynamics – ING",
       "link": "https://www.fxstreet.com/news/hungarian-forint-inflation-surprise-and-huf-dynamics-ing-202609080735"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold traders seem hesitant below $4,450 as Fed rate hike bets counter softer USD",
-      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc steadies as Fed hike expectations offset safe-haven flows",
-      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-fed-hike-expectations-offset-safe-haven-flows-202609080658"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Surging oil prices lift Canadian Dollar",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-surging-oil-prices-lift-canadian-dollar-202609080655"
     }
   ]
 }
