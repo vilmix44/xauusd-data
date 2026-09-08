@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:41:37.189478+00:00",
+  "updated_at": "2026-09-08T06:15:26.456719+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indian Rupee corrects from two-month high as oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold remains below $4,450 as traders await US inflation data for Fed rate cues",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Japanese Yen rises to seven-month high on BoJ rate hike bets",
       "link": "https://www.fxstreet.com/news/japanese-yen-rises-to-seven-month-high-on-boj-rate-hike-bets-202609080534"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD jumps to near $67 amid drop in US Dollar, bond yields",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-37-amid-drop-in-us-dollar-bond-yields-202609080430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
-      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar remains steady following China’s Trade Balance data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252"
     }
   ]
 }
