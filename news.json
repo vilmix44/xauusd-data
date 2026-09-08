@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:12:33.577925+00:00",
+  "updated_at": "2026-09-08T09:42:15.715130+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Japanese Yen: Momentum builds below 155 against US Dollar - MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-momentum-builds-below-155-against-us-dollar-mufg-202609080936"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee corrects sharply from two-month high as oil price boils",
+      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso: Support from real rates and US talks – Commerzbank",
+      "link": "https://www.fxstreet.com/news/mexican-peso-support-from-real-rates-and-us-talks-commerzbank-202609080919"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar corrects against US Dollar, US CPI takes centre stage",
+      "link": "https://www.fxstreet.com/news/australian-dollar-corrects-against-us-dollar-us-cpi-takes-centre-stage-202609080917"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones futures slide as inflation, trade risks mount",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-slide-as-inflation-trade-risks-mount-202609080915"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "NZD/USD Price Forecast: Bears test support at 200-day SMA as risk appetite fades",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-test-support-at-200-day-sma-as-risk-appetite-fades-202609080851"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Dollar Index Price Forecast: Stabilizes below 61.8% Fibo retracement at 99.20",
       "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-stabilizes-below-618-fibo-retracement-at-9920-202609080826"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: BoJ hike bets drive gains against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-bets-drive-gains-against-us-dollar-ocbc-202609080821"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee: Stable range with shallow gains against US Dollar – DBS",
-      "link": "https://www.fxstreet.com/news/indian-rupee-stable-range-with-shallow-gains-against-us-dollar-dbs-202609080802"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecasts: XAG/USD holds around $66.00 buoyed by US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-above-6600-buoyed-by-us-dollar-weakness-202609080801"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee retreats as oil prices rally further",
-      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Hungarian Forint: Inflation surprise and HUF dynamics – ING",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-inflation-surprise-and-huf-dynamics-ing-202609080735"
     }
   ]
 }
