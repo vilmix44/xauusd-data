@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T04:11:52.144775+00:00",
+  "updated_at": "2026-09-08T04:42:07.951359+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609080435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD jumps to near $37 amid drop in US Dollar, bond yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-37-amid-drop-in-us-dollar-bond-yields-202609080430"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar remains steady following China’s Trade Balance data",
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges",
       "link": "https://www.fxstreet.com/news/british-pound-drifts-higher-to-near-13550-on-uk-fiscal-discipline-pledges-202609080138"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds gains above 1.1600 on ECB tightening prospects",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
-      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Thai Baht: Recent THB gains face headwinds – OCBC",
-      "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256"
     }
   ]
 }
