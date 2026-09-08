@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:16:24.774050+00:00",
+  "updated_at": "2026-09-08T12:46:06.104461+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold: Fed inflation focus and volatility risk – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-fed-inflation-focus-and-volatility-risk-commerzbank-202609081235"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold reverses early gains as US Dollar rebounds, Oil prices rise",
+      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Downside risks against US Dollar into ECB and Fed – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-against-us-dollar-into-ecb-and-fed-ing-202609081216"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Canadian Dollar eases from highs as risk aversion buoys the US Dollar",
       "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-highs-as-risk-aversion-buoys-the-us-dollar-202609081153"
     },
@@ -48,11 +63,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold reverses early gains as US Dollar rebounds, Oil prices rise",
-      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Japanese Yen: Carry unwind supports gains against US Dollar - ING",
       "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-supports-gains-against-us-dollar-ing-202609081114"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD dips below $4,400 as Middle East tensions grow",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-dips-below-4-400-as-middle-east-tensions-grow-202609080952"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Momentum builds below 155 against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-momentum-builds-below-155-against-us-dollar-mufg-202609080936"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso: Support from real rates and US talks – Commerzbank",
-      "link": "https://www.fxstreet.com/news/mexican-peso-support-from-real-rates-and-us-talks-commerzbank-202609080919"
     }
   ]
 }
