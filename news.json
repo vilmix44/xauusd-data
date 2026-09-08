@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:43:48.139275+00:00",
+  "updated_at": "2026-09-08T14:13:35.703246+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Canadian Dollar: Loonie rally pauses before fresh gains - NBC",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-loonie-rally-pauses-before-fresh-gains-nbc-202609081406"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold trader lower despite weaker US Dollar as Fed hike bets weigh",
+      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Brazilian Real: Election risks keep pressure on BRL against US Dollar – TD Securities",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-keep-pressure-on-brl-against-us-dollar-td-securities-202609081349"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Federal Reserve: Strong jobs and CPI risks – BNY",
       "link": "https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333"
     },
@@ -53,11 +68,6 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold reverses early gains as US Dollar rebounds, Oil prices rise",
-      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Euro: Downside risks against US Dollar into ECB and Fed – ING",
       "link": "https://www.fxstreet.com/news/euro-downside-risks-against-us-dollar-into-ecb-and-fed-ing-202609081216"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Canadian Dollar eases from highs as risk aversion buoys the US Dollar",
       "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-highs-as-risk-aversion-buoys-the-us-dollar-202609081153"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee corrects sharply from two-month high as Oil price boils",
-      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA inflation focus underpins carry – BBH",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-underpins-carry-bbh-202609081136"
     }
   ]
 }
