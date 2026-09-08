@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:14:24.429312+00:00",
+  "updated_at": "2026-09-08T18:43:46.689659+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold: Inflation Concerns and Rising Yields Put Metal in Spotlight",
       "link": "https://www.investing.com/analysis/gold-inflation-concerns-and-rising-yields-put-metal-in-spotlight-200687229"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "NY Fed Survey of Consumers shows inflation relief, jobs-market unease",
       "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-inflation-relief-jobs-market-unease-202609081558"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Colombian Peso: Downside risk bias against US Dollar – TD Securities",
-      "link": "https://www.fxstreet.com/news/colombian-peso-downside-risk-bias-against-us-dollar-td-securities-202609081558"
     }
   ]
 }
