@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:11:08.884052+00:00",
+  "updated_at": "2026-09-08T05:41:37.189478+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Japanese Yen rises to seven-month high on BoJ rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-to-seven-month-high-on-boj-rate-hike-bets-202609080534"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
       "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-consolidates-below-mid-13500s-bullish-potential-seems-intact-202609080457"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar remains steady following China’s Trade Balance data",
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "China’s August Trade Balance: Surplus widens to $119.09 billion as expected",
-      "link": "https://www.fxstreet.com/news/chinas-august-trade-balance-surplus-widens-to-11909-billion-as-expected-202609080242"
     }
   ]
 }
