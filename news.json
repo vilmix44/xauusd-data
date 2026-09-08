@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:41:44.489328+00:00",
+  "updated_at": "2026-09-08T03:12:01.564618+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Australian Dollar remains steady following China’s Trade Balance data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "China’s August Trade Balance: Surplus widens to $119.09 billion as expected",
+      "link": "https://www.fxstreet.com/news/chinas-august-trade-balance-surplus-widens-to-11909-billion-as-expected-202609080242"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "US Dollar Index (DXY) struggles below 99.00, two-week low as traders eye US inflation data",
       "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-struggles-below-9900-two-week-low-as-traders-eye-us-inflation-data-202609080157"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Thai Baht: Recent THB gains face headwinds – OCBC",
       "link": "https://www.fxstreet.com/news/thai-baht-recent-thb-gains-face-headwinds-ocbc-202609072256"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar rides thin-trading lift as Fed test looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208"
     }
   ]
 }
