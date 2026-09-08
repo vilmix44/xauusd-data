@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:45:16.962491+00:00",
+  "updated_at": "2026-09-08T07:12:59.617503+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Swiss Franc steadies as Fed hike expectations offset safe-haven flows",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-fed-hike-expectations-offset-safe-haven-flows-202609080658"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CAD Price Forecast: Surging oil prices lift Canadian Dollar",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-surging-oil-prices-lift-canadian-dollar-202609080655"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Euro: Range-bound risks against US Dollar with ECB focus – OCBC",
       "link": "https://www.fxstreet.com/news/euro-range-bound-risks-against-us-dollar-with-ecb-focus-ocbc-202609080644"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen rises to seven-month high on BoJ rate hike bets",
       "link": "https://www.fxstreet.com/news/japanese-yen-rises-to-seven-month-high-on-boj-rate-hike-bets-202609080534"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-consolidates-below-mid-13500s-bullish-potential-seems-intact-202609080457"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar struggles after China’s Trade Balance data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-after-chinas-trade-balance-data-202609080455"
     }
   ]
 }
