@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:41:10.649238+00:00",
+  "updated_at": "2026-09-08T02:11:33.658704+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Dollar Index (DXY) struggles below 99.00, two-week low as traders eye US inflation data",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-struggles-below-9900-two-week-low-as-traders-eye-us-inflation-data-202609080157"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar gains as US Dollar struggles despite rising Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-dollar-struggles-despite-rising-fed-rate-hike-bets-202609080157"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges",
       "link": "https://www.fxstreet.com/news/british-pound-drifts-higher-to-near-13550-on-uk-fiscal-discipline-pledges-202609080138"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
       "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "South Korean Won: Authorities signal pause in KRW strength – ING",
-      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101"
     }
   ]
 }
