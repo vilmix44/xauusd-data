@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T07:42:28.734199+00:00",
+  "updated_at": "2026-09-08T08:13:37.266344+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Indian Rupee: Stable range with shallow gains against US Dollar – DBS",
+      "link": "https://www.fxstreet.com/news/indian-rupee-stable-range-with-shallow-gains-against-us-dollar-dbs-202609080802"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecasts: XAG/USD holds around $66.00 buoyed by US Dollar weakness",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-above-6600-buoyed-by-us-dollar-weakness-202609080801"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee retreats as oil prices rally further",
+      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Hungarian Forint: Inflation surprise and HUF dynamics – ING",
       "link": "https://www.fxstreet.com/news/hungarian-forint-inflation-surprise-and-huf-dynamics-ing-202609080735"
     },
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro retreats below 1.1630 following the release of German Trade Balance data",
       "link": "https://www.fxstreet.com/news/euro-retreats-below-11630-following-the-release-of-german-trade-balance-data-202609080635"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Strengthens against US Dollar on BoJ outlook - MUFG",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-on-boj-outlook-mufg-202609080623"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee corrects from two-month high as oil prices extend rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen rises to seven-month high on BoJ rate hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-to-seven-month-high-on-boj-rate-hike-bets-202609080534"
     }
   ]
 }
