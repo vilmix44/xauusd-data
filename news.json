@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T08:41:52.864415+00:00",
+  "updated_at": "2026-09-09T09:12:02.519340+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
+      "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Breaks Out of Summer Consolidation, but a New Rally Is Yet to Be Confirmed",
@@ -12,9 +17,29 @@
       "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
-      "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee declines further as oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-flat-lines-near-08100-as-bulls-await-us-inflation-data-202609090857"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro advances against Canadian Dollar due to hawkish ECB sentiment",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-due-to-hawkish-ecb-sentiment-202609090857"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: CPI outcome guides Fed path – DBS",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-guides-fed-path-dbs-202609090848"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar hits fresh four-month highs amid USD weakness, strong Chinese inflation",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-four-month-highs-amid-usd-weakness-strong-chinese-inflation-202609090845"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Polish Zloty: Rate cuts seen off table through year-end – Commerzbank",
       "link": "https://www.fxstreet.com/news/polish-zloty-rate-cuts-seen-off-table-through-year-end-commerzbank-202609090736"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indonesian Rupiah strengthens amid rising consumer confidence, weaker US Dollar",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-amid-rising-consumer-confidence-weaker-us-dollar-202609090713"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro nudges up above 1.1640 amid broad-based US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/euro-nudges-up-above-11640-amid-broad-based-us-dollar-weakness-202609090707"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar gains ground as Middle East tensions boost oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-as-middle-east-tensions-boost-oil-prices-202609090705"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index (DXY) bears eye August low around 98.50 ahead of US inflation",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-bears-eye-august-low-around-9850-ahead-of-us-inflation-202609090703"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee slumps as oil prices rally further, prompting RBI intervention prospects",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     }
   ]
 }
