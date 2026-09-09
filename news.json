@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:42:10.659749+00:00",
+  "updated_at": "2026-09-09T10:12:14.407616+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar slips against Japanese Yen as BoJ rate hike bets grow",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-as-boj-rate-hike-bets-grow-202609090946"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: US Dollar retreats as markets gear up for key events",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-as-markets-gear-up-for-key-events-202609090758"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: Rises in limited range with US CPI in focus",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rises-in-limited-range-with-us-cpi-in-focus-202609090757"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains steady against British Pound Gains due to ECB rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-remains-steady-against-british-pound-gains-due-to-ecb-rate-hike-bets-202609090749"
     }
   ]
 }
