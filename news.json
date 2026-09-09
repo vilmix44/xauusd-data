@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:38:17.537213+00:00",
+  "updated_at": "2026-09-09T20:12:25.533009+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rises, but Will Downtrend Line Halt the Rally?",
       "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Uptrend intact with muted inflation against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-intact-with-muted-inflation-against-us-dollar-bbh-202609091954"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso holds firm as inflation cools, fiscal plan lands",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-inflation-cools-fiscal-plan-lands-202609091949"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
       "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen pauses advance as Treasury announcement supports US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pauses-advance-as-treasury-announcement-supports-us-dollar-202609091550"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Strength builds against US Dollar ahead of BoJ decision – Scotiabank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549"
     }
   ]
 }
