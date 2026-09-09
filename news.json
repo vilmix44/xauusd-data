@@ -1,25 +1,35 @@
 {
-  "updated_at": "2026-09-09T06:44:56.046702+00:00",
+  "updated_at": "2026-09-09T07:13:07.165154+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
+      "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "New York Fed Survey: Gasoline Price Expectations Jump Ahead of CPI and PPI Data",
       "link": "https://www.investing.com/analysis/new-york-fed-survey-gasoline-price-expectations-jump-ahead-of-cpi-and-ppi-data-200687310"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Remains Subdued in the Short Term, but Long-Term Demand Stays Strong",
-      "link": "https://www.investing.com/analysis/gold-remains-subdued-in-the-short-term-but-longterm-demand-stays-strong-200687286"
+      "source": "FXStreet - News",
+      "title": "Euro nudges up above 1.1640 amid broad-based US Dollar weakness",
+      "link": "https://www.fxstreet.com/news/euro-nudges-up-above-11640-amid-broad-based-us-dollar-weakness-202609090707"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold, Silver Tracking US Dollar Moves at Historical Extremes",
-      "link": "https://www.investing.com/analysis/gold-silver-tracking-us-dollar-moves-at-historical-extremes-200687280"
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar gains ground as Middle East tensions boost oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-as-middle-east-tensions-boost-oil-prices-202609090705"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
-      "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index (DXY) bears eye August low around 98.50 ahead of US inflation",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-bears-eye-august-low-around-9850-ahead-of-us-inflation-202609090703"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee slumps as oil prices rally further, prompting RBI intervention prospects",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     },
     {
       "source": "FXStreet - News",
@@ -40,11 +50,6 @@
       "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Approaches four-year high near 0.7280",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-approaches-four-year-high-near-07280-202609090605"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee falls further as US-Iran tit-for-tat strikes boost oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD rises to near $66.40 as US Dollar declines, US CPI in focus",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6640-as-us-dollar-declines-us-cpi-in-focus-202609090318"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen gathers strength as BoJ hike bets ramp up",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-as-boj-hike-bets-ramp-up-202609090256"
     }
   ]
 }
