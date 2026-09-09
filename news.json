@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:11:04.430333+00:00",
+  "updated_at": "2026-09-09T05:40:58.347394+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee falls further as US-Iran tit-for-tat strikes boost oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar remains on the front foot vs weak USD after China's inflation data",
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-on-the-front-foot-vs-weak-usd-after-chinas-inflation-data-202609090154"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar inches higher against Japanese Yen following China’s inflation data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-inches-higher-against-japanese-yen-following-chinas-inflation-data-202609090154"
     }
   ]
 }
