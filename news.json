@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T18:14:47.592646+00:00",
+  "updated_at": "2026-09-09T18:42:46.551157+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
+      "link": "https://www.investing.com/analysis/gold-rebounds-but-100-oil-and-fed-hike-risks-cloud-the-rally-200687394"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Rising Without Panic — Here’s What Investors Are Really Hedging",
@@ -27,9 +32,9 @@
       "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
-      "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
+      "source": "FXStreet - News",
+      "title": "Chile: Policy pause reflects fragile growth – Societe Generale",
+      "link": "https://www.fxstreet.com/news/chile-policy-pause-reflects-fragile-growth-societe-generale-202609091833"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Treasury yields rise after buyback announcement, 30-year yield reaches 5.30%",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-after-buyback-announcement-30-year-yield-reaches-530-202609091531"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold loses momentum as US Dollar, yields rise after Treasury buyback announcement",
-      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
     }
   ]
 }
