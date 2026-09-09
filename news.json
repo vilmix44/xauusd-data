@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T01:41:01.567368+00:00",
+  "updated_at": "2026-09-09T02:11:47.570674+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar holds gains above 0.5850 after Chinese inflation data",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-gains-above-05850-after-chinese-inflation-data-202609090204"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar remains on the front foot vs weak USD after China's inflation data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-on-the-front-foot-vs-weak-usd-after-chinas-inflation-data-202609090154"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar inches higher against Japanese Yen following China’s inflation data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-inches-higher-against-japanese-yen-following-chinas-inflation-data-202609090154"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
       "link": "https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: Short term bias tilts higher against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-short-term-bias-tilts-higher-against-us-dollar-uob-202609081930"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States: Core inflation stays contained as goods soften – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-core-inflation-stays-contained-as-goods-soften-td-securities-202609081917"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso flatlines as traders brace for Mexico’s fiscal package",
-      "link": "https://www.fxstreet.com/news/mexican-peso-flatlines-as-traders-brace-for-mexicos-fiscal-package-202609081907"
     }
   ]
 }
