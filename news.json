@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:46:34.414285+00:00",
+  "updated_at": "2026-09-09T01:11:02.552331+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound holds steady near mid-1.3500s vs USD as traders eye UK GDP and US inflation",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-near-mid-13500s-vs-usd-as-traders-eye-uk-gdp-and-us-inflation-202609090110"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro grinds higher above 1.1600, traders await ECB rate decision, US inflation data",
+      "link": "https://www.fxstreet.com/news/euro-grinds-higher-above-11600-traders-await-ecb-rate-decision-us-inflation-data-202609090058"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Intervention risk and key levels in focus against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-key-levels-in-focus-against-us-dollar-scotiabank-202609081907"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc: Sideways consolidation inside tight band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833"
     }
   ]
 }
