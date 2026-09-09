@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:41:53.469532+00:00",
+  "updated_at": "2026-09-09T11:11:46.980953+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Dollar debasement talk, Japanese Yen carry trade unwinding offset USD safe-haven status",
+      "link": "https://www.fxstreet.com/news/dollar-debasement-talk-japanese-yen-carry-trade-unwinding-offset-usd-safe-haven-status-202609091107"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee extends decline as oil prices rally further",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: 1.1686-1.1710 zone remains key hurdle",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11686-11710-zone-remains-key-hurdle-202609091049"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar slips against Japanese Yen as BoJ rate hike bets grow",
       "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-as-boj-rate-hike-bets-grow-202609090946"
     },
@@ -30,11 +45,6 @@
       "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee declines further as oil prices extend rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold clings to intraday gains above $4,400 as bearish USD counters Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities",
-      "link": "https://www.fxstreet.com/news/federal-reserve-market-mispricing-risk-into-blackout-td-securities-202609090800"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: US Dollar retreats as markets gear up for key events",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-as-markets-gear-up-for-key-events-202609090758"
     }
   ]
 }
