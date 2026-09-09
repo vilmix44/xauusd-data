@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T05:40:58.347394+00:00",
+  "updated_at": "2026-09-09T06:15:35.419770+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,13 +23,18 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee falls further as US-Iran tit-for-tat strikes boost oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
+      "title": "Gold recovers further from one-week low, retakes $4.400 amid sustained USD selling",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold sticks to modest gains on soft USD; Fed hike bets cap upside ahead of US inflation",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
+      "title": "AUD/USD Price Forecast: Approaches four-year high near 0.7280",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-approaches-four-year-high-near-07280-202609090605"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee falls further as US-Iran tit-for-tat strikes boost oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar holds gains above 0.5850 after Chinese inflation data",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-gains-above-05850-after-chinese-inflation-data-202609090204"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar remains on the front foot vs weak USD after China's inflation data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-on-the-front-foot-vs-weak-usd-after-chinas-inflation-data-202609090154"
     }
   ]
 }
