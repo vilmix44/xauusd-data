@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T13:43:11.527901+00:00",
+  "updated_at": "2026-09-09T14:12:05.354541+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
+      "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "China Buys Gold for the 22nd Consecutive Month and Holds the Metal Above $4,400",
@@ -25,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Bank of Japan: Outsized hike risks carry shock – DBS",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-outsized-hike-risks-carry-shock-dbs-202609091402"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Brazilian Real: Narrowing polls support BRL against US Dollar– ING",
+      "link": "https://www.fxstreet.com/news/brazilian-real-narrowing-polls-support-brl-against-us-dollar-ing-202609091351"
     },
     {
       "source": "FXStreet - News",
@@ -58,23 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold buyers struggle near $4,400 amid Fed rate hike bets, rising Oil prices",
+      "title": "Gold recovers from weekly low as US Dollar weakens, Fed outlook in focus",
       "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss National Bank: Policy rate seen on prolonged hold – Nomura",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-policy-rate-seen-on-prolonged-hold-nomura-202609091219"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar extends losses below 0.5850 as Oil prices approach the $100 level",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-losses-below-05850-as-oil-prices-approach-the-100-level-202609091155"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen gains against US Dollar as markets brace for a more aggressive BoJ",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-us-dollar-as-markets-brace-for-a-more-aggressive-boj-202609091139"
     }
   ]
 }
