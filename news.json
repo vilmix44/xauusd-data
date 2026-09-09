@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T02:41:30.302389+00:00",
+  "updated_at": "2026-09-09T03:11:44.871192+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen gathers strength as BoJ hike bets ramp up",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-as-boj-hike-bets-ramp-up-202609090256"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar gains amid elevated oil prices, escalating US trade sanctions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-amid-elevated-oil-prices-escalating-us-trade-sanctions-202609090253"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar bulls run into Oil wall amid looming Fed decision",
       "link": "https://www.fxstreet.com/news/australian-dollar-bulls-run-into-oil-wall-amid-looming-fed-decision-202609082326"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
-      "link": "https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014"
     }
   ]
 }
