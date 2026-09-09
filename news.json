@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:15:35.419770+00:00",
+  "updated_at": "2026-09-09T06:44:56.046702+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound dips to 207.50 as Japanese Yen rallies, unfazed by Oil prices",
+      "link": "https://www.fxstreet.com/news/british-pound-dips-to-20750-as-japanese-yen-rallies-unfazed-by-oil-prices-202609090625"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Volatility eyed into late week – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-volatility-eyed-into-late-week-commerzbank-202609090621"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen gathers strength as BoJ hike bets ramp up",
       "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-as-boj-hike-bets-ramp-up-202609090256"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar gains amid elevated oil prices, escalating US trade sanctions",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-amid-elevated-oil-prices-escalating-us-trade-sanctions-202609090253"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar holds gains above 0.5850 after Chinese inflation data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-gains-above-05850-after-chinese-inflation-data-202609090204"
     }
   ]
 }
