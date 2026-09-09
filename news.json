@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:41:01.071457+00:00",
+  "updated_at": "2026-09-09T12:15:10.116189+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar extends losses below 0.5850 as Oil prices approach the $100 level",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-losses-below-05850-as-oil-prices-approach-the-100-level-202609091155"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-flat-lines-near-08100-as-bulls-await-us-inflation-data-202609090857"
     }
   ]
 }
