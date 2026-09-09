@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:41:40.226417+00:00",
+  "updated_at": "2026-09-09T05:11:04.430333+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold sticks to modest gains on soft USD; Fed hike bets cap upside ahead of US inflation",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc strengthens as US Dollar holds losses despite Fed rate hike odds",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-holds-losses-despite-fed-rate-hike-odds-202609090442"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "India Gold price today: Gold rises, according to FXStreet data",
       "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609090435"
     },
@@ -30,11 +40,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bullish-bias-remains-above-11600-ahead-of-ecb-and-us-inflation-202609090401"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold bounces off one-week low on soft USD; upside seems capped ahead of US inflation data",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar inches higher against Japanese Yen following China’s inflation data",
       "link": "https://www.fxstreet.com/news/australian-dollar-inches-higher-against-japanese-yen-following-chinas-inflation-data-202609090154"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "0.8%: China’s CPI inflation rises in August",
-      "link": "https://www.fxstreet.com/news/08-chinas-cpi-inflation-rises-in-august-202609090131"
     }
   ]
 }
