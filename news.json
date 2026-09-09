@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:15:10.116189+00:00",
+  "updated_at": "2026-09-09T12:45:53.649678+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,21 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Dollar: Soft despite supportive fundamentals – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-soft-despite-supportive-fundamentals-ing-202609091240"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold buyers struggle near $4,400 amid Fed rate hike bets, rising Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss National Bank: Policy rate seen on prolonged hold – Nomura",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-policy-rate-seen-on-prolonged-hold-nomura-202609091219"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "New Zealand Dollar extends losses below 0.5850 as Oil prices approach the $100 level",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-losses-below-05850-as-oil-prices-approach-the-100-level-202609091155"
     },
@@ -35,11 +50,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen gains against US Dollar as markets brace for a more aggressive BoJ",
       "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-us-dollar-as-markets-brace-for-a-more-aggressive-boj-202609091139"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold buyers struggle near $4,400 amid Fed rate hike bets, rising Oil prices",
-      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: 1.1686-1.1710 zone remains key hurdle",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11686-11710-zone-remains-key-hurdle-202609091049"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar slips against Japanese Yen as BoJ rate hike bets grow",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-as-boj-rate-hike-bets-grow-202609090946"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944"
     }
   ]
 }

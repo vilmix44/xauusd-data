@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:15:10.116598+00:00",
+  "updated_at": "2026-09-09T12:45:53.650197+00:00",
   "events": [
     {
       "title": "Bank Holiday",
@@ -28,18 +28,18 @@
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-09-09T08:15:00-04:00",
+      "date": "2026-09-09T08:14:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "11.8K"
     },
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-09-09T08:16:00-04:00",
+      "date": "2026-09-09T08:15:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "11.8K"
+      "previous": "10.0K"
     },
     {
       "title": "10-y Bond Auction",
