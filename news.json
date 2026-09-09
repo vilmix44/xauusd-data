@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:11:28.249157+00:00",
+  "updated_at": "2026-09-09T15:43:23.401421+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Treasury yields rise after buyback announcement, 30-year yield reaches 5.30%",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-after-buyback-announcement-30-year-yield-reaches-530-202609091531"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold loses momentum as US Dollar, yields rise after Treasury buyback announcement",
+      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Brazilian Real: Rate gap points to weakness against US Dollar – Rabobank",
+      "link": "https://www.fxstreet.com/news/brazilian-real-rate-gap-points-to-weakness-against-us-dollar-rabobank-202609091512"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "British Pound: BoE tightening expectations lend support against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/british-pound-boe-tightening-expectations-lend-support-against-us-dollar-scotiabank-202609091453"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Hawkish ECB hike expected to support EUR against US Dollar – Scotiabank",
       "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-hike-expected-to-support-eur-against-us-dollar-scotiabank-202609091414"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of Japan: Outsized hike risks carry shock – DBS",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-outsized-hike-risks-carry-shock-dbs-202609091402"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Narrowing polls support BRL against US Dollar– ING",
-      "link": "https://www.fxstreet.com/news/brazilian-real-narrowing-polls-support-brl-against-us-dollar-ing-202609091351"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Further gains seen against US Dollar - Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-further-gains-seen-against-us-dollar-scotiabank-202609091341"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver price rebounds as US Dollar weakness clashes with rising rate expectations",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-as-us-dollar-weakness-clashes-with-rising-rate-expectations-202609091333"
     }
   ]
 }
