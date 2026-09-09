@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T15:43:23.401421+00:00",
+  "updated_at": "2026-09-09T16:12:35.946879+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Rising Without Panic — Here’s What Investors Are Really Hedging",
+      "link": "https://www.investing.com/analysis/gold-is-rising-without-panic--heres-what-investors-are-really-hedging-200687387"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold May Face Volatility as Elevated Oil Prices Could Support Fed Rate Hike Bets",
@@ -27,9 +32,19 @@
       "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Breaks Out of Summer Consolidation, but a New Rally Is Yet to Be Confirmed",
-      "link": "https://www.investing.com/analysis/gold-breaks-out-of-summer-consolidation-but-a-new-rally-is-yet-to-be-confirmed-200687297"
+      "source": "FXStreet - News",
+      "title": "Australian Dollar stabilizes as rebound in US yields supports the USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen pauses advance as Treasury announcement supports US Dollar",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pauses-advance-as-treasury-announcement-supports-us-dollar-202609091550"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Strength builds against US Dollar ahead of BoJ decision – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc gains ground as Japanese Yen-led weakness grips US Dollar",
       "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-japanese-yen-led-weakness-grips-us-dollar-202609091443"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Turkish Lira: Disinflation supports gradual TRY repricing – ING",
-      "link": "https://www.fxstreet.com/news/turkish-lira-disinflation-supports-gradual-try-repricing-ing-202609091443"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Inflation data key catalyst – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-inflation-data-key-catalyst-td-securities-202609091430"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Hawkish ECB hike expected to support EUR against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-hike-expected-to-support-eur-against-us-dollar-scotiabank-202609091414"
     }
   ]
 }
