@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T07:42:02.836686+00:00",
+  "updated_at": "2026-09-09T08:13:04.002119+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
+      "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
@@ -10,6 +15,31 @@
       "source": "Investing.com - Commodities",
       "title": "New York Fed Survey: Gasoline Price Expectations Jump Ahead of CPI and PPI Data",
       "link": "https://www.investing.com/analysis/new-york-fed-survey-gasoline-price-expectations-jump-ahead-of-cpi-and-ppi-data-200687310"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold clings to intraday gains above $4,400 as bearish USD counters Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities",
+      "link": "https://www.fxstreet.com/news/federal-reserve-market-mispricing-risk-into-blackout-td-securities-202609090800"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar retreats as markets gear up for key events",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-as-markets-gear-up-for-key-events-202609090758"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Rises in limited range with US CPI in focus",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-rises-in-limited-range-with-us-cpi-in-focus-202609090757"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro remains steady against British Pound Gains due to ECB rate hike bets",
+      "link": "https://www.fxstreet.com/news/euro-remains-steady-against-british-pound-gains-due-to-ecb-rate-hike-bets-202609090749"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound dips to 207.50 as Japanese Yen rallies, unfazed by Oil prices",
       "link": "https://www.fxstreet.com/news/british-pound-dips-to-20750-as-japanese-yen-rallies-unfazed-by-oil-prices-202609090625"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Volatility eyed into late week – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-volatility-eyed-into-late-week-commerzbank-202609090621"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold recovers further from one-week low, retakes $4.400 amid sustained USD selling",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: Approaches four-year high near 0.7280",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-approaches-four-year-high-near-07280-202609090605"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens as US Dollar holds losses despite Fed rate hike odds",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-holds-losses-despite-fed-rate-hike-odds-202609090442"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609090435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bullish-bias-remains-above-11600-ahead-of-ecb-and-us-inflation-202609090401"
     }
   ]
 }
