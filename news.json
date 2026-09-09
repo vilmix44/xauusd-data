@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T08:13:04.002119+00:00",
+  "updated_at": "2026-09-09T08:41:52.864415+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Breaks Out of Summer Consolidation, but a New Rally Is Yet to Be Confirmed",
+      "link": "https://www.investing.com/analysis/gold-breaks-out-of-summer-consolidation-but-a-new-rally-is-yet-to-be-confirmed-200687297"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
@@ -12,9 +17,9 @@
       "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "New York Fed Survey: Gasoline Price Expectations Jump Ahead of CPI and PPI Data",
-      "link": "https://www.investing.com/analysis/new-york-fed-survey-gasoline-price-expectations-jump-ahead-of-cpi-and-ppi-data-200687310"
+      "source": "FXStreet - News",
+      "title": "Euro: Mid-range trading with capped upside against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-mid-range-trading-with-capped-upside-against-us-dollar-ing-202609090832"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee slumps as oil prices rally further, prompting RBI intervention prospects",
       "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-us-iran-tit-for-tat-strikes-boost-oil-prices-202609090536"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound dips to 207.50 as Japanese Yen rallies, unfazed by Oil prices",
-      "link": "https://www.fxstreet.com/news/british-pound-dips-to-20750-as-japanese-yen-rallies-unfazed-by-oil-prices-202609090625"
     }
   ]
 }
