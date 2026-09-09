@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:13:07.165154+00:00",
+  "updated_at": "2026-09-09T07:42:02.836686+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -10,6 +10,16 @@
       "source": "Investing.com - Commodities",
       "title": "New York Fed Survey: Gasoline Price Expectations Jump Ahead of CPI and PPI Data",
       "link": "https://www.investing.com/analysis/new-york-fed-survey-gasoline-price-expectations-jump-ahead-of-cpi-and-ppi-data-200687310"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Polish Zloty: Rate cuts seen off table through year-end – Commerzbank",
+      "link": "https://www.fxstreet.com/news/polish-zloty-rate-cuts-seen-off-table-through-year-end-commerzbank-202609090736"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah strengthens amid rising consumer confidence, weaker US Dollar",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-amid-rising-consumer-confidence-weaker-us-dollar-202609090713"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bullish-bias-remains-above-11600-ahead-of-ecb-and-us-inflation-202609090401"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index weakens despite rising inflation concerns, Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-despite-rising-inflation-concerns-fed-rate-hike-bets-202609090327"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD rises to near $66.40 as US Dollar declines, US CPI in focus",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6640-as-us-dollar-declines-us-cpi-in-focus-202609090318"
     }
   ]
 }
