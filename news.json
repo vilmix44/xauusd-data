@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:42:37.594292+00:00",
+  "updated_at": "2026-09-09T17:11:00.292608+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,12 +33,17 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold bulls defy US yield spike as Treasury buyback nears",
+      "link": "https://www.fxstreet.com/news/gold-bulls-defy-us-yield-spike-as-treasury-buyback-nears-202609091702"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Germany: Profit squeeze tempers price risks – ING",
       "link": "https://www.fxstreet.com/news/germany-profit-squeeze-tempers-price-risks-ing-202609091622"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar stabilizes as rebound in US yields supports the USD",
+      "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
       "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606"
     },
     {
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Brazilian Real: Rate gap points to weakness against US Dollar – Rabobank",
       "link": "https://www.fxstreet.com/news/brazilian-real-rate-gap-points-to-weakness-against-us-dollar-rabobank-202609091512"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: BoE tightening expectations lend support against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-tightening-expectations-lend-support-against-us-dollar-scotiabank-202609091453"
     }
   ]
 }
