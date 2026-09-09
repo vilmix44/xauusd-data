@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T03:41:50.337691+00:00",
+  "updated_at": "2026-09-09T04:11:50.180484+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Pressure as Iran Conflict Escalates and Oil Nears $100",
       "link": "https://www.investing.com/analysis/gold-faces-pressure-as-iran-conflict-escalates-and-oil-nears-100-200687271"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Bullish bias remains above 1.1600 ahead of ECB and US inflation",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bullish-bias-remains-above-11600-ahead-of-ecb-and-us-inflation-202609090401"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound holds steady near mid-1.3500s vs USD as traders eye UK GDP and US inflation",
       "link": "https://www.fxstreet.com/news/british-pound-holds-steady-near-mid-13500s-vs-usd-as-traders-eye-uk-gdp-and-us-inflation-202609090110"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro grinds higher above 1.1600, traders await ECB rate decision, US inflation data",
-      "link": "https://www.fxstreet.com/news/euro-grinds-higher-above-11600-traders-await-ecb-rate-decision-us-inflation-data-202609090058"
     }
   ]
 }
