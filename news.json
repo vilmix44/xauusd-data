@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:10:32.508121+00:00",
+  "updated_at": "2026-09-09T21:40:06.973314+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar flatlines as US yield ripples meet RBA hawks",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flatlines-as-us-yield-ripples-meet-rba-hawks-202609092136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Pound Sterling awaits the Fed's two-strike inflation test",
+      "link": "https://www.fxstreet.com/news/pound-sterling-awaits-the-feds-two-strike-inflation-test-202609092119"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold bulls defy US yield spike as Treasury buyback nears",
       "link": "https://www.fxstreet.com/news/gold-bulls-defy-us-yield-spike-as-treasury-buyback-nears-202609091702"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Germany: Profit squeeze tempers price risks – ING",
-      "link": "https://www.fxstreet.com/news/germany-profit-squeeze-tempers-price-risks-ing-202609091622"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606"
     }
   ]
 }
