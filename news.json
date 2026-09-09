@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:10:49.897390+00:00",
+  "updated_at": "2026-09-09T19:38:17.537213+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rises, but Will Downtrend Line Halt the Rally?",
       "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Taiwan Dollar: Range trade expected after CPI surprise against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-range-trade-expected-after-cpi-surprise-against-us-dollar-commerzbank-202609091912"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Japanese Yen: Strength builds against US Dollar ahead of BoJ decision – Scotiabank",
       "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Treasury yields rise after buyback announcement, 30-year yield reaches 5.30%",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-after-buyback-announcement-30-year-yield-reaches-530-202609091531"
     }
   ]
 }
