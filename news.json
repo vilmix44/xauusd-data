@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T09:12:02.519340+00:00",
+  "updated_at": "2026-09-09T09:42:10.659749+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rises, but Will Downtrend Line Halt the Rally?",
+      "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro remains steady against British Pound Gains due to ECB rate hike bets",
       "link": "https://www.fxstreet.com/news/euro-remains-steady-against-british-pound-gains-due-to-ecb-rate-hike-bets-202609090749"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: Rate cuts seen off table through year-end – Commerzbank",
-      "link": "https://www.fxstreet.com/news/polish-zloty-rate-cuts-seen-off-table-through-year-end-commerzbank-202609090736"
     }
   ]
 }
