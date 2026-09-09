@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T20:12:25.533009+00:00",
+  "updated_at": "2026-09-09T20:41:01.169453+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Critical $4,400 Test as Treasury Yields Surge",
+      "link": "https://www.investing.com/analysis/gold-faces-a-critical-4400-test-as-treasury-yields-surge-200687404"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
@@ -27,9 +32,9 @@
       "link": "https://www.investing.com/analysis/china-buys-gold-for-the-22nd-consecutive-month-and-holds-the-metal-above-4400-200687364"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Rises, but Will Downtrend Line Halt the Rally?",
-      "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352"
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: SMA cluster wobbles as US yields bite",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sma-cluster-wobbles-as-us-yields-bite-202609092034"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Germany: Profit squeeze tempers price risks – ING",
       "link": "https://www.fxstreet.com/news/germany-profit-squeeze-tempers-price-risks-ing-202609091622"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606"
     }
   ]
 }
