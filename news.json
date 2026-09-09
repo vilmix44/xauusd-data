@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-09T11:11:46.980953+00:00",
+  "updated_at": "2026-09-09T11:41:01.071457+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "China Buys Gold for the 22nd Consecutive Month and Holds the Metal Above $4,400",
+      "link": "https://www.investing.com/analysis/china-buys-gold-for-the-22nd-consecutive-month-and-holds-the-metal-above-4400-200687364"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Rises, but Will Downtrend Line Halt the Rally?",
@@ -20,6 +25,26 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen gains against US Dollar as markets brace for a more aggressive BoJ",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-against-us-dollar-as-markets-brace-for-a-more-aggressive-boj-202609091139"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold buyers struggle near $4,400 amid Fed rate hike bets, rising Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swedish Krona: Riksbank seen keeping hike option – Commerzbank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-seen-keeping-hike-option-commerzbank-202609091133"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Norges Bank: One more hike then gradual cuts – Nomura",
+      "link": "https://www.fxstreet.com/news/norges-bank-one-more-hike-then-gradual-cuts-nomura-202609091114"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CHF Price Forecast: Flat lines near 0.8100 as bulls await US inflation data",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-flat-lines-near-08100-as-bulls-await-us-inflation-data-202609090857"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro advances against Canadian Dollar due to hawkish ECB sentiment",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-due-to-hawkish-ecb-sentiment-202609090857"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: CPI outcome guides Fed path – DBS",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-guides-fed-path-dbs-202609090848"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar hits fresh four-month highs amid USD weakness, strong Chinese inflation",
-      "link": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-four-month-highs-amid-usd-weakness-strong-chinese-inflation-202609090845"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Mid-range trading with capped upside against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-mid-range-trading-with-capped-upside-against-us-dollar-ing-202609090832"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold clings to intraday gains above $4,400 as bearish USD counters Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334"
     }
   ]
 }
