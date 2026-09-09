@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T17:40:30.862351+00:00",
+  "updated_at": "2026-09-09T18:14:47.592646+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
       "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-seek-a-decisive-break-above-the-200-day-sma-202609091746"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold loses momentum as US Dollar, yields rise after Treasury buyback announcement",
       "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515"
     }
   ]
 }
