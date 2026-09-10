@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:12:07.108406+00:00",
+  "updated_at": "2026-09-10T09:42:19.000109+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
       "link": "https://www.investing.com/analysis/gold-rebounds-but-100-oil-and-fed-hike-risks-cloud-the-rally-200687394"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar: Bond buybacks reshape yield dynamics – MUFG",
+      "link": "https://www.fxstreet.com/news/us-dollar-bond-buybacks-reshape-yield-dynamics-mufg-202609100932"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "European Central Bank set to hike interest rates in September amid inflation, energy risks",
+      "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Euro: Difficult path for gains against US Dollar – Commerzbank",
       "link": "https://www.fxstreet.com/news/euro-difficult-path-for-gains-against-us-dollar-commerzbank-202609100823"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: ECB rate decision, US producer inflation data to lift volatility",
-      "link": "https://www.fxstreet.com/news/forex-today-ecb-rate-decision-us-producer-inflation-data-to-lift-volatility-202609100812"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: Bears remain in control with 0.5800 support eyed",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-remain-in-control-with-05800-support-eyed-202609100801"
     }
   ]
 }
