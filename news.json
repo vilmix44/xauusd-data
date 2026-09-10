@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-10T14:34:18.534325+00:00",
+  "updated_at": "2026-09-10T18:09:59.930829+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Iran Bypasses US Sanctions as Oil Enigma Deepens Sell-Off Risk",
+      "link": "https://www.investing.com/analysis/gold-iran-bypasses-us-sanctions-as-oil-enigma-deepens-selloff-risk-200687465"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold.com’s Q4 Results Show Why This Stock Is More Than a Gold Bet",
+      "link": "https://www.investing.com/analysis/goldcoms-q4-results-show-why-this-stock-is-more-than-a-gold-bet-200687464"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Support as Oil Nears $100 and Fed Hike Bets Hit 65%",
@@ -12,9 +22,44 @@
       "link": "https://www.investing.com/analysis/gold-targets-4499-and-4536-above-the-4455-weekly-mean-200687416"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces a Critical $4,400 Test as Treasury Yields Surge",
-      "link": "https://www.investing.com/analysis/gold-faces-a-critical-4400-test-as-treasury-yields-surge-200687404"
+      "source": "FXStreet - News",
+      "title": "Gold bulls blink as hot US PPI, $100 Oil send yields flying",
+      "link": "https://www.fxstreet.com/news/gold-bulls-blink-as-hot-us-ppi-100-oil-send-yields-flying-202609101729"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound under pressure as hot PPI puts Fed hike in play",
+      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar eases from four-month high",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
+      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
+      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440"
     },
     {
       "source": "FXStreet - News",
@@ -28,53 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107"
-    },
-    {
-      "source": "FXStreet - News",
       "title": "Gold: Near-term selling may only delay next leg higher - TD Securities",
       "link": "https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Lagarde speech: Inflation to return to target towards end of 2027",
-      "link": "https://www.fxstreet.com/news/lagarde-speech-inflation-to-return-to-target-towards-end-of-2027-202609101306"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro weakens despite ECB rate hike as US PPI comes in hot",
-      "link": "https://www.fxstreet.com/news/euro-weakens-despite-ecb-rate-hike-as-us-ppi-comes-in-hot-202609101256"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Norwegian Krone: Softer inflation trims hike odds – BBH",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-inflation-trims-hike-odds-bbh-202609101214"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Upside bias within defined band against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-band-against-us-dollar-uob-202609101154"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index turns positive ahead of US PPI data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-turns-positive-ahead-of-us-ppi-data-202609101144"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro ticks down from session highs ahead of the ECB monetary policy decision",
-      "link": "https://www.fxstreet.com/news/euro-holds-recent-gains-despite-high-oil-prices-with-ecb-decision-on-focus-202609100627"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: CPI and Fed path guide Greenback – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-and-fed-path-guide-greenback-bbh-202609101138"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Strength stabilising against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strength-stabilising-against-us-dollar-uob-202609101124"
     }
   ]
 }
