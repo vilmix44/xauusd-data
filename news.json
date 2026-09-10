@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:16:10.706079+00:00",
+  "updated_at": "2026-09-10T06:45:14.336888+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,26 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen: Intervention risk supports against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-supports-against-us-dollar-commerzbank-202609100641"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/CAD Price Forecast: Wobbles around 1.3800 ahead of US PPI data",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-wobbles-around-13800-ahead-of-us-ppi-data-202609100640"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro holds recent gains despite high Oil prices with ECB decision in focus",
+      "link": "https://www.fxstreet.com/news/euro-holds-recent-gains-despite-high-oil-prices-with-ecb-decision-on-focus-202609100627"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound strengthens above 1.3550, all eyes on US PPI inflation release",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13550-all-eyes-on-us-ppi-inflation-release-202609100624"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee extends its downward streak as oil prices keep rising",
       "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/USD Price Forecast: Sits near May 14 high, above 0.7200 as US inflation data looms",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-sits-near-may-14-high-above-07200-as-us-inflation-data-looms-202609100438"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609100435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc gains as US Dollar weakens on Fed uncertainty",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-on-fed-uncertainty-202609100417"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index weakens ahead of critical US inflation reports",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-ahead-of-critical-us-inflation-reports-202609100330"
     }
   ]
 }
