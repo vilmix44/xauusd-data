@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:41:57.712596+00:00",
+  "updated_at": "2026-09-10T05:11:09.793883+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Gold holds steady above $4,400 as traders seem hesitant ahead of US inflation data",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "AUD/USD Price Forecast: Sits near May 14 high, above 0.7200 as US inflation data looms",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-sits-near-may-14-high-above-07200-as-us-inflation-data-looms-202609100438"
     },
@@ -40,11 +45,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc gains as US Dollar weakens on Fed uncertainty",
       "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-on-fed-uncertainty-202609100417"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold holds steady above $4,400 as traders seem hesitant ahead of US inflation data",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351"
     },
     {
       "source": "FXStreet - News",
