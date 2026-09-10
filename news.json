@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:41:36.488819+00:00",
+  "updated_at": "2026-09-10T08:12:57.714073+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,31 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
       "link": "https://www.investing.com/analysis/gold-rebounds-but-100-oil-and-fed-hike-risks-cloud-the-rally-200687394"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: ECB rate decision, US producer inflation data to lift volatility",
+      "link": "https://www.fxstreet.com/news/forex-today-ecb-rate-decision-us-producer-inflation-data-to-lift-volatility-202609100812"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Bears remain in control with 0.5800 support eyed",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-remain-in-control-with-05800-support-eyed-202609100801"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "European Central Bank to resume interest rate hikes in September as inflation, energy risks rise",
+      "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar struggles for direction against US Dollar with US PPI in focus",
+      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-for-direction-against-us-dollar-with-us-ppi-in-focus-202609100758"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index Price Forecast: Holds losses below 99.00 as bearish bias prevails",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-holds-losses-below-9900-as-bearish-bias-prevails-202609100753"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "USD/CAD Price Forecast: Wobbles around 1.3800 ahead of US PPI data",
       "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-wobbles-around-13800-ahead-of-us-ppi-data-202609100640"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro holds recent gains despite high Oil prices with ECB decision in focus",
-      "link": "https://www.fxstreet.com/news/euro-holds-recent-gains-despite-high-oil-prices-with-ecb-decision-on-focus-202609100627"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound strengthens above 1.3550, all eyes on US PPI inflation release",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13550-all-eyes-on-us-ppi-inflation-release-202609100624"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Firms against US Dollar as ECB hike in focus – Danske Bank",
-      "link": "https://www.fxstreet.com/news/euro-firms-against-us-dollar-as-ecb-hike-in-focus-danske-bank-202609100614"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen remains firm against US Dollar amid hawkish BoJ bets, US PPI data eyed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-firm-against-us-dollar-amid-hawkish-boj-bets-us-ppi-data-eyed-202609100554"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ’s Masu: Underlying inflation gradually approaching 2% but don't see it overshooting",
-      "link": "https://www.fxstreet.com/news/bojs-masu-underlying-inflation-gradually-approaching-2-but-dont-see-it-overshooting-202609100550"
     }
   ]
 }
