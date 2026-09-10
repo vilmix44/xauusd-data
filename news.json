@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:45:14.336888+00:00",
+  "updated_at": "2026-09-10T07:12:45.710140+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound: Neutral stance inside narrower band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-neutral-stance-inside-narrower-band-against-us-dollar-uob-202609100658"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee continues to feel heat from boiling oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ’s Masu: Underlying inflation gradually approaching 2% but don't see it overshooting",
       "link": "https://www.fxstreet.com/news/bojs-masu-underlying-inflation-gradually-approaching-2-but-dont-see-it-overshooting-202609100550"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/JPY Price Forecast: Softens below 111.00, bearish vibe prevails below 100-day SMA",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-below-11100-bearish-vibe-prevails-below-100-day-sma-202609100525"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee extends its downward streak as oil prices keep rising",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
     }
   ]
 }
