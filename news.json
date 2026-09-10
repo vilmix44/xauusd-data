@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:11:09.793883+00:00",
+  "updated_at": "2026-09-10T05:40:45.130548+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Softens below 111.00, bearish vibe prevails below 100-day SMA",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-below-11100-bearish-vibe-prevails-below-100-day-sma-202609100525"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indian Rupee extends its downward streak as oil prices keep rising",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound rises as US Dollar weaken ahead of PPI data",
       "link": "https://www.fxstreet.com/news/british-pound-rises-as-us-dollar-weaken-ahead-of-ppi-data-202609100235"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar consolidates as higher oil prices offset USD uptick ahead of US PPI",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-higher-oil-prices-offset-usd-uptick-ahead-of-us-ppi-202609100152"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ’s Masu says expect to continue raising rates given current accommodative financial conditions",
-      "link": "https://www.fxstreet.com/news/bojs-masu-says-expect-to-continue-raising-rates-given-current-accommodative-financial-conditions-202609100139"
     }
   ]
 }
