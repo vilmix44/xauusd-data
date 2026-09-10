@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:40:45.130548+00:00",
+  "updated_at": "2026-09-10T06:16:10.706079+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro: Firms against US Dollar as ECB hike in focus – Danske Bank",
+      "link": "https://www.fxstreet.com/news/euro-firms-against-us-dollar-as-ecb-hike-in-focus-danske-bank-202609100614"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold sticks to gains, eyes $4,450 as USD remains depressed ahead of US inflation data",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen remains firm against US Dollar amid hawkish BoJ bets, US PPI data eyed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-firm-against-us-dollar-amid-hawkish-boj-bets-us-ppi-data-eyed-202609100554"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoJ’s Masu: Underlying inflation gradually approaching 2% but don't see it overshooting",
+      "link": "https://www.fxstreet.com/news/bojs-masu-underlying-inflation-gradually-approaching-2-but-dont-see-it-overshooting-202609100550"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "AUD/JPY Price Forecast: Softens below 111.00, bearish vibe prevails below 100-day SMA",
       "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-softens-below-11100-bearish-vibe-prevails-below-100-day-sma-202609100525"
     },
@@ -35,11 +55,6 @@
       "source": "FXStreet - News",
       "title": "Indian Rupee extends its downward streak as oil prices keep rising",
       "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold holds steady above $4,400 as traders seem hesitant ahead of US inflation data",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States Dollar Index weakens ahead of critical US inflation reports",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-ahead-of-critical-us-inflation-reports-202609100330"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD trades firmly near $67.60 ahead of US PPI, CPI data",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-firmly-near-6760-ahead-of-us-ppi-cpi-data-202609100319"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar edges higher to near 0.5850 ahead of US PPI inflation data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-to-near-05850-ahead-of-us-ppi-inflation-data-202609100257"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound rises as US Dollar weaken ahead of PPI data",
-      "link": "https://www.fxstreet.com/news/british-pound-rises-as-us-dollar-weaken-ahead-of-ppi-data-202609100235"
     }
   ]
 }
