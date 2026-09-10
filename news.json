@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T21:05:03.895061+00:00",
+  "updated_at": "2026-09-10T23:20:28.387616+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Key Support as Oil Nears $100 and Fed Hike Bets Hit 65%",
       "link": "https://www.investing.com/analysis/gold-tests-key-support-as-oil-nears-100-and-fed-hike-bets-hit-65-200687430"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-yen-strength-keeps-11000-in-sight-202609102252"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar steadies after two-month low slide",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-after-two-month-low-slide-202609102145"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar eases from four-month high",
       "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440"
     }
   ]
 }
