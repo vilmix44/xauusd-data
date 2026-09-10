@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:42:19.000109+00:00",
+  "updated_at": "2026-09-10T10:12:10.877107+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
       "link": "https://www.investing.com/analysis/gold-rebounds-but-100-oil-and-fed-hike-risks-cloud-the-rally-200687394"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar: Gradual upside within capped range against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gradual-upside-within-capped-range-against-us-dollar-uob-202609101002"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-below-4-400-with-oil-yields-surging-202609100956"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Australian Dollar slips against Japanese Yen due to increased risk aversion",
       "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-due-to-increased-risk-aversion-202609100834"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc: Range trading with limited momentum against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-with-limited-momentum-against-us-dollar-uob-202609100827"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Difficult path for gains against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-difficult-path-for-gains-against-us-dollar-commerzbank-202609100823"
     }
   ]
 }
