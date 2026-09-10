@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:16:48.713705+00:00",
+  "updated_at": "2026-09-10T00:44:47.554790+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "BoJ to raise rates to 1.25% this month — Reuters poll",
+      "link": "https://www.fxstreet.com/news/boj-to-raise-rates-to-125-this-month-reuters-poll-202609100040"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
       "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-seek-a-decisive-break-above-the-200-day-sma-202609091746"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Attention shifts to the ECB and US PPI",
-      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-the-ecb-and-us-ppi-202609091712"
     }
   ]
 }
