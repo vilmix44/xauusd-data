@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-10T18:09:59.930829+00:00",
+  "updated_at": "2026-09-10T21:05:03.895061+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Nothing Surprised — Yet Silver, Copper and Gold Sold Off Hard",
+      "link": "https://www.investing.com/analysis/nothing-surprised--yet-silver-copper-and-gold-sold-off-hard-200687479"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Iran Bypasses US Sanctions as Oil Enigma Deepens Sell-Off Risk",
@@ -17,9 +22,19 @@
       "link": "https://www.investing.com/analysis/gold-tests-key-support-as-oil-nears-100-and-fed-hike-bets-hit-65-200687430"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Targets 4,499 and 4,536 Above the $4,455 Weekly Mean",
-      "link": "https://www.investing.com/analysis/gold-targets-4499-and-4536-above-the-4455-weekly-mean-200687416"
+      "source": "FXStreet - News",
+      "title": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rebounds-on-hot-ppi-ahead-of-us-cpi-202609101955"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Uptrend eyes breakout 6.7000 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-eyes-breakout-67000-against-us-dollar-uob-202609101913"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "NZD/USD Price Forecast: Kiwi breaks below 0.5800 as bears take control",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-breaks-05800-as-bears-take-control-202609101844"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
       "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
-      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold: Near-term selling may only delay next leg higher - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317"
     }
   ]
 }
