@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T03:12:15.364428+00:00",
+  "updated_at": "2026-09-10T03:41:53.410736+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index weakens ahead of critical US inflation reports",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-ahead-of-critical-us-inflation-reports-202609100330"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD trades firmly near $67.60 ahead of US PPI, CPI data",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-firmly-near-6760-ahead-of-us-ppi-cpi-data-202609100319"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold rebounds above $4,400 on weaker Dollar, US PPI inflation data looms",
       "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-400-on-weaker-dollar-us-ppi-inflation-data-looms-202609092322"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar flatlines as US yield ripples meet RBA hawks",
-      "link": "https://www.fxstreet.com/news/australian-dollar-flatlines-as-us-yield-ripples-meet-rba-hawks-202609092136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Pound Sterling awaits the Fed's two-strike inflation test",
-      "link": "https://www.fxstreet.com/news/pound-sterling-awaits-the-feds-two-strike-inflation-test-202609092119"
     }
   ]
 }
