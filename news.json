@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:12:00.023174+00:00",
+  "updated_at": "2026-09-10T04:41:57.712596+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: Sits near May 14 high, above 0.7200 as US inflation data looms",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-sits-near-may-14-high-above-07200-as-us-inflation-data-looms-202609100438"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609100435"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc gains as US Dollar weakens on Fed uncertainty",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-on-fed-uncertainty-202609100417"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ’s Masu says expect to continue raising rates given current accommodative financial conditions",
       "link": "https://www.fxstreet.com/news/bojs-masu-says-expect-to-continue-raising-rates-given-current-accommodative-financial-conditions-202609100139"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar weakens to near 0.7200 as traders await US PPI inflation data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-07200-as-traders-await-us-ppi-inflation-data-202609100132"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen retreats from multi-month top vs USD as traders await US inflation data",
-      "link": "https://www.fxstreet.com/news/japanese-yen-retreats-from-multi-month-top-vs-usd-as-traders-await-us-inflation-data-202609100118"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoJ to raise rates to 1.25% this month — Reuters poll",
-      "link": "https://www.fxstreet.com/news/boj-to-raise-rates-to-125-this-month-reuters-poll-202609100040"
     }
   ]
 }
