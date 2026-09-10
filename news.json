@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T02:12:11.008113+00:00",
+  "updated_at": "2026-09-10T02:41:26.901781+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound rises as US Dollar weaken ahead of PPI data",
+      "link": "https://www.fxstreet.com/news/british-pound-rises-as-us-dollar-weaken-ahead-of-ppi-data-202609100235"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "NZD/USD Price Forecast: SMA cluster wobbles as US yields bite",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sma-cluster-wobbles-as-us-yields-bite-202609092034"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Uptrend intact with muted inflation against US Dollar – BBH",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-intact-with-muted-inflation-against-us-dollar-bbh-202609091954"
     }
   ]
 }
