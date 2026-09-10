@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T03:41:53.410736+00:00",
+  "updated_at": "2026-09-10T04:12:00.023174+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Bond Yields Are Pressuring Gold, But Miners May Tell a Different Story",
       "link": "https://www.investing.com/analysis/bond-yields-are-pressuring-gold-but-miners-may-tell-a-different-story-200687377"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold holds steady above $4,400 as traders seem hesitant ahead of US inflation data",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-above-4-400-as-traders-seem-hesitant-ahead-of-us-inflation-data-202609100351"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "BoJ to raise rates to 1.25% this month — Reuters poll",
       "link": "https://www.fxstreet.com/news/boj-to-raise-rates-to-125-this-month-reuters-poll-202609100040"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rebounds above $4,400 on weaker Dollar, US PPI inflation data looms",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-400-on-weaker-dollar-us-ppi-inflation-data-looms-202609092322"
     }
   ]
 }
