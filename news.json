@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T08:12:57.714073+00:00",
+  "updated_at": "2026-09-10T08:42:41.969507+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -20,6 +20,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rebounds, but $100 Oil and Fed Hike Risks Cloud the Rally",
       "link": "https://www.investing.com/analysis/gold-rebounds-but-100-oil-and-fed-hike-risks-cloud-the-rally-200687394"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar slips against Japanese Yen due to increased risk aversion",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-against-japanese-yen-due-to-increased-risk-aversion-202609100834"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc: Range trading with limited momentum against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-with-limited-momentum-against-us-dollar-uob-202609100827"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro: Difficult path for gains against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-difficult-path-for-gains-against-us-dollar-commerzbank-202609100823"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "British Pound: Neutral stance inside narrower band against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/british-pound-neutral-stance-inside-narrower-band-against-us-dollar-uob-202609100658"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee continues to feel heat from boiling oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Intervention risk supports against US Dollar – Commerzbank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-supports-against-us-dollar-commerzbank-202609100641"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Wobbles around 1.3800 ahead of US PPI data",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-wobbles-around-13800-ahead-of-us-ppi-data-202609100640"
     }
   ]
 }
