@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T21:50:50.800949+00:00",
+  "updated_at": "2026-09-11T23:55:05.276432+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rallies Into a Hawkish Fed Setup as Price Action Becomes Hard to Defend",
       "link": "https://www.investing.com/analysis/gold-rallies-into-a-hawkish-fed-setup-as-price-action-becomes-hard-to-defend-200687538"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-202609112201"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
-      "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731"
     }
   ]
 }
