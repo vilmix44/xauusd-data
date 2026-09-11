@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-11T11:43:28.704768+00:00",
+  "updated_at": "2026-09-11T16:00:22.370990+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Diesel Prices Above $6 Signal a New Inflation Threat",
+      "link": "https://www.investing.com/analysis/us-diesel-prices-top-6-a-gallon-for-first-time-ever-200687540"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rallies Into a Hawkish Fed Setup as Price Action Becomes Hard to Defend",
+      "link": "https://www.investing.com/analysis/gold-rallies-into-a-hawkish-fed-setup-as-price-action-becomes-hard-to-defend-200687538"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Falls as Inflation Fears and High Oil Prices Weigh on the Precious Metal",
@@ -12,69 +22,59 @@
       "link": "https://www.investing.com/analysis/golds-pre-cpi-bounce-looks-more-like-a-trap-than-a-turn-200687508"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests Critical VC PMI Support at $4,351",
-      "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-at-4351-200687495"
+      "source": "FXStreet - News",
+      "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
+      "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro retreats below 1.1600, Dollar appreciates heading into the US CPI release",
-      "link": "https://www.fxstreet.com/news/euro-retreats-below-11600-dollar-appreciates-heading-into-the-us-cpi-release-202609111142"
+      "title": "Australian Dollar holds firm as hotter US inflation fails to cement Greenback's advantage",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519"
     },
     {
       "source": "FXStreet - News",
-      "title": "Oil: Supply risks and central bank inflation worries – BNY",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-inflation-worries-bny-202609111142"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen outperforms this week as market bets on BoJ's extended tightening cycle",
-      "link": "https://www.fxstreet.com/news/japanese-yen-outperforms-this-week-as-market-bets-on-bojs-extended-tightening-cycle-202609111133"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: CPI volatility risk and limited upside – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-volatility-risk-and-limited-upside-bbh-202609111111"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar climbs on RBA rate hike expectations as traders await US CPI",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-on-rba-rate-hike-expectations-as-traders-await-us-cpi-202609111100"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US August CPI expected to rise steadily as markets reassess Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/us-core-cpi-data-set-to-ease-in-august-as-markets-reprice-fed-september-rate-decision-202609110830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold holds ground as markets brace for US CPI data",
+      "title": "Gold rebounds but Fed rate hike bets risks remain a headwind",
       "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059"
     },
     {
       "source": "FXStreet - News",
-      "title": "SNB’s Schlegel: Inflation accelerates in recent months but remains within stability range",
-      "link": "https://www.fxstreet.com/news/snbs-schlegel-inflation-accelerates-in-recent-months-but-remains-within-stability-range-202609111033"
+      "title": "Swiss Franc struggles even as US Dollar gives back CPI-led gains",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc nears monthly lows as investors brace for US CPI data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-nears-monthly-lows-as-investors-brace-for-us-cpi-data-202609111032"
+      "title": "India: Inflation pressures point to tighter bias – DBS",
+      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound: Support at 1.3495 under pressure against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-support-at-13495-under-pressure-against-us-dollar-uob-202609110958"
+      "title": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar steadies vs Japanese Yen as hawkish RBA signals offset JPY strength",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-vs-japanese-yen-as-hawkish-rba-signals-offset-jpy-strength-202609110945"
+      "title": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
+      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-clings-to-a-key-support-area-around-4-300-202609110939"
+      "title": "European Central Bank: Hawkish rate path supports Euro – UOB",
+      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Bank of Japan: Hawkish hike prospects grow – DBS",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen strengthens as US inflation fails to sustain Dollar rebound",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro steadies against US Dollar after volatile reaction to US CPI",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302"
     }
   ]
 }
