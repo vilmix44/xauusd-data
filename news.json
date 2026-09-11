@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-11T19:13:29.008785+00:00",
+  "updated_at": "2026-09-11T21:50:50.800949+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
+      "link": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Next Leg Higher? ETF Inflows Signal Investors Are Back",
@@ -22,13 +27,33 @@
       "link": "https://www.investing.com/analysis/gold-rallies-into-a-hawkish-fed-setup-as-price-action-becomes-hard-to-defend-200687538"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Falls as Inflation Fears and High Oil Prices Weigh on the Precious Metal",
-      "link": "https://www.investing.com/analysis/gold-falls-as-inflation-fears-and-high-oil-prices-weigh-on-the-precious-metal-200687515"
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Treasury yields ease after CPI, but Fed hike risks linger",
+      "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Taiwan Dollar: CBC seen on hold before December hike – DBS",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-seen-on-hold-before-december-hike-dbs-202609112041"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Treasury yields ease after CPI as Fed hike risks linger",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852"
     },
     {
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
       "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
-      "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ECB rate hike gives Euro little to work with as Pound holds firm",
-      "link": "https://www.fxstreet.com/news/ecb-rate-hike-gives-euro-little-to-work-with-as-pound-holds-firm-202609111642"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver erases post-CPI slump, rebounds from three-week low",
-      "link": "https://www.fxstreet.com/news/silver-erases-post-cpi-slump-rebounds-from-three-week-low-202609111622"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average rallies all session as long yields back off",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-all-session-as-long-yields-back-off-202609111614"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rebounds but Fed rate hike bets risks remain a headwind",
-      "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059"
     }
   ]
 }
