@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-11T16:00:22.370990+00:00",
+  "updated_at": "2026-09-11T19:13:29.008785+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Next Leg Higher? ETF Inflows Signal Investors Are Back",
+      "link": "https://www.investing.com/analysis/golds-next-leg-higher-etf-inflows-signal-investors-are-back-200687559"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Downside Risk as Shifting US Policy Fuels Energy-Led Inflation",
+      "link": "https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Diesel Prices Above $6 Signal a New Inflation Threat",
@@ -17,9 +27,29 @@
       "link": "https://www.investing.com/analysis/gold-falls-as-inflation-fears-and-high-oil-prices-weigh-on-the-precious-metal-200687515"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Pre-CPI Bounce Looks More Like a Trap Than a Turn",
-      "link": "https://www.investing.com/analysis/golds-pre-cpi-bounce-looks-more-like-a-trap-than-a-turn-200687508"
+      "source": "FXStreet - News",
+      "title": "US Treasury yields ease after CPI, but Fed hike risks linger",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Asia FX: Resilience at risk as US yields climb – MUFG",
+      "link": "https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen rises as the Greenback's inflation bounce fades",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
+      "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731"
     },
     {
       "source": "FXStreet - News",
@@ -28,53 +58,23 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar holds firm as hotter US inflation fails to cement Greenback's advantage",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519"
+      "title": "ECB rate hike gives Euro little to work with as Pound holds firm",
+      "link": "https://www.fxstreet.com/news/ecb-rate-hike-gives-euro-little-to-work-with-as-pound-holds-firm-202609111642"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver erases post-CPI slump, rebounds from three-week low",
+      "link": "https://www.fxstreet.com/news/silver-erases-post-cpi-slump-rebounds-from-three-week-low-202609111622"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average rallies all session as long yields back off",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-all-session-as-long-yields-back-off-202609111614"
     },
     {
       "source": "FXStreet - News",
       "title": "Gold rebounds but Fed rate hike bets risks remain a headwind",
       "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc struggles even as US Dollar gives back CPI-led gains",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India: Inflation pressures point to tighter bias – DBS",
-      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "European Central Bank: Hawkish rate path supports Euro – UOB",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of Japan: Hawkish hike prospects grow – DBS",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen strengthens as US inflation fails to sustain Dollar rebound",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro steadies against US Dollar after volatile reaction to US CPI",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302"
     }
   ]
 }

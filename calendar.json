@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T16:00:22.371388+00:00",
+  "updated_at": "2026-09-11T19:13:29.009191+00:00",
   "events": [
     {
       "title": "Bank Holiday",
@@ -180,7 +180,7 @@
     {
       "title": "Federal Budget Balance",
       "country": "USD",
-      "date": "2026-09-11T14:00:00-04:00",
+      "date": "2026-09-11T13:58:00-04:00",
       "impact": "Low",
       "forecast": "-221.1B",
       "previous": "-432.3B"
