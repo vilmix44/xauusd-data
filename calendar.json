@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:02:12.489295+00:00",
+  "updated_at": "2026-09-13T23:20:59.099743+00:00",
   "events": [
     {
       "title": "ADP Weekly Employment Change",
@@ -78,7 +78,7 @@
       "country": "USD",
       "date": "2026-09-16T14:00:00-04:00",
       "impact": "High",
-      "forecast": "3.75%",
+      "forecast": "4.00%",
       "previous": "3.75%"
     },
     {
@@ -192,6 +192,14 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.2%"
+    },
+    {
+      "title": "FOMC Member Schmid Speaks",
+      "country": "USD",
+      "date": "2026-09-18T11:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     }
   ]
 }
