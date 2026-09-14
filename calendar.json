@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:04:10.104907+00:00",
+  "updated_at": "2026-09-14T22:39:02.081454+00:00",
   "events": [
     {
       "title": "ADP Weekly Employment Change",
@@ -14,7 +14,7 @@
       "country": "USD",
       "date": "2026-09-15T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "14.1",
+      "forecast": "14.8",
       "previous": "20.6"
     },
     {
@@ -46,7 +46,7 @@
       "country": "USD",
       "date": "2026-09-16T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.4%",
       "previous": "-0.4%"
     },
     {
@@ -54,7 +54,7 @@
       "country": "USD",
       "date": "2026-09-16T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.6%",
       "previous": "0.0%"
     },
     {
@@ -118,7 +118,7 @@
       "country": "USD",
       "date": "2026-09-17T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "28.9",
+      "forecast": "31.3",
       "previous": "47.4"
     },
     {
@@ -126,7 +126,7 @@
       "country": "USD",
       "date": "2026-09-17T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "209K",
+      "forecast": "208K",
       "previous": "206K"
     },
     {
@@ -142,7 +142,7 @@
       "country": "USD",
       "date": "2026-09-17T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.32M",
+      "forecast": "1.31M",
       "previous": "1.24M"
     },
     {
@@ -150,7 +150,7 @@
       "country": "USD",
       "date": "2026-09-17T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "-0.2%",
       "previous": "-2.3%"
     },
     {
@@ -174,7 +174,7 @@
       "country": "USD",
       "date": "2026-09-18T09:15:00-04:00",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.3%",
       "previous": "0.2%"
     },
     {
@@ -190,7 +190,7 @@
       "country": "USD",
       "date": "2026-09-18T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "0.2%"
     },
     {
