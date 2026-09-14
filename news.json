@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-14T13:42:32.814246+00:00",
+  "updated_at": "2026-09-14T19:04:10.104421+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Could Metal Touch $4k Amid Macro Headwinds?",
       "link": "https://www.investing.com/analysis/gold-could-metal-touch-4k-amid-macro-headwinds-200687620"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Critical Thresholds as Oil Uncertainty and Rate Hike Risks Mount",
+      "link": "https://www.investing.com/analysis/gold-tests-critical-thresholds-as-oil-uncertainty-and-rate-hike-risks-mount-200687635"
     },
     {
       "source": "Investing.com - Commodities",
@@ -22,59 +27,54 @@
       "link": "https://www.investing.com/analysis/gold-decline-puts-4300-at-risk-200687608"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
-      "link": "https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Next Leg Higher? ETF Inflows Signal Investors Are Back",
-      "link": "https://www.investing.com/analysis/golds-next-leg-higher-etf-inflows-signal-investors-are-back-200687559"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Downside Risk as Shifting US Policy Fuels Energy-Led Inflation",
-      "link": "https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548"
+      "source": "FXStreet - News",
+      "title": "US Dollar Index: Fed pricing supports gains – Scotiabank",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-pricing-supports-gains-scotiabank-202609141858"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: ECB credibility may offer support against Dollar – DBS",
-      "link": "https://www.fxstreet.com/news/euro-ecb-credibility-may-offer-support-against-dollar-dbs-202609141335"
+      "title": "US Dollar: Hawkish Fed may offer only limited gains - BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-may-offer-only-limited-gains-bbh-202609141851"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold: CTA liquidation and dip-buying narrative – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-cta-liquidation-and-dip-buying-narrative-td-securities-202609141326"
+      "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar remains under pressure following mixed inflation data",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-following-mixed-inflation-data-202609141323"
+      "title": "British Pound buckles as US yields rise puts Fed in command",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-the-us-yields-rise-puts-fed-in-command-202609141655"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold starts the week lower as traders await Fed verdict",
+      "title": "Euro falls as higher Oil prices support Canadian Dollar amid mixed inflation data",
+      "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Dollar Index climbs on Fed hike bets and stalls at its usual ceiling",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-climbs-on-fed-hike-bets-and-stalls-at-its-usual-ceiling-202609141622"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen weakens at the start of a central bank-heavy week",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-us-dollar-at-the-start-of-a-central-bank-heavy-week-202609141607"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
       "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130"
     },
     {
       "source": "FXStreet - News",
-      "title": "Breaking: Canada hedline CPI rose 3.0% YoY in August",
-      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-steady-inflation-in-august-202609140730"
+      "title": "Australian Dollar slides to monthly low as Fed hike odds firm",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-monthly-low-as-fed-hike-odds-firm-202609141528"
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve: Inflation keeps pressure on – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-keeps-pressure-on-commerzbank-202609141235"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar extends losses as US Dollar strengthens on Fed bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-losses-as-us-dollar-strengthens-on-fed-bets-202609141215"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Policy-regime shift backs JPY against US Dollar – DBS",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-regime-shift-backs-jpy-against-us-dollar-dbs-202609141206"
+      "title": "Japanese Yen: JPY underperforms into BoJ – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jpy-underperforms-into-boj-scotiabank-202609141524"
     }
   ]
 }
