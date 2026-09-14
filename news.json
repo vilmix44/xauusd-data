@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:20:59.099303+00:00",
+  "updated_at": "2026-09-14T01:24:38.914993+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Rallies Into a Hawkish Fed Setup as Price Action Becomes Hard to Defend",
       "link": "https://www.investing.com/analysis/gold-rallies-into-a-hawkish-fed-setup-as-price-action-becomes-hard-to-defend-200687538"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound consolidates above 1.3500 vs USD ahead of this week's UK data, Fed, BoE",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-above-13500-vs-usd-ahead-of-this-weeks-uk-data-fed-boe-202609140119"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11600-as-markets-price-in-fed-rate-hike-202609140047"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-fed-rate-hike-202609132339"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "US Treasury yields ease after CPI as Fed hike risks linger",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: Resilience at risk as US yields climb – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen rises as the Greenback's inflation bounce fades",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808"
     }
   ]
 }
