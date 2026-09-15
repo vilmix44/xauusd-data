@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T22:39:02.081061+00:00",
+  "updated_at": "2026-09-15T01:12:53.170664+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,21 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Decline Puts 4,300 at Risk",
       "link": "https://www.investing.com/analysis/gold-decline-puts-4300-at-risk-200687608"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen weakens as Fed rate hike looms",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-fed-rate-hike-looms-202609150041"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold falls below $4,300 as higher US yields bolster Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-as-higher-us-yields-bolster-fed-rate-hike-bets-202609142314"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar gets caught between AI selloff and 5% US yields",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gets-caught-between-ai-selloff-and-5-us-yields-202609142246"
     },
     {
       "source": "FXStreet - News",
@@ -60,21 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
       "link": "https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar Index: Fed pricing supports gains – Scotiabank",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-pricing-supports-gains-scotiabank-202609141858"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Hawkish Fed may offer only limited gains - BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-may-offer-only-limited-gains-bbh-202609141851"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Buyers challenge 100-day SMA after double-bottom formation",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-buyers-challenge-100-day-sma-after-double-bottom-formation-202609141818"
     }
   ]
 }
