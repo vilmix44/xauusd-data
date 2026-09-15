@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:02:16.946971+00:00",
+  "updated_at": "2026-09-15T17:12:30.099712+00:00",
   "events": [
     {
       "title": "ADP Weekly Employment Change",
@@ -16,6 +16,14 @@
       "impact": "Low",
       "forecast": "14.8",
       "previous": "20.6"
+    },
+    {
+      "title": "Treasury Sec Bessent Speaks",
+      "country": "USD",
+      "date": "2026-09-15T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "API Weekly Statistical Bulletin",

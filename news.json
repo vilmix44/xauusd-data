@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-15T12:02:16.946696+00:00",
+  "updated_at": "2026-09-15T17:12:30.099300+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Falls as Energy Prices Strengthen Rate Hike Expectations",
+      "link": "https://www.investing.com/analysis/gold-falls-as-energy-prices-strengthen-rate-hike-expectations-200687705"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold, Silver Squeezed by Yields as US Dollar Threat Lies Dormant",
@@ -28,53 +33,48 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Slides After The Meeting That Did Not Happen",
-      "link": "https://www.investing.com/analysis/gold-slides-after-the-meeting-that-did-not-happen-200687662"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Targets $4,402 After Reclaiming the Daily Mean",
-      "link": "https://www.investing.com/analysis/gold-targets-4402-after-reclaiming-the-daily-mean-200687657"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Market Outlook: Was Friday’s Gold Rebound Only a Short-Covering Bounce?",
       "link": "https://www.investing.com/analysis/gold-market-outlook-was-fridays-gold-rebound-only-a-shortcovering-bounce-200687651"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar tests two-month lows below 0.5765 amid Fed hiking bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-tests-two-month-lows-below-05765-amid-fed-hiking-bets-202609151151"
+      "title": "Silver attempts cautious rebound ahead of closely watched Fed decision",
+      "link": "https://www.fxstreet.com/news/silver-attempts-cautious-rebound-ahead-of-closely-watched-fed-decision-202609151659"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee extends its downfall due to surging US Treasury Yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-declines-further-as-us-treasury-yields-extend-rally-202609150530"
+      "title": "Dow Jones Industrial Average slides as yields beat the Fed to tomorrow's hike",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-slides-as-yields-beat-the-fed-to-tomorrows-hike-202609151624"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold bears retain control as markets brace for Fed rate hike",
+      "title": "British Pound wilts as Oil shock sends US yields past 5%",
+      "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold finds support near one-month low ahead of Fed interest rate decision",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-markets-brace-for-fed-rate-hike-202609151131"
     },
     {
       "source": "FXStreet - News",
-      "title": "Experts agree: Fed will follow monetary tightening path even beyond September meeting",
-      "link": "https://www.fxstreet.com/news/experts-agree-fed-will-follow-monetary-tightening-path-even-beyond-september-meeting-202609151129"
+      "title": "Euro stays neutral against Pound ahead of UK inflation data",
+      "link": "https://www.fxstreet.com/news/euro-stays-neutral-against-pound-ahead-of-uk-inflation-data-202609151531"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc struggles near lows as monetary policy divergence boosts US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-near-lows-as-monetary-policy-divergence-boosts-us-dollar-202609151121"
+      "title": "Japanese Yen: Weak as markets price BoJ hike against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weak-as-markets-price-boj-hike-against-us-dollar-scotiabank-202609151506"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar: Looking for 0.7100 break against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-looking-for-07100-break-against-us-dollar-uob-202609151112"
+      "title": "British Pound: Further weakness eyed toward 1.3410 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/british-pound-further-weakness-eyed-toward-13410-against-us-dollar-uob-202609151450"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound trades mixed after steady UK employment report, CPI data eyed",
-      "link": "https://www.fxstreet.com/news/british-pound-trades-mixed-after-steady-uk-employment-report-cpi-data-eyed-202609151045"
+      "title": "Australian Dollar continues recent slide ahead of Fed decision",
+      "link": "https://www.fxstreet.com/news/australian-dollar-continues-recent-slide-ahead-of-fed-decision-202609151450"
     }
   ]
 }
