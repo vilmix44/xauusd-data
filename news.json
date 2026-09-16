@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T23:04:14.510048+00:00",
+  "updated_at": "2026-09-16T01:32:52.750341+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen flatlines ahead of Fed rate decicion",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold declines below $4,300 as US yields climb, Fed rate decision looms",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-us-yields-climb-fed-rate-decision-looms-202609152313"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar softens as risk-off mood meets FOMC countdown",
       "link": "https://www.fxstreet.com/news/australian-dollar-as-risk-off-mood-meets-fomc-countdown-202609152255"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "New Zealand Dollar slides ahead of Fed’s decision",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-ahead-of-feds-decision-202609152129"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Chinese Yuan: Range-bound with slight downside bias against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-bound-with-slight-downside-bias-against-us-dollar-uob-202609152121"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Bears crack 100-day SMA, eye 1.1500",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-crack-100-day-sma-eye-11500-202609151850"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: US Dollar firms as markets brace for Fed rate decision",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-markets-brace-for-fed-rate-decision-202609151939"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Downtrend seen limited against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912"
     }
   ]
 }
