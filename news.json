@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-16T17:30:10.879630+00:00",
+  "updated_at": "2026-09-16T20:23:53.055884+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Price at a Crossroads as Fed Hike, Oil Shock and 5% Yields Collide",
+      "link": "https://www.investing.com/analysis/gold-price-at-a-crossroads-as-fed-hike-oil-shock-and-5-yields-collide-200687813"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Futures Brace for Fed Shock as 4 Rate Scenarios Come Into Focus",
@@ -12,69 +17,64 @@
       "link": "https://www.investing.com/analysis/gold-and-silver-where-will-they-move-today-on-the-fomc-decision-200687766"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Fresh Selling Pressure as Fed Decision and Iran War Weigh",
-      "link": "https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-fed-decision-and-iran-war-weigh-200687761"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "How Artificial Intelligence Is Affecting Gold",
-      "link": "https://www.investing.com/analysis/how-artificial-intelligence-is-affecting-gold-200687760"
+      "source": "FXStreet - News",
+      "title": "US Federal Reserve sends Gold to fresh one-month lows",
+      "link": "https://www.fxstreet.com/news/us-federal-reserve-sends-gold-to-fresh-one-month-lows-202609161943"
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve set to raise interest rate as dot plot takes center stage",
+      "title": "The Euro breaks lower once the Fed raises rates",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-six-days-after-the-ecb-202609161808"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Pound sinks as the Fed overtakes the BoE",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-back-above-britains-375-202609161809"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed rate hike bolsters US Dollar Index above 100.00",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-into-a-dollar-index-basket-that-also-raised-rates-202609161815"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Canadian Dollar slips to a summer low on the Fed's rate hike",
+      "link": "https://www.fxstreet.com/news/fed-hike-sends-the-loonie-to-a-six-week-low-202609161841"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
+      "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver slides as hawkish Fed lifts US Dollar and Treasury yields",
+      "link": "https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: Investors now look at the BoE",
+      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
+      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
+      "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Warsh: Decision today was the right decision",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar steadies against US Dollar as markets await Fed decision",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-against-us-dollar-as-markets-await-fed-decision-202609161617"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold consolidates gains as traders brace for Fed interest rate decision",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Pound sells its own inflation spike ahead of a Fed hike",
-      "link": "https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Dow Jones Industrial Average huddles ahead of Fed action",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed repricing risk caps downside – Rabobank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound: BoE repricing risk grows – BBH",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds ground as Fed decision looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United Kingdom: BoE hold view reinforced – Nomura",
-      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418"
     }
   ]
 }
