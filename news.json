@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-16T20:23:53.055884+00:00",
+  "updated_at": "2026-09-16T23:10:22.131363+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Resilience Shows Why Fiscal Risk Is Offsetting 5% Treasury Yields",
+      "link": "https://www.investing.com/analysis/gold-resilience-shows-why-fiscal-risk-is-offsetting-5-treasury-yields-200687827"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Price at a Crossroads as Fed Hike, Oil Shock and 5% Yields Collide",
@@ -12,9 +17,34 @@
       "link": "https://www.investing.com/analysis/gold-futures-brace-for-fed-shock-as-4-rate-scenarios-come-into-focus-200687801"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Silver: Where Will They Move Today on the FOMC Decision?",
-      "link": "https://www.investing.com/analysis/gold-and-silver-where-will-they-move-today-on-the-fomc-decision-200687766"
+      "source": "FXStreet - News",
+      "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
+      "link": "https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Euro's losing streak runs on as the Fed matches the ECB's rate hike",
+      "link": "https://www.fxstreet.com/news/the-euros-losing-streak-runs-on-as-the-fed-matches-the-ecbs-rate-hike-202609162201"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Japanese Yen gives back more of its rally as the Fed raises rates",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-more-of-its-rally-as-the-fed-raises-rates-202609162118"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Trump demands 1% rates hours after the Fed raised them",
+      "link": "https://www.fxstreet.com/news/trump-demands-1-rates-hours-after-the-fed-raised-them-202609162104"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar sinks toward its July low after the Fed hikes",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sinks-toward-its-july-low-after-the-fed-hikes-202609162101"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Australian Dollar continues to slide as the Fed enters hike country",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-continues-to-slide-as-the-fed-enters-hike-country-202609162056"
     },
     {
       "source": "FXStreet - News",
@@ -45,36 +75,6 @@
       "source": "FXStreet - News",
       "title": "Dow Jones Industrial Average slides behind a Federal Reserve hike",
       "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver slides as hawkish Fed lifts US Dollar and Treasury yields",
-      "link": "https://www.fxstreet.com/news/silver-slides-as-hawkish-fed-lifts-us-dollar-and-treasury-yields-202609161916"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Investors now look at the BoE",
-      "link": "https://www.fxstreet.com/news/forex-today-investors-now-look-at-the-boe-202609161909"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
-      "link": "https://www.fxstreet.com/news/federal-reserve-chair-warsh-inflation-trends-were-not-passing-the-test-202609161900"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
-      "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar slides below 0.7100 as Warsh strikes hawkish tone",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-against-us-dollar-after-hawkish-fed-rate-hike-202609161823"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Warsh: Decision today was the right decision",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400"
     }
   ]
 }
