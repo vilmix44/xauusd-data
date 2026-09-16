@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-16T01:32:52.750341+00:00",
+  "updated_at": "2026-09-16T07:20:05.982603+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Correction Meets Weekly Support: Reversion or Breakdown Ahead?",
+      "link": "https://www.investing.com/analysis/golds-correction-meets-weekly-support-reversion-or-breakdown-ahead-200687746"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Falls as Energy Prices Strengthen Rate Hike Expectations",
@@ -22,59 +27,54 @@
       "link": "https://www.investing.com/analysis/100-oil-puts-central-banks-back-on-inflation-alert-200687694"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests Crucial Support Ahead of Fed Decision as Rising Yields Weigh",
-      "link": "https://www.investing.com/analysis/gold-tests-crucial-support-ahead-of-fed-decision-as-rising-yields-weigh-200687687"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "This Is Going to Fool All the Gold and Silver Retail Traders",
-      "link": "https://www.investing.com/analysis/this-is-going-to-fool-all-the-gold-and-silver-retail-traders-200687686"
+      "source": "FXStreet - News",
+      "title": "British Pound: Rising price pressures challenge BoE – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/british-pound-rising-price-pressures-challenge-boe-deutsche-bank-202609160709"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121"
+      "title": "Euro ticks higher against British Pound following UK CPI data",
+      "link": "https://www.fxstreet.com/news/euro-ticks-higher-against-british-pound-following-uk-cpi-data-202609160707"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108"
+      "title": "Indian Rupee trades near seven-week low ahead of Fed's policy decision",
+      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531"
     },
     {
       "source": "FXStreet - News",
-      "title": "Japanese Yen flatlines ahead of Fed rate decicion",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022"
+      "title": "AUD/USD Price Forecast: Trades with caution ahead of Fed’s policy outcome",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-trades-with-caution-ahead-of-feds-policy-outcome-202609160657"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold declines below $4,300 as US yields climb, Fed rate decision looms",
-      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-us-yields-climb-fed-rate-decision-looms-202609152313"
+      "title": "Gold bulls seem hesitant below $4,350 as focus remains on Fed rate decision",
+      "link": "https://www.fxstreet.com/news/gold-gains-some-positive-traction-as-usd-bulls-turn-cautious-ahead-of-fed-rate-decision-202609160409"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar softens as risk-off mood meets FOMC countdown",
-      "link": "https://www.fxstreet.com/news/australian-dollar-as-risk-off-mood-meets-fomc-countdown-202609152255"
+      "title": "Forex Today: US Dollar holds steady ahead of Fed rate decision",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-fed-rate-decision-202609160645"
     },
     {
       "source": "FXStreet - News",
-      "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-rebounds-above-20700-as-oversold-risk-eases-202609152222"
+      "title": "Indian Rupee: Inflation and trade reshape INR – Commerzbank",
+      "link": "https://www.fxstreet.com/news/indian-rupee-inflation-and-trade-reshape-inr-commerzbank-202609160644"
     },
     {
       "source": "FXStreet - News",
-      "title": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
-      "link": "https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209"
+      "title": "United Kingdom CPI inflation jumps to 3.1% YoY in August, as expected",
+      "link": "https://www.fxstreet.com/news/august-uk-inflation-report-expected-to-show-rising-inflation-202609160200"
     },
     {
       "source": "FXStreet - News",
-      "title": "Mexican Peso retreats as USD/MXN bounces from near YTD low",
-      "link": "https://www.fxstreet.com/news/mexican-peso-retreats-as-usd-mxn-bounces-from-near-ytd-low-202609152036"
+      "title": "British Pound remains on the defensive as UK CPI meets expectations",
+      "link": "https://www.fxstreet.com/news/british-pound-remains-on-the-defensive-as-uk-cpi-meets-expectations-202609160629"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar slides ahead of Fed’s decision",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-ahead-of-feds-decision-202609152129"
+      "title": "Euro: Downside pressure toward 1.1490 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-pressure-toward-11490-against-us-dollar-uob-202609160619"
     }
   ]
 }
