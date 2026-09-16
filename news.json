@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-16T12:44:02.311752+00:00",
+  "updated_at": "2026-09-16T17:30:10.879630+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Futures Brace for Fed Shock as 4 Rate Scenarios Come Into Focus",
+      "link": "https://www.investing.com/analysis/gold-futures-brace-for-fed-shock-as-4-rate-scenarios-come-into-focus-200687801"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold and Silver: Where Will They Move Today on the FOMC Decision?",
@@ -17,64 +22,59 @@
       "link": "https://www.investing.com/analysis/how-artificial-intelligence-is-affecting-gold-200687760"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Correction Meets Weekly Support: Reversion or Breakdown Ahead?",
-      "link": "https://www.investing.com/analysis/golds-correction-meets-weekly-support-reversion-or-breakdown-ahead-200687746"
+      "source": "FXStreet - News",
+      "title": "Federal Reserve set to raise interest rate as dot plot takes center stage",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold rebounds as traders position for Fed interest rate decision",
+      "title": "New Zealand Dollar steadies against US Dollar as markets await Fed decision",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-against-us-dollar-as-markets-await-fed-decision-202609161617"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold consolidates gains as traders brace for Fed interest rate decision",
       "link": "https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Modestly bearish path under gridlock – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-modestly-bearish-path-under-gridlock-td-securities-202609161229"
+      "title": "The Pound sells its own inflation spike ahead of a Fed hike",
+      "link": "https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Recovery does not justify stronger EUR – BNY",
-      "link": "https://www.fxstreet.com/news/euro-recovery-does-not-justify-stronger-eur-bny-202609161212"
+      "title": "Dow Jones Industrial Average huddles ahead of Fed action",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-huddles-ahead-of-fed-action-202609161514"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound: Data back Bank of England pause – Rabobank",
-      "link": "https://www.fxstreet.com/news/british-pound-data-back-bank-of-england-pause-rabobank-202609161158"
+      "title": "Euro: Consolidation with downside risks against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-consolidation-with-downside-risks-against-us-dollar-scotiabank-202609161509"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar tests monthly lows against US Dollar ahead of Fed decision",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tests-monthly-lows-against-us-dollar-ahead-of-fed-decision-202609161155"
+      "title": "US Dollar: Fed repricing risk caps downside – Rabobank",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-caps-downside-rabobank-202609161501"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar holds its ground ahead of highly anticipated Fed decision",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-its-ground-ahead-of-highly-anticipated-fed-decision-202609161147"
+      "title": "British Pound: BoE repricing risk grows – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-grows-bbh-202609161453"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Fed path and credibility in focus – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-credibility-in-focus-commerzbank-202609161144"
+      "title": "Australian Dollar holds ground as Fed decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-against-us-dollar-as-fed-decision-looms-202609161453"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee remains close to seven-week low on Wednesday, Fed's policy in focus",
-      "link": "https://www.fxstreet.com/news/indian-rupee-clings-to-recent-losses-ahead-of-feds-policy-202609160531"
+      "title": "Canadian Dollar: BoC hawkish tilt and key levels – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hawkish-tilt-and-key-levels-scotiabank-202609161441"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar: Growth risks temper RBNZ pricing – ING",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-growth-risks-temper-rbnz-pricing-ing-202609161130"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro trades with caution against US Dollar ahead of Fed’s policy meeting",
-      "link": "https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-ahead-of-feds-policy-meeting-202609161120"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: Downside risk persists against US Dollar - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-downside-risk-persists-against-us-dollar-uob-202609161113"
+      "title": "United Kingdom: BoE hold view reinforced – Nomura",
+      "link": "https://www.fxstreet.com/news/united-kingdom-boe-hold-view-reinforced-nomura-202609161418"
     }
   ]
 }
