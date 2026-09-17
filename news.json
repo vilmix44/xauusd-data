@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-09-17T07:15:51.557180+00:00",
+  "updated_at": "2026-09-17T12:43:02.606077+00:00",
   "news": [
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Silver Tests VC PMI Support After the Fed’s Rate Hike",
-      "link": "https://www.investing.com/analysis/silver-tests-vc-pmi-support-after-the-feds-rate-hike-200687831"
-    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Trading Like a Meme Coin After the Fed",
@@ -13,68 +8,73 @@
     },
     {
       "source": "Investing.com - Commodities",
+      "title": "Gold’s Post-FOMC Round Trip: From Crash to Comeback in 18 Hours",
+      "link": "https://www.investing.com/analysis/golds-postfomc-round-trip-from-crash-to-comeback-in-18-hours-200687867"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Rebounds Above Key SMAs as Bullish Momentum Builds",
+      "link": "https://www.investing.com/analysis/gold-rebounds-above-key-smas-as-bullish-momentum-builds-200687854"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Rate Hike Odds, Higher Inflation, and Political Pressure Surge Bearish Bets",
+      "link": "https://www.investing.com/analysis/gold-rate-hike-odds-higher-inflation-and-political-pressure-surge-bearish-bets-200687853"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Silver Tests VC PMI Support After the Fed’s Rate Hike",
+      "link": "https://www.investing.com/analysis/silver-tests-vc-pmi-support-after-the-feds-rate-hike-200687831"
+    },
+    {
+      "source": "Investing.com - Commodities",
       "title": "Gold Tests VC PMI Buy 1 After the Fed Rate Hike",
       "link": "https://www.investing.com/analysis/gold-tests-vc-pmi-buy-1-after-the-fed-rate-hike-200687832"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Resilience Shows Why Fiscal Risk Is Offsetting 5% Treasury Yields",
-      "link": "https://www.investing.com/analysis/gold-resilience-shows-why-fiscal-risk-is-offsetting-5-treasury-yields-200687827"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Price at a Crossroads as Fed Hike, Oil Shock and 5% Yields Collide",
-      "link": "https://www.investing.com/analysis/gold-price-at-a-crossroads-as-fed-hike-oil-shock-and-5-yields-collide-200687813"
+      "source": "FXStreet - News",
+      "title": "Swiss National Bank: Inflation pressures build – Nomura",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-inflation-pressures-build-nomura-202609171242"
     },
     {
       "source": "FXStreet - News",
-      "title": "CEE FX: Prolonged pressure from strong Dollar – ING",
-      "link": "https://www.fxstreet.com/news/cee-fx-prolonged-pressure-from-strong-dollar-ing-202609170710"
+      "title": "Gold climbs over 2% as US Dollar trims post-Fed gains",
+      "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Hawkish Fed supports Dollar against Euro - Danske Bank",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-against-euro-danske-bank-202609170656"
+      "title": "Federal Reserve: Hawkish path extends into year-end – Commerzbank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-path-extends-into-year-end-commerzbank-202609171158"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar Index eases from late July highs as profit-taking kicks in amid sliding yields",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-eases-from-late-july-highs-as-profit-taking-kicks-in-amid-sliding-yields-202609170655"
+      "title": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
+      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee draws support near seven-week low from RBI's intervention",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-ground-despite-fears-of-more-fed-interest-rate-hikes-202609170519"
+      "title": "Euro jumps against British Pound as BoE leaves rates on hold",
+      "link": "https://www.fxstreet.com/news/euro-jumps-against-british-pound-as-boe-leaves-rates-on-hold-202609171146"
     },
     {
       "source": "FXStreet - News",
-      "title": "British Pound: Oversold Sterling still seen weaker against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/british-pound-oversold-sterling-still-seen-weaker-against-us-dollar-uob-202609170628"
+      "title": "US Dollar: Hawkish Fed supports Dollar near term – OCBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-near-term-ocbc-202609171143"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348"
+      "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-downside-toward-07050-against-us-dollar-uob-202609171131"
     },
     {
       "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Holds steady near 1.1450, bearish tone remains intact",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-steady-near-11450-bearish-tone-remains-intact-202609170609"
+      "title": "Massive selloff: Swiss Franc plunges 2% in five days amid growing SNB-Fed divergence",
+      "link": "https://www.fxstreet.com/news/massive-selloff-swiss-franc-plunges-2-in-five-days-amid-growing-snb-fed-divergence-202609171129"
     },
     {
       "source": "FXStreet - News",
-      "title": "Japan’s Kiuchi says aim to balance robust economy with fiscal sustainability",
-      "link": "https://www.fxstreet.com/news/japans-kiuchi-says-aim-to-balance-robust-economy-with-fiscal-sustainability-202609170600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoE expected to hold interest rate at 3.75%",
-      "link": "https://www.fxstreet.com/news/boe-expected-to-hold-interest-rate-at-375-202609170600"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Trades vulnerable below 1.3400 ahead of BoE’s policy decision",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-vulnerable-below-13400-ahead-of-boes-policy-decision-202609170537"
+      "title": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120"
     }
   ]
 }
