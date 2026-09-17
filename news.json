@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-17T12:43:02.606077+00:00",
+  "updated_at": "2026-09-17T17:30:42.061410+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "The Energy Report: The Warsh Take",
+      "link": "https://www.investing.com/analysis/the-energy-report-the-warsh-take-200687888"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Could Retreat if Buyers Fail to Break Yesterday’s High",
+      "link": "https://www.investing.com/analysis/gold-could-retreat-if-buyers-fail-to-break-yesterdays-high-200687886"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Why a Flatter Yield Curve Could Favor a Short-Term Goldilocks Setup",
+      "link": "https://www.investing.com/analysis/why-a-flatter-yield-curve-could-favor-a-shortterm-goldilocks-setup-200687879"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Trading Like a Meme Coin After the Fed",
@@ -22,19 +37,14 @@
       "link": "https://www.investing.com/analysis/gold-rate-hike-odds-higher-inflation-and-political-pressure-surge-bearish-bets-200687853"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Silver Tests VC PMI Support After the Fed’s Rate Hike",
-      "link": "https://www.investing.com/analysis/silver-tests-vc-pmi-support-after-the-feds-rate-hike-200687831"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Tests VC PMI Buy 1 After the Fed Rate Hike",
-      "link": "https://www.investing.com/analysis/gold-tests-vc-pmi-buy-1-after-the-fed-rate-hike-200687832"
+      "source": "FXStreet - News",
+      "title": "Federal Reserve: Higher-for-longer path reshapes cuts – Rabobank",
+      "link": "https://www.fxstreet.com/news/federal-reserve-higher-for-longer-path-reshapes-cuts-rabobank-202609171725"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss National Bank: Inflation pressures build – Nomura",
-      "link": "https://www.fxstreet.com/news/swiss-national-bank-inflation-pressures-build-nomura-202609171242"
+      "title": "Dow Jones Industrial Average rebounds as Crude Oil and bond yields fall",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616"
     },
     {
       "source": "FXStreet - News",
@@ -43,38 +53,28 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve: Hawkish path extends into year-end – Commerzbank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-path-extends-into-year-end-commerzbank-202609171158"
+      "title": "New Zealand Dollar gains ground as GDP growth beats expectations",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-as-gdp-growth-beats-expectations-202609171555"
     },
     {
       "source": "FXStreet - News",
-      "title": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150"
+      "title": "British Pound loses its footing as BoE hold meets Fed hike",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro jumps against British Pound as BoE leaves rates on hold",
-      "link": "https://www.fxstreet.com/news/euro-jumps-against-british-pound-as-boe-leaves-rates-on-hold-202609171146"
+      "title": "Japanese Yen: Further weakness could target 157.30 against US Dollar - UOB",
+      "link": "https://www.fxstreet.com/news/japanese-yen-further-weakness-could-target-15730-against-us-dollar-uob-202609171506"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Hawkish Fed supports Dollar near term – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-supports-dollar-near-term-ocbc-202609171143"
+      "title": "Euro: Stabilizing with policy support – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-stabilizing-with-policy-support-scotiabank-202609171454"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar: Short-term downside toward 0.7050 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-short-term-downside-toward-07050-against-us-dollar-uob-202609171131"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Massive selloff: Swiss Franc plunges 2% in five days amid growing SNB-Fed divergence",
-      "link": "https://www.fxstreet.com/news/massive-selloff-swiss-franc-plunges-2-in-five-days-amid-growing-snb-fed-divergence-202609171129"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120"
+      "title": "Australian Dollar rebound offsets the hawkish Fed hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rebound-offsets-the-hawkish-fed-hike-202609171451"
     }
   ]
 }
