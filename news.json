@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-18T08:50:41.531902+00:00",
+  "updated_at": "2026-09-18T13:27:15.846474+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Central Banks Are Moving Gold as Geopolitical Risks Reshape Reserve Strategy",
+      "link": "https://www.investing.com/analysis/bring-the-gold-home-200687962"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Not Afraid of Higher Interest Rates",
+      "link": "https://www.investing.com/analysis/gold-not-afraid-of-higher-interest-rates-200687958"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces $4,444 Test as Iran Conflict Keeps Markets on Edge",
@@ -22,59 +32,49 @@
       "link": "https://www.investing.com/analysis/logarithmic-gold-map-mean-reversion-box-42454566-ahead-of-cycle-date-200687924"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Could Retreat if Buyers Fail to Break Yesterday’s High",
-      "link": "https://www.investing.com/analysis/gold-could-retreat-if-buyers-fail-to-break-yesterdays-high-200687886"
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar falls as hawkish Fed stance supports US Dollar",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-as-hawkish-fed-stance-supports-us-dollar-202609181243"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-consolidation-holds-below-08300-against-us-dollar-uob-202609180826"
+      "title": "Gold eyes weekly gain, but hawkish Fed outlook limits upside",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132"
     },
     {
       "source": "FXStreet - News",
-      "title": "ECB’s Lagarde: We'll decide on rates meeting by meeting",
-      "link": "https://www.fxstreet.com/news/ecbs-lagarde-well-decide-on-rates-meeting-by-meeting-202609180821"
+      "title": "Federal Reserve: Further hikes supported by resilient economy – Nordea",
+      "link": "https://www.fxstreet.com/news/federal-reserve-further-hikes-supported-by-resilient-economy-nordea-202609181233"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-as-traders-look-beyond-ecb-fed-hawkish-decisions-202609180812"
+      "title": "Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH",
+      "link": "https://www.fxstreet.com/news/japanese-yen-cautious-boj-tilt-weighs-on-jpy-against-us-dollar-bbh-202609181210"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321"
+      "title": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152"
     },
     {
       "source": "FXStreet - News",
-      "title": "Czech Koruna: CNB pause before potential November hike – ING",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cnb-pause-before-potential-november-hike-ing-202609180756"
+      "title": "US Dollar: Oil drives Dollar upside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-gains-on-hawkish-fed-outlook-202609180730"
+      "title": "British Pound: BoE holds but inflation risks linger – OCBC",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Dovish BoJ hike keeps Yen vulnerable – ING",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-keeps-yen-vulnerable-ing-202609180711"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee gets relief from pause in US yields and oil price rally",
+      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Holds gains near 1.4000, bullish signals support upside",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-near-14000-bullish-signals-support-upside-202609180708"
+      "title": "Australian Dollar strengthens as RBA maintains hawkish stance",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-as-rba-maintains-hawkish-stance-202609181107"
     }
   ]
 }
