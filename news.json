@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:14:05.261594+00:00",
+  "updated_at": "2026-09-21T00:24:50.722117+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -30,6 +30,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Not Afraid of Higher Interest Rates",
       "link": "https://www.investing.com/analysis/gold-not-afraid-of-higher-interest-rates-200687958"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Kashkari: Inflation is still too high in “all aspects” of US economy",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-inflation-is-still-too-high-in-all-aspects-of-us-economy-202609202357"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar edges lower as Fed hike bets grow ahead of Trump-Xi summit",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-lower-as-fed-hike-bets-grow-ahead-of-trump-xi-summit-202609202332"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Pre-summit support and firmer bias – DBS",
       "link": "https://www.fxstreet.com/news/chinese-yuan-pre-summit-support-and-firmer-bias-dbs-202609182112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: Kiwi reversal puts 0.5700 under pressure",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-reversal-puts-05700-under-pressure-202609182044"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202609182038"
     }
   ]
 }
