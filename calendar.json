@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:57:55.554401+00:00",
+  "updated_at": "2026-09-21T20:56:47.961288+00:00",
   "events": [
     {
       "title": "FOMC Member Goolsbee Speaks",
@@ -22,7 +22,7 @@
       "country": "USD",
       "date": "2026-09-22T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "5",
+      "forecast": "2",
       "previous": "4"
     },
     {
@@ -62,7 +62,7 @@
       "country": "USD",
       "date": "2026-09-23T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "53.4",
+      "forecast": "53.6",
       "previous": "53.2"
     },
     {
@@ -70,7 +70,7 @@
       "country": "USD",
       "date": "2026-09-23T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "56.0",
+      "forecast": "55.8",
       "previous": "56.8"
     },
     {
@@ -86,7 +86,7 @@
       "country": "USD",
       "date": "2026-09-23T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.6M",
       "previous": "-0.6M"
     },
     {
@@ -110,8 +110,16 @@
       "country": "USD",
       "date": "2026-09-24T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-259B",
+      "forecast": "-258B",
       "previous": "-227B"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-09-24T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Hammack Speaks",
@@ -126,7 +134,7 @@
       "country": "USD",
       "date": "2026-09-24T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "619K",
+      "forecast": "615K",
       "previous": "607K"
     },
     {
@@ -142,7 +150,7 @@
       "country": "USD",
       "date": "2026-09-24T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "52B",
       "previous": "44B"
     },
     {
@@ -158,7 +166,7 @@
       "country": "USD",
       "date": "2026-09-25T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "0.4%"
     },
     {
@@ -174,7 +182,7 @@
       "country": "USD",
       "date": "2026-09-25T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "47.5",
+      "forecast": "47.4",
       "previous": "47.8"
     },
     {
