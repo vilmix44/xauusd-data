@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-22T14:24:30.072490+00:00",
+  "updated_at": "2026-09-22T18:12:41.260988+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s War Premium Is Fading, but China Could Keep the Floor Intact",
+      "link": "https://www.investing.com/analysis/golds-war-premium-is-fading-but-china-could-keep-the-floor-intact-200688164"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
@@ -17,9 +22,49 @@
       "link": "https://www.investing.com/analysis/gold-is-finally-starting-to-respect-the-price-of-money-200688121"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: $4,362 Breakdown Could Accelerate the Selling Pressure",
-      "link": "https://www.investing.com/analysis/gold-4362-breakdown-could-accelerate-the-selling-pressure-200688111"
+      "source": "FXStreet - News",
+      "title": "US Dollar Index pushes higher on the case for another Fed increase",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Barkin backs rate hike, stays unsure on more increases",
+      "link": "https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
+      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations",
+      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States: September inflation profile – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-usd-strength-keeps-cad-weakness-in-focus-scotiabank-202609221427"
     },
     {
       "source": "FXStreet - News",
@@ -30,51 +75,6 @@
       "source": "FXStreet - News",
       "title": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
       "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro remains cautious as Middle East headlines, Fed outlook drive sentiment",
-      "link": "https://www.fxstreet.com/news/euro-remains-cautious-as-middle-east-headlines-fed-outlook-drive-sentiment-202609221411"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver edges lower as demand-led inflation keeps Fed tightening risks in focus",
-      "link": "https://www.fxstreet.com/news/silver-edges-lower-as-demand-led-inflation-keeps-fed-tightening-risks-in-focus-202609221407"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Bank of England: Modest insurance tightening path – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/bank-of-england-modest-insurance-tightening-path-deutsche-bank-202609221320"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold steadies on Iran diplomacy hopes, Fed outlook caps upside",
-      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar steadies as Middle East diplomacy takes focus",
-      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-as-middle-east-diplomacy-takes-focus-202609221255"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Hawkish fedspeak backs upside risks – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fedspeak-backs-upside-risks-ing-202609221248"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA seen hiking as inflation risks build – Standard Chartered",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-seen-hiking-as-inflation-risks-build-standard-chartered-202609221234"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Softer versus Dollar as ECB tightening meets French risks – MUFG",
-      "link": "https://www.fxstreet.com/news/euro-softer-versus-dollar-as-ecb-tightening-meets-french-risks-mufg-202609221205"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-100-day-sma-blocks-recovery-as-momentum-remains-subdued-202609221148"
     }
   ]
 }
