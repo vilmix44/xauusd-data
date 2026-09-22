@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:39:24.563948+00:00",
+  "updated_at": "2026-09-22T14:24:30.072977+00:00",
   "events": [
     {
       "title": "FOMC Member Goolsbee Speaks",
@@ -16,6 +16,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "16.3K"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-09-22T09:55:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Richmond Manufacturing Index",
