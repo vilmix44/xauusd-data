@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:04:02.185449+00:00",
+  "updated_at": "2026-09-23T05:00:06.771742+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -23,6 +23,51 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609230434"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold edges lower on Fed-driven USD strength as markets await Trump-Xi meeting",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "United States Dollar Index jumps to near 100.70 as Fed maintains hawkish rhetoric",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-jumps-to-near-10070-as-fed-maintains-hawkish-rhetoric-202609230323"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Asian stocks trade mixed, Taiwan’s Taiex leads on tech boost",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-taiwans-taiex-leads-on-tech-boost-202609230258"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD falls to near $66.50 as Fed signals further rate hikes",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6650-as-fed-signals-further-rate-hikes-202609230239"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Japanese Yen softens on BoJ's lack of hawkish guidance, potential intervention eyed",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-on-bojs-lack-of-hawkish-guidance-potential-intervention-eyed-202609230208"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar seems vulnerable as Iran diplomacy hopes weigh on oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-as-iran-diplomacy-hopes-weigh-on-oil-prices-202609230143"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar remains under pressure as PMI slows",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-as-pmi-slows-202609230133"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro weakens below 1.1450 on hawkish Fed signals, German political risks",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11450-on-hawkish-fed-signals-german-political-risks-202609230121"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Gold recovers above $4,350 on US–Iran diplomacy hopes",
       "link": "https://www.fxstreet.com/news/gold-recovers-above-4-350-on-us-iran-diplomacy-hopes-202609222322"
     },
@@ -30,51 +75,6 @@
       "source": "FXStreet - News",
       "title": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
       "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
-      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "The British Pound sets a new September low as Fed officials argue for more",
-      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Banxico expected to stay put as inflation risks block easing – Reuters",
-      "link": "https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ECB’s Nagel says restrictive policy cannot be ruled out",
-      "link": "https://www.fxstreet.com/news/ecbs-nagel-says-restrictive-policy-cannot-be-ruled-out-202609222037"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
-      "link": "https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Taiwan Dollar: Equity inflows support TWD againt US Dollar – OCBC",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold losses altitude as peace hopes meet hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936"
     }
   ]
 }
