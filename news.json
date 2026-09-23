@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-23T09:52:36.544054+00:00",
+  "updated_at": "2026-09-23T14:44:43.326216+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Ready to Breakout of the Triangle",
+      "link": "https://www.investing.com/analysis/gold-ready-to-breakout-of-the-triangle-200688216"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Steep Sell-Off Near 4,300",
@@ -22,59 +27,54 @@
       "link": "https://www.investing.com/analysis/gold-technical-outlook-vc-pmi-square-9-geometry-and-market-cycles-200688195"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Market Daily: Oil Is Still Setting the Terms for Gold",
-      "link": "https://www.investing.com/analysis/gold-market-daily-oil-is-still-setting-the-terms-for-gold-200688193"
+      "source": "FXStreet - News",
+      "title": "Fed's Barr: Further rate hikes needed for timely return to 2% inflation",
+      "link": "https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar: Bearish outlook retained below 0.7140 - UOB",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bearish-outlook-retained-below-07140-uob-202609230938"
+      "title": "Australian Dollar tumbles amid stronger US PMIs, softer Australian data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-stronger-us-pmis-softer-australian-data-202609231440"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Staying strong as Fed expectations hold – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-staying-strong-as-fed-expectations-hold-ing-202609230926"
+      "title": "Gold falls as strong US PMI data gives Fed room to raise rates again",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100"
     },
     {
       "source": "FXStreet - News",
-      "title": "Hungarian Forint: Cautious MNB stance supports HUF – Commerzbank",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-cautious-mnb-stance-supports-huf-commerzbank-202609230911"
+      "title": "Canadian Dollar: Bearish trend targets 1.4125 – Scotiabank",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro dips against Canadian Dollar following HCOB PMI data release",
-      "link": "https://www.fxstreet.com/news/euro-dips-against-canadian-dollar-following-hcob-pmi-data-release-202609230911"
+      "title": "Swiss Franc weakens ahead of SNB rate decision",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-snb-rate-decision-202609231335"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro remains depressed as German politics, France's debt offset strong PMI figures",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-as-german-politics-frances-debt-offset-strong-pmi-figures-202609230857"
+      "title": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
+      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee declines after two-day gain as hawkish Fed narrative dominates",
-      "link": "https://www.fxstreet.com/news/indian-rupee-comes-under-pressure-amid-hawkish-fed-expectations-202609230526"
+      "title": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
+      "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc: SNB preview signals steady policy – DBS",
-      "link": "https://www.fxstreet.com/news/swiss-franc-snb-preview-signals-steady-policy-dbs-202609230852"
+      "title": "Euro: Downside bias toward 1.1400 against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/euro-downside-bias-toward-11400-against-us-dollar-uob-202609231309"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar slides to one-week low, below 0.7100 ahead of jobs data on Thursday",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-one-week-low-below-07100-ahead-of-jobs-data-on-thursday-202609230821"
+      "title": "Gold: Next leg higher toward $5,000 – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold approaches $4,300 as Fed hike bets boost USD to fresh high since late July",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-on-fed-driven-usd-strength-as-markets-await-trump-xi-meeting-202609230343"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Downside still favoured toward 158.40 against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/japanese-yen-downside-still-favoured-toward-15840-against-us-dollar-uob-202609230809"
+      "title": "Silver Price Forecast: Daily range holds, but 4-hour chart turns bearish",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-range-holds-but-4-hour-chart-turns-bearish-202609231219"
     }
   ]
 }
