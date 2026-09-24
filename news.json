@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-24T15:52:38.496907+00:00",
+  "updated_at": "2026-09-24T19:50:19.326382+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Real-Yield Shock as Treasury Returns Surge Above 5%",
+      "link": "https://www.investing.com/analysis/gold-faces-a-realyield-shock-as-treasury-returns-surge-above-5-200688347"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Going Quiet Just as Oil and Fed Risks Turn Louder",
+      "link": "https://www.investing.com/analysis/gold-is-going-quiet-just-as-oil-and-fed-risks-turn-louder-200688324"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold at the Neckline as Yields Hit 2007 Highs",
@@ -32,49 +42,39 @@
       "link": "https://www.investing.com/analysis/gold-market-daily-the-king-us-dollar-swings-the-wrecking-ball-200688274"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold, Silver Slammed as Hawkish Fed Repricing Reignites US Dollar Upside",
-      "link": "https://www.investing.com/analysis/gold-silver-slammed-as-hawkish-fed-repricing-reignites-us-dollar-upside-200688266"
+      "source": "FXStreet - News",
+      "title": "Banxico unanimously holds benchmark rate at 6.50%",
+      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
-      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054"
+      "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528"
+      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Fed resilience supports gains – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448"
+      "title": "Forex Today: Fedspeak takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832"
     },
     {
       "source": "FXStreet - News",
-      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
-      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447"
+      "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424"
+      "title": "Euro: Decline nears support zone against US Dollar – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-decline-nears-support-zone-against-us-dollar-scotiabank-202609241721"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
-      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
-      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415"
+      "title": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
+      "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639"
     }
   ]
 }
