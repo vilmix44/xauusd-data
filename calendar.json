@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T19:50:19.326729+00:00",
+  "updated_at": "2026-09-24T23:03:25.638454+00:00",
   "events": [
     {
       "title": "FOMC Member Goolsbee Speaks",
@@ -176,6 +176,14 @@
       "impact": "Low",
       "forecast": "50B",
       "previous": "44B"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-09-24T19:55:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Williams Speaks",
