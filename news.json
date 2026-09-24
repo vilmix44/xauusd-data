@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-24T11:15:59.841044+00:00",
+  "updated_at": "2026-09-24T15:52:38.496907+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold at the Neckline as Yields Hit 2007 Highs",
+      "link": "https://www.investing.com/analysis/gold-at-the-neckline-as-yields-hit-2007-highs-200688314"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Falling, but Not Nearly Fast Enough for These Financial Conditions",
@@ -33,48 +38,43 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold bears tighten their grip as Fed rate hike bets rise",
+      "title": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
       "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054"
     },
     {
       "source": "FXStreet - News",
-      "title": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
-      "link": "https://www.fxstreet.com/news/us-yields-jump-to-multi-year-highs-on-fed-tightening-bets-bond-market-turmoil-202609241037"
+      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Downside risks start to shrink against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-start-to-shrink-against-us-dollar-ing-202609240942"
+      "title": "US Dollar: Fed resilience supports gains – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Higher yields support currency – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-support-currency-mufg-202609240928"
+      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
+      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538"
+      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
+      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424"
     },
     {
       "source": "FXStreet - News",
-      "title": "United States Dollar Index gains ahead of weekly Initial Jobless Claims data",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-gains-ahead-of-weekly-initial-jobless-claims-data-202609240919"
+      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422"
     },
     {
       "source": "FXStreet - News",
-      "title": "Brazilian Real: Exchange rate seen weaker into year-end – Rabobank",
-      "link": "https://www.fxstreet.com/news/brazilian-real-exchange-rate-seen-weaker-into-year-end-rabobank-202609240915"
+      "title": "“You can’t wait too long”: BoE’s Breeden warns on rate hikes amid energy shock",
+      "link": "https://www.fxstreet.com/news/you-cant-wait-too-long-boes-breeden-warns-on-rate-hikes-amid-energy-shock-202609241418"
     },
     {
       "source": "FXStreet - News",
-      "title": "EUR/USD comes under pressure as Fed’s Williams warns of more interest rate hikes",
-      "link": "https://www.fxstreet.com/news/eur-usd-comes-under-pressure-as-feds-williams-warns-of-more-interest-rate-hikes-202609240908"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro gains against Canadian Dollar on upbeat German IFO Business Index",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-on-upbeat-german-ifo-business-index-202609240846"
+      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
+      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415"
     }
   ]
 }
