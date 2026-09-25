@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-25T17:47:50.931653+00:00",
+  "updated_at": "2026-09-25T21:11:15.822865+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb",
+      "link": "https://www.investing.com/analysis/gold-faces-a-52-treasury-yield-wall-as-fed-hike-odds-climb-200688438"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Miners Are Printing Record Profits, and Almost Nobody Is Paying Attention",
@@ -23,6 +28,46 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
+      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
       "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743"
     },
@@ -30,51 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar holds steady as US Dollar retreats",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound finds relief as USD pauses, but inflation risks linger",
-      "link": "https://www.fxstreet.com/news/british-pound-finds-relief-as-usd-pauses-but-inflation-risks-linger-202609251536"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Undervalued near 1.41 against US Dollar – Scotiabank",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-undervalued-near-141-against-us-dollar-scotiabank-202609251514"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold struggles below $4,300, heads for weekly decline on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/gold-gains-as-us-dollar-and-yields-pause-but-weekly-loss-remains-in-sight-202609251106"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro: Correction seen near key averages against US Dollar – Societe Generale",
-      "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
-      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Yields support Greenback strength – OCBC",
-      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar rebounds from 0.7000 as US Dollar eases after strong week",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rebounds-from-07000-as-us-dollar-eases-after-strong-week-202609251417"
     }
   ]
 }
