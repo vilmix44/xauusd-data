@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:03:25.637994+00:00",
+  "updated_at": "2026-09-25T01:44:28.892445+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -38,6 +38,16 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro posts modest lossess on rising Fed hike odds, Middle East tensions",
+      "link": "https://www.fxstreet.com/news/euro-posts-modest-lossess-on-rising-fed-hike-odds-middle-east-tensions-202609250123"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
       "link": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255"
     },
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Banxico: Flexible stance with upside risks – Rabobank",
       "link": "https://www.fxstreet.com/news/banxico-flexible-stance-with-upside-risks-rabobank-202609242108"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Mexican Peso slides to April lows as Banxico shrugs off Fed gap",
-      "link": "https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Banxico unanimously holds benchmark rate at 6.50%",
-      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901"
     }
   ]
 }
