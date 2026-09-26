@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:11:15.822865+00:00",
+  "updated_at": "2026-09-26T00:00:56.688737+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Approaches Key Technical Levels - Breakdown May Initiate Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-approaches-key-technical-levels--breakdown-may-initiate-selling-pressure-200688382"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
       "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738"
     }
   ]
 }
