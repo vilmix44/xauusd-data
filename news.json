@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-28T01:05:19.779814+00:00",
+  "updated_at": "2026-09-28T07:22:17.964596+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Bears Target 4,100 as Selling Pressure Builds",
+      "link": "https://www.investing.com/analysis/gold-bears-target-4100-as-selling-pressure-builds-200688481"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Fresh Volatility as Trump Rejects Iran’s Hormuz Proposal",
+      "link": "https://www.investing.com/analysis/gold-faces-fresh-volatility-as-trump-rejects-irans-hormuz-proposal-200688457"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces a 5.2% Treasury Yield Wall as Fed Hike Odds Climb",
@@ -17,64 +27,54 @@
       "link": "https://www.investing.com/analysis/golds-resistance-break-may-be-a-bull-trap-with-4243-back-in-play-200688420"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Final Bullish Wave Could Be the Most Explosive — If $4,163 Holds",
-      "link": "https://www.investing.com/analysis/golds-final-bullish-wave-could-be-the-most-explosive--if-4163-holds-200688418"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Approaches Key Technical Levels - Breakdown May Initiate Selling Pressure",
-      "link": "https://www.investing.com/analysis/gold-approaches-key-technical-levels--breakdown-may-initiate-selling-pressure-200688382"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee declines as oil prices rise over weekend",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
-      "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053"
+      "title": "USD/CAD Price Forecast: Holds gains above 1.4150, while technicals flag overbought risk",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-holds-gains-above-14150-while-technicals-flag-overbought-risk-202609280658"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323"
+      "title": "Gold extends intraday losses below $4,200, fresh low since August 5 on Fed hike bets",
+      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310"
     },
     {
       "source": "FXStreet - News",
-      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
-      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141"
+      "title": "Forex Today: Gold slumps below $4,200 on hawkish Fed outlook, Mideast tensions",
+      "link": "https://www.fxstreet.com/news/forex-today-gold-slumps-below-4-200-on-hawkish-fed-outlook-mideast-tensions-202609280654"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022"
+      "title": "Silver Price Forecast: XAG/USD falls like house of cards on Fed’s hawkish narrative",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-like-house-of-cards-on-feds-hawkish-narrative-202609280644"
     },
     {
       "source": "FXStreet - News",
-      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
-      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900"
+      "title": "Japanese Yen nudges lower despite a hawkish BoJ, intervention warnings",
+      "link": "https://www.fxstreet.com/news/japanese-yen-nudges-lower-despite-a-hawkish-boj-intervention-warnings-202609280633"
     },
     {
       "source": "FXStreet - News",
-      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854"
+      "title": "USD/JPY: Weekly review highlights Dollar strength – MUFG",
+      "link": "https://www.fxstreet.com/news/usd-jpy-weekly-review-highlights-dollar-strength-mufg-202609280620"
     },
     {
       "source": "FXStreet - News",
-      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
-      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834"
+      "title": "US Dollar: Cyclical support and energy resilience – HSBC",
+      "link": "https://www.fxstreet.com/news/us-dollar-cyclical-support-and-energy-resilience-hsbc-202609280617"
     },
     {
       "source": "FXStreet - News",
-      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
-      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822"
+      "title": "GBP/USD Price Forecast: Holds ground near 1.3200, near-term bias remains bearish",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-ground-near-13200-near-term-bias-remains-bearish-202609280552"
     },
     {
       "source": "FXStreet - News",
-      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805"
+      "title": "Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000",
+      "link": "https://www.fxstreet.com/news/asian-stocks-slip-as-oil-prices-rise-indias-nifty-falls-below-23-000-202609280524"
     }
   ]
 }
