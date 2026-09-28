@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:46:30.488743+00:00",
+  "updated_at": "2026-09-28T21:36:55.156577+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -46,7 +46,7 @@
       "country": "USD",
       "date": "2026-09-29T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "90.1",
+      "forecast": "89.2",
       "previous": "89.4"
     },
     {
@@ -118,7 +118,7 @@
       "country": "USD",
       "date": "2026-09-30T08:15:00-04:00",
       "impact": "Medium",
-      "forecast": "70K",
+      "forecast": "73K",
       "previous": "38K"
     },
     {
@@ -150,7 +150,7 @@
       "country": "USD",
       "date": "2026-09-30T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-113.8B",
+      "forecast": "-116.3B",
       "previous": "-118.8B"
     },
     {
@@ -166,7 +166,7 @@
       "country": "USD",
       "date": "2026-09-30T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.0%",
+      "forecast": "0.8%",
       "previous": "0.2%"
     },
     {
@@ -174,7 +174,7 @@
       "country": "USD",
       "date": "2026-09-30T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.1%",
+      "forecast": "0.5%",
       "previous": "1.3%"
     },
     {
@@ -182,7 +182,7 @@
       "country": "USD",
       "date": "2026-09-30T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "51.3",
+      "forecast": "51.2",
       "previous": "47.1"
     },
     {
@@ -238,7 +238,7 @@
       "country": "USD",
       "date": "2026-10-01T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "199K",
+      "forecast": "201K",
       "previous": "197K"
     },
     {
@@ -270,7 +270,7 @@
       "country": "USD",
       "date": "2026-10-01T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "57.0",
+      "forecast": "56.9",
       "previous": "57.0"
     },
     {
@@ -286,7 +286,7 @@
       "country": "USD",
       "date": "2026-10-01T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "55.0",
+      "forecast": "54.8",
       "previous": "54.6"
     },
     {
@@ -294,7 +294,7 @@
       "country": "USD",
       "date": "2026-10-01T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.5%"
     },
     {
@@ -302,7 +302,7 @@
       "country": "USD",
       "date": "2026-10-01T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "72.0",
+      "forecast": "72.9",
       "previous": "71.1"
     },
     {
@@ -310,7 +310,7 @@
       "country": "USD",
       "date": "2026-10-01T10:15:00-04:00",
       "impact": "Low",
-      "forecast": "16.5M",
+      "forecast": "16.3M",
       "previous": "16.8M"
     },
     {
@@ -366,7 +366,7 @@
       "country": "USD",
       "date": "2026-10-02T08:30:00-04:00",
       "impact": "High",
-      "forecast": "89K",
+      "forecast": "90K",
       "previous": "162K"
     },
     {

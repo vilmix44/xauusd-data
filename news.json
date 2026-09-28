@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-28T15:46:30.488279+00:00",
+  "updated_at": "2026-09-28T21:36:55.156165+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Oil Shock Pushes Diesel Costs Higher and Revives Inflation Pressure",
+      "link": "https://www.investing.com/analysis/oil-shock-pushes-diesel-costs-higher-and-revives-inflation-pressure-200688552"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s $4,100 Test Could Decide Whether the 2026 Bull Market Holds",
+      "link": "https://www.investing.com/analysis/golds-4100-test-could-decide-whether-the-2026-bull-market-holds-200688549"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Elliott Wave: Waiting for the Next Major Opportunity",
+      "link": "https://www.investing.com/analysis/gold-elliott-wave-waiting-for-the-next-major-opportunity-200688537"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: Rising Yields Prove Too Much for Now, but Longer-Term Outlook Stays Bullish",
@@ -8,18 +23,43 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Oil, Gold Forecast: 2 Trades to Watch",
-      "link": "https://www.investing.com/analysis/oil-gold-forecast-2-trades-to-watch-200688518"
+      "title": "Gold’s Monthly Breakdown Is Deepening as Uncertainty Fails to Spark a Bid",
+      "link": "https://www.investing.com/analysis/golds-monthly-breakdown-is-deepening-as-uncertainty-fails-to-spark-a-bid-200688534"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Just Broke - The Real Stress Test Is the S&P 500 and Nasdaq",
-      "link": "https://www.investing.com/analysis/gold-just-broke--the-real-stress-test-is-the-sp-500-and-nasdaq-200688501"
+      "source": "FXStreet - News",
+      "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
+      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Silver Sell Signals Trigger",
-      "link": "https://www.investing.com/analysis/gold-and-silver-sell-signals-trigger-200688500"
+      "source": "FXStreet - News",
+      "title": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: The RBA and Fedspeak grab all the attention",
+      "link": "https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US 10-year yield revisits 2007 heights as curve flirts with inversion",
+      "link": "https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Cook: AI, Iran risks could keep inflation pressures high",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-ai-iran-risks-could-keep-inflation-pressures-high-202609281733"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD: Speculative longs steady as Fed hikes – Rabobank",
+      "link": "https://www.fxstreet.com/news/usd-speculative-longs-steady-as-fed-hikes-rabobank-202609281627"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound defies US yields surge as BoE hike bets build",
+      "link": "https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551"
     },
     {
       "source": "FXStreet - News",
@@ -35,46 +75,6 @@
       "source": "FXStreet - News",
       "title": "AUD: Speculative shorts rise as gains versus Dollar fade – Rabobank",
       "link": "https://www.fxstreet.com/news/aud-speculative-shorts-rise-as-gains-versus-dollar-fade-rabobank-202609281455"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Lagarde: ECB sticks to “middle path” as inflation outlook worsens",
-      "link": "https://www.fxstreet.com/news/lagarde-ecb-sticks-to-middle-path-as-inflation-outlook-worsens-202609281339"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed hiking path and data risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hiking-path-and-data-risks-td-securities-202609281320"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar holds steady as RBA rate hike expectations balance elevated US yields",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-as-rba-rate-hike-expectations-balance-elevated-us-yields-202609281248"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar struggles as US-Canada yield gap widens",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-us-canada-yield-gap-widens-202609281235"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US-Iran indirect talks to resume in US as mediators revisit seven-day proposal - Reuters",
-      "link": "https://www.fxstreet.com/news/us-iran-indirect-talks-to-resume-in-us-as-mediators-revisit-seven-day-proposal-reuters-202609281229"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "AUD/NZD Price Forecast: Aussie rally shows signs of exhaustion ahead of RBA decision",
-      "link": "https://www.fxstreet.com/news/aud-nzd-price-forecast-aussie-rally-shows-signs-of-exhaustion-ahead-of-rba-decision-202609281205"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee falls sharply as oil prices rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound gains as several BoE members warn of upside inflation risks",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-several-boe-members-warn-of-upside-inflation-risks-202609281120"
     }
   ]
 }
