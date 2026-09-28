@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:27:44.373302+00:00",
+  "updated_at": "2026-09-28T01:05:19.779814+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -25,6 +25,16 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Approaches Key Technical Levels - Breakdown May Initiate Selling Pressure",
       "link": "https://www.investing.com/analysis/gold-approaches-key-technical-levels--breakdown-may-initiate-selling-pressure-200688382"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro declines below 1.1400 on hawkish Fed stance, ongoing Middle East tensions",
+      "link": "https://www.fxstreet.com/news/euro-declines-below-11400-on-hawkish-fed-stance-ongoing-middle-east-tensions-202609280053"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar softens to near 0.7000 on hawkish Fed signals, RBA rate decision looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07000-on-hawkish-fed-signals-rba-rate-decision-looms-202609272323"
     },
     {
       "source": "FXStreet - News",
@@ -65,16 +75,6 @@
       "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743"
     }
   ]
 }
