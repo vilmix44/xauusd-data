@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-29T01:31:01.104855+00:00",
+  "updated_at": "2026-09-29T07:57:43.465368+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Outlook: Bull Market Faces Near-Term Fed and US Dollar Pressure",
+      "link": "https://www.investing.com/analysis/gold-outlook-bull-market-faces-nearterm-fed-and-us-dollar-pressure-200688569"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests $4,143 as the VC PMI Mean Holds Overhead",
+      "link": "https://www.investing.com/analysis/gold-tests-4143-as-the-vc-pmi-mean-holds-overhead-200688557"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Outlook: XAU/USD Hammered, Stretched and Vulnerable to a Sharp Rebound",
+      "link": "https://www.investing.com/analysis/gold-outlook-xauusd-hammered-stretched-and-vulnerable-to-a-sharp-rebound-200688559"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Oil Shock Pushes Diesel Costs Higher and Revives Inflation Pressure",
@@ -28,53 +43,38 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD drops to near $60.50 amid surging oil, Treasury yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-drops-to-near-6050-amid-surging-oil-treasury-yields-202609290123"
+      "title": "USD/CAD Price Forecast: Likely revisit five-month high at around 1.4250",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-likely-revisit-five-month-high-at-around-14250-202609290754"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar slumps to its lowest level since July 9, eyes 1.4200 vs bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slumps-to-its-lowest-level-since-july-9-eyes-14200-vs-bullish-usd-202609290110"
+      "title": "USD Rates: Bill financing costs rise with Fed hikes – DBS",
+      "link": "https://www.fxstreet.com/news/usd-rates-bill-financing-costs-rise-with-fed-hikes-dbs-202609290747"
     },
     {
       "source": "FXStreet - News",
-      "title": "RBA set to hike interest rate to 4.60% in September as inflation remains elevated",
-      "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030"
+      "title": "AUD/USD: RBA hike fails to lift Aussie – MUFG",
+      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-aussie-mufg-202609290739"
     },
     {
       "source": "FXStreet - News",
-      "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-near-its-lows-as-rbnz-hike-bets-keep-building-202609282345"
+      "title": "USD: Data risks support Dollar gains – ING",
+      "link": "https://www.fxstreet.com/news/usd-data-risks-support-dollar-gains-ing-202609290733"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322"
+      "title": "AUD/USD: RBA hike fails to lift Australian Dollar – ING",
+      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-australian-dollar-ing-202609290728"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar holds above 0.70 as RBA hike becomes a done deal",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311"
+      "title": "Swiss Franc languishes at 16-month lows despite bright KOF leading Indicators data",
+      "link": "https://www.fxstreet.com/news/swiss-franc-languishes-at-16-month-lows-despite-bright-kof-leading-indicators-data-202609290727"
     },
     {
       "source": "FXStreet - News",
-      "title": "Mexican Peso plunges as US-Mexico interest rate differential reduces",
-      "link": "https://www.fxstreet.com/news/mexican-peso-plunges-as-us-mexico-interest-rate-differential-reduces-202609282252"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
-      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: The RBA and Fedspeak grab all the attention",
-      "link": "https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808"
+      "title": "US Dollar: Stock-driven flows raise vulnerability – Commerzbank",
+      "link": "https://www.fxstreet.com/news/us-dollar-stock-driven-flows-raise-vulnerability-commerzbank-202609290717"
     }
   ]
 }
