@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-29T07:57:43.465368+00:00",
+  "updated_at": "2026-09-29T14:47:26.634601+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Pressure From Rising Yields and Renewed Fed Rate Hike Bets",
+      "link": "https://www.investing.com/analysis/gold-faces-pressure-from-rising-yields-and-renewed-fed-rate-hike-bets-200688600"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Under Pressure Near 7-Week Low Ahead of US Data",
+      "link": "https://www.investing.com/analysis/gold-under-pressure-near-7week-low-ahead-of-us-data-200688577"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Outlook: Bull Market Faces Near-Term Fed and US Dollar Pressure",
@@ -22,59 +32,49 @@
       "link": "https://www.investing.com/analysis/oil-shock-pushes-diesel-costs-higher-and-revives-inflation-pressure-200688552"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s $4,100 Test Could Decide Whether the 2026 Bull Market Holds",
-      "link": "https://www.investing.com/analysis/golds-4100-test-could-decide-whether-the-2026-bull-market-holds-200688549"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Elliott Wave: Waiting for the Next Major Opportunity",
-      "link": "https://www.investing.com/analysis/gold-elliott-wave-waiting-for-the-next-major-opportunity-200688537"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: Rising Yields Prove Too Much for Now, but Longer-Term Outlook Stays Bullish",
-      "link": "https://www.investing.com/analysis/gold-rising-yields-prove-too-much-for-now-but-longerterm-outlook-stays-bullish-200688516"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Monthly Breakdown Is Deepening as Uncertainty Fails to Spark a Bid",
-      "link": "https://www.investing.com/analysis/golds-monthly-breakdown-is-deepening-as-uncertainty-fails-to-spark-a-bid-200688534"
+      "source": "FXStreet - News",
+      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
+      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD/CAD Price Forecast: Likely revisit five-month high at around 1.4250",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-likely-revisit-five-month-high-at-around-14250-202609290754"
+      "title": "Canadian Dollar remains under pressure after flat GDP reading",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-after-flat-gdp-reading-202609291434"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD Rates: Bill financing costs rise with Fed hikes – DBS",
-      "link": "https://www.fxstreet.com/news/usd-rates-bill-financing-costs-rise-with-fed-hikes-dbs-202609290747"
+      "title": "Bund yields: Short-covering seen shallow – Societe Generale",
+      "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300"
     },
     {
       "source": "FXStreet - News",
-      "title": "AUD/USD: RBA hike fails to lift Aussie – MUFG",
-      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-aussie-mufg-202609290739"
+      "title": "Silver Price Forecasts: XAG/USD holds below $ 61.00 amid US Dollar strength",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6100-amid-us-dollar-strength-202609291159"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD: Data risks support Dollar gains – ING",
-      "link": "https://www.fxstreet.com/news/usd-data-risks-support-dollar-gains-ing-202609290733"
+      "title": "Singapore Dollar: MAS tightening expectations support resilience – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-expectations-support-resilience-ocbc-202609291143"
     },
     {
       "source": "FXStreet - News",
-      "title": "AUD/USD: RBA hike fails to lift Australian Dollar – ING",
-      "link": "https://www.fxstreet.com/news/aud-usd-rba-hike-fails-to-lift-australian-dollar-ing-202609290728"
+      "title": "Australian Dollar: RBA hike to support AUD/USD – BBH",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-to-support-aud-usd-bbh-202609291138"
     },
     {
       "source": "FXStreet - News",
-      "title": "Swiss Franc languishes at 16-month lows despite bright KOF leading Indicators data",
-      "link": "https://www.fxstreet.com/news/swiss-franc-languishes-at-16-month-lows-despite-bright-kof-leading-indicators-data-202609290727"
+      "title": "Euro: EUR/USD bearish bias converging on support – Societe Generale",
+      "link": "https://www.fxstreet.com/news/euro-eur-usd-bearish-bias-converging-on-support-societe-generale-202609291136"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Stock-driven flows raise vulnerability – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-stock-driven-flows-raise-vulnerability-commerzbank-202609290717"
+      "title": "Indian Rupee claws back early losses and closes flat on Tuesday",
+      "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US yields: Real rates climb on Fed credibility – BNY Markets",
+      "link": "https://www.fxstreet.com/news/us-yields-real-rates-climb-on-fed-credibility-bny-markets-202609291125"
     }
   ]
 }
