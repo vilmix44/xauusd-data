@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-09-29T19:48:49.116276+00:00",
+  "updated_at": "2026-09-29T23:29:16.314698+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Enters Buy Zone as Investors Watch $4,000 Support and Rate Risks",
       "link": "https://www.investing.com/analysis/gold-enters-buy-zone-as-investors-watch-4000-support-and-rate-risks-200688615"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Market Faces a Rate Test After Losing Its Fed Cut Premium",
+      "link": "https://www.investing.com/analysis/gold-market-faces-a-rate-test-after-losing-its-fed-cut-premium-200688630"
     },
     {
       "source": "Investing.com - Commodities",
@@ -22,9 +27,24 @@
       "link": "https://www.investing.com/analysis/gold-outlook-bull-market-faces-nearterm-fed-and-us-dollar-pressure-200688569"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Outlook: XAU/USD Hammered, Stretched and Vulnerable to a Sharp Rebound",
-      "link": "https://www.investing.com/analysis/gold-outlook-xauusd-hammered-stretched-and-vulnerable-to-a-sharp-rebound-200688559"
+      "source": "FXStreet - News",
+      "title": "Australian Dollar cracks 0.70 as Bullock dulls RBA hike, CPI looms",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cracks-070-as-bullock-dulls-rba-hike-cpi-looms-202609292326"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The New Zealand Dollar breaks lower after Australia's rate hike",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-breaks-lower-after-australias-rate-hike-202609292302"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Mexican Peso breaks 18.00 as carry trade loses its edge",
+      "link": "https://www.fxstreet.com/news/mexican-peso-breaks-1800-as-carry-trade-loses-its-edge-202609292224"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold springs from $4,110 as Oil rout eases inflation heat",
+      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957"
     },
     {
       "source": "FXStreet - News",
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
       "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
-      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
-      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Barr says policy needs recalibration, more adjustments likely",
-      "link": "https://www.fxstreet.com/news/feds-barr-says-policy-needs-recalibration-more-adjustments-likely-202609291652"
     }
   ]
 }
