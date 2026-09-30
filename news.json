@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T23:29:16.314698+00:00",
+  "updated_at": "2026-09-30T02:19:11.378837+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -28,6 +28,31 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Australian Dollar struggles to gain traction despite solid Chinese PMI Data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-gain-traction-despite-solid-chinese-pmi-data-202609300201"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar dives to six-month low vs Yen after Aussie CPI report, China PMIs",
+      "link": "https://www.fxstreet.com/news/australian-dollar-dives-to-six-month-low-vs-yen-after-aussie-cpi-report-china-pmis-202609300149"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breaking: Australia’s CPI inflation rises to 4.0% YoY in August, as expected",
+      "link": "https://www.fxstreet.com/news/breaking-australias-cpi-inflation-rises-to-40-yoy-in-august-as-expected-202609300136"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Euro softens below 1.1350 on Lagarde's dovish tilt, German Retail Sales data in focus",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11350-on-lagardes-dovish-tilt-german-retail-sales-data-in-focus-202609300034"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold rebounds from eight-week low as traders weigh Fed rate path",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-from-eight-week-low-as-traders-weigh-fed-rate-path-202609292331"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Australian Dollar cracks 0.70 as Bullock dulls RBA hike, CPI looms",
       "link": "https://www.fxstreet.com/news/australian-dollar-cracks-070-as-bullock-dulls-rba-hike-cpi-looms-202609292326"
     },
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "The Canadian Dollar round-trips as Fed officials differ on hike timing",
       "link": "https://www.fxstreet.com/news/the-canadian-dollar-round-trips-as-fed-officials-differ-on-hike-timing-202609291943"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Williams says worst inflation shocks have passed",
-      "link": "https://www.fxstreet.com/news/feds-williams-says-worst-inflation-shocks-have-passed-202609291918"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
-      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Williams says no rush after September hike",
-      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812"
     }
   ]
 }
