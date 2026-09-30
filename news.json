@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-30T15:41:59.869057+00:00",
+  "updated_at": "2026-09-30T20:36:22.312232+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Mixed Macro Signal as Softer Inflation Collides With Higher Oil",
+      "link": "https://www.investing.com/analysis/gold-faces-a-mixed-macro-signal-as-softer-inflation-collides-with-higher-oil-200688698"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Got the Inflation Report Bulls Wanted, but the Metal Slipped Anyway",
+      "link": "https://www.investing.com/analysis/gold-got-the-inflation-report-bulls-wanted-but-the-metal-slipped-anyway-200688702"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Finally Has a Macro Reason to Move Higher",
@@ -28,53 +38,43 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Fed’s Cook says inflation has stayed too high for too long",
+      "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold can’t catch a PCE break as long US yields keep climbing",
+      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "ECB’s Schnabel says yields surge could cool inflation pressures",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
+      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526"
     },
     {
       "source": "FXStreet - News",
-      "title": "The British Pound catches second wind as soft PCE knocks Fed hike bets",
+      "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
       "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold loses momentum as the initial reaction to softer US PCE inflation fades",
-      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-feds-preferred-pce-inflation-data-202609301104"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
-      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Germany annual CPI inflation rises to 3.3% in September",
-      "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-reaching-oversold-levels-at-six-week-lows-sub-08550-202609301137"
     }
   ]
 }
