@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T08:53:15.098682+00:00",
+  "updated_at": "2026-09-30T15:41:59.869553+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -229,7 +229,7 @@
       "title": "FOMC Member Kashkari Speaks",
       "country": "USD",
       "date": "2026-09-30T18:00:00-04:00",
-      "impact": "Low",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },

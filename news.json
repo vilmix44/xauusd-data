@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-30T08:53:15.098219+00:00",
+  "updated_at": "2026-09-30T15:41:59.869057+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Finally Has a Macro Reason to Move Higher",
+      "link": "https://www.investing.com/analysis/gold-finally-has-a-macro-reason-to-move-higher-200688667"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Bouncing - But Can $4,200 Hold?",
+      "link": "https://www.investing.com/analysis/gold-is-bouncing--but-can-4200-hold-200688668"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s $400 Swings Are Changing the Risk Equation",
+      "link": "https://www.investing.com/analysis/golds-400-swings-are-changing-the-risk-equation-200688666"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Approaches a Critical Juncture Ahead of US PCE Data, Prompting Selling",
@@ -12,69 +27,54 @@
       "link": "https://www.investing.com/analysis/gold-reacts-at-the-4h-fvg-will-4200-come-into-play-200688659"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold at a Cycle Turning Window: Square of 9 Meets $4,208",
-      "link": "https://www.investing.com/analysis/gold-at-a-cycle-turning-window-square-of-9-meets-4208-200688642"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Enters Buy Zone as Investors Watch $4,000 Support and Rate Risks",
-      "link": "https://www.investing.com/analysis/gold-enters-buy-zone-as-investors-watch-4000-support-and-rate-risks-200688615"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Market Faces a Rate Test After Losing Its Fed Cut Premium",
-      "link": "https://www.investing.com/analysis/gold-market-faces-a-rate-test-after-losing-its-fed-cut-premium-200688630"
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Fragile strength hinges on Fed – Commerzbank",
-      "link": "https://www.fxstreet.com/news/us-dollar-fragile-strength-hinges-on-fed-commerzbank-202609300836"
+      "title": "The British Pound catches second wind as soft PCE knocks Fed hike bets",
+      "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar Index Price Forecast: Possibility of breakout above 101.80 hinges on US data",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-possibility-of-breakout-above-10180-hinges-on-us-data-202609300835"
+      "title": "Gold loses momentum as the initial reaction to softer US PCE inflation fades",
+      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-feds-preferred-pce-inflation-data-202609301104"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD/JPY: Yen carry risks build into Q4 – Rabobank",
-      "link": "https://www.fxstreet.com/news/usd-jpy-yen-carry-risks-build-into-q4-rabobank-202609300833"
+      "title": "Japanese Yen advances as US PCE shifts Fed rate hike bets toward December",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-us-pce-shifts-fed-rate-hike-bets-toward-december-202609301410"
     },
     {
       "source": "FXStreet - News",
-      "title": "US core PCE inflation set to rise in August, pressuring the Federal Reserve",
+      "title": "Euro finds support as softer US PCE data prompts traders to trim Fed rate-hike bets",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-as-softer-us-pce-data-prompts-traders-to-trim-fed-rate-hike-bets-202609301408"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Canadian Dollar gains as US inflation cools Fed October rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-inflation-cools-fed-october-rate-hike-bets-202609301316"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Breaking: US core PCE inflation stays unchanged at 3% in August vs. 3.3% expected",
       "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830"
     },
     {
       "source": "FXStreet - News",
-      "title": "TRY: Inflation and easing threaten Lira – Commerzbank",
-      "link": "https://www.fxstreet.com/news/try-inflation-and-easing-threaten-lira-commerzbank-202609300825"
+      "title": "Germany annual CPI inflation rises to 3.3% in September",
+      "link": "https://www.fxstreet.com/news/germany-annual-cpi-inflation-rises-to-33-in-september-202609301205"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: Strength persists on higher yields – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-strength-persists-on-higher-yields-ing-202609300824"
+      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
+      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro remains depressed near yearly lows amid soft German data",
-      "link": "https://www.fxstreet.com/news/euro-remains-depressed-near-yearly-lows-amid-soft-german-data-202609300824"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold looks to build on gains above $4,200 on USD stays weak ahead of US PCE",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-200-as-retreating-bond-yields-and-softer-usd-lend-support-202609300349"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar gains as US Dollar declines on easing Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-us-dollar-declines-on-easing-fed-rate-hike-bets-202609300819"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar: RBA tailwind seen fading – Commerzbank",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tailwind-seen-fading-commerzbank-202609300753"
+      "title": "EUR/GBP Price Forecast: Reaching oversold levels at six-week lows sub-0.8550",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-reaching-oversold-levels-at-six-week-lows-sub-08550-202609301137"
     }
   ]
 }
