@@ -1,19 +1,44 @@
 {
-  "updated_at": "2026-10-01T19:18:15.744012+00:00",
+  "updated_at": "2026-10-01T23:20:50.338920+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Failed Rally Reveals the Real Market Driver: US Dollar Strength",
+      "link": "https://www.investing.com/analysis/golds-failed-rally-reveals-the-real-market-driver-us-dollar-strength-200688798"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Holds Above $4,150 as Rising Yields Test the Market Ahead of US Payrolls",
+      "link": "https://www.investing.com/analysis/gold-holds-above-4150-as-rising-yields-test-the-market-ahead-of-us-payrolls-200688796"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Is Caught Between Softer Growth Data and a Still-Hawkish Fed Path",
       "link": "https://www.investing.com/analysis/gold-is-caught-between-softer-growth-data-and-a-stillhawkish-fed-path-200688788"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: September Losses Expected to Shape Oct as Focus Turns to Diplomatic Shifts",
-      "link": "https://www.investing.com/analysis/gold-september-losses-expected-to-shape-oct-as-focus-turns-to-diplomatic-shifts-200688740"
+      "source": "FXStreet - News",
+      "title": "Australian Dollar drifts toward 0.69 as USD shrugs off Fed patience",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-toward-069-as-usd-shrugs-off-fed-patience-202610012317"
     },
     {
       "source": "FXStreet - News",
-      "title": "Fed’s Jefferson says economy near maximum employment",
+      "title": "The Japanese Yen weakens as traders pare Bank of Japan October hike bets",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-weakens-as-traders-pare-bank-of-japan-october-hike-bets-202610012251"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The New Zealand Dollar extends its slide as the US Dollar hits a yearly high",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-extends-its-slide-as-the-us-dollar-hits-a-yearly-high-202610012250"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold defies US Dollar surge as US yield slide revives Bullion demand",
+      "link": "https://www.fxstreet.com/news/gold-defies-us-dollar-surge-as-us-yield-slide-revives-bullion-demand-202610012103"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Jefferson says US economy is near maximum employment",
       "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859"
     },
     {
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
-      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417"
     }
   ]
 }
