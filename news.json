@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-09-30T20:36:22.312232+00:00",
+  "updated_at": "2026-10-01T00:24:00.776497+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s September Selloff Shows the Cost of Higher Real Rates",
+      "link": "https://www.investing.com/analysis/golds-september-selloff-shows-the-cost-of-higher-real-rates-200688720"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces a Mixed Macro Signal as Softer Inflation Collides With Higher Oil",
@@ -27,54 +32,49 @@
       "link": "https://www.investing.com/analysis/golds-400-swings-are-changing-the-risk-equation-200688666"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Approaches a Critical Juncture Ahead of US PCE Data, Prompting Selling",
-      "link": "https://www.investing.com/analysis/gold-approaches-a-critical-juncture-ahead-of-us-pce-data-prompting-selling-200688662"
+      "source": "FXStreet - News",
+      "title": "The Japanese Yen spikes on softer US inflation and gives the gain back",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-on-softer-us-inflation-and-gives-the-gain-back-202610010000"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Reacts at the 4H FVG: Will $4,200 Come Into Play?",
-      "link": "https://www.investing.com/analysis/gold-reacts-at-the-4h-fvg-will-4200-come-into-play-200688659"
+      "source": "FXStreet - News",
+      "title": "The New Zealand Dollar edges lower as US yields outweigh China's beats",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-edges-lower-as-us-yields-outweigh-chinas-beats-202609302345"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "The Euro slips as Europe's biggest economies report hotter inflation",
+      "link": "https://www.fxstreet.com/news/the-euro-slips-as-europes-biggest-economies-report-hotter-inflation-202609302331"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dow Jones Industrial Average fades a soft-inflation bounce as yields climb",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-fades-a-soft-inflation-bounce-as-yields-climb-202609302328"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Aussie Dollar slips below 0.70 as Bullock dovishness trumps soft PCE",
+      "link": "https://www.fxstreet.com/news/aussie-dollar-slips-below-070-as-bullock-dovishness-trumps-soft-pce-202609302240"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Kashkari questions policy tightness as economy stays strong",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-questions-policy-tightness-as-economy-stays-strong-202609302210"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-50-day-sma-caps-recovery-near-15800-202609302154"
     },
     {
       "source": "FXStreet - News",
       "title": "Fed’s Cook says inflation has stayed too high for too long",
       "link": "https://www.fxstreet.com/news/feds-cook-says-inflation-has-stayed-too-high-for-too-long-202609302020"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Forex Today: Fedspeak, Jobless Claims and ISM data steal the show",
-      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-claims-and-the-ism-data-steal-the-show-202609301830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Monthly outlook mixed, daily chart remains bearish",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-monthly-outlook-mixed-daily-chart-remains-bearish-202609301810"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold can’t catch a PCE break as long US yields keep climbing",
-      "link": "https://www.fxstreet.com/news/gold-cant-catch-a-pce-break-as-long-us-yields-keep-climbing-202609301802"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "ECB’s Schnabel says yields surge could cool inflation pressures",
-      "link": "https://www.fxstreet.com/news/ecbs-schnabel-says-yield-surge-could-cool-inflation-pressures-202609301619"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar reverses post-PCE rebound as US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/australian-dollar-reverses-post-pce-rebound-as-us-dollar-recovers-202609301545"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD remains vulnerable near $60",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-vulnerable-near-60-202609301526"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound catches second wind as soft PCE knocks Fed hike bets",
-      "link": "https://www.fxstreet.com/news/the-british-pound-catches-second-wind-as-soft-pce-knocks-fed-hike-bets-202609301521"
     }
   ]
 }
