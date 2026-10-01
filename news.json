@@ -1,30 +1,50 @@
 {
-  "updated_at": "2026-10-01T13:45:03.669953+00:00",
+  "updated_at": "2026-10-01T19:18:15.744012+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Is Caught Between Softer Growth Data and a Still-Hawkish Fed Path",
+      "link": "https://www.investing.com/analysis/gold-is-caught-between-softer-growth-data-and-a-stillhawkish-fed-path-200688788"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold: September Losses Expected to Shape Oct as Focus Turns to Diplomatic Shifts",
       "link": "https://www.investing.com/analysis/gold-september-losses-expected-to-shape-oct-as-focus-turns-to-diplomatic-shifts-200688740"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold VC PMI and Square of 9 Identify $4,205–$4,278 Recovery Levels",
-      "link": "https://www.investing.com/analysis/gold-vc-pmi-and-square-of-9-identify-42054278-recovery-levels-200688725"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s September Selloff Shows the Cost of Higher Real Rates",
-      "link": "https://www.investing.com/analysis/golds-september-selloff-shows-the-cost-of-higher-real-rates-200688720"
+      "source": "FXStreet - News",
+      "title": "Fed’s Jefferson says economy near maximum employment",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859"
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve: Policy to remain on hold through 2027 – Rabobank",
-      "link": "https://www.fxstreet.com/news/federal-reserve-policy-to-remain-on-hold-through-2027-rabobank-202610011342"
+      "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
+      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: Outlook weakens as risks build – Rabobank",
-      "link": "https://www.fxstreet.com/news/euro-outlook-weakens-as-risks-build-rabobank-202610011321"
+      "title": "US Dollar Index Price Forecast: DXY reaches fresh yearly high, but RSI turns overbought",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-reaches-fresh-yearly-high-but-rsi-turns-overbought-202610011817"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Kashkari keeps October meeting open, still sees more hikes ahead",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-keeps-october-open-still-sees-more-hikes-ahead-202610011802"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed’s Jefferson signals patience as next rate move stays data-driven",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-signals-patience-as-next-rate-move-stays-data-driven-202610011754"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Banxico survey sees lower inflation, stronger growth and 6.50% hold",
+      "link": "https://www.fxstreet.com/news/banxico-survey-sees-lower-inflation-stronger-growth-and-650-hold-202610011734"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: US NFP takes centre stage",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704"
     },
     {
       "source": "FXStreet - News",
@@ -33,48 +53,28 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "US Dollar: DXY extends monthly gains – UOB",
-      "link": "https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247"
+      "title": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609"
     },
     {
       "source": "FXStreet - News",
-      "title": "Why is the US Dollar climbing when its preferred inflation gauge is cooling?",
-      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-climbing-when-its-preferred-inflation-gauge-is-cooling-202610011212"
+      "title": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609"
     },
     {
       "source": "FXStreet - News",
-      "title": "Indian Rupee hits fresh two-month low amid surging US Treasury yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-falls-as-us-treasury-yields-hit-fresh-two-decade-high-near-53-202610010543"
+      "title": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545"
     },
     {
       "source": "FXStreet - News",
-      "title": "USD/JPY: Range-bound view on BOJ caution – BBH",
-      "link": "https://www.fxstreet.com/news/usd-jpy-range-bound-view-on-boj-caution-bbh-202610011151"
+      "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508"
     },
     {
       "source": "FXStreet - News",
-      "title": "Fed's Kashkari: Will put pressure on different parts of economy if we keep raising rates",
-      "link": "https://www.fxstreet.com/news/feds-kashkari-will-put-pressure-on-different-parts-of-economy-if-we-keep-raising-rates-202610011150"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "NZD/USD Price Forecast: At fresh yearly lows with bears pushing against 0.5600",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-at-fresh-yearly-lows-with-bears-pushing-against-05600-202610011148"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Resilient growth supports upside risks – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar",
-      "link": "https://www.fxstreet.com/news/british-pound-tests-13200-as-higher-us-yields-and-risk-off-markets-boost-us-dollar-202610011055"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar outperforms risky peers despite weak Trade Balance data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-outperforms-risky-peers-despite-weak-trade-balance-data-202610011053"
+      "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417"
     }
   ]
 }
