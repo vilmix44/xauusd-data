@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:24:00.777193+00:00",
+  "updated_at": "2026-10-01T06:22:39.948493+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -374,7 +374,7 @@
       "country": "USD",
       "date": "2026-10-02T08:30:00-04:00",
       "impact": "High",
-      "forecast": "90K",
+      "forecast": "89K",
       "previous": "162K"
     },
     {
