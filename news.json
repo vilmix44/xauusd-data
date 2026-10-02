@@ -1,20 +1,45 @@
 {
-  "updated_at": "2026-10-02T15:26:38.600562+00:00",
+  "updated_at": "2026-10-02T20:05:52.436069+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Real Problem Isn’t the Fed, It’s the Long End of the Bond Market",
+      "link": "https://www.investing.com/analysis/golds-real-problem-isnt-the-fed-its-the-long-end-of-the-bond-market-200688866"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Selloff May Be Setting Up the Next Winter Rally",
+      "link": "https://www.investing.com/analysis/golds-selloff-may-be-setting-up-the-next-winter-rally-200688864"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold at a Crossroads: Long-Term Trend Support Faces a Crucial NFP Test",
       "link": "https://www.investing.com/analysis/gold-at-a-crossroads-longterm-trend-support-faces-a-crucial-nfp-test-200688826"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Remains Range-Bound Amid US Military Deployment to Middle East, Tanker Hits",
-      "link": "https://www.investing.com/analysis/gold-remains-rangebound-amid-us-military-deployment-to-middle-east-tanker-hits-200688822"
+      "source": "FXStreet - News",
+      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "link": "https://www.fxstreet.com/news/gold-fails-at-4-200-despite-nfp-miss-as-us-yields-climb-202610021803"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "XAU/USD October Preview: The Next 60 Days of Binary Events",
-      "link": "https://www.investing.com/analysis/xauusd-october-preview-the-next-60-days-of-binary-events-200688820"
+      "source": "FXStreet - News",
+      "title": "Fed’s Goolsbee says inflation now outweighs labor concerns",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-now-outweighs-labor-concerns-202610021748"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "New Zealand Dollar rebounds after sharp US employment disappointment",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-sharp-us-employment-disappointment-202610021614"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
+      "link": "https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "British Pound rebounds as NFP knocks out October Fed hike bets",
+      "link": "https://www.fxstreet.com/news/british-pound-rebounds-as-nfp-knocks-out-october-fed-hike-bets-202610021556"
     },
     {
       "source": "FXStreet - News",
@@ -50,31 +75,6 @@
       "source": "FXStreet - News",
       "title": "Breaking: US Nonfarm Payrolls rise by 29K in September vs. 90K expected",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro hits fresh two-month lows against British Pound after hot Eurozone inflation data",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-two-month-lows-against-british-pound-after-hot-eurozone-inflation-data-202610021153"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Australian Dollar trades higher against US Dollar ahead of US NFP data",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-higher-against-us-dollar-ahead-of-us-nfp-data-202610021139"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc emerges as a safe-haven as global bonds sell off",
-      "link": "https://www.fxstreet.com/news/swiss-franc-emerges-as-a-safe-haven-as-global-bonds-sell-off-202610021124"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro-area Inflation: Headline pressures rise – Nordea",
-      "link": "https://www.fxstreet.com/news/euro-area-inflation-headline-pressures-rise-nordea-202610021016"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Uptrend intact as NFP looms – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-uptrend-intact-as-nfp-looms-bbh-202610021012"
     }
   ]
 }
