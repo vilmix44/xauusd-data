@@ -1,106 +1,58 @@
 {
-  "updated_at": "2026-10-04T01:51:03.541520+00:00",
+  "updated_at": "2026-10-04T07:51:10.935642+00:00",
   "events": [
     {
-      "title": "FOMC Member Bowman Speaks",
+      "title": "Final Services PMI",
       "country": "USD",
-      "date": "2026-09-28T08:15:00-04:00",
+      "date": "2026-10-05T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "",
-      "previous": ""
+      "forecast": "58.7",
+      "previous": "58.7"
     },
     {
-      "title": "FOMC Member Cook Speaks",
+      "title": "ISM Services PMI",
       "country": "USD",
-      "date": "2026-09-28T13:25:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Barkin Speaks",
-      "country": "USD",
-      "date": "2026-09-28T13:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "HPI m/m",
-      "country": "USD",
-      "date": "2026-09-29T09:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.0%"
-    },
-    {
-      "title": "S&P/CS Composite-20 HPI y/y",
-      "country": "USD",
-      "date": "2026-09-29T09:00:00-04:00",
-      "impact": "Low",
-      "forecast": "2.2%",
-      "previous": "2.1%"
-    },
-    {
-      "title": "CB Consumer Confidence",
-      "country": "USD",
-      "date": "2026-09-29T10:00:00-04:00",
+      "date": "2026-10-05T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "89.2",
-      "previous": "89.4"
+      "forecast": "55.1",
+      "previous": "55.4"
     },
     {
-      "title": "JOLTS Job Openings",
+      "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-09-29T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "7.23M",
-      "previous": "7.27M"
+      "date": "2026-10-06T08:15:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "ADP Weekly Employment Change",
+      "country": "USD",
+      "date": "2026-10-06T08:16:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "20.0K"
+    },
+    {
+      "title": "Trade Balance",
+      "country": "USD",
+      "date": "2026-10-06T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-95.2B",
+      "previous": "-88.6B"
+    },
+    {
+      "title": "RCM/TIPP Economic Optimism",
+      "country": "USD",
+      "date": "2026-10-06T10:10:00-04:00",
+      "impact": "Low",
+      "forecast": "44.5",
+      "previous": "45.6"
     },
     {
       "title": "FOMC Member Bowman Speaks",
       "country": "USD",
-      "date": "2026-09-29T11:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Barr Speaks",
-      "country": "USD",
-      "date": "2026-09-29T12:40:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-09-29T13:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Musalem Speaks",
-      "country": "USD",
-      "date": "2026-09-29T13:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Williams Speaks",
-      "country": "USD",
-      "date": "2026-09-29T14:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Waller Speaks",
-      "country": "USD",
-      "date": "2026-09-29T15:00:00-04:00",
+      "date": "2026-10-06T10:45:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -108,303 +60,103 @@
     {
       "title": "API Weekly Statistical Bulletin",
       "country": "USD",
-      "date": "2026-09-29T16:30:00-04:00",
+      "date": "2026-10-06T16:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "ADP Non-Farm Employment Change",
-      "country": "USD",
-      "date": "2026-09-30T08:15:00-04:00",
-      "impact": "Medium",
-      "forecast": "73K",
-      "previous": "38K"
-    },
-    {
-      "title": "Core PCE Price Index m/m",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.3%",
-      "previous": "0.2%"
-    },
-    {
-      "title": "Final GDP q/q",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "1.5%",
-      "previous": "1.5%"
-    },
-    {
-      "title": "Final GDP Price Index q/q",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "6.4%",
-      "previous": "6.4%"
-    },
-    {
-      "title": "Goods Trade Balance",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "-116.3B",
-      "previous": "-118.8B"
-    },
-    {
-      "title": "Personal Income m/m",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.5%",
-      "previous": "0.4%"
-    },
-    {
-      "title": "Personal Spending m/m",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.8%",
-      "previous": "0.2%"
-    },
-    {
-      "title": "Prelim Wholesale Inventories m/m",
-      "country": "USD",
-      "date": "2026-09-30T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "0.5%",
-      "previous": "1.3%"
-    },
-    {
-      "title": "Chicago PMI",
-      "country": "USD",
-      "date": "2026-09-30T09:45:00-04:00",
-      "impact": "Low",
-      "forecast": "51.2",
-      "previous": "47.1"
     },
     {
       "title": "Crude Oil Inventories",
       "country": "USD",
-      "date": "2026-09-30T10:30:00-04:00",
+      "date": "2026-10-07T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.7M",
-      "previous": "3.0M"
+      "forecast": "",
+      "previous": "0.9M"
     },
     {
-      "title": "FOMC Member Barkin Speaks",
+      "title": "10-y Bond Auction",
       "country": "USD",
-      "date": "2026-09-30T13:30:00-04:00",
+      "date": "2026-10-07T13:01:00-04:00",
       "impact": "Low",
+      "forecast": "",
+      "previous": "4.83|2.7"
+    },
+    {
+      "title": "FOMC Meeting Minutes",
+      "country": "USD",
+      "date": "2026-10-07T14:00:00-04:00",
+      "impact": "High",
       "forecast": "",
       "previous": ""
     },
     {
-      "title": "FOMC Member Cook Speaks",
+      "title": "Consumer Credit m/m",
       "country": "USD",
-      "date": "2026-09-30T15:25:00-04:00",
+      "date": "2026-10-07T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "President Trump Speaks",
-      "country": "USD",
-      "date": "2026-09-30T15:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-09-30T17:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Kashkari Speaks",
-      "country": "USD",
-      "date": "2026-09-30T18:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Challenger Job Cuts y/y",
-      "country": "USD",
-      "date": "2026-10-01T05:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-38.5%"
+      "forecast": "15.4B",
+      "previous": "18.1B"
     },
     {
       "title": "Unemployment Claims",
       "country": "USD",
-      "date": "2026-10-01T08:30:00-04:00",
+      "date": "2026-10-08T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "201K",
+      "forecast": "200K",
       "previous": "197K"
     },
     {
-      "title": "FOMC Member Barkin Speaks",
+      "title": "Final Wholesale Inventories m/m",
       "country": "USD",
-      "date": "2026-10-01T09:05:00-04:00",
+      "date": "2026-10-08T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Collins Speaks",
-      "country": "USD",
-      "date": "2026-10-01T09:05:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Schmid Speaks",
-      "country": "USD",
-      "date": "2026-10-01T09:05:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Final Manufacturing PMI",
-      "country": "USD",
-      "date": "2026-10-01T09:45:00-04:00",
-      "impact": "Low",
-      "forecast": "56.9",
-      "previous": "57.0"
-    },
-    {
-      "title": "FOMC Member Waller Speaks",
-      "country": "USD",
-      "date": "2026-10-01T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "ISM Manufacturing PMI",
-      "country": "USD",
-      "date": "2026-10-01T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "54.8",
-      "previous": "54.6"
-    },
-    {
-      "title": "Construction Spending m/m",
-      "country": "USD",
-      "date": "2026-10-01T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "-0.5%"
-    },
-    {
-      "title": "ISM Manufacturing Prices",
-      "country": "USD",
-      "date": "2026-10-01T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "72.9",
-      "previous": "71.1"
-    },
-    {
-      "title": "Omdia Total Vehicle Sales",
-      "country": "USD",
-      "date": "2026-10-01T10:15:00-04:00",
-      "impact": "Low",
-      "forecast": "16.3M",
-      "previous": "16.8M"
+      "forecast": "0.7%",
+      "previous": "0.7%"
     },
     {
       "title": "Natural Gas Storage",
       "country": "USD",
-      "date": "2026-10-01T10:30:00-04:00",
+      "date": "2026-10-08T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "63B",
-      "previous": "53B"
+      "forecast": "",
+      "previous": "64B"
     },
     {
-      "title": "FOMC Member Jefferson Speaks",
+      "title": "30-y Bond Auction",
       "country": "USD",
-      "date": "2026-10-01T13:30:00-04:00",
+      "date": "2026-10-08T13:01:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "5.31|2.6"
+    },
+    {
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-10-08T13:40:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
     },
     {
-      "title": "FOMC Member Bowman Speaks",
+      "title": "Prelim UoM Consumer Sentiment",
       "country": "USD",
-      "date": "2026-10-01T15:00:00-04:00",
-      "impact": "Low",
+      "date": "2026-10-09T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "47.6",
+      "previous": "47.8"
+    },
+    {
+      "title": "Prelim UoM Inflation Expectations",
+      "country": "USD",
+      "date": "2026-10-09T10:00:00-04:00",
+      "impact": "Medium",
       "forecast": "",
-      "previous": ""
+      "previous": "4.6%"
     },
     {
-      "title": "FOMC Member Cook Speaks",
+      "title": "FOMC Member Collins Speaks",
       "country": "USD",
-      "date": "2026-10-01T15:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Logan Speaks",
-      "country": "USD",
-      "date": "2026-10-01T19:20:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Average Hourly Earnings m/m",
-      "country": "USD",
-      "date": "2026-10-02T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "0.3%",
-      "previous": "0.3%"
-    },
-    {
-      "title": "Non-Farm Employment Change",
-      "country": "USD",
-      "date": "2026-10-02T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "89K",
-      "previous": "162K"
-    },
-    {
-      "title": "Unemployment Rate",
-      "country": "USD",
-      "date": "2026-10-02T08:30:00-04:00",
-      "impact": "High",
-      "forecast": "4.1%",
-      "previous": "4.1%"
-    },
-    {
-      "title": "Factory Orders m/m",
-      "country": "USD",
-      "date": "2026-10-02T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.9%"
-    },
-    {
-      "title": "FOMC Member Logan Speaks",
-      "country": "USD",
-      "date": "2026-10-02T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-10-02T13:00:00-04:00",
+      "date": "2026-10-09T16:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
