@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T15:07:51.784803+00:00",
+  "updated_at": "2026-10-05T22:07:34.128796+00:00",
   "events": [
     {
       "title": "Final Services PMI",
@@ -38,7 +38,7 @@
       "country": "USD",
       "date": "2026-10-06T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-95.2B",
+      "forecast": "-100.8B",
       "previous": "-88.6B"
     },
     {
@@ -53,6 +53,14 @@
       "title": "FOMC Member Bowman Speaks",
       "country": "USD",
       "date": "2026-10-06T10:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Schmid Speaks",
+      "country": "USD",
+      "date": "2026-10-06T13:15:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -96,6 +104,14 @@
       "impact": "Low",
       "forecast": "15.4B",
       "previous": "18.1B"
+    },
+    {
+      "title": "FOMC Member Waller Speaks",
+      "country": "USD",
+      "date": "2026-10-08T04:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Unemployment Claims",
