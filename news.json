@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:15:26.635726+00:00",
+  "updated_at": "2026-10-05T00:04:33.561754+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -15,6 +15,11 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s Selloff May Be Setting Up the Next Winter Rally",
       "link": "https://www.investing.com/analysis/golds-selloff-may-be-setting-up-the-next-winter-rally-200688864"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321"
     },
     {
       "source": "FXStreet - News",
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "US labour market: Softer jobs ease Fed hike risk – ABN Amro",
       "link": "https://www.fxstreet.com/news/us-labour-market-softer-jobs-ease-fed-hike-risk-abn-amro-202610021423"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro rebounds above 1.1250 after weak US jobs data weighs on US Dollar",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-above-11250-after-weak-us-jobs-data-weighs-on-us-dollar-202610021318"
     }
   ]
 }
