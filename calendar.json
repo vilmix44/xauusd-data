@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T16:08:02.669604+00:00",
+  "updated_at": "2026-10-06T21:07:07.433238+00:00",
   "events": [
     {
       "title": "Final Services PMI",
@@ -78,7 +78,7 @@
       "country": "USD",
       "date": "2026-10-07T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "2.1M",
+      "forecast": "1.9M",
       "previous": "0.9M"
     },
     {
@@ -102,7 +102,7 @@
       "country": "USD",
       "date": "2026-10-07T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "14.4B",
+      "forecast": "14.5B",
       "previous": "18.1B"
     },
     {
@@ -134,7 +134,7 @@
       "country": "USD",
       "date": "2026-10-08T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "79B",
       "previous": "64B"
     },
     {
@@ -158,7 +158,7 @@
       "country": "USD",
       "date": "2026-10-09T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "47.6",
+      "forecast": "47.5",
       "previous": "47.8"
     },
     {

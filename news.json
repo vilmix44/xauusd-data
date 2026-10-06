@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-06T16:08:02.669205+00:00",
+  "updated_at": "2026-10-06T21:07:07.432754+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Trades Like a Rates Instrument as Bond Yields Dictate the Next Move",
+      "link": "https://www.investing.com/analysis/gold-trades-like-a-rates-instrument-as-bond-yields-dictate-the-next-move-200689057"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Next Bullish Catalyst May Be the Rate Level That Breaks the Debt Math",
+      "link": "https://www.investing.com/analysis/golds-next-bullish-catalyst-may-be-the-rate-level-that-breaks-the-debt-math-200689045"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Weakness Deepens as Trump Revives a Carter-Era Macro Playbook",
+      "link": "https://www.investing.com/analysis/golds-weakness-deepens-as-trump-revives-a-carterera-macro-playbook-200689037"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "The $100 Oil Problem Is Becoming an Inflation Problem",
@@ -8,13 +23,43 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Under Pressure Near $4,100 as Treasury Yields Stay Elevated",
-      "link": "https://www.investing.com/analysis/gold-under-pressure-near-4100-as-treasury-yields-stay-elevated-200689000"
+      "title": "Gold and Silver Are Rallying Into Resistance — and That’s Where the Risk Builds",
+      "link": "https://www.investing.com/analysis/gold-and-silver-are-rallying-into-resistance--and-thats-where-the-risk-builds-200689026"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Reversal Watch: Square of 9 Targets and Cycle Windows",
-      "link": "https://www.investing.com/analysis/golds-reversal-watch-square-of-9-targets-and-cycle-windows-200688983"
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-against-us-dollar-with-mas-in-focus-ocbc-202610061909"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Philippines: One more BSP hike expected in October - Standard Chartered",
+      "link": "https://www.fxstreet.com/news/philippines-one-more-bsp-hike-expected-in-october-standard-chartered-202610061832"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Forex Today: FOMC Minutes should shed further detail on latest Fed decision",
+      "link": "https://www.fxstreet.com/news/forex-today-the-fomc-minutes-should-shed-further-detail-on-the-latest-fed-decision-202610061829"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed's Schmid warns inflation fight has a “way to go”",
+      "link": "https://www.fxstreet.com/news/feds-schmid-warns-inflation-fight-has-a-way-to-go-202610061822"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Silver Price Forecast: XAG/USD remains range-bound below daily SMAs",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-range-bound-below-daily-smas-202610061809"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Fed's Daly says more hikes may be needed if shocks persist",
+      "link": "https://www.fxstreet.com/news/feds-daly-says-more-hikes-may-be-needed-if-shocks-persist-202610061755"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "US Dollar Index slips from its 18-month high",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-slips-from-its-18-month-high-202610061616"
     },
     {
       "source": "FXStreet - News",
@@ -28,53 +73,8 @@
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar advances on weaker US Dollar as markets price in Fed October hold",
+      "title": "Australian Dollar advances as markets price in Fed October hold",
       "link": "https://www.fxstreet.com/news/australian-dollar-advances-on-weaker-us-dollar-as-markets-price-in-fed-october-hold-202610061549"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro finds relief from softer US Dollar ahead of Fed minutes",
-      "link": "https://www.fxstreet.com/news/euro-finds-relief-from-softer-us-dollar-ahead-of-fed-minutes-202610061505"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: Tech-linked FX could outperform against US Dollar - MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-tech-linked-fx-could-outperform-against-us-dollar-mufg-202610061504"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-two-month-lows-as-bond-selloff-takes-a-breather-202610061109"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar: Trade surplus supports cautious outlook – RBC",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-surplus-supports-cautious-outlook-rbc-202610061437"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Softer jobs data shapes Fed path – UOB",
-      "link": "https://www.fxstreet.com/news/us-dollar-softer-jobs-data-shapes-fed-path-uob-202610061419"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Brazilian Real: Political backdrop favors gains against US Dollar - TD Securities",
-      "link": "https://www.fxstreet.com/news/brazilian-real-political-backdrop-favors-gains-against-us-dollar-td-securities-202610061406"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: Policy on hold as inflation stays near band – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-policy-on-hold-as-inflation-stays-near-band-ing-202610061354"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Japanese Yen: Range trade holds against US Dollar as Fed path questioned – Rabobank",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-trade-holds-against-us-dollar-as-fed-path-questioned-rabobank-202610061341"
     }
   ]
 }
