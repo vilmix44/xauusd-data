@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-06T02:24:25.765693+00:00",
+  "updated_at": "2026-10-06T09:14:10.301613+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Under Pressure Near $4,100 as Treasury Yields Stay Elevated",
+      "link": "https://www.investing.com/analysis/gold-under-pressure-near-4100-as-treasury-yields-stay-elevated-200689000"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Reversal Watch: Square of 9 Targets and Cycle Windows",
+      "link": "https://www.investing.com/analysis/golds-reversal-watch-square-of-9-targets-and-cycle-windows-200688983"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Reprices a Longer US-Iran War as 1979-Style Risk Returns",
@@ -12,69 +22,59 @@
       "link": "https://www.investing.com/analysis/gold-rebounds-but-strong-us-dollar-and-yields-keep-downside-risks-elevated-200688938"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Why Gold and the US Dollar Are Rising Together",
-      "link": "https://www.investing.com/analysis/why-gold-and-the-us-dollar-are-rising-together-200688935"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Forms Double-Bottom Pattern at the $4,120 Support Level",
-      "link": "https://www.investing.com/analysis/gold-forms-doublebottom-pattern-at-the-4120-support-level-200688950"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Gains as October Fed Rate Hike Bets Collapse",
-      "link": "https://www.investing.com/analysis/gold-gains-as-october-fed-rate-hike-bets-collapse-200688923"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "US Dollar and Oil Still Have Control of the Gold Desk",
-      "link": "https://www.investing.com/analysis/us-dollar-and-oil-still-have-control-of-the-gold-desk-200688912"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Holds Above $4,150 as Rising Yields Test the Market Ahead of US Payrolls",
-      "link": "https://www.investing.com/analysis/gold-holds-above-4150-as-rising-yields-test-the-market-ahead-of-us-payrolls-200688796"
+      "source": "FXStreet - News",
+      "title": "Indian Rupee extends decline due to continuously surging US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro weakens below 1.1250 on France debt concerns",
-      "link": "https://www.fxstreet.com/news/euro-weakens-below-11250-on-france-debt-concerns-202610060159"
+      "title": "Gold recovers further from two-month low amid some USD profit-taking",
+      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar holds steady amid soft consumer sentiment",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-steady-amid-soft-consumer-sentiment-202610060123"
+      "title": "Australian Dollar: Oversold conditions limit losses against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/australian-dollar-oversold-conditions-limit-losses-against-us-dollar-uob-202610060856"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar seems vulnerable near April 2025 lows amid weak oil prices, bullish USD",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-april-2025-lows-amid-weak-oil-prices-bullish-usd-202610060111"
+      "title": "Dow Jones futures rise due to easing Fed rate hike expectations",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-due-to-easing-fed-rate-hike-expectations-202610060838"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold holds steady below $4,150 amid elevated US yields",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-below-4-150-amid-elevated-us-yields-202610052328"
+      "title": "Gold: Vulnerable as yields stay elevated – OCBC",
+      "link": "https://www.fxstreet.com/news/gold-vulnerable-as-yields-stay-elevated-ocbc-202610060819"
     },
     {
       "source": "FXStreet - News",
-      "title": "Australian Dollar defies rising yields as AUD/USD closes in on 0.70",
-      "link": "https://www.fxstreet.com/news/australian-dollar-defies-rising-yields-as-aud-usd-closes-in-on-070-202610052318"
+      "title": "US Dollar Index Price Forecast: Hovers around 102.00 within overbought region",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hovers-around-10200-within-overbought-region-202610060812"
     },
     {
       "source": "FXStreet - News",
-      "title": "The New Zealand Dollar holds near its lows while business confidence jumps",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-holds-near-its-lows-while-business-confidence-jumps-202610052300"
+      "title": "ECB’s Rehn: High long-term rates contributing to a slowdown in growth",
+      "link": "https://www.fxstreet.com/news/ecbs-rehn-high-long-term-rates-contributing-to-a-slowdown-in-growth-202610060806"
     },
     {
       "source": "FXStreet - News",
-      "title": "US Treasury yields scale multi-year highs as inflation fears return",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-scale-multi-year-highs-as-inflation-fears-return-202610052231"
+      "title": "Japanese Yen: Pares gains against US Dollar but BoJ outlook supportive - MUFG",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-but-boj-outlook-supportive-mufg-202610060801"
     },
     {
       "source": "FXStreet - News",
-      "title": "The Pound flatlines as Treasury yields climb to another high",
-      "link": "https://www.fxstreet.com/news/the-pound-flatlines-as-treasury-yields-climb-to-another-high-202610052226"
+      "title": "Euro: Downside risks with 1.1100 in sight against US Dollar – ING",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-with-11100-in-sight-against-us-dollar-ing-202610060749"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Indonesian Rupiah moves little as US Dollar (USD) remains steady amid safe-haven demand",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-moves-little-as-us-dollar-usd-remains-steady-amid-safe-haven-demand-202610060742"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Swiss Franc weakens as US Dollar (USD) gains on escalating geopolitical conflicts",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-usd-gains-on-escalating-geopolitical-conflicts-202610060731"
     }
   ]
 }
