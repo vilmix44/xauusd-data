@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:54:51.170416+00:00",
+  "updated_at": "2026-10-07T06:53:57.701481+00:00",
   "events": [
     {
       "title": "Final Services PMI",
@@ -80,6 +80,14 @@
       "impact": "Low",
       "forecast": "1.9M",
       "previous": "0.9M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-10-07T13:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "10-y Bond Auction",
