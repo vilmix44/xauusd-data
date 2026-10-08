@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-08T13:55:34.500942+00:00",
+  "updated_at": "2026-10-08T19:42:20.090577+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold and Silver Are Testing the Line Between Correction and Capitulation",
+      "link": "https://www.investing.com/analysis/gold-and-silver-are-testing-the-line-between-correction-and-capitulation-200689208"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Who Actually Sets the Gold Price?",
+      "link": "https://www.investing.com/analysis/who-actually-sets-the-gold-price-200689207"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Remains Near Recent Lows as Energy-Driven Inflation Raises Fed Rate Hike Bets",
@@ -12,69 +22,59 @@
       "link": "https://www.investing.com/analysis/gold-losing-its-relationship-with-macroeconomics-and-becoming-a-speculative-asset-200689159"
     },
     {
-      "source": "Investing.com - Commodities",
-      "title": "Gold VC PMI Outlook: $4,196–$4,250 Resistance in Focus",
-      "link": "https://www.investing.com/analysis/gold-vc-pmi-outlook-41964250-resistance-in-focus-200689150"
+      "source": "FXStreet - News",
+      "title": "Chinese Yuan: Upside bias within defined band against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-within-defined-band-against-us-dollar-uob-202610081921"
     },
     {
       "source": "FXStreet - News",
-      "title": "European Central Bank: Neutral communication with upside inflation risks – Nordea",
-      "link": "https://www.fxstreet.com/news/european-central-bank-neutral-communication-with-upside-inflation-risks-nordea-202610081326"
+      "title": "Mexican Peso dives on solid US data, despite high inflation",
+      "link": "https://www.fxstreet.com/news/mexican-peso-dives-on-solid-us-data-despite-high-inflation-202610081845"
     },
     {
       "source": "FXStreet - News",
-      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055"
+      "title": "Taiwan Dollar: Trade boom contrasts FX stability – ING",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-boom-contrasts-fx-stability-ing-202610081841"
     },
     {
       "source": "FXStreet - News",
-      "title": "Federal Reserve: More hikes ahead after October pause - UOB",
-      "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303"
+      "title": "Fed's Musalem signals more tightening as inflation stays elevated",
+      "link": "https://www.fxstreet.com/news/feds-musalem-signals-more-tightening-as-inflation-stays-elevated-202610081757"
     },
     {
       "source": "FXStreet - News",
-      "title": "BoE’s Bailey calls for stronger financial markets to absorb future shocks",
-      "link": "https://www.fxstreet.com/news/boes-bailey-calls-for-stronger-financial-markets-to-absorb-future-shocks-202610081249"
+      "title": "Forex Today: US flash Consumer Sentiment and Canadian jobs in the limelight",
+      "link": "https://www.fxstreet.com/news/forex-today-us-flash-consumer-sentiment-and-canadian-jobs-in-the-limelight-202610081803"
     },
     {
       "source": "FXStreet - News",
-      "title": "Euro: French debt risk weighs on EUR against US Dollar – ING",
-      "link": "https://www.fxstreet.com/news/euro-french-debt-risk-weighs-on-eur-against-us-dollar-ing-202610081243"
+      "title": "Japanese Yen finds relief as Trump rules out Iran strikes before midterms",
+      "link": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744"
     },
     {
       "source": "FXStreet - News",
-      "title": "ECB expected to pause in October before hiking rates in December – Reuters poll",
-      "link": "https://www.fxstreet.com/news/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239"
+      "title": "Singapore Dollar: Further weakness possible against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-weakness-possible-against-us-dollar-uob-202610081710"
     },
     {
       "source": "FXStreet - News",
-      "title": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202"
+      "title": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
+      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618"
     },
     {
       "source": "FXStreet - News",
-      "title": "ECB Accounts: Upside risks surrounding inflation outlook",
-      "link": "https://www.fxstreet.com/news/ecb-accounts-upside-risks-surrounding-inflation-outlook-202610081142"
+      "title": "Banxico minutes flag upside inflation risks despite 6.50% rate hold",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602"
     },
     {
       "source": "FXStreet - News",
-      "title": "ECB officials agree: Eurozone is still saved from second-round inflation effects",
-      "link": "https://www.fxstreet.com/news/ecb-officials-agree-eurozone-is-still-saved-from-second-round-inflation-effects-202610081142"
+      "title": "Australian Dollar slips as hawkish Fed, elevated US yields sustain USD",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-hawkish-fed-elevated-us-yields-sustain-usd-202610081551"
     },
     {
       "source": "FXStreet - News",
-      "title": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
-      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Polish Zloty: Dovish hold with limited tightening – ING",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee remains on track to revisit all-time low",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554"
+      "title": "British Pound catches bid as Fed’s Waller eyes a pause in October",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550"
     }
   ]
 }
