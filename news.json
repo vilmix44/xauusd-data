@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T19:37:36.881633+00:00",
+  "updated_at": "2026-10-09T23:50:38.808819+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
+      "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
       "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
       "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "British Pound holds ground as US Consumer Sentiment deteriorates",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
-      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-higher-on-softer-us-yields-fed-hike-bets-cap-recovery-202610091525"
     }
   ]
 }
