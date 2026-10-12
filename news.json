@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T20:48:53.390460+00:00",
+  "updated_at": "2026-10-12T00:15:20.930236+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -43,6 +43,11 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
       "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218"
     },
@@ -70,11 +75,6 @@
       "source": "FXStreet - News",
       "title": "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
       "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
-      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702"
     }
   ]
 }
