@@ -1,80 +1,35 @@
 {
-  "updated_at": "2026-10-14T07:11:43.472744+00:00",
+  "updated_at": "2026-10-14T12:58:40.075790+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Precious Metals Under Pressure: Could US Inflation Data Trigger a Trend Reversal?",
+      "link": "https://www.investing.com/analysis/precious-metals-under-pressure-could-us-inflation-data-trigger-a-trend-reversal-200689567"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Key Support as CPI Puts 4,140 and 4,170 in Focus",
+      "link": "https://www.investing.com/analysis/gold-tests-key-support-as-cpi-puts-4140-and-4170-in-focus-200689559"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Rejection at 0.5 Arc",
+      "link": "https://www.investing.com/analysis/gold-faces-rejection-at-05-arc-200689558"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces Selling Pressure Amid Middle East Tensions and Fed Rate Hike Bets",
+      "link": "https://www.investing.com/analysis/gold-faces-selling-pressure-amid-middle-east-tensions-and-fed-rate-hike-bets-200689545"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Next Move: $4,156 Support and $4,270 Resistance in Focus",
+      "link": "https://www.investing.com/analysis/golds-next-move-4156-support-and-4270-resistance-in-focus-200689534"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Finds a Floor in Central-Bank Buying as Yields Stay Elevated",
       "link": "https://www.investing.com/analysis/gold-finds-a-floor-in-centralbank-buying-as-yields-stay-elevated-200689512"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Consolidates Near $4,200: Can Buyers Reclaim $4,208?",
-      "link": "https://www.investing.com/analysis/gold-consolidates-near-4200-can-buyers-reclaim-4208-200689504"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Next Move Hinges on Middle East Risk and Wednesday’s CPI",
-      "link": "https://www.investing.com/analysis/golds-next-move-hinges-on-middle-east-risk-and-wednesdays-cpi-200689500"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold-US Dollar Divergence Echoes the Setup That Preceded September’s Slide",
-      "link": "https://www.investing.com/analysis/goldus-dollar-divergence-echoes-the-setup-that-preceded-septembers-slide-200689492"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Daily: The Squeeze Setup Is There, but $4,200–$4,225 Still Has to Break",
-      "link": "https://www.investing.com/analysis/gold-daily-the-squeeze-setup-is-there-but-42004225-still-has-to-break-200689475"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: Geopolitical Tensions and Anticipated Fed Rate Hike May Prompt Selling Spree",
-      "link": "https://www.investing.com/analysis/gold-geopolitical-tensions-and-anticipated-fed-rate-hike-may-prompt-selling-spree-200689463"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "BoE’s Pill says a bit more sceptical about market pricing of four rate hikes over the next year",
-      "link": "https://www.fxstreet.com/news/boes-pill-says-a-bit-more-sceptical-about-market-pricing-of-four-rate-hikes-over-the-next-year-202610140617"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "New Zealand Dollar drifts higher above 0.5600, all eyes on US CPI inflation data",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drifts-higher-above-05600-all-eyes-on-us-cpi-inflation-data-202610140550"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Indian Rupee extends winning streak for third trading day on Wednesday",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-winning-streak-for-third-trading-day-on-wednesday-202610140540"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Gold consolidates above $4,150 as softer USD lends support ahead of US CPI report",
-      "link": "https://www.fxstreet.com/news/gold-draws-support-from-retreating-usd-holds-above-4-150-as-traders-await-us-cpi-report-202610140409"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens as US Dollar slips on dovish Fed signals",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-slips-on-dovish-fed-signals-202610140528"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "India Gold price today: Gold steadies, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-steadies-according-to-fxstreet-data-202610140435"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "GBP/USD Price Forecast: Hits one-week top as bulls eye range breakout above 1.3300",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-one-week-top-as-bulls-eye-range-breakout-above-13300-202610140427"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "EUR/USD Price Forecast: Gains ground near 1.1150, US CPI awaited",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-ground-near-11150-us-cpi-awaited-202610140335"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-above-5900-amid-dovish-fed-remarks-202610140333"
     }
   ]
 }
