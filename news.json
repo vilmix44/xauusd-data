@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:35:32.258213+00:00",
+  "updated_at": "2026-10-14T01:38:44.675241+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
@@ -33,6 +33,26 @@
     },
     {
       "source": "FXStreet - News",
+      "title": "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-above-11200-despite-france-fiscal-risks-us-cpi-in-focus-202610140034"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Australian Dollar climbs as Fed’s Williams push the brakes on rates",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-feds-williams-push-the-brakes-on-rates-202610132334"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Gold declines to near $4,150 ahead of US CPI inflation data",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321"
+    },
+    {
+      "source": "FXStreet - News",
+      "title": "Yen trails the majors as the BoJ is said to lean against a hike",
+      "link": "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241"
+    },
+    {
+      "source": "FXStreet - News",
       "title": "Mexican Peso buckles as Fed inflation fears overshadow dovish Williams",
       "link": "https://www.fxstreet.com/news/mexican-peso-buckles-as-fed-inflation-fears-overshadow-dovish-williams-202610132217"
     },
@@ -55,26 +75,6 @@
       "source": "FXStreet - News",
       "title": "Chinese Yuan: Outlook stays mildly positive against US Dollar – UOB",
       "link": "https://www.fxstreet.com/news/chinese-yuan-outlook-stays-mildly-positive-against-us-dollar-uob-202610132033"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Fed's Collins backs September hike, sees Oil and AI driving inflation",
-      "link": "https://www.fxstreet.com/news/feds-collins-backs-september-hike-sees-oil-and-ai-driving-inflation-202610132016"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Singapore Dollar: Priced-in MAS move limits gains against US Dollar - OCBC",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-priced-in-mas-move-limits-gains-against-us-dollar-ocbc-202610131923"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "US Dollar: Fed pricing leg looks stretched – Societe Generale",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-leg-looks-stretched-societe-generale-202610131857"
-    },
-    {
-      "source": "FXStreet - News",
-      "title": "Swiss Franc strengthens on dovish Fed rhetoric as US CPI looms",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-dovish-feds-rhetoric-us-cpi-looms-202610131856"
     }
   ]
 }
