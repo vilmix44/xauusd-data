@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-16T09:31:32.187305+00:00",
+  "updated_at": "2026-10-16T14:35:33.633572+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Prices Approach $4,200",
+      "link": "https://www.investing.com/analysis/gold-prices-approach-4200-200689714"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold - Trade Ideas for Friday",
@@ -13,18 +18,8 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Outlook: Iran War Risks and Falling Yields Support a Rebound",
-      "link": "https://www.investing.com/analysis/gold-outlook-iran-war-risks-and-falling-yields-support-a-rebound-200689690"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "US Dollar Retreats, Gold Fights Back - What Changed Overnight?",
       "link": "https://www.investing.com/analysis/us-dollar-retreats-gold-fights-back--what-changed-overnight-200689687"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Futures Rebound Toward $4,200 as Traders Watch Key Resistance",
-      "link": "https://www.investing.com/analysis/gold-futures-rebound-toward-4200-as-traders-watch-key-resistance-200689682"
     }
   ]
 }
