@@ -1,10 +1,15 @@
 {
-  "updated_at": "2026-10-16T18:39:02.818756+00:00",
+  "updated_at": "2026-10-16T21:56:29.914382+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s CPI Selloff Looks More Like a Rate-Fear Overreaction Than a Trend Break",
       "link": "https://www.investing.com/analysis/golds-cpi-selloff-looks-more-like-a-ratefear-overreaction-than-a-trend-break-200689742"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a Crucial Technical Test as Iran War Risks Collide With Fed Uncertainty",
+      "link": "https://www.investing.com/analysis/gold-faces-a-crucial-technical-test-as-iran-war-risks-collide-with-fed-uncertainty-200689744"
     },
     {
       "source": "Investing.com - Commodities",
@@ -20,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Treasury Yields Continue to Plunge Despite Hot Inflation Reports",
       "link": "https://www.investing.com/analysis/treasury-yields-plunge-continue-despite-hot-inflation-reports-200689676"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "US Dollar Retreats, Gold Fights Back - What Changed Overnight?",
-      "link": "https://www.investing.com/analysis/us-dollar-retreats-gold-fights-back--what-changed-overnight-200689687"
     }
   ]
 }
