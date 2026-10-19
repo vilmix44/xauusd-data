@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:39:45.575190+00:00",
+  "updated_at": "2026-10-19T16:49:45.212894+00:00",
   "events": [
     {
       "title": "NAHB Housing Market Index",
@@ -38,7 +38,7 @@
       "country": "USD",
       "date": "2026-10-20T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "0.3%"
     },
     {
