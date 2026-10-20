@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-20T11:01:39.649716+00:00",
+  "updated_at": "2026-10-20T15:44:51.235116+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Holds at a Crossroads Ahead of Fed Decision and Iran Developments",
+      "link": "https://www.investing.com/analysis/gold-holds-at-a-crossroads-ahead-of-fed-decision-and-iran-developments-200689901"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Price Forecast: Key Levels to Watch Today",
@@ -20,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold and Silver Test Critical Lows - Is a Rebound Finally in Sight?",
       "link": "https://www.investing.com/analysis/gold-and-silver-test-critical-lows--is-a-rebound-finally-in-sight-200689870"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Holds Above $4,073 as Central Bank Buying Supports the Floor",
-      "link": "https://www.investing.com/analysis/gold-holds-above-4073-as-central-bank-buying-supports-the-floor-200689865"
     }
   ]
 }
