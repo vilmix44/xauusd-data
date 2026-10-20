@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T05:42:25.129047+00:00",
+  "updated_at": "2026-10-20T11:01:39.650018+00:00",
   "events": [
     {
       "title": "NAHB Housing Market Index",
@@ -38,7 +38,7 @@
       "country": "USD",
       "date": "2026-10-20T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.7%",
+      "forecast": "-0.6%",
       "previous": "0.3%"
     },
     {
@@ -54,7 +54,7 @@
       "country": "USD",
       "date": "2026-10-21T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.3M",
       "previous": "-8.6M"
     },
     {
@@ -70,7 +70,7 @@
       "country": "USD",
       "date": "2026-10-22T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.2%",
+      "forecast": "-0.1%",
       "previous": "-0.1%"
     },
     {
@@ -78,7 +78,7 @@
       "country": "USD",
       "date": "2026-10-22T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "83B",
       "previous": "67B"
     },
     {
@@ -86,7 +86,7 @@
       "country": "USD",
       "date": "2026-10-23T09:45:00-04:00",
       "impact": "Medium",
-      "forecast": "55.5",
+      "forecast": "55.4",
       "previous": "57.0"
     },
     {
@@ -94,7 +94,7 @@
       "country": "USD",
       "date": "2026-10-23T09:45:00-04:00",
       "impact": "Medium",
-      "forecast": "58.0",
+      "forecast": "57.8",
       "previous": "58.7"
     },
     {
