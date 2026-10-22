@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-22T15:30:28.784769+00:00",
+  "updated_at": "2026-10-22T19:47:12.884318+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Sell-Off Ahead? Peace Talks Stall Puts Markets on Edge",
+      "link": "https://www.investing.com/analysis/gold-selloff-ahead-peace-talks-stall-puts-markets-on-edge-200690093"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Tests Critical Support as Breakdown Risk Builds Toward $3,900",
@@ -13,18 +18,8 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Retests Range Floor; Can It Cushion the Decline?",
-      "link": "https://www.investing.com/analysis/gold-retests-range-floor-can-it-cushion-the-decline-200690055"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Gold Could Fall Toward $3,908 as Inflation Fears Lift Treasury Yields",
       "link": "https://www.investing.com/analysis/gold-could-fall-toward-3908-as-inflation-fears-lift-treasury-yields-200690050"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Breaks Below $4,100 as Middle East Tensions Escalate",
-      "link": "https://www.investing.com/analysis/gold-breaks-below-4100-as-middle-east-tensions-escalate-200690047"
     }
   ]
 }
