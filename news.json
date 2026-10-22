@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-22T10:27:01.715680+00:00",
+  "updated_at": "2026-10-22T15:30:28.784769+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Tests Critical Support as Breakdown Risk Builds Toward $3,900",
+      "link": "https://www.investing.com/analysis/gold-tests-critical-support-as-breakdown-risk-builds-toward-3900-200690085"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold, Silver Outlook: Trading the Ranges Before the Next Break",
@@ -20,21 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Breaks Below $4,100 as Middle East Tensions Escalate",
       "link": "https://www.investing.com/analysis/gold-breaks-below-4100-as-middle-east-tensions-escalate-200690047"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold, Jobless Claims and the Fed: The Labor Market May Be Weaker Than the Headline",
-      "link": "https://www.investing.com/analysis/gold-jobless-claims-and-the-fed-the-labor-market-may-be-weaker-than-the-headline-200690046"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Futures: VC PMI, Square 9 and 360-Day Cycle Analysis",
-      "link": "https://www.investing.com/analysis/gold-futures-vc-pmi-square-9-and-360day-cycle-analysis-200690035"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Price Outlook: A Drop to $3,100 Before a Rally to $10,000?",
-      "link": "https://www.investing.com/analysis/gold-price-outlook-a-drop-to-3100-before-a-rally-to-10000-200690033"
     }
   ]
 }
