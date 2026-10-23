@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-23T11:56:46.952442+00:00",
+  "updated_at": "2026-10-23T16:48:03.928681+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Futures Face Heavy Weekly Losses as Iran War and Fed Decision Loom",
+      "link": "https://www.investing.com/analysis/gold-futures-face-heavy-weekly-losses-as-iran-war-and-fed-decision-loom-200690163"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold at $4,000: Why $3,600 Could Matter Next",
@@ -10,11 +15,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Futures Risk Further Losses as Bearish Crossover Signals Downside",
       "link": "https://www.investing.com/analysis/gold-futures-risk-further-losses-as-bearish-crossover-signals-downside-200690128"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Breaks Down: Is $4,100 Now a Ceiling?",
-      "link": "https://www.investing.com/analysis/gold-breaks-down-is-4100-now-a-ceiling-200690083"
     }
   ]
 }
