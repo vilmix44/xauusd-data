@@ -1,117 +1,213 @@
 {
-  "updated_at": "2026-10-25T03:34:00.024265+00:00",
+  "updated_at": "2026-10-25T08:59:00.583844+00:00",
   "events": [
-    {
-      "title": "NAHB Housing Market Index",
-      "country": "USD",
-      "date": "2026-10-19T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "31",
-      "previous": "32"
-    },
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-10-20T08:15:00-04:00",
+      "date": "2026-10-27T08:15:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "24.8K"
+      "previous": "18.5K"
     },
     {
-      "title": "Building Permits",
+      "title": "Core Durable Goods Orders m/m",
       "country": "USD",
-      "date": "2026-10-20T08:30:00-04:00",
+      "date": "2026-10-27T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.39M",
-      "previous": "1.39M"
-    },
-    {
-      "title": "Housing Starts",
-      "country": "USD",
-      "date": "2026-10-20T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "1.30M",
-      "previous": "1.28M"
-    },
-    {
-      "title": "Pending Home Sales m/m",
-      "country": "USD",
-      "date": "2026-10-20T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-0.6%",
+      "forecast": "0.6%",
       "previous": "0.3%"
+    },
+    {
+      "title": "Durable Goods Orders m/m",
+      "country": "USD",
+      "date": "2026-10-27T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.8%",
+      "previous": "0.0%"
+    },
+    {
+      "title": "HPI m/m",
+      "country": "USD",
+      "date": "2026-10-27T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "0.1%",
+      "previous": "0.3%"
+    },
+    {
+      "title": "S&P/CS Composite-20 HPI y/y",
+      "country": "USD",
+      "date": "2026-10-27T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "2.7%",
+      "previous": "2.5%"
+    },
+    {
+      "title": "CB Consumer Confidence",
+      "country": "USD",
+      "date": "2026-10-27T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "80.5",
+      "previous": "81.9"
+    },
+    {
+      "title": "New Home Sales",
+      "country": "USD",
+      "date": "2026-10-27T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "649K",
+      "previous": "684K"
+    },
+    {
+      "title": "Richmond Manufacturing Index",
+      "country": "USD",
+      "date": "2026-10-27T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "1",
+      "previous": "-2"
     },
     {
       "title": "API Weekly Statistical Bulletin",
       "country": "USD",
-      "date": "2026-10-20T16:30:00-04:00",
+      "date": "2026-10-27T16:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
     },
     {
+      "title": "Goods Trade Balance",
+      "country": "USD",
+      "date": "2026-10-28T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-130.8B",
+      "previous": "-132.6B"
+    },
+    {
+      "title": "Prelim Wholesale Inventories m/m",
+      "country": "USD",
+      "date": "2026-10-28T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.4%",
+      "previous": "0.7%"
+    },
+    {
       "title": "Crude Oil Inventories",
       "country": "USD",
-      "date": "2026-10-21T10:30:00-04:00",
+      "date": "2026-10-28T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.1M",
-      "previous": "-8.6M"
+      "forecast": "-0.3M",
+      "previous": "-3.1M"
+    },
+    {
+      "title": "Federal Funds Rate",
+      "country": "USD",
+      "date": "2026-10-28T14:00:00-04:00",
+      "impact": "High",
+      "forecast": "4.00%",
+      "previous": "4.00%"
+    },
+    {
+      "title": "FOMC Statement",
+      "country": "USD",
+      "date": "2026-10-28T14:00:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Press Conference",
+      "country": "USD",
+      "date": "2026-10-28T14:30:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Advance GDP q/q",
+      "country": "USD",
+      "date": "2026-10-29T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "3.2%",
+      "previous": "1.5%"
+    },
+    {
+      "title": "Core PCE Price Index m/m",
+      "country": "USD",
+      "date": "2026-10-29T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.2%"
+    },
+    {
+      "title": "Advance GDP Price Index q/q",
+      "country": "USD",
+      "date": "2026-10-29T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "3.5%",
+      "previous": "6.2%"
     },
     {
       "title": "Unemployment Claims",
       "country": "USD",
-      "date": "2026-10-22T08:30:00-04:00",
+      "date": "2026-10-29T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "200K",
-      "previous": "199K"
+      "forecast": "198K",
+      "previous": "194K"
     },
     {
-      "title": "CB Leading Index m/m",
+      "title": "Personal Income m/m",
       "country": "USD",
-      "date": "2026-10-22T10:00:00-04:00",
+      "date": "2026-10-29T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.1%",
-      "previous": "-0.1%"
+      "forecast": "0.3%",
+      "previous": "0.2%"
+    },
+    {
+      "title": "Personal Spending m/m",
+      "country": "USD",
+      "date": "2026-10-29T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "0.6%",
+      "previous": "0.9%"
     },
     {
       "title": "Natural Gas Storage",
       "country": "USD",
-      "date": "2026-10-22T10:30:00-04:00",
+      "date": "2026-10-29T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "80B",
-      "previous": "67B"
-    },
-    {
-      "title": "Flash Manufacturing PMI",
-      "country": "USD",
-      "date": "2026-10-23T09:45:00-04:00",
-      "impact": "Medium",
-      "forecast": "55.4",
-      "previous": "57.0"
-    },
-    {
-      "title": "Flash Services PMI",
-      "country": "USD",
-      "date": "2026-10-23T09:45:00-04:00",
-      "impact": "Medium",
-      "forecast": "57.9",
-      "previous": "58.7"
-    },
-    {
-      "title": "Revised UoM Consumer Sentiment",
-      "country": "USD",
-      "date": "2026-10-23T10:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "46.3",
-      "previous": "46.3"
-    },
-    {
-      "title": "Revised UoM Inflation Expectations",
-      "country": "USD",
-      "date": "2026-10-23T10:00:00-04:00",
-      "impact": "Medium",
       "forecast": "",
-      "previous": "4.7%"
+      "previous": "77B"
+    },
+    {
+      "title": "Employment Cost Index q/q",
+      "country": "USD",
+      "date": "2026-10-30T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "0.8%",
+      "previous": "0.9%"
+    },
+    {
+      "title": "Chicago PMI",
+      "country": "USD",
+      "date": "2026-10-30T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "54.8",
+      "previous": "58.8"
+    },
+    {
+      "title": "FOMC Member Daly Speaks",
+      "country": "USD",
+      "date": "2026-10-30T12:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-10-30T12:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     }
   ]
 }
