@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T18:48:45.146563+00:00",
+  "updated_at": "2026-10-26T23:02:39.559707+00:00",
   "events": [
     {
       "title": "ADP Weekly Employment Change",
@@ -22,7 +22,7 @@
       "country": "USD",
       "date": "2026-10-27T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.8%",
+      "forecast": "2.0%",
       "previous": "0.0%"
     },
     {
@@ -30,7 +30,7 @@
       "country": "USD",
       "date": "2026-10-27T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.2%",
       "previous": "0.3%"
     },
     {
@@ -38,7 +38,7 @@
       "country": "USD",
       "date": "2026-10-27T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "2.7%",
+      "forecast": "2.6%",
       "previous": "2.5%"
     },
     {
@@ -46,7 +46,7 @@
       "country": "USD",
       "date": "2026-10-27T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "80.7",
+      "forecast": "81.2",
       "previous": "81.9"
     },
     {
@@ -54,7 +54,7 @@
       "country": "USD",
       "date": "2026-10-27T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "649K",
+      "forecast": "651K",
       "previous": "684K"
     },
     {
@@ -62,7 +62,7 @@
       "country": "USD",
       "date": "2026-10-27T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "1",
+      "forecast": "0",
       "previous": "-2"
     },
     {
@@ -78,7 +78,7 @@
       "country": "USD",
       "date": "2026-10-28T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-130.8B",
+      "forecast": "-130.4B",
       "previous": "-132.6B"
     },
     {
@@ -86,7 +86,7 @@
       "country": "USD",
       "date": "2026-10-28T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.5%",
       "previous": "0.7%"
     },
     {
@@ -142,7 +142,7 @@
       "country": "USD",
       "date": "2026-10-29T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "3.5%",
+      "forecast": "3.3%",
       "previous": "6.2%"
     },
     {
@@ -190,7 +190,7 @@
       "country": "USD",
       "date": "2026-10-30T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "54.8",
+      "forecast": "55.8",
       "previous": "58.8"
     },
     {
