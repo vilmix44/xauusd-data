@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:48:59.460266+00:00",
+  "updated_at": "2026-10-27T19:51:49.987008+00:00",
   "events": [
     {
       "title": "ADP Weekly Employment Change",
@@ -94,7 +94,7 @@
       "country": "USD",
       "date": "2026-10-28T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.3M",
+      "forecast": "-0.1M",
       "previous": "-3.1M"
     },
     {
