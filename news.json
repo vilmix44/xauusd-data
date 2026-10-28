@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-28T10:44:59.007821+00:00",
+  "updated_at": "2026-10-28T17:01:05.020682+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
+      "link": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Why Gold Doesn’t Always Act Like a Safe Haven",
@@ -13,18 +18,8 @@
     },
     {
       "source": "Investing.com - Commodities",
-      "title": "Gold Holds the Bounce: Testing Weekly VC PMI as Daily Resistance Looms",
-      "link": "https://www.investing.com/analysis/gold-holds-the-bounce-testing-weekly-vc-pmi-as-daily-resistance-looms-200690392"
-    },
-    {
-      "source": "Investing.com - Commodities",
       "title": "Silver Tests Key VC PMI Resistance After Rebound as Gold-Silver Ratio Hits 75",
       "link": "https://www.investing.com/analysis/silver-tests-key-vc-pmi-resistance-after-rebound-as-goldsilver-ratio-hits-75-200690391"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Correction Creates a Potential Buying Zone for Miners and Silver",
-      "link": "https://www.investing.com/analysis/golds-correction-creates-a-potential-buying-zone-for-miners-and-silver-200690384"
     }
   ]
 }
