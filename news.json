@@ -1,10 +1,20 @@
 {
-  "updated_at": "2026-10-28T17:01:05.020682+00:00",
+  "updated_at": "2026-10-28T21:50:15.352721+00:00",
   "news": [
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Rebound Needs 2 Things — A Fed Catalyst and a $4,106 Breakout",
       "link": "https://www.investing.com/analysis/golds-rebound-needs-2-things--a-fed-catalyst-and-a-4106-breakout-200690427"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces a New Test as Oil and Treasury Yields Pull in Opposite Directions",
+      "link": "https://www.investing.com/analysis/gold-faces-a-new-test-as-oil-and-treasury-yields-pull-in-opposite-directions-200690456"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Faces $3,939 Test as Fed Policy Meets the $47 Billion Iran War Cost",
+      "link": "https://www.investing.com/analysis/gold-faces-3939-test-as-fed-policy-meets-the-47-billion-iran-war-cost-200690445"
     },
     {
       "source": "Investing.com - Commodities",
@@ -15,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Could Fall Further as Oil-Driven Inflation Complicates Fed Outlook",
       "link": "https://www.investing.com/analysis/gold-could-fall-further-as-oildriven-inflation-complicates-fed-outlook-200690410"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Silver Tests Key VC PMI Resistance After Rebound as Gold-Silver Ratio Hits 75",
-      "link": "https://www.investing.com/analysis/silver-tests-key-vc-pmi-resistance-after-rebound-as-goldsilver-ratio-hits-75-200690391"
     }
   ]
 }
