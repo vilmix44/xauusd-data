@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:40:16.303755+00:00",
+  "updated_at": "2026-11-03T19:11:08.981664+00:00",
   "events": [
     {
       "title": "Daylight Saving Time Shift",
@@ -50,6 +50,14 @@
       "previous": ""
     },
     {
+      "title": "RCM/TIPP Economic Optimism",
+      "country": "USD",
+      "date": "2026-11-03T04:00:00-05:00",
+      "impact": "Low",
+      "forecast": "46.2",
+      "previous": "46.8"
+    },
+    {
       "title": "JOLTS Job Openings",
       "country": "USD",
       "date": "2026-11-03T10:00:00-05:00",
@@ -64,14 +72,6 @@
       "impact": "Low",
       "forecast": "1.2%",
       "previous": "0.1%"
-    },
-    {
-      "title": "RCM/TIPP Economic Optimism",
-      "country": "USD",
-      "date": "2026-11-03T10:10:00-05:00",
-      "impact": "Low",
-      "forecast": "46.2",
-      "previous": "46.8"
     },
     {
       "title": "Omdia Total Vehicle Sales",
@@ -134,7 +134,7 @@
       "country": "USD",
       "date": "2026-11-04T10:30:00-05:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.1M",
       "previous": "-1.9M"
     },
     {
