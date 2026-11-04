@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-04T15:10:46.339447+00:00",
+  "updated_at": "2026-11-04T21:25:37.035500+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold and Platinum Rally, but Both Face Critical Tests Before a Full Recovery",
+      "link": "https://www.investing.com/analysis/gold-and-platinum-rally-but-both-face-critical-tests-before-a-full-recovery-200690882"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Historical Midterm Performance Returns to Focus as Democrats Take Congress",
+      "link": "https://www.investing.com/analysis/golds-historical-midterm-performance-returns-to-focus-as-democrats-take-congress-200690879"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold’s Latest Rebound May Be a False Recovery as Global Economic Risks Persist",
@@ -20,11 +30,6 @@
       "source": "Investing.com - Commodities",
       "title": "Why Did Silver and Platinum  Fall Harder Than Gold?",
       "link": "https://www.investing.com/analysis/why-did-silver-and-platinum--fall-harder-than-gold-200690826"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold: Geometric Price Levels, Institutional Demand and Road to Recovery",
-      "link": "https://www.investing.com/analysis/gold-correction-geometric-price-levels-institutional-demand-and-road-to-recovery-200690812"
     }
   ]
 }
