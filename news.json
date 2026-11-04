@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-03T19:11:08.981323+00:00",
+  "updated_at": "2026-11-04T00:06:27.711068+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Alphabet’s Golden Dome Talks Could Open a New Market, But How Much Is at Stake?",
+      "link": "https://www.investing.com/analysis/alphabets-golden-dome-talks-could-open-a-new-market-but-how-much-is-at-stake-200690805"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s $3,941 Support Could Spark a Rally, but $3,500 Remains a Downside Risk",
+      "link": "https://www.investing.com/analysis/golds-3941-support-could-spark-a-rally-but-3500-remains-a-downside-risk-200690803"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Faces Further Downside Risks as US-Israel Tensions With Iran Persist",
@@ -15,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Dives Below $4000 as Bearish Momentum Persists",
       "link": "https://www.investing.com/analysis/gold-dives-below-4000-as-bearish-momentum-persists-200690774"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces $3,880 Support Test as Iran Conflict Fails to Lift Safe-Haven Demand",
-      "link": "https://www.investing.com/analysis/gold-faces-3880-support-test-as-iran-conflict-fails-to-lift-safehaven-demand-200690751"
     }
   ]
 }
