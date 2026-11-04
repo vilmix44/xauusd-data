@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-04T00:06:27.711068+00:00",
+  "updated_at": "2026-11-04T06:52:25.154050+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold: Geometric Price Levels, Institutional Demand and Road to Recovery",
+      "link": "https://www.investing.com/analysis/gold-correction-geometric-price-levels-institutional-demand-and-road-to-recovery-200690812"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Alphabet’s Golden Dome Talks Could Open a New Market, But How Much Is at Stake?",
@@ -20,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold’s 17.5% Decline Mirrors 2013 as Analysts Eye a Drop Toward $3,500",
       "link": "https://www.investing.com/analysis/golds-175-decline-mirrors-2013-as-analysts-eye-a-drop-toward-3500-200690782"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Dives Below $4000 as Bearish Momentum Persists",
-      "link": "https://www.investing.com/analysis/gold-dives-below-4000-as-bearish-momentum-persists-200690774"
     }
   ]
 }
