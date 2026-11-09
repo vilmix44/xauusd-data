@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:58:57.630704+00:00",
+  "updated_at": "2026-11-09T21:23:29.483171+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -156,7 +156,7 @@
     {
       "title": "FOMC Member Hammack Speaks",
       "country": "USD",
-      "date": "2026-11-12T09:00:00-05:00",
+      "date": "2026-11-12T08:30:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -188,7 +188,7 @@
     {
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
-      "date": "2026-11-12T11:30:00-05:00",
+      "date": "2026-11-12T11:15:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
