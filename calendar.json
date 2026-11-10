@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:23:29.483171+00:00",
+  "updated_at": "2026-11-10T03:43:06.910887+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -46,7 +46,7 @@
       "country": "USD",
       "date": "2026-11-10T06:00:00-05:00",
       "impact": "Low",
-      "forecast": "97.7",
+      "forecast": "98.0",
       "previous": "97.9"
     },
     {
@@ -166,7 +166,7 @@
       "country": "USD",
       "date": "2026-11-12T10:00:00-05:00",
       "impact": "Low",
-      "forecast": "3.86M",
+      "forecast": "3.89M",
       "previous": "3.99M"
     },
     {
@@ -230,7 +230,7 @@
       "country": "USD",
       "date": "2026-11-12T14:00:00-05:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-286.3B",
       "previous": "-26.9B"
     },
     {
