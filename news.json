@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-10T19:55:00.149806+00:00",
+  "updated_at": "2026-11-11T00:26:22.367827+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Slide Below $4,035 Raises the Stakes for a Potential Drop Toward $3,500",
+      "link": "https://www.investing.com/analysis/golds-slide-below-4035-raises-the-stakes-for-a-potential-drop-toward-3500-200691321"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Miners Rally 20%, but Oversold Signals Suggest More Gains Could Follow",
+      "link": "https://www.investing.com/analysis/gold-miners-rally-20-but-oversold-signals-suggest-more-gains-could-follow-200691320"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Falls Over 2% to $4,051 as Hot CPI Lifts US Dollar, Yields",
@@ -25,16 +35,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold: Diplomatic Efforts to De-escalate Iran Conflict May Sustain Bearish Pressure",
       "link": "https://www.investing.com/analysis/gold-diplomatic-efforts-to-deescalate-iran-conflict-may-sustain-bearish-pressure-200691252"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Can Gold Turn Recovery Into a Sustainable Rebound?",
-      "link": "https://www.investing.com/analysis/can-gold-turn-recovery-into-a-sustainable-rebound-200691220"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Rates: The Decoupling and the Recoupling",
-      "link": "https://www.investing.com/analysis/gold-and-rates-the-decoupling-and-the-recoupling-200691227"
     }
   ]
 }
