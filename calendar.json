@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:40:30.781018+00:00",
+  "updated_at": "2026-11-12T19:37:49.002358+00:00",
   "events": [
     {
       "title": "FOMC Member Bowman Speaks",
@@ -178,14 +178,6 @@
       "previous": ""
     },
     {
-      "title": "Mortgage Delinquencies",
-      "country": "USD",
-      "date": "2026-11-12T10:00:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%"
-    },
-    {
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
       "date": "2026-11-12T11:15:00-05:00",
@@ -296,6 +288,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "Mortgage Delinquencies",
+      "country": "USD",
+      "date": "2026-11-13T12:59:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%"
     },
     {
       "title": "FOMC Member Jefferson Speaks",
