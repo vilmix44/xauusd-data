@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-13T07:38:51.406325+00:00",
+  "updated_at": "2026-11-13T15:56:53.949832+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Risks a Drop Below $3,838 as Iran Tensions Keep Sellers on Alert",
+      "link": "https://www.investing.com/analysis/gold-risks-a-drop-below-3838-as-iran-tensions-keep-sellers-on-alert-200691542"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Breaks Key Levels as Hormuz Risks Raise Prospect of Further Selling",
@@ -10,16 +15,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Selloff Shows How 5% Treasury Yields Are Repricing the Metal",
       "link": "https://www.investing.com/analysis/gold-selloff-shows-how-5-treasury-yields-are-repricing-the-metal-200691478"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold’s Final Rebound Ends - As It Did in 2013",
-      "link": "https://www.investing.com/analysis/golds-final-rebound-ends--as-it-did-in-2013-200691476"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold and Copper Break Important Support: What’s Next?",
-      "link": "https://www.investing.com/analysis/gold-and-copper-break-important-support-whats-next-200691474"
     }
   ]
 }
