@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-11-13T15:56:53.949832+00:00",
+  "updated_at": "2026-11-13T21:51:39.369793+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
+      "link": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold’s Break Below October Low Draws Parallels With the Historic 2013 Sell-Off",
+      "link": "https://www.investing.com/analysis/golds-break-below-october-low-draws-parallels-with-the-historic-2013-selloff-200691553"
+    },
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Miners Face a Profit Squeeze as Production Falls and Costs Hit Records",
+      "link": "https://www.investing.com/analysis/gold-miners-face-a-profit-squeeze-as-production-falls-and-costs-hit-records-200691551"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Risks a Drop Below $3,838 as Iran Tensions Keep Sellers on Alert",
@@ -10,11 +25,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Breaks Key Levels as Hormuz Risks Raise Prospect of Further Selling",
       "link": "https://www.investing.com/analysis/gold-breaks-key-levels-as-hormuz-risks-raise-prospect-of-further-selling-200691503"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Selloff Shows How 5% Treasury Yields Are Repricing the Metal",
-      "link": "https://www.investing.com/analysis/gold-selloff-shows-how-5-treasury-yields-are-repricing-the-metal-200691478"
     }
   ]
 }
