@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-18T23:57:37.374436+00:00",
+  "updated_at": "2026-11-19T07:02:05.840101+00:00",
   "news": [
+    {
+      "source": "Investing.com - Commodities",
+      "title": "Gold Falls Below $4,000 as Rising US Treasury Yields and Fed Rate Expectations Inf",
+      "link": "https://www.investing.com/analysis/gold-falls-below-4000-as-rising-us-treasury-yields-and-fed-rate-expectations-inf-200691887"
+    },
     {
       "source": "Investing.com - Commodities",
       "title": "Gold Breaks $3,800 as Rate Hike Bets Overwhelm Safe-Haven Demand",
@@ -25,11 +30,6 @@
       "source": "Investing.com - Commodities",
       "title": "Gold Strikes Back: But Will the Momentum Last?",
       "link": "https://www.investing.com/analysis/gold-strikes-back-but-will-the-momentum-last-200691842"
-    },
-    {
-      "source": "Investing.com - Commodities",
-      "title": "Gold Faces Another Leg Lower as Key Support Levels Turn Into Resistance",
-      "link": "https://www.investing.com/analysis/gold-faces-another-leg-lower-as-key-support-levels-turn-into-resistance-200691805"
     }
   ]
 }
