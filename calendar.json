@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T13:26:32.213610+00:00",
+  "updated_at": "2026-11-20T21:26:30.784026+00:00",
   "events": [
     {
       "title": "FOMC Member Barr Speaks",
@@ -360,6 +360,14 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-11-20T12:00:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Cook Speaks",
