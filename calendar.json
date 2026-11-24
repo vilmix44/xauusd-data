@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:07:55.183776+00:00",
+  "updated_at": "2026-11-24T23:59:58.739469+00:00",
   "events": [
     {
       "title": "Flash Manufacturing PMI",
@@ -69,6 +69,14 @@
       "title": "API Weekly Statistical Bulletin",
       "country": "USD",
       "date": "2026-11-24T16:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Bowman Speaks",
+      "country": "USD",
+      "date": "2026-11-25T07:25:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
