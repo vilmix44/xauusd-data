@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T23:59:58.739469+00:00",
+  "updated_at": "2026-11-25T08:16:06.027023+00:00",
   "events": [
     {
       "title": "Flash Manufacturing PMI",
@@ -158,7 +158,7 @@
       "country": "USD",
       "date": "2026-11-25T10:30:00-05:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "2.0M",
       "previous": "3.4M"
     },
     {
